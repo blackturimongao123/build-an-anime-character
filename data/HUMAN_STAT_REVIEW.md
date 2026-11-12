@@ -15,7 +15,7 @@ When a VS Battles row has **no tier phrase** the mapper matches (`maxTierScore(.
 | **Wrong wiki inflation** | `lelouch-vi-britannia`, `c-c-geass` strength **100** | Curated teen / immortal **human-scale** strength |
 | Shinigami parse lumped at 40 | `ryuk-hxh` | Curated (still superhuman hax, not four 40s) |
 | Cosmic / form parse gaps | `truth-fma` speed, `ichigo-bankai` abilities, Xerneas/Yveltal, SL novel speeds | Curated from series context |
-| **Manga peak** (wiki parse miss) | `alucard` | **str 90**, **spd 88**, **abl 94**, **dura 98**, **iq 78** — Restriction-off / London-era combat + soul lake + Level 0; durability = regen stock + post-Schrödinger survival; IQ = centuries tactics, not draft mastermind tier; **`manual-iq-overrides.json`** |
+| **Manga peak** (wiki parse miss) | `alucard` | **str 90**, **spd 88**, **abl 94**, **dura 98** (curated); **iq** from `manual-iq-overrides.json` / review export |
 | Intentional | `luffy-gear-4` **iq 40** | Kept (anime review) |
 
 ## Pipeline

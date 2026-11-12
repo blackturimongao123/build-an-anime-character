@@ -159,9 +159,10 @@ npm run data:iq-review-html
 # or: powershell -File scripts/build-iq-review-html.ps1
 ```
 
-## Applied to game data (2026-11-12)
+## Applied to game data
 
-Proposal merged into `manual-iq-overrides.json` (**81** proposal rows; **119** override ids) and applied to `characters.json` via `scripts/merge-iq-proposal.ps1` + `scripts/apply-iq-overrides.ps1`. Send a manual export from the review page when you want further tweaks.
+- **2026-11-12 (proposal):** initial merge via `merge-iq-proposal.ps1`.
+- **2026-11-12 (manual review):** `iq-revision-export-applied-2026-11-12.json` → **136** export ids merged; **90** `characters.json` IQ updates (`import-iq-export.ps1` + `apply-iq-overrides.ps1`).
 
 ## After manual review (optional)
 
