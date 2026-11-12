@@ -1,0 +1,59 @@
+{
+  "hinata-shoyo": {
+    "stats": { "strength": 18, "speed": 22, "abilities": 14, "iq": 24, "durability": 16 }
+  },
+  "senku-ishigami": {
+    "stats": { "strength": 14, "speed": 16, "abilities": 28, "iq": 97, "durability": 12 }
+  },
+  "takemichi-hanagaki": {
+    "stats": { "strength": 16, "speed": 18, "abilities": 22, "iq": 28, "durability": 20 }
+  },
+  "mikey-sano": {
+    "stats": { "strength": 32, "speed": 35, "abilities": 28, "iq": 30, "durability": 30 }
+  },
+  "kuroko-tetsuya": {
+    "stats": { "strength": 14, "speed": 20, "abilities": 16, "iq": 32, "durability": 14 }
+  },
+  "aomine-daiki": {
+    "stats": { "strength": 38, "speed": 42, "abilities": 28, "iq": 28, "durability": 35 }
+  },
+  "light-yagami": {
+    "stats": { "strength": 12, "speed": 14, "abilities": 28, "iq": 78, "durability": 12 }
+  },
+  "l-lawliet": {
+    "stats": { "strength": 14, "speed": 16, "abilities": 18, "iq": 92, "durability": 14 }
+  },
+  "lelouch-vi-britannia": {
+    "stats": { "strength": 18, "speed": 20, "abilities": 72, "iq": 88, "durability": 16 }
+  },
+  "rimuru-demon-lord": {
+    "stats": { "strength": 55, "speed": 62, "abilities": 85, "iq": 75, "durability": 70 }
+  },
+  "jin-mori-anime": {
+    "stats": { "strength": 78, "speed": 85, "abilities": 80, "iq": 52, "durability": 72 }
+  },
+  "dio-part-3": {
+    "stats": { "strength": 65, "speed": 88, "abilities": 75, "iq": 70, "durability": 62 }
+  },
+  "vegeta-ssb": {
+    "stats": { "strength": 77, "speed": 81, "abilities": 84, "iq": 62, "durability": 79 }
+  },
+  "eren-founding-anime": {
+    "stats": { "strength": 72, "speed": 55, "abilities": 78, "iq": 58, "durability": 75 }
+  },
+  "gilgamesh-fsn": {
+    "stats": { "strength": 62, "speed": 68, "abilities": 82, "iq": 75, "durability": 60 }
+  },
+  "saber-fsn": {
+    "stats": { "strength": 68, "speed": 72, "abilities": 74, "iq": 58, "durability": 66 }
+  },
+  "simon-gurren-lagann": {
+    "stats": { "strength": 88, "speed": 82, "abilities": 92, "iq": 55, "durability": 85 }
+  },
+  "l-lawliet": {
+    "stats": { "strength": 14, "speed": 16, "abilities": 18, "iq": 92, "durability": 14 }
+  },
+  "ryuk-hxh": {
+    "stats": { "strength": 35, "speed": 42, "abilities": 62, "iq": 48, "durability": 55 }
+  }
+}

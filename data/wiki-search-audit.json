@@ -1,0 +1,307 @@
+[
+  {
+    "id": "alphonse-elric",
+    "displayName": "Alphonse Elric",
+    "currentWiki": "Alphonse Elric",
+    "searchHits": [
+      "Alphonse Elric"
+    ],
+    "probeStats": {
+      "strength": 28,
+      "speed": 48,
+      "abilities": 52,
+      "iq": 72,
+      "durability": 38
+    }
+  },
+  {
+    "id": "envy-fma",
+    "displayName": "Envy",
+    "currentWiki": "Envy",
+    "searchHits": [
+      "Envy"
+    ],
+    "probeStats": {
+      "strength": 44,
+      "speed": 48,
+      "abilities": 38,
+      "iq": 55,
+      "durability": 38
+    }
+  },
+  {
+    "id": "gluttony-fma",
+    "displayName": "Gluttony",
+    "currentWiki": "Gluttony (Fullmetal Alchemist)",
+    "searchHits": [
+      "Gluttony (Fullmetal Alchemist)"
+    ],
+    "probeStats": {
+      "strength": 28,
+      "speed": 48,
+      "abilities": 38,
+      "iq": 35,
+      "durability": 38
+    }
+  },
+  {
+    "id": "greed-fma",
+    "displayName": "Greed",
+    "currentWiki": "Greed (Fullmetal Alchemist)",
+    "searchHits": [
+      "Greed (AEverse)",
+      "Greed (Fullmetal Alchemist)"
+    ],
+    "probeStats": {
+      "strength": 44,
+      "speed": 48,
+      "abilities": 38,
+      "iq": 55,
+      "durability": 52
+    }
+  },
+  {
+    "id": "lust-fma",
+    "displayName": "Lust",
+    "currentWiki": "Lust",
+    "searchHits": [
+      "Lust"
+    ],
+    "probeStats": {
+      "strength": 36,
+      "speed": 48,
+      "abilities": 38,
+      "iq": 55,
+      "durability": 38
+    }
+  },
+  {
+    "id": "roy-mustang",
+    "displayName": "Roy Mustang",
+    "currentWiki": "Roy Mustang",
+    "searchHits": [
+      "Roy Mustang"
+    ],
+    "probeStats": {
+      "strength": 40,
+      "speed": 48,
+      "abilities": 38,
+      "iq": 72,
+      "durability": 38
+    }
+  },
+  {
+    "id": "sloth-fma",
+    "displayName": "Sloth",
+    "currentWiki": "Sloth",
+    "searchHits": [
+      "Sloth Bear",
+      "Sloth"
+    ],
+    "probeStats": {
+      "strength": 48,
+      "speed": 68,
+      "abilities": 38,
+      "iq": 35,
+      "durability": 38
+    }
+  },
+  {
+    "id": "truth-fma",
+    "displayName": "The Truth",
+    "currentWiki": "Truth (Fullmetal Alchemist)",
+    "hintWiki": "Truth (Fullmetal Alchemist)",
+    "searchHits": [
+      "Truth (Fullmetal Alchemist)"
+    ],
+    "probeStats": {
+      "strength": 40,
+      "speed": 40,
+      "abilities": 96,
+      "iq": 85,
+      "durability": 96
+    }
+  },
+  {
+    "id": "wrath-fma",
+    "displayName": "Wrath",
+    "currentWiki": "King Bradley",
+    "searchHits": [
+      "Wrath (Web Novel)",
+      "King Bradley"
+    ],
+    "probeStats": {
+      "strength": 44,
+      "speed": 68,
+      "abilities": 38,
+      "iq": 72,
+      "durability": 38
+    }
+  },
+  {
+    "id": "ippo-makunouchi",
+    "displayName": "Ippo Makunouchi",
+    "currentWiki": "Ippo Makunouchi",
+    "searchHits": [
+      "Ippo Makunouchi"
+    ],
+    "probeStats": {
+      "strength": 20,
+      "speed": 32,
+      "abilities": 28,
+      "iq": 72,
+      "durability": 28
+    }
+  },
+  {
+    "id": "rudeus-anime",
+    "displayName": "Rudeus Greyrat (Anime)",
+    "currentWiki": "Rudeus Greyrat (Light Novel)",
+    "searchHits": [
+      "Rudeus Greyrat (Light Novel)"
+    ],
+    "probeStats": {
+      "strength": 36,
+      "speed": 36,
+      "abilities": 66,
+      "iq": 85,
+      "durability": 28
+    }
+  },
+  {
+    "id": "shinichi-izumi",
+    "displayName": "Shinichi Izumi",
+    "currentWiki": "Shinichi Izumi",
+    "searchHits": [
+      "Shinichi Izumi"
+    ],
+    "probeStats": {
+      "strength": 36,
+      "speed": 36,
+      "abilities": 28,
+      "iq": 55,
+      "durability": 28
+    }
+  },
+  {
+    "id": "ho-oh-anime",
+    "displayName": "Ho-Oh",
+    "currentWiki": "Ho-Oh",
+    "searchHits": [
+      "Ho-Oh"
+    ],
+    "probeStats": {
+      "strength": 40,
+      "speed": 88,
+      "abilities": 78,
+      "iq": 72,
+      "durability": 78
+    }
+  },
+  {
+    "id": "lugia-anime",
+    "displayName": "Lugia",
+    "currentWiki": "Lugia",
+    "searchHits": [
+      "Lugia"
+    ],
+    "probeStats": {
+      "strength": 40,
+      "speed": 88,
+      "abilities": 100,
+      "iq": 72,
+      "durability": 78
+    }
+  },
+  {
+    "id": "xerneas-anime",
+    "displayName": "Xerneas",
+    "currentWiki": "Xerneas",
+    "searchHits": [
+      "Xerneas"
+    ],
+    "probeStats": {
+      "strength": 85,
+      "speed": 88,
+      "abilities": 40,
+      "iq": 72,
+      "durability": 40
+    }
+  },
+  {
+    "id": "yveltal-anime",
+    "displayName": "Yveltal",
+    "currentWiki": "Yveltal",
+    "searchHits": [
+      "Yveltal"
+    ],
+    "probeStats": {
+      "strength": 85,
+      "speed": 88,
+      "abilities": 40,
+      "iq": 72,
+      "durability": 40
+    }
+  },
+  {
+    "id": "zygarde-complete-anime",
+    "displayName": "Zygarde (Complete Forme)",
+    "currentWiki": "Zygarde",
+    "searchHits": [
+      "Zygarde"
+    ],
+    "probeStats": {
+      "strength": 85,
+      "speed": 88,
+      "abilities": 78,
+      "iq": 72,
+      "durability": 78
+    }
+  },
+  {
+    "id": "ashborn-sl",
+    "displayName": "Ashborn",
+    "currentWiki": "Ashborn (Novel)",
+    "hintWiki": "Ashborn (Novel)",
+    "searchHits": [
+      "Ashborn (Novel)"
+    ],
+    "probeStats": {
+      "strength": 68,
+      "speed": 40,
+      "abilities": 70,
+      "iq": 40,
+      "durability": 70
+    }
+  },
+  {
+    "id": "thorfinn-anime",
+    "displayName": "Thorfinn (Anime)",
+    "currentWiki": "Thorfinn",
+    "searchHits": [
+      "Thorfinn"
+    ],
+    "probeStats": {
+      "strength": 40,
+      "speed": 32,
+      "abilities": 28,
+      "iq": 55,
+      "durability": 28
+    }
+  },
+  {
+    "id": "thors-snake",
+    "displayName": "Thors",
+    "currentWiki": "Thors",
+    "searchHits": [
+      "Thors"
+    ],
+    "probeStats": {
+      "strength": 28,
+      "speed": 32,
+      "abilities": 28,
+      "iq": 55,
+      "durability": 28
+    }
+  }
+]

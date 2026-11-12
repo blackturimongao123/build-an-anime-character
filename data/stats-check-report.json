@@ -1,0 +1,2866 @@
+{
+  "results": [
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 96,
+        "durability": 96,
+        "iq": 72,
+        "speed": 88,
+        "strength": 96
+      },
+      "id": "acnologia-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 96,
+        "durability": 96,
+        "iq": 72,
+        "speed": 88,
+        "strength": 96
+      },
+      "wiki_page": "Acnologia"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 62,
+        "durability": 62,
+        "iq": 55,
+        "speed": 88,
+        "strength": 62
+      },
+      "id": "adam-record",
+      "ok": true,
+      "stored": {
+        "abilities": 62,
+        "durability": 62,
+        "iq": 55,
+        "speed": 88,
+        "strength": 62
+      },
+      "wiki_page": "Adam (Record of Ragnarok)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 48,
+        "strength": 52
+      },
+      "id": "ainz-ooal-gown",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 48,
+        "strength": 52
+      },
+      "wiki_page": "Ainz Ooal Gown"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 85,
+        "speed": 88,
+        "strength": 94
+      },
+      "id": "aizen",
+      "ok": true,
+      "stored": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 85,
+        "speed": 88,
+        "strength": 94
+      },
+      "wiki_page": "Sosuke Aizen"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 68,
+        "durability": 68,
+        "iq": 85,
+        "speed": 68,
+        "strength": 68
+      },
+      "id": "akame-aga",
+      "ok": true,
+      "stored": {
+        "abilities": 68,
+        "durability": 68,
+        "iq": 85,
+        "speed": 68,
+        "strength": 68
+      },
+      "wiki_page": "Akame (Akame ga Kill!)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 68,
+        "strength": 52
+      },
+      "id": "akaza-demon-slayer",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 68,
+        "strength": 52
+      },
+      "wiki_page": "Akaza (Kimetsu no Yaiba)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 50,
+        "durability": 50,
+        "iq": 55,
+        "speed": 32,
+        "strength": 38
+      },
+      "id": "alice-alicization",
+      "ok": true,
+      "stored": {
+        "abilities": 50,
+        "durability": 50,
+        "iq": 55,
+        "speed": 32,
+        "strength": 38
+      },
+      "wiki_page": "Alice Zuberg"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 72,
+        "speed": 88,
+        "strength": 88
+      },
+      "id": "all-might",
+      "ok": true,
+      "stored": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 72,
+        "speed": 88,
+        "strength": 88
+      },
+      "wiki_page": "Toshinori Yagi (All Might)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 38,
+        "iq": 72,
+        "speed": 48,
+        "strength": 38
+      },
+      "id": "alphonse-elric",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 38,
+        "iq": 72,
+        "speed": 48,
+        "strength": 38
+      },
+      "wiki_page": "Alphonse Elric"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 46,
+        "durability": 46,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "id": "alucard",
+      "ok": true,
+      "stored": {
+        "abilities": 46,
+        "durability": 46,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "wiki_page": "Alucard (Hellsing)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 94,
+        "durability": 99,
+        "iq": 100,
+        "speed": 88,
+        "strength": 94
+      },
+      "id": "anos-voldigoad",
+      "ok": true,
+      "stored": {
+        "abilities": 94,
+        "durability": 99,
+        "iq": 100,
+        "speed": 88,
+        "strength": 94
+      },
+      "wiki_page": "Anos Voldigoad"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 70,
+        "durability": 70,
+        "iq": 72,
+        "speed": 40,
+        "strength": 70
+      },
+      "id": "antares-sl",
+      "ok": true,
+      "stored": {
+        "abilities": 70,
+        "durability": 70,
+        "iq": 72,
+        "speed": 40,
+        "strength": 70
+      },
+      "wiki_page": "Antares (Novel)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 100,
+        "durability": 100,
+        "iq": 97,
+        "speed": 88,
+        "strength": 100
+      },
+      "id": "anti-spiral",
+      "ok": true,
+      "stored": {
+        "abilities": 100,
+        "durability": 100,
+        "iq": 97,
+        "speed": 88,
+        "strength": 100
+      },
+      "wiki_page": "Anti-Spiral"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 22,
+        "durability": 22,
+        "iq": 35,
+        "speed": 36,
+        "strength": 40
+      },
+      "id": "aomine-daiki",
+      "ok": true,
+      "stored": {
+        "abilities": 22,
+        "durability": 22,
+        "iq": 35,
+        "speed": 36,
+        "strength": 40
+      },
+      "wiki_page": "Daiki Aomine"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 97,
+        "durability": 97,
+        "iq": 85,
+        "speed": 88,
+        "strength": 97
+      },
+      "id": "arceus-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 97,
+        "durability": 97,
+        "iq": 85,
+        "speed": 88,
+        "strength": 97
+      },
+      "wiki_page": "Arceus"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 54,
+        "durability": 54,
+        "iq": 85,
+        "speed": 88,
+        "strength": 68
+      },
+      "id": "arima-kishou",
+      "ok": true,
+      "stored": {
+        "abilities": 54,
+        "durability": 54,
+        "iq": 85,
+        "speed": 88,
+        "strength": 68
+      },
+      "wiki_page": "Kishou Arima"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 54,
+        "durability": 46,
+        "iq": 85,
+        "speed": 48,
+        "strength": 58
+      },
+      "id": "armin-colossal-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 54,
+        "durability": 46,
+        "iq": 85,
+        "speed": 48,
+        "strength": 58
+      },
+      "wiki_page": "Armin Arlert"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 55,
+        "speed": 82,
+        "strength": 88
+      },
+      "id": "arthur-boyle",
+      "ok": true,
+      "stored": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 55,
+        "speed": 82,
+        "strength": 88
+      },
+      "wiki_page": "Arthur Boyle"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 96,
+        "durability": 96,
+        "iq": 72,
+        "speed": 40,
+        "strength": 96
+      },
+      "id": "ash-greninja-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 96,
+        "durability": 96,
+        "iq": 72,
+        "speed": 40,
+        "strength": 96
+      },
+      "wiki_page": "Greninja (Super Smash Bros.)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 70,
+        "durability": 70,
+        "iq": 40,
+        "speed": 40,
+        "strength": 70
+      },
+      "id": "ashborn-sl",
+      "ok": true,
+      "stored": {
+        "abilities": 70,
+        "durability": 70,
+        "iq": 40,
+        "speed": 40,
+        "strength": 70
+      },
+      "wiki_page": "Ashborn (Novel)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 70,
+        "durability": 70,
+        "iq": 40,
+        "speed": 82,
+        "strength": 88
+      },
+      "id": "asta-black",
+      "ok": true,
+      "stored": {
+        "abilities": 70,
+        "durability": 70,
+        "iq": 40,
+        "speed": 82,
+        "strength": 88
+      },
+      "wiki_page": "Asta (Pre-Timeskip)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 58,
+        "durability": 36,
+        "iq": 55,
+        "speed": 48,
+        "strength": 58
+      },
+      "id": "asuna-alicization",
+      "ok": true,
+      "stored": {
+        "abilities": 58,
+        "durability": 36,
+        "iq": 55,
+        "speed": 48,
+        "strength": 58
+      },
+      "wiki_page": "Asuna (Post-Aincrad)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 85,
+        "speed": 32,
+        "strength": 38
+      },
+      "id": "baki-hanma-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 85,
+        "speed": 32,
+        "strength": 38
+      },
+      "wiki_page": "Baki Hanma"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 90,
+        "durability": 90,
+        "iq": 85,
+        "speed": 88,
+        "strength": 90
+      },
+      "id": "ban-snatch",
+      "ok": true,
+      "stored": {
+        "abilities": 90,
+        "durability": 90,
+        "iq": 85,
+        "speed": 88,
+        "strength": 90
+      },
+      "wiki_page": "Ban (Nanatsu no Taizai)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 72,
+        "speed": 82,
+        "strength": 88
+      },
+      "id": "benimaru-shinmon",
+      "ok": true,
+      "stored": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 72,
+        "speed": 82,
+        "strength": 88
+      },
+      "wiki_page": "Benimaru Shinmon"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 55,
+        "speed": 68,
+        "strength": 58
+      },
+      "id": "beru-sl",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 55,
+        "speed": 68,
+        "strength": 58
+      },
+      "wiki_page": "Beru"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 85,
+        "speed": 40,
+        "strength": 40
+      },
+      "id": "buddha-record",
+      "ok": true,
+      "stored": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 85,
+        "speed": 40,
+        "strength": 40
+      },
+      "wiki_page": "The Buddha (World of Darkness)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 50,
+        "durability": 50,
+        "iq": 55,
+        "speed": 48,
+        "strength": 100
+      },
+      "id": "c-c-geass",
+      "ok": true,
+      "stored": {
+        "abilities": 50,
+        "durability": 50,
+        "iq": 55,
+        "speed": 48,
+        "strength": 100
+      },
+      "wiki_page": "C.C."
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 49,
+        "durability": 46,
+        "iq": 72,
+        "speed": 48,
+        "strength": 46
+      },
+      "id": "choso",
+      "ok": true,
+      "stored": {
+        "abilities": 49,
+        "durability": 46,
+        "iq": 72,
+        "speed": 48,
+        "strength": 46
+      },
+      "wiki_page": "Choso"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 74,
+        "durability": 74,
+        "iq": 100,
+        "speed": 82,
+        "strength": 88
+      },
+      "id": "deku-100",
+      "ok": true,
+      "stored": {
+        "abilities": 74,
+        "durability": 74,
+        "iq": 100,
+        "speed": 82,
+        "strength": 88
+      },
+      "wiki_page": "Izuku Midoriya (Deku) (Pre-Final Act)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 50,
+        "durability": 50,
+        "iq": 40,
+        "speed": 68,
+        "strength": 58
+      },
+      "id": "denji-chainsaw",
+      "ok": true,
+      "stored": {
+        "abilities": 50,
+        "durability": 50,
+        "iq": 40,
+        "speed": 68,
+        "strength": 58
+      },
+      "wiki_page": "Denji (Chainsaw Man)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 85,
+        "speed": 97,
+        "strength": 97
+      },
+      "id": "dialga-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 85,
+        "speed": 97,
+        "strength": 97
+      },
+      "wiki_page": "Dialga"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 85,
+        "speed": 88,
+        "strength": 58
+      },
+      "id": "dio-part-3",
+      "ok": true,
+      "stored": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 85,
+        "speed": 88,
+        "strength": 58
+      },
+      "wiki_page": "Dio Brando"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 38,
+        "durability": 52,
+        "iq": 85,
+        "speed": 48,
+        "strength": 58
+      },
+      "id": "edward-elric",
+      "ok": true,
+      "stored": {
+        "abilities": 38,
+        "durability": 52,
+        "iq": 85,
+        "speed": 48,
+        "strength": 58
+      },
+      "wiki_page": "Edward Elric"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 55,
+        "speed": 48,
+        "strength": 44
+      },
+      "id": "envy-fma",
+      "ok": true,
+      "stored": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 55,
+        "speed": 48,
+        "strength": 44
+      },
+      "wiki_page": "Envy"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 46,
+        "durability": 46,
+        "iq": 72,
+        "speed": 48,
+        "strength": 58
+      },
+      "id": "eren-founding-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 46,
+        "durability": 46,
+        "iq": 72,
+        "speed": 48,
+        "strength": 58
+      },
+      "wiki_page": "Eren Yeager"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 82,
+        "durability": 82,
+        "iq": 72,
+        "speed": 82,
+        "strength": 82
+      },
+      "id": "erza-scarlet",
+      "ok": true,
+      "stored": {
+        "abilities": 82,
+        "durability": 82,
+        "iq": 72,
+        "speed": 82,
+        "strength": 82
+      },
+      "wiki_page": "Erza Scarlet (X784 to X792)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 78,
+        "durability": 68,
+        "iq": 85,
+        "speed": 68,
+        "strength": 68
+      },
+      "id": "esdeath",
+      "ok": true,
+      "stored": {
+        "abilities": 78,
+        "durability": 68,
+        "iq": 85,
+        "speed": 68,
+        "strength": 68
+      },
+      "wiki_page": "Esdeath"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 72,
+        "speed": 88,
+        "strength": 94
+      },
+      "id": "eternatus-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 72,
+        "speed": 88,
+        "strength": 94
+      },
+      "wiki_page": "Eternatus"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 54,
+        "durability": 54,
+        "iq": 85,
+        "speed": 88,
+        "strength": 68
+      },
+      "id": "eto-yoshimura",
+      "ok": true,
+      "stored": {
+        "abilities": 54,
+        "durability": 54,
+        "iq": 85,
+        "speed": 88,
+        "strength": 68
+      },
+      "wiki_page": "Eto Yoshimura"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 58,
+        "durability": 58,
+        "iq": 55,
+        "speed": 36,
+        "strength": 58
+      },
+      "id": "eugeo-alicization",
+      "ok": true,
+      "stored": {
+        "abilities": 58,
+        "durability": 58,
+        "iq": 55,
+        "speed": 36,
+        "strength": 58
+      },
+      "wiki_page": "Eugeo"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 86,
+        "durability": 86,
+        "iq": 85,
+        "speed": 48,
+        "strength": 86
+      },
+      "id": "father-fma",
+      "ok": true,
+      "stored": {
+        "abilities": 86,
+        "durability": 86,
+        "iq": 85,
+        "speed": 48,
+        "strength": 86
+      },
+      "wiki_page": "Father (Fullmetal Alchemist)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 92,
+        "durability": 92,
+        "iq": 40,
+        "speed": 88,
+        "strength": 92
+      },
+      "id": "garou",
+      "ok": true,
+      "stored": {
+        "abilities": 92,
+        "durability": 92,
+        "iq": 40,
+        "speed": 88,
+        "strength": 92
+      },
+      "wiki_page": "Garou"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 40,
+        "speed": 40,
+        "strength": 40
+      },
+      "id": "gilgamesh-fsn",
+      "ok": true,
+      "stored": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 40,
+        "speed": 40,
+        "strength": 40
+      },
+      "wiki_page": "Gilgamesh"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 85,
+        "speed": 97,
+        "strength": 94
+      },
+      "id": "giratina-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 85,
+        "speed": 97,
+        "strength": 94
+      },
+      "wiki_page": "Giratina"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 35,
+        "speed": 48,
+        "strength": 38
+      },
+      "id": "gluttony-fma",
+      "ok": true,
+      "stored": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 35,
+        "speed": 48,
+        "strength": 38
+      },
+      "wiki_page": "Gluttony (Fullmetal Alchemist)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 58,
+        "durability": 54,
+        "iq": 85,
+        "speed": 88,
+        "strength": 68
+      },
+      "id": "gojo-satoru",
+      "ok": true,
+      "stored": {
+        "abilities": 58,
+        "durability": 54,
+        "iq": 85,
+        "speed": 88,
+        "strength": 68
+      },
+      "wiki_page": "Satoru Gojo"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 85,
+        "speed": 88,
+        "strength": 94
+      },
+      "id": "goku-ssj2",
+      "ok": true,
+      "stored": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 85,
+        "speed": 88,
+        "strength": 94
+      },
+      "wiki_page": "Son Goku (DBS Anime)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 66,
+        "durability": 58,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "id": "gon-adult-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 66,
+        "durability": 58,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "wiki_page": "Gon Freecss"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 35,
+        "speed": 88,
+        "strength": 52
+      },
+      "id": "greed-fma",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 35,
+        "speed": 88,
+        "strength": 52
+      },
+      "wiki_page": "Greed (AEverse)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 62,
+        "durability": 62,
+        "iq": 40,
+        "speed": 82,
+        "strength": 62
+      },
+      "id": "hajun-record",
+      "ok": true,
+      "stored": {
+        "abilities": 62,
+        "durability": 62,
+        "iq": 40,
+        "speed": 82,
+        "strength": 62
+      },
+      "wiki_page": "Hajun (Record of Ragnarok)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 58,
+        "durability": 58,
+        "iq": 72,
+        "speed": 88,
+        "strength": 58
+      },
+      "id": "hinata-shoyo",
+      "ok": true,
+      "stored": {
+        "abilities": 58,
+        "durability": 58,
+        "iq": 72,
+        "speed": 88,
+        "strength": 58
+      },
+      "wiki_page": "Hinata Hyūga"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 85,
+        "speed": 48,
+        "strength": 52
+      },
+      "id": "hisoka-hxh",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 85,
+        "speed": 48,
+        "strength": 52
+      },
+      "wiki_page": "Hisoka Morow"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 72,
+        "speed": 88,
+        "strength": 78
+      },
+      "id": "ho-oh-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 72,
+        "speed": 88,
+        "strength": 78
+      },
+      "wiki_page": "Ho-Oh"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 40,
+        "durability": 70,
+        "iq": 40,
+        "speed": 68,
+        "strength": 70
+      },
+      "id": "ichigo-bankai",
+      "ok": true,
+      "stored": {
+        "abilities": 40,
+        "durability": 70,
+        "iq": 40,
+        "speed": 68,
+        "strength": 70
+      },
+      "wiki_page": "Ichigo Kurosaki (Pre-Timeskip)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 55,
+        "speed": 68,
+        "strength": 52
+      },
+      "id": "inosuke-demon-slayer",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 55,
+        "speed": 68,
+        "strength": 52
+      },
+      "wiki_page": "Inosuke Hashibira"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 72,
+        "speed": 32,
+        "strength": 28
+      },
+      "id": "ippo-makunouchi",
+      "ok": true,
+      "stored": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 72,
+        "speed": 32,
+        "strength": 28
+      },
+      "wiki_page": "Ippo Makunouchi"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 92,
+        "durability": 92,
+        "iq": 40,
+        "speed": 88,
+        "strength": 92
+      },
+      "id": "jin-mori-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 92,
+        "durability": 92,
+        "iq": 40,
+        "speed": 88,
+        "strength": 92
+      },
+      "wiki_page": "Mori Jin"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 42,
+        "durability": 42,
+        "iq": 72,
+        "speed": 88,
+        "strength": 58
+      },
+      "id": "jotaro-part-3",
+      "ok": true,
+      "stored": {
+        "abilities": 42,
+        "durability": 42,
+        "iq": 72,
+        "speed": 88,
+        "strength": 58
+      },
+      "wiki_page": "Jotaro Kujo"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 66,
+        "durability": 66,
+        "iq": 72,
+        "speed": 82,
+        "strength": 58
+      },
+      "id": "julius-black-clover",
+      "ok": true,
+      "stored": {
+        "abilities": 66,
+        "durability": 66,
+        "iq": 72,
+        "speed": 82,
+        "strength": 58
+      },
+      "wiki_page": "Julius Novachrono"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 62,
+        "durability": 62,
+        "iq": 40,
+        "speed": 88,
+        "strength": 68
+      },
+      "id": "kaneki-ken-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 62,
+        "durability": 62,
+        "iq": 40,
+        "speed": 88,
+        "strength": 68
+      },
+      "wiki_page": "Ken Kaneki"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 68,
+        "strength": 52
+      },
+      "id": "killua-godspeed",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 68,
+        "strength": 52
+      },
+      "wiki_page": "Killua Zoldyck"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 58,
+        "durability": 58,
+        "iq": 72,
+        "speed": 68,
+        "strength": 58
+      },
+      "id": "kirito-stacia",
+      "ok": true,
+      "stored": {
+        "abilities": 58,
+        "durability": 58,
+        "iq": 72,
+        "speed": 68,
+        "strength": 58
+      },
+      "wiki_page": "Kirito (Post-Aincrad)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 68,
+        "strength": 52
+      },
+      "id": "kokushibo-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 68,
+        "strength": 52
+      },
+      "wiki_page": "Kokushibo"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 100,
+        "durability": 58,
+        "iq": 40,
+        "speed": 68,
+        "strength": 48
+      },
+      "id": "koro-sensei",
+      "ok": true,
+      "stored": {
+        "abilities": 100,
+        "durability": 58,
+        "iq": 40,
+        "speed": 68,
+        "strength": 48
+      },
+      "wiki_page": "Korosensei"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 50,
+        "durability": 50,
+        "iq": 85,
+        "speed": 68,
+        "strength": 50
+      },
+      "id": "kurapika-emperor",
+      "ok": true,
+      "stored": {
+        "abilities": 50,
+        "durability": 50,
+        "iq": 85,
+        "speed": 68,
+        "strength": 50
+      },
+      "wiki_page": "Kurapika"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 50,
+        "durability": 50,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "id": "kuroki-gensai",
+      "ok": true,
+      "stored": {
+        "abilities": 50,
+        "durability": 50,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "wiki_page": "Kuroki Gensai"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 22,
+        "durability": 22,
+        "iq": 72,
+        "speed": 36,
+        "strength": 40
+      },
+      "id": "kuroko-tetsuya",
+      "ok": true,
+      "stored": {
+        "abilities": 22,
+        "durability": 22,
+        "iq": 72,
+        "speed": 36,
+        "strength": 40
+      },
+      "wiki_page": "Tetsuya Kuroko"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 80,
+        "durability": 82,
+        "iq": 85,
+        "speed": 88,
+        "strength": 90
+      },
+      "id": "kusuo-saiki",
+      "ok": true,
+      "stored": {
+        "abilities": 80,
+        "durability": 82,
+        "iq": 85,
+        "speed": 88,
+        "strength": 90
+      },
+      "wiki_page": "Kusuo Saiki"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 40,
+        "speed": 40,
+        "strength": 40
+      },
+      "id": "l-lawliet",
+      "ok": true,
+      "stored": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 40,
+        "speed": 40,
+        "strength": 40
+      },
+      "wiki_page": "L Lawliet"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 62,
+        "durability": 50,
+        "iq": 85,
+        "speed": 48,
+        "strength": 100
+      },
+      "id": "lelouch-vi-britannia",
+      "ok": true,
+      "stored": {
+        "abilities": 62,
+        "durability": 50,
+        "iq": 85,
+        "speed": 48,
+        "strength": 100
+      },
+      "wiki_page": "Lelouch vi Britannia"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 46,
+        "durability": 38,
+        "iq": 72,
+        "speed": 48,
+        "strength": 38
+      },
+      "id": "levi-ackerman",
+      "ok": true,
+      "stored": {
+        "abilities": 46,
+        "durability": 38,
+        "iq": 72,
+        "speed": 48,
+        "strength": 38
+      },
+      "wiki_page": "Levi Ackerman"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 22,
+        "durability": 22,
+        "iq": 85,
+        "speed": 40,
+        "strength": 40
+      },
+      "id": "light-yagami",
+      "ok": true,
+      "stored": {
+        "abilities": 22,
+        "durability": 22,
+        "iq": 85,
+        "speed": 40,
+        "strength": 40
+      },
+      "wiki_page": "Light Yagami"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 80,
+        "durability": 76,
+        "iq": 40,
+        "speed": 82,
+        "strength": 88
+      },
+      "id": "luffy-gear-4",
+      "ok": true,
+      "stored": {
+        "abilities": 80,
+        "durability": 76,
+        "iq": 40,
+        "speed": 82,
+        "strength": 88
+      },
+      "wiki_page": "Monkey D. Luffy (Emperor)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 100,
+        "durability": 78,
+        "iq": 72,
+        "speed": 88,
+        "strength": 78
+      },
+      "id": "lugia-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 100,
+        "durability": 78,
+        "iq": 72,
+        "speed": 88,
+        "strength": 78
+      },
+      "wiki_page": "Lugia"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 55,
+        "speed": 48,
+        "strength": 38
+      },
+      "id": "lust-fma",
+      "ok": true,
+      "stored": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 55,
+        "speed": 48,
+        "strength": 38
+      },
+      "wiki_page": "Lust"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 85,
+        "speed": 88,
+        "strength": 90
+      },
+      "id": "madara",
+      "ok": true,
+      "stored": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 85,
+        "speed": 88,
+        "strength": 90
+      },
+      "wiki_page": "Madara Uchiha"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 54,
+        "durability": 50,
+        "iq": 40,
+        "speed": 68,
+        "strength": 58
+      },
+      "id": "makima",
+      "ok": true,
+      "stored": {
+        "abilities": 54,
+        "durability": 50,
+        "iq": 40,
+        "speed": 68,
+        "strength": 58
+      },
+      "wiki_page": "Makima"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 74,
+        "durability": 74,
+        "iq": 40,
+        "speed": 88,
+        "strength": 85
+      },
+      "id": "mash-burnedead",
+      "ok": true,
+      "stored": {
+        "abilities": 74,
+        "durability": 74,
+        "iq": 40,
+        "speed": 88,
+        "strength": 85
+      },
+      "wiki_page": "Mash Burnedead"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 90,
+        "durability": 90,
+        "iq": 85,
+        "speed": 88,
+        "strength": 90
+      },
+      "id": "meliodas-assault",
+      "ok": true,
+      "stored": {
+        "abilities": 90,
+        "durability": 90,
+        "iq": 85,
+        "speed": 88,
+        "strength": 90
+      },
+      "wiki_page": "Meliodas"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 66,
+        "durability": 66,
+        "iq": 85,
+        "speed": 68,
+        "strength": 62
+      },
+      "id": "meruem-hxh",
+      "ok": true,
+      "stored": {
+        "abilities": 66,
+        "durability": 66,
+        "iq": 85,
+        "speed": 68,
+        "strength": 62
+      },
+      "wiki_page": "Meruem"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 91,
+        "durability": 91,
+        "iq": 85,
+        "speed": 88,
+        "strength": 91
+      },
+      "id": "mewtwo-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 91,
+        "durability": 91,
+        "iq": 85,
+        "speed": 88,
+        "strength": 91
+      },
+      "wiki_page": "Mewtwo"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 46,
+        "durability": 38,
+        "iq": 85,
+        "speed": 48,
+        "strength": 38
+      },
+      "id": "mikasa-ackerman",
+      "ok": true,
+      "stored": {
+        "abilities": 46,
+        "durability": 38,
+        "iq": 85,
+        "speed": 48,
+        "strength": 38
+      },
+      "wiki_page": "Mikasa Ackerman"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 85,
+        "speed": 68,
+        "strength": 52
+      },
+      "id": "mikey-sano",
+      "ok": true,
+      "stored": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 85,
+        "speed": 68,
+        "strength": 52
+      },
+      "wiki_page": "Manjiro Sano"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 55,
+        "speed": 68,
+        "strength": 78
+      },
+      "id": "mob-100-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 55,
+        "speed": 68,
+        "strength": 78
+      },
+      "wiki_page": "Shigeo Kageyama"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 85,
+        "speed": 68,
+        "strength": 52
+      },
+      "id": "muzan-demon-slayer",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 85,
+        "speed": 68,
+        "strength": 52
+      },
+      "wiki_page": "Muzan Kibutsuji"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 90,
+        "durability": 90,
+        "iq": 85,
+        "speed": 88,
+        "strength": 90
+      },
+      "id": "naruto-bsm",
+      "ok": true,
+      "stored": {
+        "abilities": 90,
+        "durability": 90,
+        "iq": 85,
+        "speed": 88,
+        "strength": 90
+      },
+      "wiki_page": "Naruto Uzumaki (New Era)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 68,
+        "durability": 68,
+        "iq": 72,
+        "speed": 82,
+        "strength": 68
+      },
+      "id": "natsu-dragon-force",
+      "ok": true,
+      "stored": {
+        "abilities": 68,
+        "durability": 68,
+        "iq": 72,
+        "speed": 82,
+        "strength": 68
+      },
+      "wiki_page": "Natsu Dragneel (X784 to X791)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 58,
+        "durability": 52,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "id": "netero-hxh",
+      "ok": true,
+      "stored": {
+        "abilities": 58,
+        "durability": 52,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "wiki_page": "Isaac Netero"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 35,
+        "speed": 68,
+        "strength": 52
+      },
+      "id": "nezuko-demon",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 35,
+        "speed": 68,
+        "strength": 52
+      },
+      "wiki_page": "Nezuko Kamado"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 40,
+        "speed": 82,
+        "strength": 78
+      },
+      "id": "noelle-valkyrie",
+      "ok": true,
+      "stored": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 40,
+        "speed": 82,
+        "strength": 78
+      },
+      "wiki_page": "Noelle Silva"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 62,
+        "durability": 50,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "id": "ohma-tokita",
+      "ok": true,
+      "stored": {
+        "abilities": 62,
+        "durability": 50,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "wiki_page": "Tokita Ohma"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 85,
+        "speed": 97,
+        "strength": 97
+      },
+      "id": "palkia-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 85,
+        "speed": 97,
+        "strength": 97
+      },
+      "wiki_page": "Palkia"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 85,
+        "speed": 48,
+        "strength": 44
+      },
+      "id": "pride-fma",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 85,
+        "speed": 48,
+        "strength": 44
+      },
+      "wiki_page": "Pride"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "id": "primal-groudon-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "wiki_page": "Groudon"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "id": "primal-kyogre-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "wiki_page": "Kyogre"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "id": "rayquaza-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "wiki_page": "Rayquaza"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 46,
+        "durability": 46,
+        "iq": 55,
+        "speed": 48,
+        "strength": 58
+      },
+      "id": "reiner-armored-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 46,
+        "durability": 46,
+        "iq": 55,
+        "speed": 48,
+        "strength": 58
+      },
+      "wiki_page": "Reiner Braun"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 68,
+        "strength": 52
+      },
+      "id": "rengoku-demon-slayer",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 68,
+        "strength": 52
+      },
+      "wiki_page": "Kyojuro Rengoku"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 97,
+        "durability": 97,
+        "iq": 40,
+        "speed": 88,
+        "strength": 97
+      },
+      "id": "rimuru-demon-lord",
+      "ok": true,
+      "stored": {
+        "abilities": 97,
+        "durability": 97,
+        "iq": 40,
+        "speed": 88,
+        "strength": 97
+      },
+      "wiki_page": "Rimuru Tempest (Light Novel)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 72,
+        "speed": 48,
+        "strength": 40
+      },
+      "id": "roy-mustang",
+      "ok": true,
+      "stored": {
+        "abilities": 38,
+        "durability": 38,
+        "iq": 72,
+        "speed": 48,
+        "strength": 40
+      },
+      "wiki_page": "Roy Mustang"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 66,
+        "durability": 28,
+        "iq": 85,
+        "speed": 36,
+        "strength": 36
+      },
+      "id": "rudeus-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 66,
+        "durability": 28,
+        "iq": 85,
+        "speed": 36,
+        "strength": 36
+      },
+      "wiki_page": "Rudeus Greyrat (Light Novel)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 55,
+        "speed": 36,
+        "strength": 40
+      },
+      "id": "ryuk-hxh",
+      "ok": true,
+      "stored": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 55,
+        "speed": 36,
+        "strength": 40
+      },
+      "wiki_page": "Ryuk"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 40,
+        "speed": 40,
+        "strength": 40
+      },
+      "id": "saber-fsn",
+      "ok": true,
+      "stored": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 40,
+        "speed": 40,
+        "strength": 40
+      },
+      "wiki_page": "Saber"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 92,
+        "durability": 92,
+        "iq": 35,
+        "speed": 88,
+        "strength": 92
+      },
+      "id": "saitama",
+      "ok": true,
+      "stored": {
+        "abilities": 92,
+        "durability": 92,
+        "iq": 35,
+        "speed": 88,
+        "strength": 92
+      },
+      "wiki_page": "Saitama"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 58,
+        "durability": 58,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "id": "sakata-gintoki",
+      "ok": true,
+      "stored": {
+        "abilities": 58,
+        "durability": 58,
+        "iq": 85,
+        "speed": 68,
+        "strength": 58
+      },
+      "wiki_page": "Gintoki Sakata"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 40,
+        "speed": 82,
+        "strength": 88
+      },
+      "id": "sanji",
+      "ok": true,
+      "stored": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 40,
+        "speed": 82,
+        "strength": 88
+      },
+      "wiki_page": "Sanji (Post-Timeskip)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 85,
+        "speed": 88,
+        "strength": 88
+      },
+      "id": "sasuke-rinnegan",
+      "ok": true,
+      "stored": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 85,
+        "speed": 88,
+        "strength": 88
+      },
+      "wiki_page": "Sasuke Uchiha (Part II)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 38,
+        "durability": 28,
+        "iq": 85,
+        "speed": 40,
+        "strength": 40
+      },
+      "id": "senku-ishigami",
+      "ok": true,
+      "stored": {
+        "abilities": 38,
+        "durability": 28,
+        "iq": 85,
+        "speed": 40,
+        "strength": 40
+      },
+      "wiki_page": "Senku Ishigami"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 55,
+        "speed": 36,
+        "strength": 36
+      },
+      "id": "shinichi-izumi",
+      "ok": true,
+      "stored": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 55,
+        "speed": 36,
+        "strength": 36
+      },
+      "wiki_page": "Shinichi Izumi"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 55,
+        "speed": 88,
+        "strength": 94
+      },
+      "id": "shinra-fire-force",
+      "ok": true,
+      "stored": {
+        "abilities": 94,
+        "durability": 94,
+        "iq": 55,
+        "speed": 88,
+        "strength": 94
+      },
+      "wiki_page": "Shinra Kusakabe"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 35,
+        "speed": 82,
+        "strength": 88
+      },
+      "id": "sho-kusakabe",
+      "ok": true,
+      "stored": {
+        "abilities": 80,
+        "durability": 80,
+        "iq": 35,
+        "speed": 82,
+        "strength": 88
+      },
+      "wiki_page": "Shō Kusakabe"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 100,
+        "durability": 100,
+        "iq": 85,
+        "speed": 92,
+        "strength": 100
+      },
+      "id": "simon-gurren-lagann",
+      "ok": true,
+      "stored": {
+        "abilities": 100,
+        "durability": 100,
+        "iq": 85,
+        "speed": 92,
+        "strength": 100
+      },
+      "wiki_page": "Simon the Digger"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 22,
+        "durability": 22,
+        "iq": 12,
+        "speed": 40,
+        "strength": 22
+      },
+      "id": "sloth-fma",
+      "ok": true,
+      "stored": {
+        "abilities": 22,
+        "durability": 22,
+        "iq": 12,
+        "speed": 40,
+        "strength": 22
+      },
+      "wiki_page": "Sloth Bear"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 58,
+        "durability": 54,
+        "iq": 85,
+        "speed": 88,
+        "strength": 54
+      },
+      "id": "sukuna",
+      "ok": true,
+      "stored": {
+        "abilities": 58,
+        "durability": 54,
+        "iq": 85,
+        "speed": 88,
+        "strength": 54
+      },
+      "wiki_page": "Ryomen Sukuna"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 70,
+        "durability": 70,
+        "iq": 72,
+        "speed": 88,
+        "strength": 70
+      },
+      "id": "sung-jinwoo-monarch",
+      "ok": true,
+      "stored": {
+        "abilities": 70,
+        "durability": 70,
+        "iq": 72,
+        "speed": 88,
+        "strength": 70
+      },
+      "wiki_page": "Sung Jin-Woo (Novel)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 35,
+        "speed": 68,
+        "strength": 52
+      },
+      "id": "takemichi-hanagaki",
+      "ok": true,
+      "stored": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 35,
+        "speed": 68,
+        "strength": 52
+      },
+      "wiki_page": "Takemichi Hanagaki"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 38,
+        "iq": 85,
+        "speed": 48,
+        "strength": 44
+      },
+      "id": "tanjiro-sun-breathing",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 38,
+        "iq": 85,
+        "speed": 48,
+        "strength": 44
+      },
+      "wiki_page": "Tanjiro Kamado"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 68,
+        "durability": 68,
+        "iq": 72,
+        "speed": 68,
+        "strength": 68
+      },
+      "id": "tatsumi-incursio",
+      "ok": true,
+      "stored": {
+        "abilities": 68,
+        "durability": 68,
+        "iq": 72,
+        "speed": 68,
+        "strength": 68
+      },
+      "wiki_page": "Tatsumi (Akame ga Kill!)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 62,
+        "durability": 62,
+        "iq": 40,
+        "speed": 82,
+        "strength": 62
+      },
+      "id": "thor-record",
+      "ok": true,
+      "stored": {
+        "abilities": 62,
+        "durability": 62,
+        "iq": 40,
+        "speed": 82,
+        "strength": 62
+      },
+      "wiki_page": "Thor (Record of Ragnarok)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 55,
+        "speed": 32,
+        "strength": 40
+      },
+      "id": "thorfinn-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 55,
+        "speed": 32,
+        "strength": 40
+      },
+      "wiki_page": "Thorfinn"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 55,
+        "speed": 32,
+        "strength": 28
+      },
+      "id": "thors-snake",
+      "ok": true,
+      "stored": {
+        "abilities": 28,
+        "durability": 28,
+        "iq": 55,
+        "speed": 32,
+        "strength": 28
+      },
+      "wiki_page": "Thors"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 55,
+        "speed": 68,
+        "strength": 78
+      },
+      "id": "toichiro-suzuki",
+      "ok": true,
+      "stored": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 55,
+        "speed": 68,
+        "strength": 78
+      },
+      "wiki_page": "Toichiro Suzuki"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 96,
+        "durability": 96,
+        "iq": 85,
+        "speed": 40,
+        "strength": 96
+      },
+      "id": "truth-fma",
+      "ok": true,
+      "stored": {
+        "abilities": 96,
+        "durability": 96,
+        "iq": 85,
+        "speed": 40,
+        "strength": 96
+      },
+      "wiki_page": "Truth (Fullmetal Alchemist)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 40,
+        "speed": 40,
+        "strength": 40
+      },
+      "id": "vegeta-ssb",
+      "ok": true,
+      "stored": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 40,
+        "speed": 40,
+        "strength": 40
+      },
+      "wiki_page": "Vegeta (Dragon Ball Super)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 62,
+        "durability": 62,
+        "iq": 55,
+        "speed": 36,
+        "strength": 62
+      },
+      "id": "wrath-fma",
+      "ok": true,
+      "stored": {
+        "abilities": 62,
+        "durability": 62,
+        "iq": 55,
+        "speed": 36,
+        "strength": 62
+      },
+      "wiki_page": "Wrath (Web Novel)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "id": "xerneas-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "wiki_page": "Xerneas"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 22,
+        "speed": 82,
+        "strength": 78
+      },
+      "id": "yamamoto",
+      "ok": true,
+      "stored": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 22,
+        "speed": 82,
+        "strength": 78
+      },
+      "wiki_page": "Shigekuni Yamamoto Genryusai"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 55,
+        "speed": 82,
+        "strength": 85
+      },
+      "id": "yami-black-clover",
+      "ok": true,
+      "stored": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 55,
+        "speed": 82,
+        "strength": 85
+      },
+      "wiki_page": "Yami Sukehiro"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 70,
+        "durability": 70,
+        "iq": 85,
+        "speed": 82,
+        "strength": 70
+      },
+      "id": "yuno-spirit-dive",
+      "ok": true,
+      "stored": {
+        "abilities": 70,
+        "durability": 70,
+        "iq": 85,
+        "speed": 82,
+        "strength": 70
+      },
+      "wiki_page": "Yuno Grinberryall (Pre-Timeskip)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "id": "yveltal-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 40,
+        "durability": 40,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "wiki_page": "Yveltal"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 68,
+        "strength": 52
+      },
+      "id": "zenitsu-godspeed",
+      "ok": true,
+      "stored": {
+        "abilities": 52,
+        "durability": 52,
+        "iq": 72,
+        "speed": 68,
+        "strength": 52
+      },
+      "wiki_page": "Zenitsu Agatsuma"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 96,
+        "durability": 96,
+        "iq": 85,
+        "speed": 88,
+        "strength": 96
+      },
+      "id": "zeref-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 96,
+        "durability": 96,
+        "iq": 85,
+        "speed": 88,
+        "strength": 96
+      },
+      "wiki_page": "Zeref Dragneel"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 88,
+        "durability": 88,
+        "iq": 72,
+        "speed": 88,
+        "strength": 88
+      },
+      "id": "zeus-record",
+      "ok": true,
+      "stored": {
+        "abilities": 88,
+        "durability": 88,
+        "iq": 72,
+        "speed": 88,
+        "strength": 88
+      },
+      "wiki_page": "Zeus (Riordan)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 46,
+        "durability": 46,
+        "iq": 40,
+        "speed": 68,
+        "strength": 68
+      },
+      "id": "zoro-ennies",
+      "ok": true,
+      "stored": {
+        "abilities": 46,
+        "durability": 46,
+        "iq": 40,
+        "speed": 68,
+        "strength": 68
+      },
+      "wiki_page": "Roronoa Zoro (Pre-Timeskip)"
+    },
+    {
+      "delta": null,
+      "error": null,
+      "expected": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "id": "zygarde-complete-anime",
+      "ok": true,
+      "stored": {
+        "abilities": 78,
+        "durability": 78,
+        "iq": 72,
+        "speed": 88,
+        "strength": 85
+      },
+      "wiki_page": "Zygarde"
+    }
+  ],
+  "summary": {
+    "aligned": 136,
+    "errors": 0,
+    "mismatch": 0,
+    "total": 136
+  }
+}

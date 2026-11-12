@@ -1,0 +1,19 @@
+[package]
+name = "portraits-fetch"
+version = "0.1.0"
+edition = "2021"
+description = "Parallel Anime-Planet portrait fetch for Build an Anime Character"
+
+[[bin]]
+name = "portraits-fetch"
+path = "src/main.rs"
+
+[dependencies]
+anyhow = "1.0"
+clap = { version = "4.5", features = ["derive"] }
+regex = "1.11"
+reqwest = { version = "0.12", default-features = false, features = ["rustls-tls", "gzip"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tokio = { version = "1.43", features = ["macros", "rt-multi-thread", "sync", "time", "fs"] }
+url = "2.5"

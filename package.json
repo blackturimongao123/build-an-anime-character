@@ -1,0 +1,32 @@
+{
+  "name": "build-an-anime-character",
+  "private": true,
+  "workspaces": [
+    "shared",
+    "client",
+    "server",
+    "scripts"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=client",
+    "dev:server": "npm run dev --workspace=server",
+    "predev:local": "npm run build --workspace=@build-character/shared",
+    "dev:local": "concurrently -k -n ws,web -c blue,green \"cross-env PORT=8781 npm run dev --workspace=server\" \"cross-env VITE_DEV_WS_PORT=8781 npm run dev --workspace=client\"",
+    "dev:all": "npm run dev:local",
+    "build": "npm run build --workspace=shared && npm run build --workspace=client",
+    "data:merge-roster": "node scripts/merge-roster-expansion.mjs",
+    "data:validate": "npm run validate --workspace=scripts",
+    "data:portraits": "npm run portraits --workspace=scripts && node scripts/prune-portrait-duplicates.mjs",
+    "data:restore-characters": "node scripts/restore-characters-json.mjs",
+    "data:portraits-manual": "npm run import-manual-portraits --workspace=scripts",
+    "data:scrape": "npm run scrape --workspace=scripts",
+    "data:stats": "npm run scrape-all --workspace=scripts --",
+    "data:stats-check": "cargo run --release --manifest-path stats-check/Cargo.toml -- --root .",
+    "data:stats-check-apply": "cargo run --release --manifest-path stats-check/Cargo.toml -- --root . --apply",
+    "data:assets": "npm run portraits --workspace=scripts && npm run data:stats"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "cross-env": "^7.0.3"
+  }
+}

@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: build-anime-character-ws
+    runtime: node
+    plan: free
+    rootDir: server
+    # Installs the npm workspace from the repo root and builds the shared
+    # game-rules package the server imports (shared/dist is not committed).
+    buildCommand: npm install && npm run build --workspace=@build-character/shared
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      - key: PORT
+        value: "10000"
+      - key: ALLOWED_ORIGINS
+        sync: false

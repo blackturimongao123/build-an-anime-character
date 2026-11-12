@@ -1,0 +1,22 @@
+Manual portrait drops — character variants (no auto image found)
+================================================================
+
+Drop folder (put your files here):
+  public-shared/portraits/manual/
+
+Naming (must match character id + extension):
+  <character-id>.png
+  <character-id>.webp
+  <character-id>.jpg
+  <character-id>.jpeg
+
+After you add images, run from repo root:
+  npm run data:portraits-manual
+
+That copies files into public-shared/portraits/ and client/public/portraits/
+and updates portrait paths in data/characters.json.
+
+----------------------------------------------------------------------
+Variants waiting for a manual image (0)
+----------------------------------------------------------------------
+(All listed variants are covered — none left.)

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "meliodas-base",
+    "ok": true,
+    "wikiPage": "Meliodas",
+    "stats": {
+      "strength": 88,
+      "speed": 88,
+      "abilities": 66,
+      "iq": 85,
+      "durability": 66
+    }
+  }
+]

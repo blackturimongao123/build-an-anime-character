@@ -1,0 +1,73 @@
+/*
+ * Showdown clash: both portraits wind up and lunge at each other.
+ *  - win:  hits, then returns to its spot
+ *  - lose: gets knocked back, falls off and disappears
+ *  - tie:  both hit, recoil, and return to their spots
+ * Whole clash takes 0.55s (contact at 38%).
+ * --dir is +1 on the left board (attacks to the right), -1 on the right board.
+ */
+.category-row--clash { --dir: 1; z-index: 3; }
+.category-row--clash.category-row--right { --dir: -1; }
+
+.category-row--clash .category-row__thumb {
+  position: relative;
+  z-index: 3;
+  animation-duration: var(--clash-ms, 550ms);
+  animation-fill-mode: both;
+  animation-timing-function: linear;
+}
+.category-row--clash-win .category-row__thumb { animation-name: clash-win; }
+.category-row--clash-lose .category-row__thumb { animation-name: clash-lose; }
+.category-row--clash-tie .category-row__thumb { animation-name: clash-tie; }
+
+/* Impact burst lands at the moment of contact (38% of 0.55s). Keep in sync with CLASH_CONTACT_MS in ShowdownScreen.tsx. */
+.game--showdown .category-row--clash .burst { animation-delay: 0.21s; animation-duration: 0.3s; }
+
+/* Shared timeline: 0-23% wind-up, 23-38% lunge, contact at 38%. */
+@keyframes clash-win {
+  0% { transform: translateX(0) scale(1); animation-timing-function: ease-out; }
+  23% { transform: translateX(calc(var(--dir) * -10 * var(--unit))) scale(0.96); animation-timing-function: cubic-bezier(0.5, 0, 1, 0.6); }
+  38% { transform: translateX(calc(var(--dir) * 9 * var(--unit))) scale(1.14); animation-timing-function: ease-out; }
+  50% { transform: translateX(calc(var(--dir) * 12 * var(--unit))) scale(1.1); animation-timing-function: cubic-bezier(0.3, 0, 0.2, 1); }
+  100% { transform: translateX(0) scale(1); }
+}
+
+@keyframes clash-lose {
+  0% { transform: translateX(0) rotate(0); opacity: 1; animation-timing-function: ease-out; }
+  23% { transform: translateX(calc(var(--dir) * -10 * var(--unit))) scale(0.96); animation-timing-function: cubic-bezier(0.5, 0, 1, 0.6); }
+  38% { transform: translateX(calc(var(--dir) * 9 * var(--unit))) scale(1.08); filter: brightness(1); animation-timing-function: ease-out; }
+  44% { transform: translateX(calc(var(--dir) * -26 * var(--unit))) rotate(calc(var(--dir) * -14deg)); filter: brightness(2.2); animation-timing-function: cubic-bezier(0.55, 0, 1, 0.45); }
+  100% {
+    transform: translate(calc(var(--dir) * -90 * var(--unit)), calc(220 * var(--unit))) rotate(calc(var(--dir) * -70deg)) scale(0.8);
+    filter: brightness(1);
+    opacity: 0;
+  }
+}
+
+@keyframes clash-tie {
+  0% { transform: translateX(0) scale(1); animation-timing-function: ease-out; }
+  23% { transform: translateX(calc(var(--dir) * -10 * var(--unit))) scale(0.96); animation-timing-function: cubic-bezier(0.5, 0, 1, 0.6); }
+  38% { transform: translateX(calc(var(--dir) * 8 * var(--unit))) scale(1.1); animation-timing-function: ease-out; }
+  48% { transform: translateX(calc(var(--dir) * -16 * var(--unit))) rotate(calc(var(--dir) * -6deg)); animation-timing-function: ease-in-out; }
+  58%, 62% { transform: translateX(calc(var(--dir) * -4 * var(--unit))) rotate(calc(var(--dir) * 3deg)); animation-timing-function: cubic-bezier(0.3, 0, 0.2, 1); }
+  100% { transform: translateX(0) rotate(0) scale(1); }
+}
+
+/* Tied slots stay on the board, out of scoring. */
+.category-row--dimmed .category-row__thumb { opacity: 0.45; filter: grayscale(0.7); }
+
+/* First clash waits for the boards to slide together (matches global.css). */
+@media (min-width: 681px) and (prefers-reduced-motion: no-preference) {
+  .game--showdown.game--showdown-intro .category-row--clash .category-row__thumb { animation-delay: 0.62s; }
+  .game--showdown.game--showdown-intro .category-row--clash .burst { animation-delay: 0.83s; }
+}
+
+/* Phone layout stacks the boards, so lunge sideways toward the screen edge less. */
+@media (max-width: 680px) {
+  .category-row--clash, .category-row--clash.category-row--right { --dir: 0.5; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .category-row--clash .category-row__thumb { animation: none; }
+  .category-row--clash-lose .category-row__thumb { opacity: 0; }
+}

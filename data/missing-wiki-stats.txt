@@ -1,0 +1,33 @@
+Characters still with suspicious stats (2+ at 40 after audit)
+================================================================
+Count: 20 ids (was 25 before DS/HxH/SAO/Meliodas/Goku pass)
+
+FIXED this pass (profile hints + parser)
+----------------------------------------
+tanjiro-sun-breathing — Sun Breathing Mastery + Sunrise Countdown + Hinokami
+zenitsu-godspeed — Post-Hashira Training column
+killua-godspeed — Chimera Ant column + Godspeed tab
+kurapika-emperor — Yorknew column
+asuna-alicization, eugeo-alicization — Post-Aincrad keys (alice: single-timeline page)
+inosuke-demon-slayer, akaza-demon-slayer — Class 5/25/50 lifting mapping
+meliodas-assault — Holy War + Assault Mode (form-slice order fix)
+goku-ssj2, naruto-bsm — form phrase fallback + slice order
+
+Parser (scripts/lib/wiki-stats.ts)
+----------------------------------
+Class 5/25/50 lifting scores, superhuman lifting, form phrase keeps full column when phrase present
+
+WRONG PAGE UNLIKELY — thin wiki / expected low tiers
+----------------------------------------------------
+levi-ackerman, mikasa-ackerman — Class 1 lifting
+alphonse-elric, envy-fma, gluttony-fma, greed-fma, lust-fma, roy-mustang, sloth-fma, wrath-fma
+ippo-makunouchi, shinichi-izumi, thorfinn-anime, thors-snake
+rudeus-anime — may need Light Novel arc column
+ho-oh-anime, lugia-anime, xerneas-anime, yveltal-anime, zygarde-complete-anime — legend pages
+ashborn-sl — speed/iq on novel tabber
+truth-fma — strength/speed 40 typical for Truth
+
+See data/wiki-search-audit.json for search hits + probe baselines.
+
+Batch scrape:
+  cd scripts && node ../node_modules/tsx/dist/cli.mjs scrape-all-stats.ts --id=<id>

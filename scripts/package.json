@@ -1,0 +1,21 @@
+{
+  "name": "@build-character/scripts",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "validate": "tsx validate-characters.ts",
+    "portraits": "cargo run --release --manifest-path ../portraits-fetch/Cargo.toml -- --root ..",
+    "portraits:ts": "tsx fetch-portraits.ts",
+    "scrape": "tsx scrape-vsbattles.ts",
+    "scrape-all": "tsx scrape-all-stats.ts",
+    "stats-check": "cargo run --release --manifest-path ../stats-check/Cargo.toml -- --root ..",
+    "import-manual-portraits": "tsx import-manual-portraits.ts"
+  },
+  "dependencies": {
+    "@build-character/shared": "*"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

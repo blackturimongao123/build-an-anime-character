@@ -1,0 +1,83 @@
+{
+  "baki-hanma-anime": {
+    "fragment": "New_Grappler_Baki",
+    "statColumnIndex": 1,
+    "statKey": "New Grappler Baki (Shinshinkai / Maximum Tournament arc)"
+  },
+  "yami-black-clover": {
+    "statColumnIndex": 4,
+    "statKey": "Judgement Day Arc"
+  },
+  "ichigo-bankai": {
+    "fragment": "Post-Bankai_Training",
+    "statColumnIndex": 2,
+    "statKey": "Post-Bankai Training"
+  },
+  "goku-ssj2": {
+    "fragment": "Super_Saiyan_2",
+    "wikiUrlBase": "https://vsbattles.fandom.com/wiki/Son_Goku_(DBS_Anime)",
+    "statFormPhrase": "Super Saiyan 2"
+  },
+  "naruto-bsm": {
+    "fragment": "Baryon_Mode",
+    "statColumnIndex": 1,
+    "statKey": "New Era"
+  },
+  "luffy-gear-4": {
+    "fragment": "Gear_4th",
+    "tabFragments": ["Rooftop", "Gear_2nd_-_Gear_4th:_Boundman"],
+    "statKey": "Gear 4th: Boundman"
+  },
+  "kirito-stacia": {
+    "fragment": "End_of_Alicization/Star_King_Kirito",
+    "statColumnIndex": 6,
+    "statKey": "End of Alicization/Star King"
+  },
+  "meliodas-assault": {
+    "statColumnIndex": 0,
+    "statKey": "Holy War",
+    "statFormPhrase": "Assault Mode"
+  },
+  "zoro-ennies": {
+    "statColumnIndex": 2,
+    "statKey": "Enies Lobby Saga"
+  },
+  "tanjiro-sun-breathing": {
+    "fragment": "Sun_Breathing_Mastery",
+    "statColumnIndex": 4,
+    "statKey": "Sunrise Countdown",
+    "statFormPhrase": "Hinokami"
+  },
+  "zenitsu-godspeed": {
+    "statColumnIndex": 2,
+    "statKey": "Post-Hashira Training"
+  },
+  "killua-godspeed": {
+    "statColumnIndex": 4,
+    "statKey": "Chimera Ant Arc and Election Arc",
+    "tabFragments": ["Godspeed_-_Kanmuru_Form"]
+  },
+  "kurapika-emperor": {
+    "statColumnIndex": 1,
+    "statKey": "Yorknew City Arc and onward"
+  },
+  "asuna-alicization": {
+    "statColumnIndex": 4,
+    "statKey": "Star Queen Asuna (End of Alicization)"
+  },
+  "eugeo-alicization": {
+    "statColumnIndex": 2,
+    "statKey": "Sword Form"
+  },
+  "dio-part-3": {
+    "fragment": "Stardust_Crusaders",
+    "statKey": "Stardust Crusaders"
+  },
+  "jin-mori-anime": {
+    "tabFragments": ["World_Competition_Arc"]
+  },
+  "rimuru-demon-lord": {
+    "fragment": "Demon-Lord_outfit",
+    "tabFragments": ["Post-Demon_Lord"]
+  }
+}

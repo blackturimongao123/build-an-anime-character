@@ -1,0 +1,24 @@
+.sound-toggle {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 1300;
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border: 2px solid #100d11;
+  border-radius: 8px;
+  background: #0c1224cc;
+  box-shadow: inset 0 0 0 1px #fff4, 0 2px 6px #0005;
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+}
+.sound-toggle:hover { background: #1b2440e6; }
+@media (max-width: 680px) {
+  /* Keep clear of the centered title on phones. */
+  .sound-toggle { top: auto; bottom: 10px; }
+}
+.sound-toggle:focus-visible { outline: 2px solid #ffd600; outline-offset: 2px; }

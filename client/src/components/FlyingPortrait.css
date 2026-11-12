@@ -1,0 +1,20 @@
+/* Clone of the rolled portrait that shrinks into the chosen category slot. */
+.flying-portrait {
+  position: fixed;
+  z-index: 1200;
+  pointer-events: none;
+  transform-origin: 0 0;
+  will-change: transform;
+  border-radius: 9px;
+  box-shadow: 0 8px 28px #0007, 0 0 0 2px #ffe98a;
+}
+
+.flying-portrait__card {
+  width: 100%;
+  height: 100%;
+}
+
+/* Slot keeps its space while the flying portrait is on its way. */
+.category-row__thumb--hidden {
+  visibility: hidden;
+}
