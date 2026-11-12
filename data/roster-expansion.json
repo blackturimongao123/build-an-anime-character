@@ -1,757 +1,1399 @@
 [
-  {
-    "id": "eren-founding-anime",
-    "displayName": "Eren Yeager (Founding Titan)",
-    "series": "Attack on Titan",
-    "stats": { "strength": 72, "speed": 55, "abilities": 78, "iq": 58, "durability": 75 },
-    "portrait": "/portraits/eren-founding-anime.webp"
-  },
-  {
-    "id": "levi-ackerman",
-    "displayName": "Levi Ackerman",
-    "series": "Attack on Titan",
-    "stats": { "strength": 48, "speed": 68, "abilities": 42, "iq": 62, "durability": 45 },
-    "portrait": "/portraits/levi-ackerman.webp"
-  },
-  {
-    "id": "mikasa-ackerman",
-    "displayName": "Mikasa Ackerman",
-    "series": "Attack on Titan",
-    "stats": { "strength": 46, "speed": 58, "abilities": 40, "iq": 55, "durability": 44 },
-    "portrait": "/portraits/mikasa-ackerman.webp"
-  },
-  {
-    "id": "armin-colossal-anime",
-    "displayName": "Armin Arlert (Colossal Titan)",
-    "series": "Attack on Titan",
-    "stats": { "strength": 65, "speed": 42, "abilities": 70, "iq": 72, "durability": 68 },
-    "portrait": "/portraits/armin-colossal-anime.webp"
-  },
-  {
-    "id": "reiner-armored-anime",
-    "displayName": "Reiner Braun (Armored Titan)",
-    "series": "Attack on Titan",
-    "stats": { "strength": 62, "speed": 48, "abilities": 55, "iq": 50, "durability": 72 },
-    "portrait": "/portraits/reiner-armored-anime.webp"
-  },
-  {
-    "id": "gon-adult-anime",
-    "displayName": "Gon Freecss (Adult)",
-    "series": "Hunter x Hunter",
-    "stats": { "strength": 70, "speed": 72, "abilities": 68, "iq": 38, "durability": 62 },
-    "portrait": "/portraits/gon-adult-anime.webp"
-  },
-  {
-    "id": "killua-godspeed",
-    "displayName": "Killua Zoldyck (Godspeed)",
-    "series": "Hunter x Hunter",
-    "stats": { "strength": 52, "speed": 78, "abilities": 65, "iq": 58, "durability": 48 },
-    "portrait": "/portraits/killua-godspeed.webp"
-  },
-  {
-    "id": "kurapika-emperor",
-    "displayName": "Kurapika (Emperor Time)",
-    "series": "Hunter x Hunter",
-    "stats": { "strength": 45, "speed": 62, "abilities": 72, "iq": 68, "durability": 50 },
-    "portrait": "/portraits/kurapika-emperor.webp"
-  },
-  {
-    "id": "hisoka-hxh",
-    "displayName": "Hisoka Morow",
-    "series": "Hunter x Hunter",
-    "stats": { "strength": 48, "speed": 58, "abilities": 60, "iq": 55, "durability": 52 },
-    "portrait": "/portraits/hisoka-hxh.webp"
-  },
-  {
-    "id": "meruem-hxh",
-    "displayName": "Meruem",
-    "series": "Hunter x Hunter",
-    "stats": { "strength": 72, "speed": 70, "abilities": 75, "iq": 70, "durability": 72 },
-    "portrait": "/portraits/meruem-hxh.webp"
-  },
-  {
-    "id": "netero-hxh",
-    "displayName": "Isaac Netero",
-    "series": "Hunter x Hunter",
-    "stats": { "strength": 55, "speed": 68, "abilities": 82, "iq": 75, "durability": 50 },
-    "portrait": "/portraits/netero-hxh.webp"
-  },
-  {
-    "id": "light-yagami",
-    "displayName": "Light Yagami",
-    "series": "Death Note",
-    "stats": { "strength": 12, "speed": 14, "abilities": 28, "iq": 78, "durability": 12 },
-    "portrait": "/portraits/light-yagami.webp"
-  },
-  {
-    "id": "l-lawliet",
-    "displayName": "L Lawliet",
-    "series": "Death Note",
-    "stats": { "strength": 14, "speed": 16, "abilities": 18, "iq": 92, "durability": 14 },
-    "portrait": "/portraits/l-lawliet.webp"
-  },
-  {
-    "id": "ryuk-hxh",
-    "displayName": "Ryuk",
-    "series": "Death Note",
-    "stats": { "strength": 35, "speed": 42, "abilities": 62, "iq": 48, "durability": 55 },
-    "portrait": "/portraits/ryuk-hxh.webp"
-  },
-  {
-    "id": "edward-elric",
-    "displayName": "Edward Elric",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 42, "speed": 48, "abilities": 58, "iq": 72, "durability": 45 },
-    "portrait": "/portraits/edward-elric.webp"
-  },
-  {
-    "id": "alphonse-elric",
-    "displayName": "Alphonse Elric",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 48, "speed": 38, "abilities": 52, "iq": 55, "durability": 75 },
-    "portrait": "/portraits/alphonse-elric.webp"
-  },
-  {
-    "id": "roy-mustang",
-    "displayName": "Roy Mustang",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 35, "speed": 42, "abilities": 62, "iq": 68, "durability": 40 },
-    "portrait": "/portraits/roy-mustang.webp"
-  },
-  {
-    "id": "father-fma",
-    "displayName": "Father",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 65, "speed": 58, "abilities": 82, "iq": 75, "durability": 70 },
-    "portrait": "/portraits/father-fma.webp"
-  },
-  {
-    "id": "wrath-fma",
-    "displayName": "Wrath",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 52, "speed": 72, "abilities": 48, "iq": 55, "durability": 50 },
-    "portrait": "/portraits/wrath-fma.webp"
-  },
-  {
-    "id": "pride-fma",
-    "displayName": "Pride",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 55, "speed": 48, "abilities": 68, "iq": 62, "durability": 75 },
-    "portrait": "/portraits/pride-fma.webp"
-  },
-  {
-    "id": "lust-fma",
-    "displayName": "Lust",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 45, "speed": 50, "abilities": 55, "iq": 48, "durability": 62 },
-    "portrait": "/portraits/lust-fma.webp"
-  },
-  {
-    "id": "gluttony-fma",
-    "displayName": "Gluttony",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 58, "speed": 28, "abilities": 52, "iq": 18, "durability": 70 },
-    "portrait": "/portraits/gluttony-fma.webp"
-  },
-  {
-    "id": "envy-fma",
-    "displayName": "Envy",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 42, "speed": 45, "abilities": 58, "iq": 50, "durability": 55 },
-    "portrait": "/portraits/envy-fma.webp"
-  },
-  {
-    "id": "sloth-fma",
-    "displayName": "Sloth",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 75, "speed": 38, "abilities": 45, "iq": 15, "durability": 72 },
-    "portrait": "/portraits/sloth-fma.webp"
-  },
-  {
-    "id": "greed-fma",
-    "displayName": "Greed",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 48, "speed": 52, "abilities": 50, "iq": 55, "durability": 78 },
-    "portrait": "/portraits/greed-fma.webp"
-  },
-  {
-    "id": "truth-fma",
-    "displayName": "The Truth",
-    "series": "Fullmetal Alchemist",
-    "stats": { "strength": 88, "speed": 85, "abilities": 98, "iq": 95, "durability": 90 },
-    "portrait": "/portraits/truth-fma.webp"
-  },
-  {
-    "id": "tanjiro-sun-breathing",
-    "displayName": "Tanjiro Kamado (Sun Breathing)",
-    "series": "Demon Slayer",
-    "stats": { "strength": 55, "speed": 58, "abilities": 62, "iq": 48, "durability": 52 },
-    "portrait": "/portraits/tanjiro-sun-breathing.webp"
-  },
-  {
-    "id": "nezuko-demon",
-    "displayName": "Nezuko Kamado",
-    "series": "Demon Slayer",
-    "stats": { "strength": 52, "speed": 55, "abilities": 50, "iq": 35, "durability": 58 },
-    "portrait": "/portraits/nezuko-demon.webp"
-  },
-  {
-    "id": "zenitsu-godspeed",
-    "displayName": "Zenitsu Agatsuma (Godspeed)",
-    "series": "Demon Slayer",
-    "stats": { "strength": 42, "speed": 72, "abilities": 55, "iq": 32, "durability": 45 },
-    "portrait": "/portraits/zenitsu-godspeed.webp"
-  },
-  {
-    "id": "inosuke-demon-slayer",
-    "displayName": "Inosuke Hashibira",
-    "series": "Demon Slayer",
-    "stats": { "strength": 50, "speed": 52, "abilities": 48, "iq": 28, "durability": 55 },
-    "portrait": "/portraits/inosuke-demon-slayer.webp"
-  },
-  {
-    "id": "rengoku-demon-slayer",
-    "displayName": "Kyojuro Rengoku",
-    "series": "Demon Slayer",
-    "stats": { "strength": 58, "speed": 60, "abilities": 62, "iq": 48, "durability": 55 },
-    "portrait": "/portraits/rengoku-demon-slayer.webp"
-  },
-  {
-    "id": "akaza-demon-slayer",
-    "displayName": "Akaza",
-    "series": "Demon Slayer",
-    "stats": { "strength": 68, "speed": 70, "abilities": 72, "iq": 52, "durability": 68 },
-    "portrait": "/portraits/akaza-demon-slayer.webp"
-  },
-  {
-    "id": "muzan-demon-slayer",
-    "displayName": "Muzan Kibutsuji",
-    "series": "Demon Slayer",
-    "stats": { "strength": 65, "speed": 68, "abilities": 75, "iq": 62, "durability": 72 },
-    "portrait": "/portraits/muzan-demon-slayer.webp"
-  },
-  {
-    "id": "kokushibo-anime",
-    "displayName": "Kokushibo",
-    "series": "Demon Slayer",
-    "stats": { "strength": 72, "speed": 65, "abilities": 78, "iq": 58, "durability": 70 },
-    "portrait": "/portraits/kokushibo-anime.webp"
-  },
-  {
-    "id": "kirito-aincrad-base",
-    "displayName": "Kirito (Base)",
-    "series": "Sword Art Online",
-    "portrait": "/portraits/kirito-stacia.webp"
-  },
-  {
-    "id": "kirito-stacia",
-    "displayName": "Kirito (Alicization)",
-    "series": "Sword Art Online",
-    "stats": { "strength": 58, "speed": 62, "abilities": 65, "iq": 52, "durability": 55 },
-    "portrait": "/portraits/kirito-stacia.webp"
-  },
-  {
-    "id": "asuna-alicization",
-    "displayName": "Asuna Yuuki (Alicization)",
-    "series": "Sword Art Online",
-    "stats": { "strength": 48, "speed": 55, "abilities": 52, "iq": 50, "durability": 48 },
-    "portrait": "/portraits/asuna-alicization.webp"
-  },
-  {
-    "id": "eugeo-alicization",
-    "displayName": "Eugeo (Blue Rose)",
-    "series": "Sword Art Online",
-    "stats": { "strength": 52, "speed": 48, "abilities": 55, "iq": 45, "durability": 50 },
-    "portrait": "/portraits/eugeo-alicization.webp"
-  },
-  {
-    "id": "alice-alicization",
-    "displayName": "Alice Zuberg",
-    "series": "Sword Art Online",
-    "stats": { "strength": 55, "speed": 52, "abilities": 58, "iq": 48, "durability": 58 },
-    "portrait": "/portraits/alice-alicization.webp"
-  },
-  {
-    "id": "kaneki-ken-anime",
-    "displayName": "Ken Kaneki (SSS)",
-    "series": "Tokyo Ghoul",
-    "stats": { "strength": 55, "speed": 58, "abilities": 62, "iq": 52, "durability": 60 },
-    "portrait": "/portraits/kaneki-ken-anime.webp"
-  },
-  {
-    "id": "arima-kishou",
-    "displayName": "Arima Kishou",
-    "series": "Tokyo Ghoul",
-    "stats": { "strength": 48, "speed": 62, "abilities": 55, "iq": 58, "durability": 52 },
-    "portrait": "/portraits/arima-kishou.webp"
-  },
-  {
-    "id": "eto-yoshimura",
-    "displayName": "Eto Yoshimura",
-    "series": "Tokyo Ghoul",
-    "stats": { "strength": 50, "speed": 52, "abilities": 65, "iq": 62, "durability": 55 },
-    "portrait": "/portraits/eto-yoshimura.webp"
-  },
-  {
-    "id": "lelouch-vi-britannia",
-    "displayName": "Lelouch vi Britannia",
-    "series": "Code Geass",
-    "stats": { "strength": 18, "speed": 20, "abilities": 72, "iq": 88, "durability": 16 },
-    "portrait": "/portraits/lelouch-vi-britannia.webp"
-  },
-  {
-    "id": "c-c-geass",
-    "displayName": "C.C.",
-    "series": "Code Geass",
-    "stats": { "strength": 35, "speed": 38, "abilities": 68, "iq": 70, "durability": 75 },
-    "portrait": "/portraits/c-c-geass.webp"
-  },
-  {
-    "id": "mob-100-anime",
-    "displayName": "Shigeo Kageyama (100%)",
-    "series": "Mob Psycho 100",
-    "stats": { "strength": 42, "speed": 48, "abilities": 75, "iq": 55, "durability": 45 },
-    "portrait": "/portraits/mob-100-anime.webp"
-  },
-  {
-    "id": "mob-unknown-anime",
-    "displayName": "Shigeo Kageyama (???%)",
-    "series": "Mob Psycho 100",
-    "stats": { "strength": 65, "speed": 70, "abilities": 88, "iq": 58, "durability": 62 },
-    "portrait": "/portraits/mob-unknown-anime.webp"
-  },
-  {
-    "id": "toichiro-suzuki",
-    "displayName": "Toichiro Suzuki",
-    "series": "Mob Psycho 100",
-    "stats": { "strength": 50, "speed": 52, "abilities": 78, "iq": 52, "durability": 55 },
-    "portrait": "/portraits/toichiro-suzuki.webp"
-  },
-  {
-    "id": "esdeath",
-    "displayName": "Esdeath",
-    "series": "Akame ga Kill",
-    "stats": { "strength": 58, "speed": 55, "abilities": 68, "iq": 52, "durability": 55 },
-    "portrait": "/portraits/esdeath.webp"
-  },
-  {
-    "id": "akame-aga",
-    "displayName": "Akame",
-    "series": "Akame ga Kill",
-    "stats": { "strength": 50, "speed": 58, "abilities": 55, "iq": 45, "durability": 48 },
-    "portrait": "/portraits/akame-aga.webp"
-  },
-  {
-    "id": "tatsumi-incursio",
-    "displayName": "Tatsumi (Incursio)",
-    "series": "Akame ga Kill",
-    "stats": { "strength": 55, "speed": 52, "abilities": 58, "iq": 42, "durability": 65 },
-    "portrait": "/portraits/tatsumi-incursio.webp"
-  },
-  {
-    "id": "anos-voldigoad",
-    "displayName": "Anos Voldigoad",
-    "series": "The Misfit of Demon King Academy",
-    "stats": { "strength": 82, "speed": 85, "abilities": 90, "iq": 75, "durability": 82 },
-    "portrait": "/portraits/anos-voldigoad.webp"
-  },
-  {
-    "id": "koro-sensei",
-    "displayName": "Koro Sensei",
-    "series": "Assassination Classroom",
-    "stats": { "strength": 52, "speed": 88, "abilities": 62, "iq": 82, "durability": 58 },
-    "portrait": "/portraits/koro-sensei.webp"
-  },
-  {
-    "id": "hinata-shoyo",
-    "displayName": "Shoyo Hinata",
-    "series": "Haikyuu!!",
-    "stats": { "strength": 18, "speed": 22, "abilities": 14, "iq": 24, "durability": 16 },
-    "portrait": "/portraits/hinata-shoyo.webp"
-  },
-  {
-    "id": "senku-ishigami",
-    "displayName": "Senku Ishigami",
-    "series": "Dr. Stone",
-    "stats": { "strength": 14, "speed": 16, "abilities": 28, "iq": 97, "durability": 12 },
-    "portrait": "/portraits/senku-ishigami.webp"
-  },
-  {
-    "id": "asta-black",
-    "displayName": "Asta (Anti-Magic)",
-    "series": "Black Clover",
-    "stats": { "strength": 62, "speed": 58, "abilities": 68, "iq": 42, "durability": 60 },
-    "portrait": "/portraits/asta-black.webp"
-  },
-  {
-    "id": "yuno-spirit-dive",
-    "displayName": "Yuno (Spirit Dive)",
-    "series": "Black Clover",
-    "stats": { "strength": 58, "speed": 62, "abilities": 72, "iq": 52, "durability": 55 },
-    "portrait": "/portraits/yuno-spirit-dive.webp"
-  },
-  {
-    "id": "yami-black-clover",
-    "displayName": "Yami Sukehiro",
-    "series": "Black Clover",
-    "stats": { "strength": 55, "speed": 52, "abilities": 60, "iq": 58, "durability": 52 },
-    "portrait": "/portraits/yami-black-clover.webp"
-  },
-  {
-    "id": "julius-black-clover",
-    "displayName": "Julius Novachrono",
-    "series": "Black Clover",
-    "stats": { "strength": 40, "speed": 55, "abilities": 75, "iq": 72, "durability": 45 },
-    "portrait": "/portraits/julius-black-clover.webp"
-  },
-  {
-    "id": "noelle-valkyrie",
-    "displayName": "Noelle Silva (Valkyrie Dress)",
-    "series": "Black Clover",
-    "stats": { "strength": 48, "speed": 52, "abilities": 58, "iq": 55, "durability": 50 },
-    "portrait": "/portraits/noelle-valkyrie.webp"
-  },
-  {
-    "id": "thorfinn-anime",
-    "displayName": "Thorfinn (Anime)",
-    "series": "Vinland Saga",
-    "stats": { "strength": 38, "speed": 45, "abilities": 35, "iq": 48, "durability": 42 },
-    "portrait": "/portraits/thorfinn-anime.webp"
-  },
-  {
-    "id": "thors-snake",
-    "displayName": "Thors",
-    "series": "Vinland Saga",
-    "stats": { "strength": 55, "speed": 48, "abilities": 42, "iq": 58, "durability": 52 },
-    "portrait": "/portraits/thors-snake.webp"
-  },
-  {
-    "id": "natsu-dragon-force",
-    "displayName": "Natsu Dragneel (Dragon Force)",
-    "series": "Fairy Tail",
-    "stats": { "strength": 65, "speed": 62, "abilities": 68, "iq": 38, "durability": 60 },
-    "portrait": "/portraits/natsu-dragon-force.webp"
-  },
-  {
-    "id": "erza-scarlet",
-    "displayName": "Erza Scarlet",
-    "series": "Fairy Tail",
-    "stats": { "strength": 58, "speed": 55, "abilities": 55, "iq": 52, "durability": 58 },
-    "portrait": "/portraits/erza-scarlet.webp"
-  },
-  {
-    "id": "acnologia-anime",
-    "displayName": "Acnologia",
-    "series": "Fairy Tail",
-    "stats": { "strength": 72, "speed": 68, "abilities": 75, "iq": 48, "durability": 70 },
-    "portrait": "/portraits/acnologia-anime.webp"
-  },
-  {
-    "id": "zeref-anime",
-    "displayName": "Zeref Dragneel",
-    "series": "Fairy Tail",
-    "stats": { "strength": 60, "speed": 58, "abilities": 78, "iq": 70, "durability": 62 },
-    "portrait": "/portraits/zeref-anime.webp"
-  },
-  {
-    "id": "simon-gurren-lagann",
-    "displayName": "Simon (Tengen Toppa)",
-    "series": "Gurren Lagann",
-    "stats": { "strength": 88, "speed": 82, "abilities": 92, "iq": 55, "durability": 85 },
-    "portrait": "/portraits/simon-gurren-lagann.webp"
-  },
-  {
-    "id": "anti-spiral",
-    "displayName": "Anti-Spiral",
-    "series": "Gurren Lagann",
-    "stats": { "strength": 90, "speed": 85, "abilities": 95, "iq": 82, "durability": 88 },
-    "portrait": "/portraits/anti-spiral.webp"
-  },
-  {
-    "id": "ainz-ooal-gown",
-    "displayName": "Ainz Ooal Gown",
-    "series": "Overlord",
-    "stats": { "strength": 62, "speed": 55, "abilities": 85, "iq": 78, "durability": 70 },
-    "portrait": "/portraits/ainz-ooal-gown.webp"
-  },
-  {
-    "id": "rimuru-demon-lord",
-    "displayName": "Rimuru Tempest (Demon Lord)",
-    "series": "That Time I Got Reincarnated as a Slime",
-    "stats": { "strength": 58, "speed": 62, "abilities": 82, "iq": 72, "durability": 68 },
-    "portrait": "/portraits/rimuru-demon-lord.webp"
-  },
-  {
-    "id": "rudeus-anime",
-    "displayName": "Rudeus Greyrat (Anime)",
-    "series": "Mushoku Tensei",
-    "stats": { "strength": 35, "speed": 42, "abilities": 65, "iq": 68, "durability": 38 },
-    "portrait": "/portraits/rudeus-anime.webp"
-  },
-  {
-    "id": "shinra-fire-force",
-    "displayName": "Shinra Kusakabe",
-    "series": "Fire Force",
-    "stats": { "strength": 48, "speed": 68, "abilities": 55, "iq": 45, "durability": 50 },
-    "portrait": "/portraits/shinra-fire-force.webp"
-  },
-  {
-    "id": "arthur-boyle",
-    "displayName": "Arthur Boyle",
-    "series": "Fire Force",
-    "stats": { "strength": 52, "speed": 48, "abilities": 58, "iq": 38, "durability": 55 },
-    "portrait": "/portraits/arthur-boyle.webp"
-  },
-  {
-    "id": "benimaru-shinmon",
-    "displayName": "Benimaru Shinmon",
-    "series": "Fire Force",
-    "stats": { "strength": 58, "speed": 55, "abilities": 62, "iq": 52, "durability": 55 },
-    "portrait": "/portraits/benimaru-shinmon.webp"
-  },
-  {
-    "id": "sho-kusakabe",
-    "displayName": "Sho Kusakabe",
-    "series": "Fire Force",
-    "stats": { "strength": 42, "speed": 62, "abilities": 52, "iq": 48, "durability": 44 },
-    "portrait": "/portraits/sho-kusakabe.webp"
-  },
-  {
-    "id": "takemichi-hanagaki",
-    "displayName": "Takemichi Hanagaki",
-    "series": "Tokyo Revengers",
-    "stats": { "strength": 16, "speed": 18, "abilities": 22, "iq": 28, "durability": 20 },
-    "portrait": "/portraits/takemichi-hanagaki.webp"
-  },
-  {
-    "id": "mikey-sano",
-    "displayName": "Manjiro Sano",
-    "series": "Tokyo Revengers",
-    "stats": { "strength": 32, "speed": 35, "abilities": 28, "iq": 30, "durability": 30 },
-    "portrait": "/portraits/mikey-sano.webp"
-  },
-  {
-    "id": "kuroko-tetsuya",
-    "displayName": "Tetsuya Kuroko",
-    "series": "Kuroko's Basketball",
-    "stats": { "strength": 14, "speed": 20, "abilities": 16, "iq": 32, "durability": 14 },
-    "portrait": "/portraits/kuroko-tetsuya.webp"
-  },
-  {
-    "id": "aomine-daiki",
-    "displayName": "Daiki Aomine",
-    "series": "Kuroko's Basketball",
-    "stats": { "strength": 38, "speed": 42, "abilities": 28, "iq": 28, "durability": 35 },
-    "portrait": "/portraits/aomine-daiki.webp"
-  },
-  {
-    "id": "sung-jinwoo-monarch",
-    "displayName": "Sung Jinwoo (Shadow Monarch)",
-    "series": "Solo Leveling",
-    "stats": { "strength": 78, "speed": 80, "abilities": 85, "iq": 62, "durability": 75 },
-    "portrait": "/portraits/sung-jinwoo-monarch.webp"
-  },
-  {
-    "id": "sakata-gintoki",
-    "displayName": "Sakata Gintoki",
-    "series": "Gintama",
-    "stats": { "strength": 52, "speed": 58, "abilities": 48, "iq": 55, "durability": 55 },
-    "portrait": "/portraits/sakata-gintoki.webp"
-  },
-  {
-    "id": "jin-mori-anime",
-    "displayName": "Jin Mori",
-    "series": "The God of High School",
-    "stats": { "strength": 72, "speed": 78, "abilities": 75, "iq": 48, "durability": 68 },
-    "portrait": "/portraits/jin-mori-anime.webp"
-  },
-  {
-    "id": "mash-burnedead",
-    "displayName": "Mash Burnedead",
-    "series": "Mashle",
-    "stats": { "strength": 75, "speed": 55, "abilities": 42, "iq": 35, "durability": 72 },
-    "portrait": "/portraits/mash-burnedead.webp"
-  },
-  {
-    "id": "ippo-makunouchi",
-    "displayName": "Ippo Makunouchi",
-    "series": "Hajime no Ippo",
-    "stats": { "strength": 42, "speed": 38, "abilities": 35, "iq": 40, "durability": 45 },
-    "portrait": "/portraits/ippo-makunouchi.webp"
-  },
-  {
-    "id": "baki-hanma-anime",
-    "displayName": "Baki Hanma",
-    "series": "Baki",
-    "stats": { "strength": 58, "speed": 62, "abilities": 48, "iq": 45, "durability": 58 },
-    "portrait": "/portraits/baki-hanma-anime.webp"
-  },
-  {
-    "id": "ohma-tokita",
-    "displayName": "Tokita Ohma",
-    "series": "Kengan Ashura",
-    "stats": { "strength": 55, "speed": 58, "abilities": 45, "iq": 48, "durability": 55 },
-    "portrait": "/portraits/ohma-tokita.webp"
-  },
-  {
-    "id": "kuroki-gensai",
-    "displayName": "Kuroki Gensai",
-    "series": "Kengan Ashura",
-    "stats": { "strength": 58, "speed": 52, "abilities": 48, "iq": 55, "durability": 58 },
-    "portrait": "/portraits/kuroki-gensai.webp"
-  },
-  {
-    "id": "arceus-anime",
-    "displayName": "Arceus",
-    "series": "Pokémon",
-    "stats": { "strength": 90, "speed": 85, "abilities": 95, "iq": 88, "durability": 88 },
-    "portrait": "/portraits/arceus-anime.webp"
-  },
-  {
-    "id": "mewtwo-anime",
-    "displayName": "Mewtwo",
-    "series": "Pokémon",
-    "stats": { "strength": 72, "speed": 75, "abilities": 82, "iq": 75, "durability": 68 },
-    "portrait": "/portraits/mewtwo-anime.webp"
-  },
-  {
-    "id": "rayquaza-anime",
-    "displayName": "Rayquaza",
-    "series": "Pokémon",
-    "stats": { "strength": 78, "speed": 80, "abilities": 85, "iq": 62, "durability": 75 },
-    "portrait": "/portraits/rayquaza-anime.webp"
-  },
-  {
-    "id": "dialga-anime",
-    "displayName": "Dialga",
-    "series": "Pokémon",
-    "stats": { "strength": 75, "speed": 70, "abilities": 88, "iq": 65, "durability": 78 },
-    "portrait": "/portraits/dialga-anime.webp"
-  },
-  {
-    "id": "palkia-anime",
-    "displayName": "Palkia",
-    "series": "Pokémon",
-    "stats": { "strength": 74, "speed": 72, "abilities": 88, "iq": 65, "durability": 76 },
-    "portrait": "/portraits/palkia-anime.webp"
-  },
-  {
-    "id": "giratina-anime",
-    "displayName": "Giratina",
-    "series": "Pokémon",
-    "stats": { "strength": 76, "speed": 68, "abilities": 86, "iq": 62, "durability": 80 },
-    "portrait": "/portraits/giratina-anime.webp"
-  },
-  {
-    "id": "primal-kyogre-anime",
-    "displayName": "Kyogre (Primal)",
-    "series": "Pokémon",
-    "stats": { "strength": 78, "speed": 65, "abilities": 82, "iq": 55, "durability": 78 },
-    "portrait": "/portraits/primal-kyogre-anime.webp"
-  },
-  {
-    "id": "primal-groudon-anime",
-    "displayName": "Groudon (Primal)",
-    "series": "Pokémon",
-    "stats": { "strength": 82, "speed": 58, "abilities": 80, "iq": 52, "durability": 82 },
-    "portrait": "/portraits/primal-groudon-anime.webp"
-  },
-  {
-    "id": "zygarde-complete-anime",
-    "displayName": "Zygarde (Complete Forme)",
-    "series": "Pokémon",
-    "stats": { "strength": 75, "speed": 70, "abilities": 78, "iq": 58, "durability": 80 },
-    "portrait": "/portraits/zygarde-complete-anime.webp"
-  },
-  {
-    "id": "eternatus-anime",
-    "displayName": "Eternatus",
-    "series": "Pokémon",
-    "stats": { "strength": 80, "speed": 72, "abilities": 85, "iq": 55, "durability": 82 },
-    "portrait": "/portraits/eternatus-anime.webp"
-  },
-  {
-    "id": "ash-greninja-anime",
-    "displayName": "Greninja (Ash-Greninja)",
-    "series": "Pokémon",
-    "stats": { "strength": 55, "speed": 72, "abilities": 62, "iq": 48, "durability": 52 },
-    "portrait": "/portraits/ash-greninja-anime.webp"
-  },
-  {
-    "id": "xerneas-anime",
-    "displayName": "Xerneas",
-    "series": "Pokémon",
-    "stats": { "strength": 72, "speed": 68, "abilities": 80, "iq": 62, "durability": 75 },
-    "portrait": "/portraits/xerneas-anime.webp"
-  },
-  {
-    "id": "yveltal-anime",
-    "displayName": "Yveltal",
-    "series": "Pokémon",
-    "stats": { "strength": 74, "speed": 70, "abilities": 78, "iq": 58, "durability": 76 },
-    "portrait": "/portraits/yveltal-anime.webp"
-  },
-  {
-    "id": "ho-oh-anime",
-    "displayName": "Ho-Oh",
-    "series": "Pokémon",
-    "stats": { "strength": 70, "speed": 72, "abilities": 75, "iq": 58, "durability": 72 },
-    "portrait": "/portraits/ho-oh-anime.webp"
-  },
-  {
-    "id": "lugia-anime",
-    "displayName": "Lugia",
-    "series": "Pokémon",
-    "stats": { "strength": 72, "speed": 75, "abilities": 76, "iq": 58, "durability": 74 },
-    "portrait": "/portraits/lugia-anime.webp"
-  },
-  {
-    "id": "thor-record",
-    "displayName": "Thor",
-    "series": "Record of Ragnarok",
-    "stats": { "strength": 85, "speed": 55, "abilities": 72, "iq": 48, "durability": 82 },
-    "portrait": "/portraits/thor-record.webp"
-  },
-  {
-    "id": "adam-record",
-    "displayName": "Adam",
-    "series": "Record of Ragnarok",
-    "stats": { "strength": 78, "speed": 88, "abilities": 75, "iq": 52, "durability": 72 },
-    "portrait": "/portraits/adam-record.webp"
-  },
-  {
-    "id": "zeus-record",
-    "displayName": "Zeus",
-    "series": "Record of Ragnarok",
-    "stats": { "strength": 82, "speed": 85, "abilities": 78, "iq": 55, "durability": 75 },
-    "portrait": "/portraits/zeus-record.webp"
-  },
-  {
-    "id": "buddha-record",
-    "displayName": "Buddha",
-    "series": "Record of Ragnarok",
-    "stats": { "strength": 70, "speed": 72, "abilities": 80, "iq": 75, "durability": 68 },
-    "portrait": "/portraits/buddha-record.webp"
-  },
-  {
-    "id": "hajun-record",
-    "displayName": "Hajun",
-    "series": "Record of Ragnarok",
-    "stats": { "strength": 88, "speed": 75, "abilities": 85, "iq": 58, "durability": 82 },
-    "portrait": "/portraits/hajun-record.webp"
-  },
-  {
-    "id": "shinichi-izumi",
-    "displayName": "Shinichi Izumi",
-    "series": "Parasyte",
-    "stats": { "strength": 42, "speed": 48, "abilities": 55, "iq": 52, "durability": 45 },
-    "portrait": "/portraits/shinichi-izumi.webp"
-  },
-  {
-    "id": "kusuo-saiki",
-    "displayName": "Kusuo Saiki",
-    "series": "The Disastrous Life of Saiki K",
-    "stats": { "strength": 35, "speed": 95, "abilities": 78, "iq": 72, "durability": 40 },
-    "portrait": "/portraits/kusuo-saiki.webp"
-  }
+    {
+        "id":  "eren-founding-anime",
+        "displayName":  "Eren",
+        "series":  "Attack on Titan",
+        "stats":  {
+                      "strength":  72,
+                      "speed":  55,
+                      "abilities":  78,
+                      "iq":  58,
+                      "durability":  75
+                  },
+        "portrait":  "/portraits/eren-founding-anime.webp"
+    },
+    {
+        "id":  "levi-ackerman",
+        "displayName":  "Levi",
+        "series":  "Attack on Titan",
+        "stats":  {
+                      "strength":  48,
+                      "speed":  68,
+                      "abilities":  42,
+                      "iq":  62,
+                      "durability":  45
+                  },
+        "portrait":  "/portraits/levi-ackerman.webp"
+    },
+    {
+        "id":  "mikasa-ackerman",
+        "displayName":  "Mikasa",
+        "series":  "Attack on Titan",
+        "stats":  {
+                      "strength":  46,
+                      "speed":  58,
+                      "abilities":  40,
+                      "iq":  55,
+                      "durability":  44
+                  },
+        "portrait":  "/portraits/mikasa-ackerman.webp"
+    },
+    {
+        "id":  "armin-colossal-anime",
+        "displayName":  "Armin",
+        "series":  "Attack on Titan",
+        "stats":  {
+                      "strength":  65,
+                      "speed":  42,
+                      "abilities":  70,
+                      "iq":  72,
+                      "durability":  68
+                  },
+        "portrait":  "/portraits/armin-colossal-anime.webp"
+    },
+    {
+        "id":  "reiner-armored-anime",
+        "displayName":  "Reiner",
+        "series":  "Attack on Titan",
+        "stats":  {
+                      "strength":  62,
+                      "speed":  48,
+                      "abilities":  55,
+                      "iq":  50,
+                      "durability":  72
+                  },
+        "portrait":  "/portraits/reiner-armored-anime.webp"
+    },
+    {
+        "id":  "gon-adult-anime",
+        "displayName":  "Gon",
+        "series":  "Hunter x Hunter",
+        "stats":  {
+                      "strength":  70,
+                      "speed":  72,
+                      "abilities":  68,
+                      "iq":  38,
+                      "durability":  62
+                  },
+        "portrait":  "/portraits/gon-adult-anime.webp"
+    },
+    {
+        "id":  "killua-godspeed",
+        "displayName":  "Killua",
+        "series":  "Hunter x Hunter",
+        "stats":  {
+                      "strength":  52,
+                      "speed":  78,
+                      "abilities":  65,
+                      "iq":  58,
+                      "durability":  48
+                  },
+        "portrait":  "/portraits/killua-godspeed.webp"
+    },
+    {
+        "id":  "kurapika-emperor",
+        "displayName":  "Kurapika",
+        "series":  "Hunter x Hunter",
+        "stats":  {
+                      "strength":  45,
+                      "speed":  62,
+                      "abilities":  72,
+                      "iq":  68,
+                      "durability":  50
+                  },
+        "portrait":  "/portraits/kurapika-emperor.webp"
+    },
+    {
+        "id":  "hisoka-hxh",
+        "displayName":  "Hisoka",
+        "series":  "Hunter x Hunter",
+        "stats":  {
+                      "strength":  48,
+                      "speed":  58,
+                      "abilities":  60,
+                      "iq":  55,
+                      "durability":  52
+                  },
+        "portrait":  "/portraits/hisoka-hxh.webp"
+    },
+    {
+        "id":  "meruem-hxh",
+        "displayName":  "Meruem",
+        "series":  "Hunter x Hunter",
+        "stats":  {
+                      "strength":  72,
+                      "speed":  70,
+                      "abilities":  75,
+                      "iq":  70,
+                      "durability":  72
+                  },
+        "portrait":  "/portraits/meruem-hxh.webp"
+    },
+    {
+        "id":  "netero-hxh",
+        "displayName":  "Netero",
+        "series":  "Hunter x Hunter",
+        "stats":  {
+                      "strength":  55,
+                      "speed":  68,
+                      "abilities":  82,
+                      "iq":  75,
+                      "durability":  50
+                  },
+        "portrait":  "/portraits/netero-hxh.webp"
+    },
+    {
+        "id":  "light-yagami",
+        "displayName":  "Light",
+        "series":  "Death Note",
+        "stats":  {
+                      "strength":  12,
+                      "speed":  14,
+                      "abilities":  28,
+                      "iq":  78,
+                      "durability":  12
+                  },
+        "portrait":  "/portraits/light-yagami.webp"
+    },
+    {
+        "id":  "l-lawliet",
+        "displayName":  "L",
+        "series":  "Death Note",
+        "stats":  {
+                      "strength":  14,
+                      "speed":  16,
+                      "abilities":  18,
+                      "iq":  92,
+                      "durability":  14
+                  },
+        "portrait":  "/portraits/l-lawliet.webp"
+    },
+    {
+        "id":  "ryuk-hxh",
+        "displayName":  "Ryuk",
+        "series":  "Death Note",
+        "stats":  {
+                      "strength":  35,
+                      "speed":  42,
+                      "abilities":  62,
+                      "iq":  48,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/ryuk-hxh.webp"
+    },
+    {
+        "id":  "edward-elric",
+        "displayName":  "Edward",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  42,
+                      "speed":  48,
+                      "abilities":  58,
+                      "iq":  72,
+                      "durability":  45
+                  },
+        "portrait":  "/portraits/edward-elric.webp"
+    },
+    {
+        "id":  "alphonse-elric",
+        "displayName":  "Alphonse",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  48,
+                      "speed":  38,
+                      "abilities":  52,
+                      "iq":  55,
+                      "durability":  75
+                  },
+        "portrait":  "/portraits/alphonse-elric.webp"
+    },
+    {
+        "id":  "roy-mustang",
+        "displayName":  "Roy",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  35,
+                      "speed":  42,
+                      "abilities":  62,
+                      "iq":  68,
+                      "durability":  40
+                  },
+        "portrait":  "/portraits/roy-mustang.webp"
+    },
+    {
+        "id":  "father-fma",
+        "displayName":  "Father",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  65,
+                      "speed":  58,
+                      "abilities":  82,
+                      "iq":  75,
+                      "durability":  70
+                  },
+        "portrait":  "/portraits/father-fma.webp"
+    },
+    {
+        "id":  "wrath-fma",
+        "displayName":  "Wrath",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  52,
+                      "speed":  72,
+                      "abilities":  48,
+                      "iq":  55,
+                      "durability":  50
+                  },
+        "portrait":  "/portraits/wrath-fma.webp"
+    },
+    {
+        "id":  "pride-fma",
+        "displayName":  "Pride",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  55,
+                      "speed":  48,
+                      "abilities":  68,
+                      "iq":  62,
+                      "durability":  75
+                  },
+        "portrait":  "/portraits/pride-fma.webp"
+    },
+    {
+        "id":  "lust-fma",
+        "displayName":  "Lust",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  45,
+                      "speed":  50,
+                      "abilities":  55,
+                      "iq":  48,
+                      "durability":  62
+                  },
+        "portrait":  "/portraits/lust-fma.webp"
+    },
+    {
+        "id":  "gluttony-fma",
+        "displayName":  "Gluttony",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  58,
+                      "speed":  28,
+                      "abilities":  52,
+                      "iq":  18,
+                      "durability":  70
+                  },
+        "portrait":  "/portraits/gluttony-fma.webp"
+    },
+    {
+        "id":  "envy-fma",
+        "displayName":  "Envy",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  42,
+                      "speed":  45,
+                      "abilities":  58,
+                      "iq":  50,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/envy-fma.webp"
+    },
+    {
+        "id":  "sloth-fma",
+        "displayName":  "Sloth",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  75,
+                      "speed":  38,
+                      "abilities":  45,
+                      "iq":  15,
+                      "durability":  72
+                  },
+        "portrait":  "/portraits/sloth-fma.webp"
+    },
+    {
+        "id":  "greed-fma",
+        "displayName":  "Greed",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  48,
+                      "speed":  52,
+                      "abilities":  50,
+                      "iq":  55,
+                      "durability":  78
+                  },
+        "portrait":  "/portraits/greed-fma.webp"
+    },
+    {
+        "id":  "truth-fma",
+        "displayName":  "Truth",
+        "series":  "Fullmetal Alchemist",
+        "stats":  {
+                      "strength":  88,
+                      "speed":  85,
+                      "abilities":  98,
+                      "iq":  95,
+                      "durability":  90
+                  },
+        "portrait":  "/portraits/truth-fma.webp"
+    },
+    {
+        "id":  "tanjiro-sun-breathing",
+        "displayName":  "Tanjiro",
+        "series":  "Demon Slayer",
+        "stats":  {
+                      "strength":  55,
+                      "speed":  58,
+                      "abilities":  62,
+                      "iq":  48,
+                      "durability":  52
+                  },
+        "portrait":  "/portraits/tanjiro-sun-breathing.webp"
+    },
+    {
+        "id":  "nezuko-demon",
+        "displayName":  "Nezuko",
+        "series":  "Demon Slayer",
+        "stats":  {
+                      "strength":  52,
+                      "speed":  55,
+                      "abilities":  50,
+                      "iq":  35,
+                      "durability":  58
+                  },
+        "portrait":  "/portraits/nezuko-demon.webp"
+    },
+    {
+        "id":  "zenitsu-godspeed",
+        "displayName":  "Zenitsu",
+        "series":  "Demon Slayer",
+        "stats":  {
+                      "strength":  42,
+                      "speed":  72,
+                      "abilities":  55,
+                      "iq":  32,
+                      "durability":  45
+                  },
+        "portrait":  "/portraits/zenitsu-godspeed.webp"
+    },
+    {
+        "id":  "inosuke-demon-slayer",
+        "displayName":  "Inosuke",
+        "series":  "Demon Slayer",
+        "stats":  {
+                      "strength":  50,
+                      "speed":  52,
+                      "abilities":  48,
+                      "iq":  28,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/inosuke-demon-slayer.webp"
+    },
+    {
+        "id":  "rengoku-demon-slayer",
+        "displayName":  "Rengoku",
+        "series":  "Demon Slayer",
+        "stats":  {
+                      "strength":  58,
+                      "speed":  60,
+                      "abilities":  62,
+                      "iq":  48,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/rengoku-demon-slayer.webp"
+    },
+    {
+        "id":  "akaza-demon-slayer",
+        "displayName":  "Akaza",
+        "series":  "Demon Slayer",
+        "stats":  {
+                      "strength":  68,
+                      "speed":  70,
+                      "abilities":  72,
+                      "iq":  52,
+                      "durability":  68
+                  },
+        "portrait":  "/portraits/akaza-demon-slayer.webp"
+    },
+    {
+        "id":  "muzan-demon-slayer",
+        "displayName":  "Muzan",
+        "series":  "Demon Slayer",
+        "stats":  {
+                      "strength":  65,
+                      "speed":  68,
+                      "abilities":  75,
+                      "iq":  62,
+                      "durability":  72
+                  },
+        "portrait":  "/portraits/muzan-demon-slayer.webp"
+    },
+    {
+        "id":  "kokushibo-anime",
+        "displayName":  "Kokushibo",
+        "series":  "Demon Slayer",
+        "stats":  {
+                      "strength":  72,
+                      "speed":  65,
+                      "abilities":  78,
+                      "iq":  58,
+                      "durability":  70
+                  },
+        "portrait":  "/portraits/kokushibo-anime.webp"
+    },
+    {
+        "id":  "kirito-aincrad-base",
+        "displayName":  "Kirito (Base)",
+        "series":  "Sword Art Online",
+        "portrait":  "/portraits/kirito-stacia.webp"
+    },
+    {
+        "id":  "kirito-stacia",
+        "displayName":  "Kirito",
+        "series":  "Sword Art Online",
+        "stats":  {
+                      "strength":  58,
+                      "speed":  62,
+                      "abilities":  65,
+                      "iq":  52,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/kirito-stacia.webp"
+    },
+    {
+        "id":  "asuna-alicization",
+        "displayName":  "Asuna",
+        "series":  "Sword Art Online",
+        "stats":  {
+                      "strength":  48,
+                      "speed":  55,
+                      "abilities":  52,
+                      "iq":  50,
+                      "durability":  48
+                  },
+        "portrait":  "/portraits/asuna-alicization.webp"
+    },
+    {
+        "id":  "eugeo-alicization",
+        "displayName":  "Eugeo",
+        "series":  "Sword Art Online",
+        "stats":  {
+                      "strength":  52,
+                      "speed":  48,
+                      "abilities":  55,
+                      "iq":  45,
+                      "durability":  50
+                  },
+        "portrait":  "/portraits/eugeo-alicization.webp"
+    },
+    {
+        "id":  "alice-alicization",
+        "displayName":  "Alice",
+        "series":  "Sword Art Online",
+        "stats":  {
+                      "strength":  55,
+                      "speed":  52,
+                      "abilities":  58,
+                      "iq":  48,
+                      "durability":  58
+                  },
+        "portrait":  "/portraits/alice-alicization.webp"
+    },
+    {
+        "id":  "kaneki-ken-anime",
+        "displayName":  "Kaneki",
+        "series":  "Tokyo Ghoul",
+        "stats":  {
+                      "strength":  55,
+                      "speed":  58,
+                      "abilities":  62,
+                      "iq":  52,
+                      "durability":  60
+                  },
+        "portrait":  "/portraits/kaneki-ken-anime.webp"
+    },
+    {
+        "id":  "arima-kishou",
+        "displayName":  "Arima",
+        "series":  "Tokyo Ghoul",
+        "stats":  {
+                      "strength":  48,
+                      "speed":  62,
+                      "abilities":  55,
+                      "iq":  58,
+                      "durability":  52
+                  },
+        "portrait":  "/portraits/arima-kishou.webp"
+    },
+    {
+        "id":  "eto-yoshimura",
+        "displayName":  "Eto",
+        "series":  "Tokyo Ghoul",
+        "stats":  {
+                      "strength":  50,
+                      "speed":  52,
+                      "abilities":  65,
+                      "iq":  62,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/eto-yoshimura.webp"
+    },
+    {
+        "id":  "lelouch-vi-britannia",
+        "displayName":  "Lelouch",
+        "series":  "Code Geass",
+        "stats":  {
+                      "strength":  18,
+                      "speed":  20,
+                      "abilities":  72,
+                      "iq":  88,
+                      "durability":  16
+                  },
+        "portrait":  "/portraits/lelouch-vi-britannia.webp"
+    },
+    {
+        "id":  "c-c-geass",
+        "displayName":  "C.C.",
+        "series":  "Code Geass",
+        "stats":  {
+                      "strength":  35,
+                      "speed":  38,
+                      "abilities":  68,
+                      "iq":  70,
+                      "durability":  75
+                  },
+        "portrait":  "/portraits/c-c-geass.webp"
+    },
+    {
+        "id":  "mob-100-anime",
+        "displayName":  "Mob",
+        "series":  "Mob Psycho 100",
+        "stats":  {
+                      "strength":  42,
+                      "speed":  48,
+                      "abilities":  75,
+                      "iq":  55,
+                      "durability":  45
+                  },
+        "portrait":  "/portraits/mob-100-anime.webp"
+    },
+    {
+        "id":  "mob-unknown-anime",
+        "displayName":  "Shigeo Kageyama (???%)",
+        "series":  "Mob Psycho 100",
+        "stats":  {
+                      "strength":  65,
+                      "speed":  70,
+                      "abilities":  88,
+                      "iq":  58,
+                      "durability":  62
+                  },
+        "portrait":  "/portraits/mob-unknown-anime.webp"
+    },
+    {
+        "id":  "toichiro-suzuki",
+        "displayName":  "Toichiro",
+        "series":  "Mob Psycho 100",
+        "stats":  {
+                      "strength":  50,
+                      "speed":  52,
+                      "abilities":  78,
+                      "iq":  52,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/toichiro-suzuki.webp"
+    },
+    {
+        "id":  "esdeath",
+        "displayName":  "Esdeath",
+        "series":  "Akame ga Kill",
+        "stats":  {
+                      "strength":  58,
+                      "speed":  55,
+                      "abilities":  68,
+                      "iq":  52,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/esdeath.webp"
+    },
+    {
+        "id":  "akame-aga",
+        "displayName":  "Akame",
+        "series":  "Akame ga Kill",
+        "stats":  {
+                      "strength":  50,
+                      "speed":  58,
+                      "abilities":  55,
+                      "iq":  45,
+                      "durability":  48
+                  },
+        "portrait":  "/portraits/akame-aga.webp"
+    },
+    {
+        "id":  "tatsumi-incursio",
+        "displayName":  "Tatsumi",
+        "series":  "Akame ga Kill",
+        "stats":  {
+                      "strength":  55,
+                      "speed":  52,
+                      "abilities":  58,
+                      "iq":  42,
+                      "durability":  65
+                  },
+        "portrait":  "/portraits/tatsumi-incursio.webp"
+    },
+    {
+        "id":  "anos-voldigoad",
+        "displayName":  "Anos",
+        "series":  "The Misfit of Demon King Academy",
+        "stats":  {
+                      "strength":  82,
+                      "speed":  85,
+                      "abilities":  90,
+                      "iq":  75,
+                      "durability":  82
+                  },
+        "portrait":  "/portraits/anos-voldigoad.webp"
+    },
+    {
+        "id":  "koro-sensei",
+        "displayName":  "Korosensei",
+        "series":  "Assassination Classroom",
+        "stats":  {
+                      "strength":  52,
+                      "speed":  88,
+                      "abilities":  62,
+                      "iq":  82,
+                      "durability":  58
+                  },
+        "portrait":  "/portraits/koro-sensei.webp"
+    },
+    {
+        "id":  "hinata-shoyo",
+        "displayName":  "Hinata",
+        "series":  "Haikyuu!!",
+        "stats":  {
+                      "strength":  18,
+                      "speed":  22,
+                      "abilities":  14,
+                      "iq":  24,
+                      "durability":  16
+                  },
+        "portrait":  "/portraits/hinata-shoyo.webp"
+    },
+    {
+        "id":  "senku-ishigami",
+        "displayName":  "Senku",
+        "series":  "Dr. Stone",
+        "stats":  {
+                      "strength":  14,
+                      "speed":  16,
+                      "abilities":  28,
+                      "iq":  97,
+                      "durability":  12
+                  },
+        "portrait":  "/portraits/senku-ishigami.webp"
+    },
+    {
+        "id":  "asta-black",
+        "displayName":  "Asta",
+        "series":  "Black Clover",
+        "stats":  {
+                      "strength":  62,
+                      "speed":  58,
+                      "abilities":  68,
+                      "iq":  42,
+                      "durability":  60
+                  },
+        "portrait":  "/portraits/asta-black.webp"
+    },
+    {
+        "id":  "yuno-spirit-dive",
+        "displayName":  "Yuno",
+        "series":  "Black Clover",
+        "stats":  {
+                      "strength":  58,
+                      "speed":  62,
+                      "abilities":  72,
+                      "iq":  52,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/yuno-spirit-dive.webp"
+    },
+    {
+        "id":  "yami-black-clover",
+        "displayName":  "Yami",
+        "series":  "Black Clover",
+        "stats":  {
+                      "strength":  55,
+                      "speed":  52,
+                      "abilities":  60,
+                      "iq":  58,
+                      "durability":  52
+                  },
+        "portrait":  "/portraits/yami-black-clover.webp"
+    },
+    {
+        "id":  "julius-black-clover",
+        "displayName":  "Julius",
+        "series":  "Black Clover",
+        "stats":  {
+                      "strength":  40,
+                      "speed":  55,
+                      "abilities":  75,
+                      "iq":  72,
+                      "durability":  45
+                  },
+        "portrait":  "/portraits/julius-black-clover.webp"
+    },
+    {
+        "id":  "noelle-valkyrie",
+        "displayName":  "Noelle",
+        "series":  "Black Clover",
+        "stats":  {
+                      "strength":  48,
+                      "speed":  52,
+                      "abilities":  58,
+                      "iq":  55,
+                      "durability":  50
+                  },
+        "portrait":  "/portraits/noelle-valkyrie.webp"
+    },
+    {
+        "id":  "thorfinn-anime",
+        "displayName":  "Thorfinn",
+        "series":  "Vinland Saga",
+        "stats":  {
+                      "strength":  38,
+                      "speed":  45,
+                      "abilities":  35,
+                      "iq":  48,
+                      "durability":  42
+                  },
+        "portrait":  "/portraits/thorfinn-anime.webp"
+    },
+    {
+        "id":  "thors-snake",
+        "displayName":  "Thors",
+        "series":  "Vinland Saga",
+        "stats":  {
+                      "strength":  55,
+                      "speed":  48,
+                      "abilities":  42,
+                      "iq":  58,
+                      "durability":  52
+                  },
+        "portrait":  "/portraits/thors-snake.webp"
+    },
+    {
+        "id":  "natsu-dragon-force",
+        "displayName":  "Natsu",
+        "series":  "Fairy Tail",
+        "stats":  {
+                      "strength":  65,
+                      "speed":  62,
+                      "abilities":  68,
+                      "iq":  38,
+                      "durability":  60
+                  },
+        "portrait":  "/portraits/natsu-dragon-force.webp"
+    },
+    {
+        "id":  "erza-scarlet",
+        "displayName":  "Erza",
+        "series":  "Fairy Tail",
+        "stats":  {
+                      "strength":  58,
+                      "speed":  55,
+                      "abilities":  55,
+                      "iq":  52,
+                      "durability":  58
+                  },
+        "portrait":  "/portraits/erza-scarlet.webp"
+    },
+    {
+        "id":  "acnologia-anime",
+        "displayName":  "Acnologia",
+        "series":  "Fairy Tail",
+        "stats":  {
+                      "strength":  72,
+                      "speed":  68,
+                      "abilities":  75,
+                      "iq":  48,
+                      "durability":  70
+                  },
+        "portrait":  "/portraits/acnologia-anime.webp"
+    },
+    {
+        "id":  "zeref-anime",
+        "displayName":  "Zeref",
+        "series":  "Fairy Tail",
+        "stats":  {
+                      "strength":  60,
+                      "speed":  58,
+                      "abilities":  78,
+                      "iq":  70,
+                      "durability":  62
+                  },
+        "portrait":  "/portraits/zeref-anime.webp"
+    },
+    {
+        "id":  "simon-gurren-lagann",
+        "displayName":  "Simon",
+        "series":  "Gurren Lagann",
+        "stats":  {
+                      "strength":  88,
+                      "speed":  82,
+                      "abilities":  92,
+                      "iq":  55,
+                      "durability":  85
+                  },
+        "portrait":  "/portraits/simon-gurren-lagann.webp"
+    },
+    {
+        "id":  "anti-spiral",
+        "displayName":  "Anti-Spiral",
+        "series":  "Gurren Lagann",
+        "stats":  {
+                      "strength":  90,
+                      "speed":  85,
+                      "abilities":  95,
+                      "iq":  82,
+                      "durability":  88
+                  },
+        "portrait":  "/portraits/anti-spiral.webp"
+    },
+    {
+        "id":  "ainz-ooal-gown",
+        "displayName":  "Ainz",
+        "series":  "Overlord",
+        "stats":  {
+                      "strength":  62,
+                      "speed":  55,
+                      "abilities":  85,
+                      "iq":  78,
+                      "durability":  70
+                  },
+        "portrait":  "/portraits/ainz-ooal-gown.webp"
+    },
+    {
+        "id":  "rimuru-demon-lord",
+        "displayName":  "Rimuru",
+        "series":  "That Time I Got Reincarnated as a Slime",
+        "stats":  {
+                      "strength":  58,
+                      "speed":  62,
+                      "abilities":  82,
+                      "iq":  72,
+                      "durability":  68
+                  },
+        "portrait":  "/portraits/rimuru-demon-lord.webp"
+    },
+    {
+        "id":  "rudeus-anime",
+        "displayName":  "Rudeus",
+        "series":  "Mushoku Tensei",
+        "stats":  {
+                      "strength":  35,
+                      "speed":  42,
+                      "abilities":  65,
+                      "iq":  68,
+                      "durability":  38
+                  },
+        "portrait":  "/portraits/rudeus-anime.webp"
+    },
+    {
+        "id":  "shinra-fire-force",
+        "displayName":  "Shinra",
+        "series":  "Fire Force",
+        "stats":  {
+                      "strength":  48,
+                      "speed":  68,
+                      "abilities":  55,
+                      "iq":  45,
+                      "durability":  50
+                  },
+        "portrait":  "/portraits/shinra-fire-force.webp"
+    },
+    {
+        "id":  "arthur-boyle",
+        "displayName":  "Arthur",
+        "series":  "Fire Force",
+        "stats":  {
+                      "strength":  52,
+                      "speed":  48,
+                      "abilities":  58,
+                      "iq":  38,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/arthur-boyle.webp"
+    },
+    {
+        "id":  "benimaru-shinmon",
+        "displayName":  "Benimaru",
+        "series":  "Fire Force",
+        "stats":  {
+                      "strength":  58,
+                      "speed":  55,
+                      "abilities":  62,
+                      "iq":  52,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/benimaru-shinmon.webp"
+    },
+    {
+        "id":  "sho-kusakabe",
+        "displayName":  "Sho",
+        "series":  "Fire Force",
+        "stats":  {
+                      "strength":  42,
+                      "speed":  62,
+                      "abilities":  52,
+                      "iq":  48,
+                      "durability":  44
+                  },
+        "portrait":  "/portraits/sho-kusakabe.webp"
+    },
+    {
+        "id":  "takemichi-hanagaki",
+        "displayName":  "Takemichi",
+        "series":  "Tokyo Revengers",
+        "stats":  {
+                      "strength":  16,
+                      "speed":  18,
+                      "abilities":  22,
+                      "iq":  28,
+                      "durability":  20
+                  },
+        "portrait":  "/portraits/takemichi-hanagaki.webp"
+    },
+    {
+        "id":  "mikey-sano",
+        "displayName":  "Mikey",
+        "series":  "Tokyo Revengers",
+        "stats":  {
+                      "strength":  32,
+                      "speed":  35,
+                      "abilities":  28,
+                      "iq":  30,
+                      "durability":  30
+                  },
+        "portrait":  "/portraits/mikey-sano.webp"
+    },
+    {
+        "id":  "kuroko-tetsuya",
+        "displayName":  "Kuroko",
+        "series":  "Kuroko\u0027s Basketball",
+        "stats":  {
+                      "strength":  14,
+                      "speed":  20,
+                      "abilities":  16,
+                      "iq":  32,
+                      "durability":  14
+                  },
+        "portrait":  "/portraits/kuroko-tetsuya.webp"
+    },
+    {
+        "id":  "aomine-daiki",
+        "displayName":  "Aomine",
+        "series":  "Kuroko\u0027s Basketball",
+        "stats":  {
+                      "strength":  38,
+                      "speed":  42,
+                      "abilities":  28,
+                      "iq":  28,
+                      "durability":  35
+                  },
+        "portrait":  "/portraits/aomine-daiki.webp"
+    },
+    {
+        "id":  "sung-jinwoo-monarch",
+        "displayName":  "Jinwoo",
+        "series":  "Solo Leveling",
+        "stats":  {
+                      "strength":  78,
+                      "speed":  80,
+                      "abilities":  85,
+                      "iq":  62,
+                      "durability":  75
+                  },
+        "portrait":  "/portraits/sung-jinwoo-monarch.webp"
+    },
+    {
+        "id":  "sakata-gintoki",
+        "displayName":  "Gintoki",
+        "series":  "Gintama",
+        "stats":  {
+                      "strength":  52,
+                      "speed":  58,
+                      "abilities":  48,
+                      "iq":  55,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/sakata-gintoki.webp"
+    },
+    {
+        "id":  "jin-mori-anime",
+        "displayName":  "Mori",
+        "series":  "The God of High School",
+        "stats":  {
+                      "strength":  72,
+                      "speed":  78,
+                      "abilities":  75,
+                      "iq":  48,
+                      "durability":  68
+                  },
+        "portrait":  "/portraits/jin-mori-anime.webp"
+    },
+    {
+        "id":  "mash-burnedead",
+        "displayName":  "Mash",
+        "series":  "Mashle",
+        "stats":  {
+                      "strength":  75,
+                      "speed":  55,
+                      "abilities":  42,
+                      "iq":  35,
+                      "durability":  72
+                  },
+        "portrait":  "/portraits/mash-burnedead.webp"
+    },
+    {
+        "id":  "ippo-makunouchi",
+        "displayName":  "Ippo",
+        "series":  "Hajime no Ippo",
+        "stats":  {
+                      "strength":  42,
+                      "speed":  38,
+                      "abilities":  35,
+                      "iq":  40,
+                      "durability":  45
+                  },
+        "portrait":  "/portraits/ippo-makunouchi.webp"
+    },
+    {
+        "id":  "baki-hanma-anime",
+        "displayName":  "Baki",
+        "series":  "Baki",
+        "stats":  {
+                      "strength":  58,
+                      "speed":  62,
+                      "abilities":  48,
+                      "iq":  45,
+                      "durability":  58
+                  },
+        "portrait":  "/portraits/baki-hanma-anime.webp"
+    },
+    {
+        "id":  "ohma-tokita",
+        "displayName":  "Ohma",
+        "series":  "Kengan Ashura",
+        "stats":  {
+                      "strength":  55,
+                      "speed":  58,
+                      "abilities":  45,
+                      "iq":  48,
+                      "durability":  55
+                  },
+        "portrait":  "/portraits/ohma-tokita.webp"
+    },
+    {
+        "id":  "kuroki-gensai",
+        "displayName":  "Kuroki",
+        "series":  "Kengan Ashura",
+        "stats":  {
+                      "strength":  58,
+                      "speed":  52,
+                      "abilities":  48,
+                      "iq":  55,
+                      "durability":  58
+                  },
+        "portrait":  "/portraits/kuroki-gensai.webp"
+    },
+    {
+        "id":  "arceus-anime",
+        "displayName":  "Arceus",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  90,
+                      "speed":  85,
+                      "abilities":  95,
+                      "iq":  88,
+                      "durability":  88
+                  },
+        "portrait":  "/portraits/arceus-anime.webp"
+    },
+    {
+        "id":  "mewtwo-anime",
+        "displayName":  "Mewtwo",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  72,
+                      "speed":  75,
+                      "abilities":  82,
+                      "iq":  75,
+                      "durability":  68
+                  },
+        "portrait":  "/portraits/mewtwo-anime.webp"
+    },
+    {
+        "id":  "rayquaza-anime",
+        "displayName":  "Rayquaza",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  78,
+                      "speed":  80,
+                      "abilities":  85,
+                      "iq":  62,
+                      "durability":  75
+                  },
+        "portrait":  "/portraits/rayquaza-anime.webp"
+    },
+    {
+        "id":  "dialga-anime",
+        "displayName":  "Dialga",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  75,
+                      "speed":  70,
+                      "abilities":  88,
+                      "iq":  65,
+                      "durability":  78
+                  },
+        "portrait":  "/portraits/dialga-anime.webp"
+    },
+    {
+        "id":  "palkia-anime",
+        "displayName":  "Palkia",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  74,
+                      "speed":  72,
+                      "abilities":  88,
+                      "iq":  65,
+                      "durability":  76
+                  },
+        "portrait":  "/portraits/palkia-anime.webp"
+    },
+    {
+        "id":  "giratina-anime",
+        "displayName":  "Giratina",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  76,
+                      "speed":  68,
+                      "abilities":  86,
+                      "iq":  62,
+                      "durability":  80
+                  },
+        "portrait":  "/portraits/giratina-anime.webp"
+    },
+    {
+        "id":  "primal-kyogre-anime",
+        "displayName":  "Kyogre",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  78,
+                      "speed":  65,
+                      "abilities":  82,
+                      "iq":  55,
+                      "durability":  78
+                  },
+        "portrait":  "/portraits/primal-kyogre-anime.webp"
+    },
+    {
+        "id":  "primal-groudon-anime",
+        "displayName":  "Groudon",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  82,
+                      "speed":  58,
+                      "abilities":  80,
+                      "iq":  52,
+                      "durability":  82
+                  },
+        "portrait":  "/portraits/primal-groudon-anime.webp"
+    },
+    {
+        "id":  "zygarde-complete-anime",
+        "displayName":  "Zygarde",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  75,
+                      "speed":  70,
+                      "abilities":  78,
+                      "iq":  58,
+                      "durability":  80
+                  },
+        "portrait":  "/portraits/zygarde-complete-anime.webp"
+    },
+    {
+        "id":  "eternatus-anime",
+        "displayName":  "Eternatus",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  80,
+                      "speed":  72,
+                      "abilities":  85,
+                      "iq":  55,
+                      "durability":  82
+                  },
+        "portrait":  "/portraits/eternatus-anime.webp"
+    },
+    {
+        "id":  "ash-greninja-anime",
+        "displayName":  "Greninja",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  55,
+                      "speed":  72,
+                      "abilities":  62,
+                      "iq":  48,
+                      "durability":  52
+                  },
+        "portrait":  "/portraits/ash-greninja-anime.webp"
+    },
+    {
+        "id":  "xerneas-anime",
+        "displayName":  "Xerneas",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  72,
+                      "speed":  68,
+                      "abilities":  80,
+                      "iq":  62,
+                      "durability":  75
+                  },
+        "portrait":  "/portraits/xerneas-anime.webp"
+    },
+    {
+        "id":  "yveltal-anime",
+        "displayName":  "Yveltal",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  74,
+                      "speed":  70,
+                      "abilities":  78,
+                      "iq":  58,
+                      "durability":  76
+                  },
+        "portrait":  "/portraits/yveltal-anime.webp"
+    },
+    {
+        "id":  "ho-oh-anime",
+        "displayName":  "Ho-Oh",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  70,
+                      "speed":  72,
+                      "abilities":  75,
+                      "iq":  58,
+                      "durability":  72
+                  },
+        "portrait":  "/portraits/ho-oh-anime.webp"
+    },
+    {
+        "id":  "lugia-anime",
+        "displayName":  "Lugia",
+        "series":  "PokÃ©mon",
+        "stats":  {
+                      "strength":  72,
+                      "speed":  75,
+                      "abilities":  76,
+                      "iq":  58,
+                      "durability":  74
+                  },
+        "portrait":  "/portraits/lugia-anime.webp"
+    },
+    {
+        "id":  "thor-record",
+        "displayName":  "Thor",
+        "series":  "Record of Ragnarok",
+        "stats":  {
+                      "strength":  85,
+                      "speed":  55,
+                      "abilities":  72,
+                      "iq":  48,
+                      "durability":  82
+                  },
+        "portrait":  "/portraits/thor-record.webp"
+    },
+    {
+        "id":  "adam-record",
+        "displayName":  "Adam",
+        "series":  "Record of Ragnarok",
+        "stats":  {
+                      "strength":  78,
+                      "speed":  88,
+                      "abilities":  75,
+                      "iq":  52,
+                      "durability":  72
+                  },
+        "portrait":  "/portraits/adam-record.webp"
+    },
+    {
+        "id":  "zeus-record",
+        "displayName":  "Zeus",
+        "series":  "Record of Ragnarok",
+        "stats":  {
+                      "strength":  82,
+                      "speed":  85,
+                      "abilities":  78,
+                      "iq":  55,
+                      "durability":  75
+                  },
+        "portrait":  "/portraits/zeus-record.webp"
+    },
+    {
+        "id":  "buddha-record",
+        "displayName":  "Buddha",
+        "series":  "Record of Ragnarok",
+        "stats":  {
+                      "strength":  70,
+                      "speed":  72,
+                      "abilities":  80,
+                      "iq":  75,
+                      "durability":  68
+                  },
+        "portrait":  "/portraits/buddha-record.webp"
+    },
+    {
+        "id":  "hajun-record",
+        "displayName":  "Hajun",
+        "series":  "Record of Ragnarok",
+        "stats":  {
+                      "strength":  88,
+                      "speed":  75,
+                      "abilities":  85,
+                      "iq":  58,
+                      "durability":  82
+                  },
+        "portrait":  "/portraits/hajun-record.webp"
+    },
+    {
+        "id":  "shinichi-izumi",
+        "displayName":  "Shinichi",
+        "series":  "Parasyte",
+        "stats":  {
+                      "strength":  42,
+                      "speed":  48,
+                      "abilities":  55,
+                      "iq":  52,
+                      "durability":  45
+                  },
+        "portrait":  "/portraits/shinichi-izumi.webp"
+    },
+    {
+        "id":  "kusuo-saiki",
+        "displayName":  "Saiki",
+        "series":  "The Disastrous Life of Saiki K",
+        "stats":  {
+                      "strength":  35,
+                      "speed":  95,
+                      "abilities":  78,
+                      "iq":  72,
+                      "durability":  40
+                  },
+        "portrait":  "/portraits/kusuo-saiki.webp"
+    }
 ]

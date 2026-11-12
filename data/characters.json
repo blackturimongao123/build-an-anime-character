@@ -39,7 +39,7 @@
     }
   },
   {
-    "displayName": "Koro Sensei",
+    "displayName": "Korosensei",
     "id": "koro-sensei",
     "portrait": "/portraits/koro-sensei.jpg",
     "series": "Assassination Classroom",
@@ -52,7 +52,7 @@
     }
   },
   {
-    "displayName": "Armin Arlert",
+    "displayName": "Armin",
     "id": "armin-colossal-anime",
     "portrait": "/portraits/armin-colossal-anime.jpg",
     "series": "Attack on Titan",
@@ -65,7 +65,7 @@
     }
   },
   {
-    "displayName": "Eren Yeager",
+    "displayName": "Eren",
     "id": "eren-founding-anime",
     "portrait": "/portraits/eren-founding-anime.jpg",
     "series": "Attack on Titan",
@@ -82,7 +82,7 @@
     }
   },
   {
-    "displayName": "Levi Ackerman",
+    "displayName": "Levi",
     "id": "levi-ackerman",
     "portrait": "/portraits/levi-ackerman.jpg",
     "series": "Attack on Titan",
@@ -99,7 +99,7 @@
     }
   },
   {
-    "displayName": "Mikasa Ackerman",
+    "displayName": "Mikasa",
     "id": "mikasa-ackerman",
     "portrait": "/portraits/mikasa-ackerman.jpg",
     "series": "Attack on Titan",
@@ -112,7 +112,7 @@
     }
   },
   {
-    "displayName": "Reiner Braun",
+    "displayName": "Reiner",
     "id": "reiner-armored-anime",
     "portrait": "/portraits/reiner-armored-anime.jpg",
     "series": "Attack on Titan",
@@ -125,7 +125,7 @@
     }
   },
   {
-    "displayName": "Baki Hanma",
+    "displayName": "Baki",
     "id": "baki-hanma-anime",
     "portrait": "/portraits/baki-hanma-anime.jpg",
     "series": "Baki",
@@ -155,7 +155,7 @@
     }
   },
   {
-    "displayName": "Julius Novachrono",
+    "displayName": "Julius",
     "id": "julius-black-clover",
     "portrait": "/portraits/julius-black-clover.jpg",
     "series": "Black Clover",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "displayName": "Noelle Silva",
+    "displayName": "Noelle",
     "id": "noelle-valkyrie",
     "portrait": "/portraits/noelle-valkyrie.webp",
     "series": "Black Clover",
@@ -181,7 +181,7 @@
     }
   },
   {
-    "displayName": "Yami Sukehiro",
+    "displayName": "Yami",
     "id": "yami-black-clover",
     "portrait": "/portraits/yami-black-clover.jpg",
     "series": "Black Clover",
@@ -224,7 +224,7 @@
     }
   },
   {
-    "displayName": "Lelouch vi Britannia",
+    "displayName": "Lelouch",
     "id": "lelouch-vi-britannia",
     "portrait": "/portraits/lelouch-vi-britannia.webp",
     "series": "Code Geass",
@@ -237,7 +237,7 @@
     }
   },
   {
-    "displayName": "L Lawliet",
+    "displayName": "L",
     "id": "l-lawliet",
     "portrait": "/portraits/l-lawliet.jpg",
     "series": "Death Note",
@@ -254,7 +254,7 @@
     }
   },
   {
-    "displayName": "Light Yagami",
+    "displayName": "Light",
     "id": "light-yagami",
     "portrait": "/portraits/light-yagami.jpg",
     "series": "Death Note",
@@ -301,7 +301,7 @@
     }
   },
   {
-    "displayName": "Inosuke Hashibira",
+    "displayName": "Inosuke",
     "id": "inosuke-demon-slayer",
     "portrait": "/portraits/inosuke-demon-slayer.jpg",
     "series": "Demon Slayer",
@@ -327,7 +327,7 @@
     }
   },
   {
-    "displayName": "Kyojuro Rengoku",
+    "displayName": "Rengoku",
     "id": "rengoku-demon-slayer",
     "portrait": "/portraits/rengoku-demon-slayer.jpg",
     "series": "Demon Slayer",
@@ -340,7 +340,7 @@
     }
   },
   {
-    "displayName": "Muzan Kibutsuji",
+    "displayName": "Muzan",
     "id": "muzan-demon-slayer",
     "portrait": "/portraits/muzan-demon-slayer.jpg",
     "series": "Demon Slayer",
@@ -353,7 +353,7 @@
     }
   },
   {
-    "displayName": "Nezuko Kamado",
+    "displayName": "Nezuko",
     "id": "nezuko-demon",
     "portrait": "/portraits/nezuko-demon.jpg",
     "series": "Demon Slayer",
@@ -366,7 +366,7 @@
     }
   },
   {
-    "displayName": "Tanjiro Kamado",
+    "displayName": "Tanjiro",
     "id": "tanjiro-sun-breathing",
     "portrait": "/portraits/tanjiro-sun-breathing.jpg",
     "series": "Demon Slayer",
@@ -379,7 +379,7 @@
     }
   },
   {
-    "displayName": "Zenitsu Agatsuma",
+    "displayName": "Zenitsu",
     "id": "zenitsu-godspeed",
     "portrait": "/portraits/zenitsu-godspeed.webp",
     "series": "Demon Slayer",
@@ -392,7 +392,7 @@
     }
   },
   {
-    "displayName": "Senku Ishigami",
+    "displayName": "Senku",
     "id": "senku-ishigami",
     "portrait": "/portraits/senku-ishigami.jpg",
     "series": "Dr. Stone",
@@ -418,7 +418,7 @@
     }
   },
   {
-    "displayName": "Erza Scarlet",
+    "displayName": "Erza",
     "id": "erza-scarlet",
     "portrait": "/portraits/erza-scarlet.webp",
     "series": "Fairy Tail",
@@ -431,7 +431,7 @@
     }
   },
   {
-    "displayName": "Natsu Dragneel",
+    "displayName": "Natsu",
     "id": "natsu-dragon-force",
     "portrait": "/portraits/natsu-dragon-force.jpg",
     "series": "Fairy Tail",
@@ -444,7 +444,7 @@
     }
   },
   {
-    "displayName": "Zeref Dragneel",
+    "displayName": "Zeref",
     "id": "zeref-anime",
     "portrait": "/portraits/zeref-anime.webp",
     "series": "Fairy Tail",
@@ -457,7 +457,7 @@
     }
   },
   {
-    "displayName": "Arthur Boyle",
+    "displayName": "Arthur",
     "id": "arthur-boyle",
     "portrait": "/portraits/arthur-boyle.jpg",
     "series": "Fire Force",
@@ -470,7 +470,7 @@
     }
   },
   {
-    "displayName": "Benimaru Shinmon",
+    "displayName": "Benimaru",
     "id": "benimaru-shinmon",
     "portrait": "/portraits/benimaru-shinmon.jpg",
     "series": "Fire Force",
@@ -483,7 +483,7 @@
     }
   },
   {
-    "displayName": "Shinra Kusakabe",
+    "displayName": "Shinra",
     "id": "shinra-fire-force",
     "portrait": "/portraits/shinra-fire-force.jpg",
     "series": "Fire Force",
@@ -496,7 +496,7 @@
     }
   },
   {
-    "displayName": "Sho Kusakabe",
+    "displayName": "Sho",
     "id": "sho-kusakabe",
     "portrait": "/portraits/sho-kusakabe.jpg",
     "series": "Fire Force",
@@ -509,7 +509,7 @@
     }
   },
   {
-    "displayName": "Alphonse Elric",
+    "displayName": "Alphonse",
     "id": "alphonse-elric",
     "portrait": "/portraits/alphonse-elric.jpg",
     "series": "Fullmetal Alchemist",
@@ -522,7 +522,7 @@
     }
   },
   {
-    "displayName": "Edward Elric",
+    "displayName": "Edward",
     "id": "edward-elric",
     "portrait": "/portraits/edward-elric.jpg",
     "series": "Fullmetal Alchemist",
@@ -617,7 +617,7 @@
     }
   },
   {
-    "displayName": "Roy Mustang",
+    "displayName": "Roy",
     "id": "roy-mustang",
     "portrait": "/portraits/roy-mustang.jpg",
     "series": "Fullmetal Alchemist",
@@ -643,7 +643,7 @@
     }
   },
   {
-    "displayName": "The Truth",
+    "displayName": "Truth",
     "id": "truth-fma",
     "portrait": "/portraits/truth-fma.jpg",
     "series": "Fullmetal Alchemist",
@@ -673,7 +673,7 @@
     }
   },
   {
-    "displayName": "Sakata Gintoki",
+    "displayName": "Gintoki",
     "id": "sakata-gintoki",
     "portrait": "/portraits/sakata-gintoki.jpg",
     "series": "Gintama",
@@ -720,7 +720,7 @@
     }
   },
   {
-    "displayName": "Shoyo Hinata",
+    "displayName": "Hinata",
     "id": "hinata-shoyo",
     "portrait": "/portraits/hinata-shoyo.jpg",
     "series": "Haikyuu!!",
@@ -733,7 +733,7 @@
     }
   },
   {
-    "displayName": "Ippo Makunouchi",
+    "displayName": "Ippo",
     "id": "ippo-makunouchi",
     "portrait": "/portraits/ippo-makunouchi.jpg",
     "series": "Hajime no Ippo",
@@ -746,7 +746,7 @@
     }
   },
   {
-    "displayName": "Gon Freecss",
+    "displayName": "Gon",
     "id": "gon-adult-anime",
     "portrait": "/portraits/gon-adult-anime.jpg",
     "series": "Hunter x Hunter",
@@ -759,7 +759,7 @@
     }
   },
   {
-    "displayName": "Hisoka Morow",
+    "displayName": "Hisoka",
     "id": "hisoka-hxh",
     "portrait": "/portraits/hisoka-hxh.jpg",
     "series": "Hunter x Hunter",
@@ -772,7 +772,7 @@
     }
   },
   {
-    "displayName": "Isaac Netero",
+    "displayName": "Netero",
     "id": "netero-hxh",
     "portrait": "/portraits/netero-hxh.jpg",
     "series": "Hunter x Hunter",
@@ -789,7 +789,7 @@
     }
   },
   {
-    "displayName": "Killua Zoldyck",
+    "displayName": "Killua",
     "id": "killua-godspeed",
     "portrait": "/portraits/killua-godspeed.jpg",
     "series": "Hunter x Hunter",
@@ -832,7 +832,7 @@
     }
   },
   {
-    "displayName": "Kuroki Gensai",
+    "displayName": "Kuroki",
     "id": "kuroki-gensai",
     "portrait": "/portraits/kuroki-gensai.jpg",
     "series": "Kengan Ashura",
@@ -845,7 +845,7 @@
     }
   },
   {
-    "displayName": "Tokita Ohma",
+    "displayName": "Ohma",
     "id": "ohma-tokita",
     "portrait": "/portraits/ohma-tokita.jpg",
     "series": "Kengan Ashura",
@@ -858,7 +858,7 @@
     }
   },
   {
-    "displayName": "Daiki Aomine",
+    "displayName": "Aomine",
     "id": "aomine-daiki",
     "portrait": "/portraits/aomine-daiki.jpg",
     "series": "Kuroko's Basketball",
@@ -871,7 +871,7 @@
     }
   },
   {
-    "displayName": "Tetsuya Kuroko",
+    "displayName": "Kuroko",
     "id": "kuroko-tetsuya",
     "portrait": "/portraits/kuroko-tetsuya.jpg",
     "series": "Kuroko's Basketball",
@@ -884,7 +884,7 @@
     }
   },
   {
-    "displayName": "Mash Burnedead",
+    "displayName": "Mash",
     "id": "mash-burnedead",
     "portrait": "/portraits/mash-burnedead.webp",
     "series": "Mashle",
@@ -901,7 +901,7 @@
     }
   },
   {
-    "displayName": "Shigeo Kageyama",
+    "displayName": "Mob",
     "id": "mob-100-anime",
     "portrait": "/portraits/mob-100-anime.jpg",
     "series": "Mob Psycho 100",
@@ -918,7 +918,7 @@
     }
   },
   {
-    "displayName": "Toichiro Suzuki",
+    "displayName": "Toichiro",
     "id": "toichiro-suzuki",
     "portrait": "/portraits/toichiro-suzuki.jpg",
     "series": "Mob Psycho 100",
@@ -931,7 +931,7 @@
     }
   },
   {
-    "displayName": "Rudeus Greyrat",
+    "displayName": "Rudeus",
     "id": "rudeus-anime",
     "portrait": "/portraits/rudeus-anime.jpg",
     "series": "Mushoku Tensei",
@@ -944,7 +944,7 @@
     }
   },
   {
-    "displayName": "Ainz Ooal Gown",
+    "displayName": "Ainz",
     "id": "ainz-ooal-gown",
     "portrait": "/portraits/ainz-ooal-gown.webp",
     "series": "Overlord",
@@ -961,7 +961,7 @@
     }
   },
   {
-    "displayName": "Shinichi Izumi",
+    "displayName": "Shinichi",
     "id": "shinichi-izumi",
     "portrait": "/portraits/shinichi-izumi.jpg",
     "series": "Parasyte",
@@ -1242,7 +1242,7 @@
     }
   },
   {
-    "displayName": "Sung Jinwoo",
+    "displayName": "Jinwoo",
     "id": "sung-jinwoo-monarch",
     "portrait": "/portraits/sung-jinwoo-monarch.webp",
     "series": "Solo Leveling",
@@ -1259,7 +1259,7 @@
     }
   },
   {
-    "displayName": "Alice Zuberg",
+    "displayName": "Alice",
     "id": "alice-alicization",
     "portrait": "/portraits/alice-alicization.jpg",
     "series": "Sword Art Online",
@@ -1276,7 +1276,7 @@
     }
   },
   {
-    "displayName": "Asuna Yuuki",
+    "displayName": "Asuna",
     "id": "asuna-alicization",
     "portrait": "/portraits/asuna-alicization.jpg",
     "series": "Sword Art Online",
@@ -1327,7 +1327,7 @@
     }
   },
   {
-    "displayName": "Rimuru Tempest",
+    "displayName": "Rimuru",
     "id": "rimuru-demon-lord",
     "portrait": "/portraits/rimuru-demon-lord.webp",
     "series": "That Time I Got Reincarnated as a Slime",
@@ -1346,7 +1346,7 @@
     }
   },
   {
-    "displayName": "Kusuo Saiki",
+    "displayName": "Saiki",
     "id": "kusuo-saiki",
     "portrait": "/portraits/kusuo-saiki.webp",
     "series": "The Disastrous Life of Saiki K",
@@ -1363,7 +1363,7 @@
     }
   },
   {
-    "displayName": "Jin Mori",
+    "displayName": "Mori",
     "id": "jin-mori-anime",
     "portrait": "/portraits/jin-mori-anime.jpg",
     "series": "The God of High School",
@@ -1381,7 +1381,7 @@
     }
   },
   {
-    "displayName": "Anos Voldigoad",
+    "displayName": "Anos",
     "id": "anos-voldigoad",
     "portrait": "/portraits/anos-voldigoad.webp",
     "series": "The Misfit of Demon King Academy",
@@ -1398,7 +1398,7 @@
     }
   },
   {
-    "displayName": "Arima Kishou",
+    "displayName": "Arima",
     "id": "arima-kishou",
     "portrait": "/portraits/arima-kishou.jpg",
     "series": "Tokyo Ghoul",
@@ -1411,7 +1411,7 @@
     }
   },
   {
-    "displayName": "Eto Yoshimura",
+    "displayName": "Eto",
     "id": "eto-yoshimura",
     "portrait": "/portraits/eto-yoshimura.jpg",
     "series": "Tokyo Ghoul",
@@ -1424,7 +1424,7 @@
     }
   },
   {
-    "displayName": "Ken Kaneki",
+    "displayName": "Kaneki",
     "id": "kaneki-ken-anime",
     "portrait": "/portraits/kaneki-ken-anime.jpg",
     "series": "Tokyo Ghoul",
@@ -1437,7 +1437,7 @@
     }
   },
   {
-    "displayName": "Manjiro Sano",
+    "displayName": "Mikey",
     "id": "mikey-sano",
     "portrait": "/portraits/mikey-sano.webp",
     "series": "Tokyo Revengers",
@@ -1450,7 +1450,7 @@
     }
   },
   {
-    "displayName": "Takemichi Hanagaki",
+    "displayName": "Takemichi",
     "id": "takemichi-hanagaki",
     "portrait": "/portraits/takemichi-hanagaki.webp",
     "series": "Tokyo Revengers",
@@ -1602,7 +1602,7 @@
     }
   },
   {
-    "displayName": "Genryūsai Shigekuni Yamamoto",
+    "displayName": "Yamamoto",
     "id": "yamamoto",
     "portrait": "/portraits/yamamoto.jpg",
     "series": "Bleach",
@@ -1649,24 +1649,25 @@
     }
   },
   {
-    "displayName": "Ichigo Kurosaki",
+    "displayName": "Ichigo",
     "id": "ichigo-bankai",
     "portrait": "/portraits/ichigo-bankai.jpg",
     "series": "Bleach",
     "sources": {
-      "wikiPage": "Ichigo Kurosaki (Pre-Timeskip)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Ichigo_Kurosaki_(Pre-Timeskip)"
+      "wikiPage": "Ichigo Kurosaki (Post-Timeskip)",
+      "wikiUrl": "https://vsbattles.fandom.com/wiki/Ichigo_Kurosaki_(Post-Timeskip)",
+      "wikiStatKey": "Merged Hollow Form"
     },
     "stats": {
       "abilities": 76,
       "durability": 70,
       "iq": 70,
-      "speed": 68,
+      "speed": 90,
       "strength": 70
     }
   },
   {
-    "displayName": "Izuku Midoriya",
+    "displayName": "Deku",
     "id": "deku-100",
     "portrait": "/portraits/deku-100.jpg",
     "series": "My Hero Academia",
@@ -1679,7 +1680,7 @@
     }
   },
   {
-    "displayName": "Jotaro Kujo",
+    "displayName": "Jotaro",
     "id": "jotaro-part-3",
     "portrait": "/portraits/jotaro-part-3.jpg",
     "series": "JoJo",
@@ -1696,7 +1697,7 @@
     }
   },
   {
-    "displayName": "Madara Uchiha",
+    "displayName": "Madara",
     "id": "madara",
     "portrait": "/portraits/madara.webp",
     "series": "Naruto",
@@ -1739,7 +1740,7 @@
     }
   },
   {
-    "displayName": "Monkey D. Luffy",
+    "displayName": "Luffy",
     "id": "luffy-gear-4",
     "portrait": "/portraits/luffy-gear-4.webp",
     "series": "One Piece",
@@ -1756,7 +1757,7 @@
     }
   },
   {
-    "displayName": "Naruto Uzumaki",
+    "displayName": "Naruto",
     "id": "naruto-bsm",
     "portrait": "/portraits/naruto-bsm.webp",
     "series": "Naruto",
@@ -1773,7 +1774,7 @@
     }
   },
   {
-    "displayName": "Roronoa Zoro",
+    "displayName": "Zoro",
     "id": "zoro-ennies",
     "portrait": "/portraits/zoro-ennies.jpg",
     "series": "One Piece",
@@ -1790,7 +1791,7 @@
     }
   },
   {
-    "displayName": "Ryomen Sukuna",
+    "displayName": "Sukuna",
     "id": "sukuna",
     "portrait": "/portraits/sukuna.jpg",
     "series": "Jujutsu Kaisen",
@@ -1850,7 +1851,7 @@
     }
   },
   {
-    "displayName": "Sasuke Uchiha",
+    "displayName": "Sasuke",
     "id": "sasuke-rinnegan",
     "portrait": "/portraits/sasuke-rinnegan.webp",
     "series": "Naruto",
@@ -1863,7 +1864,7 @@
     }
   },
   {
-    "displayName": "Satoru Gojo",
+    "displayName": "Gojo",
     "id": "gojo-satoru",
     "portrait": "/portraits/gojo-satoru.jpg",
     "series": "Jujutsu Kaisen",
@@ -1880,7 +1881,7 @@
     }
   },
   {
-    "displayName": "Sōsuke Aizen",
+    "displayName": "Aizen",
     "id": "aizen",
     "portrait": "/portraits/aizen.jpg",
     "series": "Bleach",
@@ -1893,7 +1894,7 @@
     }
   },
   {
-    "displayName": "Toshinori Yagi",
+    "displayName": "All Might",
     "id": "all-might",
     "portrait": "/portraits/all-might.jpg",
     "series": "My Hero Academia",

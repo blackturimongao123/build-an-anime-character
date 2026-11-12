@@ -9,9 +9,10 @@
     "statKey": "Judgement Day Arc"
   },
   "ichigo-bankai": {
-    "fragment": "Post-Bankai_Training",
-    "statColumnIndex": 2,
-    "statKey": "Post-Bankai Training"
+    "fragment": "Post-Timeskip",
+    "statColumnIndex": 3,
+    "statKey": "Merged Hollow Form",
+    "statFormPhrase": "Massively FTL with Bankai"
   },
   "goku-ssj2": {
     "fragment": "Super_Saiyan_2",

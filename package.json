@@ -27,6 +27,7 @@
     "data:iq-review-html": "node scripts/build-iq-review-html.mjs",
     "data:iq-merge-proposal": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/merge-iq-proposal.ps1",
     "data:iq-import-export": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/import-iq-export.ps1",
+    "data:display-names": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/apply-famous-display-names.ps1",
     "data:curated-apply": "npm run curated-apply --workspace=scripts",
     "data:assets": "npm run portraits --workspace=scripts && npm run data:stats"
   },

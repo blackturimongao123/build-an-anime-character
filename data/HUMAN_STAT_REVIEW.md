@@ -15,6 +15,7 @@ When a VS Battles row has **no tier phrase** the mapper matches (`maxTierScore(.
 | **Wrong wiki inflation** | `lelouch-vi-britannia`, `c-c-geass` strength **100** | Curated teen / immortal **human-scale** strength |
 | Shinigami parse lumped at 40 | `ryuk-hxh` | Curated (still superhuman hax, not four 40s) |
 | Cosmic / form parse gaps | `truth-fma` speed, `ichigo-bankai` abilities, Xerneas/Yveltal, SL novel speeds | Curated from series context |
+| Wrong era / speed band | `ichigo-bankai` was **Pre-Timeskip** (hypersonic **68**); VS **Post-Timeskip → Merged Hollow Form** lists **Massively FTL with Bankai** (~**122×c** on verse CRT) vs **Adam** wiki **~88** (FTL+/MFTL band) | **speed 90** + wiki hints to Post-Timeskip col 3 |
 | **Manga peak** (wiki parse miss) | `alucard` | **str 90**, **spd 88**, **abl 94**, **dura 98** (curated); **iq** from `manual-iq-overrides.json` / review export |
 | Intentional | `luffy-gear-4` **iq 40** | Kept (anime review) |
 
