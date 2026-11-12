@@ -18,6 +18,11 @@
     "wikiUrlBase": "https://vsbattles.fandom.com/wiki/Son_Goku_(DBS_Anime)",
     "statFormPhrase": "Super Saiyan 2"
   },
+  "vegeta-ssb": {
+    "fragment": "Super_Saiyan_Blue",
+    "wikiUrlBase": "https://vsbattles.fandom.com/wiki/Vegeta_(DBS_Anime)",
+    "statFormPhrase": "Super Saiyan Blue"
+  },
   "naruto-bsm": {
     "fragment": "Baryon_Mode",
     "statColumnIndex": 1,

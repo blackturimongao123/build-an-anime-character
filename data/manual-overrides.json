@@ -50,9 +50,6 @@
   "simon-gurren-lagann": {
     "stats": { "strength": 88, "speed": 82, "abilities": 92, "iq": 55, "durability": 85 }
   },
-  "l-lawliet": {
-    "stats": { "strength": 14, "speed": 16, "abilities": 18, "iq": 92, "durability": 14 }
-  },
   "ryuk-hxh": {
     "stats": { "strength": 35, "speed": 42, "abilities": 62, "iq": 48, "durability": 55 }
   }

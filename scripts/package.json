@@ -9,6 +9,8 @@
     "scrape": "tsx scrape-vsbattles.ts",
     "scrape-all": "tsx scrape-all-stats.ts",
     "stats-check": "cargo run --release --manifest-path ../stats-check/Cargo.toml -- --root ..",
+    "iq-apply": "tsx apply-iq-overrides.ts",
+    "curated-apply": "tsx apply-curated-stats.ts",
     "import-manual-portraits": "tsx import-manual-portraits.ts"
   },
   "dependencies": {

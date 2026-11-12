@@ -379,17 +379,22 @@
       "wiki_page": "Arthur Boyle"
     },
     {
-      "delta": null,
+      "delta": {
+        "abilities": -30,
+        "durability": -30,
+        "speed": 48,
+        "strength": -30
+      },
       "error": null,
       "expected": {
-        "abilities": 96,
-        "durability": 96,
+        "abilities": 66,
+        "durability": 66,
         "iq": 72,
-        "speed": 40,
-        "strength": 96
+        "speed": 88,
+        "strength": 66
       },
       "id": "ash-greninja-anime",
-      "ok": true,
+      "ok": false,
       "stored": {
         "abilities": 96,
         "durability": 96,
@@ -397,7 +402,7 @@
         "speed": 40,
         "strength": 96
       },
-      "wiki_page": "Greninja (Super Smash Bros.)"
+      "wiki_page": "Greninja"
     },
     {
       "delta": null,
@@ -547,17 +552,23 @@
       "wiki_page": "Beru"
     },
     {
-      "delta": null,
+      "delta": {
+        "abilities": 22,
+        "durability": 22,
+        "iq": -30,
+        "speed": 42,
+        "strength": 22
+      },
       "error": null,
       "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 85,
-        "speed": 40,
-        "strength": 40
+        "abilities": 62,
+        "durability": 62,
+        "iq": 55,
+        "speed": 82,
+        "strength": 62
       },
       "id": "buddha-record",
-      "ok": true,
+      "ok": false,
       "stored": {
         "abilities": 40,
         "durability": 40,
@@ -565,7 +576,7 @@
         "speed": 40,
         "strength": 40
       },
-      "wiki_page": "The Buddha (World of Darkness)"
+      "wiki_page": "Buddha (Record of Ragnarok)"
     },
     {
       "delta": null,
@@ -904,17 +915,23 @@
       "wiki_page": "Garou"
     },
     {
-      "delta": null,
+      "delta": {
+        "abilities": 57,
+        "durability": 57,
+        "iq": -18,
+        "speed": 48,
+        "strength": 60
+      },
       "error": null,
       "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
+        "abilities": 97,
+        "durability": 97,
+        "iq": 22,
+        "speed": 88,
+        "strength": 100
       },
       "id": "gilgamesh-fsn",
-      "ok": true,
+      "ok": false,
       "stored": {
         "abilities": 40,
         "durability": 40,
@@ -922,7 +939,7 @@
         "speed": 40,
         "strength": 40
       },
-      "wiki_page": "Gilgamesh"
+      "wiki_page": "Gilgamesh (Archer)"
     },
     {
       "delta": null,
@@ -1450,17 +1467,21 @@
       "wiki_page": "Kusuo Saiki"
     },
     {
-      "delta": null,
+      "delta": {
+        "abilities": -18,
+        "durability": -18,
+        "iq": 45
+      },
       "error": null,
       "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
+        "abilities": 22,
+        "durability": 22,
+        "iq": 85,
         "speed": 40,
         "strength": 40
       },
       "id": "l-lawliet",
-      "ok": true,
+      "ok": false,
       "stored": {
         "abilities": 40,
         "durability": 40,
@@ -1468,7 +1489,7 @@
         "speed": 40,
         "strength": 40
       },
-      "wiki_page": "L Lawliet"
+      "wiki_page": "L (Death Note)"
     },
     {
       "delta": null,
@@ -2164,17 +2185,22 @@
       "wiki_page": "Ryuk"
     },
     {
-      "delta": null,
+      "delta": {
+        "abilities": 57,
+        "durability": 57,
+        "speed": 48,
+        "strength": 60
+      },
       "error": null,
       "expected": {
-        "abilities": 40,
-        "durability": 40,
+        "abilities": 97,
+        "durability": 97,
         "iq": 40,
-        "speed": 40,
-        "strength": 40
+        "speed": 88,
+        "strength": 100
       },
       "id": "saber-fsn",
-      "ok": true,
+      "ok": false,
       "stored": {
         "abilities": 40,
         "durability": 40,
@@ -2182,7 +2208,7 @@
         "speed": 40,
         "strength": 40
       },
-      "wiki_page": "Saber"
+      "wiki_page": "Artoria Pendragon (Saber)"
     },
     {
       "delta": null,
@@ -2374,17 +2400,23 @@
       "wiki_page": "Simon the Digger"
     },
     {
-      "delta": null,
+      "delta": {
+        "abilities": 16,
+        "durability": 16,
+        "iq": 23,
+        "speed": 28,
+        "strength": 26
+      },
       "error": null,
       "expected": {
-        "abilities": 22,
-        "durability": 22,
-        "iq": 12,
-        "speed": 40,
-        "strength": 22
+        "abilities": 38,
+        "durability": 38,
+        "iq": 35,
+        "speed": 68,
+        "strength": 48
       },
       "id": "sloth-fma",
-      "ok": true,
+      "ok": false,
       "stored": {
         "abilities": 22,
         "durability": 22,
@@ -2392,7 +2424,7 @@
         "speed": 40,
         "strength": 22
       },
-      "wiki_page": "Sloth Bear"
+      "wiki_page": "Sloth"
     },
     {
       "delta": null,
@@ -2605,17 +2637,23 @@
       "wiki_page": "Truth (Fullmetal Alchemist)"
     },
     {
-      "delta": null,
+      "delta": {
+        "abilities": 54,
+        "durability": 54,
+        "iq": 45,
+        "speed": 48,
+        "strength": 54
+      },
       "error": null,
       "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
+        "abilities": 94,
+        "durability": 94,
+        "iq": 85,
+        "speed": 88,
+        "strength": 94
       },
       "id": "vegeta-ssb",
-      "ok": true,
+      "ok": false,
       "stored": {
         "abilities": 40,
         "durability": 40,
@@ -2623,7 +2661,7 @@
         "speed": 40,
         "strength": 40
       },
-      "wiki_page": "Vegeta (Dragon Ball Super)"
+      "wiki_page": "Vegeta (DBS Anime)"
     },
     {
       "delta": null,
@@ -2858,9 +2896,9 @@
     }
   ],
   "summary": {
-    "aligned": 136,
+    "aligned": 129,
     "errors": 0,
-    "mismatch": 0,
+    "mismatch": 7,
     "total": 136
   }
 }

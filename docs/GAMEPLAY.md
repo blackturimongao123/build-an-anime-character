@@ -167,7 +167,9 @@ There is no “sudden death” beyond the five ordered clashes.
 - **Abilities** = best of **Attack Potency** and the **Powers and Abilities** section (destructive/hax tier and “how busted” the kit is). Striking Strength does not inflate Abilities.
 - **Durability** = durability/stamina row plus high-end endurance keywords (immortality, erase resistance, etc.) when the wiki states them.
 - Some characters are **form-specific** roster entries (e.g. Goku SSJ2) with wiki slices in `data/wiki-profile-hints.json`.
-- Manual tuning lives in `data/manual-overrides.json`.
+- Manual tuning lives in `data/manual-overrides.json` (full-stat packages) and `data/manual-iq-overrides.json` (IQ after anime review — see `data/IQ_ANIME_REVIEW.md`).
+- **IQ** is wiki-scraped first, then patched for anime context: run `npm run data:iq-apply` after `npm run data:stats-check-apply` so physical stats stay wiki-aligned.
+- **Human / fallback-40 fixes:** `npm run data:curated-apply` after the above (`data/HUMAN_STAT_REVIEW.md`, `manual-curated-stats.json`).
 - Re-verify scraped stats (parallel): `npm run data:stats-check` (Rust + TS mapper). Use `npm run data:stats-check-apply` to write wiki-derived numbers back into `data/characters.json`.
 
 ---

@@ -18,6 +18,10 @@ import { animePlanetPortraitUrl } from "./lib/anime-planet.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, "..");
+const hintsPath = resolve(root, "data", "anime-planet-hints.json");
+const apSlugHints: Record<string, string> = existsSync(hintsPath)
+  ? JSON.parse(readFileSync(hintsPath, "utf-8"))
+  : {};
 const charactersPath = resolve(root, "data", "characters.json");
 const outDir = resolve(root, "public-shared", "portraits");
 const clientPortraits = resolve(root, "client", "public", "portraits");
@@ -197,11 +201,12 @@ async function main() {
     removePortraitFiles(id);
 
     const baseName = simplifyName(c.displayName);
+    const seriesLabel = SERIES_ANILIST[c.series] ?? c.series;
     const queries = [
-      ...(SEARCH_OVERRIDES[id] ?? []),
-      baseName,
       c.displayName,
-      `${baseName} ${SERIES_ANILIST[c.series] ?? c.series}`,
+      baseName,
+      ...(SEARCH_OVERRIDES[id] ?? []),
+      `${baseName} ${seriesLabel}`,
     ];
 
     const anilistOnly = process.argv.includes("--anilist-only");
@@ -210,9 +215,11 @@ async function main() {
 
     let imageUrl: string | null = null;
     if (!anilistOnly) {
-      imageUrl =
-        (await animePlanetPortraitUrl(baseName)) ??
-        (await animePlanetPortraitUrl(c.displayName));
+      imageUrl = await animePlanetPortraitUrl(c.displayName, {
+        series: seriesLabel,
+        extraQueries: SEARCH_OVERRIDES[id],
+        characterSlug: apSlugHints[id],
+      });
       await new Promise((r) => setTimeout(r, 260));
       if (imageUrl && rejectPlaceholder(imageUrl)) imageUrl = null;
     }

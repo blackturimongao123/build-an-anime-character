@@ -7,7 +7,7 @@
     "stats": {
       "abilities": 68,
       "durability": 68,
-      "iq": 85,
+      "iq": 58,
       "speed": 68,
       "strength": 68
     }
@@ -20,7 +20,7 @@
     "stats": {
       "abilities": 78,
       "durability": 68,
-      "iq": 85,
+      "iq": 62,
       "speed": 68,
       "strength": 68
     }
@@ -46,7 +46,7 @@
     "stats": {
       "abilities": 100,
       "durability": 58,
-      "iq": 40,
+      "iq": 94,
       "speed": 68,
       "strength": 48
     }
@@ -59,7 +59,7 @@
     "stats": {
       "abilities": 54,
       "durability": 46,
-      "iq": 85,
+      "iq": 76,
       "speed": 48,
       "strength": 58
     }
@@ -76,7 +76,7 @@
     "stats": {
       "abilities": 46,
       "durability": 46,
-      "iq": 72,
+      "iq": 58,
       "speed": 48,
       "strength": 58
     }
@@ -93,7 +93,7 @@
     "stats": {
       "abilities": 46,
       "durability": 38,
-      "iq": 72,
+      "iq": 68,
       "speed": 48,
       "strength": 38
     }
@@ -106,7 +106,7 @@
     "stats": {
       "abilities": 46,
       "durability": 38,
-      "iq": 85,
+      "iq": 62,
       "speed": 48,
       "strength": 38
     }
@@ -119,7 +119,7 @@
     "stats": {
       "abilities": 46,
       "durability": 46,
-      "iq": 55,
+      "iq": 52,
       "speed": 48,
       "strength": 58
     }
@@ -136,7 +136,7 @@
     "stats": {
       "abilities": 38,
       "durability": 38,
-      "iq": 85,
+      "iq": 50,
       "speed": 32,
       "strength": 38
     }
@@ -149,7 +149,7 @@
     "stats": {
       "abilities": 70,
       "durability": 70,
-      "iq": 40,
+      "iq": 36,
       "speed": 82,
       "strength": 88
     }
@@ -175,7 +175,7 @@
     "stats": {
       "abilities": 78,
       "durability": 78,
-      "iq": 40,
+      "iq": 46,
       "speed": 82,
       "strength": 78
     }
@@ -192,7 +192,7 @@
     "stats": {
       "abilities": 78,
       "durability": 78,
-      "iq": 55,
+      "iq": 56,
       "speed": 82,
       "strength": 85
     }
@@ -205,7 +205,7 @@
     "stats": {
       "abilities": 70,
       "durability": 70,
-      "iq": 85,
+      "iq": 58,
       "speed": 82,
       "strength": 70
     }
@@ -218,9 +218,9 @@
     "stats": {
       "abilities": 50,
       "durability": 50,
-      "iq": 55,
-      "speed": 48,
-      "strength": 100
+      "iq": 82,
+      "speed": 26,
+      "strength": 22
     }
   },
   {
@@ -230,10 +230,10 @@
     "series": "Code Geass",
     "stats": {
       "abilities": 62,
-      "durability": 50,
-      "iq": 85,
-      "speed": 48,
-      "strength": 100
+      "durability": 16,
+      "iq": 88,
+      "speed": 20,
+      "strength": 18
     }
   },
   {
@@ -246,11 +246,11 @@
       "wikiUrl": "https://vsbattles.fandom.com/wiki/L_Lawliet"
     },
     "stats": {
-      "abilities": 40,
-      "durability": 40,
-      "iq": 40,
-      "speed": 40,
-      "strength": 40
+      "abilities": 18,
+      "durability": 14,
+      "iq": 92,
+      "speed": 16,
+      "strength": 14
     }
   },
   {
@@ -263,11 +263,11 @@
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Light_Yagami"
     },
     "stats": {
-      "abilities": 22,
-      "durability": 22,
-      "iq": 85,
-      "speed": 40,
-      "strength": 40
+      "abilities": 28,
+      "durability": 12,
+      "iq": 80,
+      "speed": 14,
+      "strength": 12
     }
   },
   {
@@ -280,11 +280,11 @@
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Ryuk"
     },
     "stats": {
-      "abilities": 40,
-      "durability": 40,
-      "iq": 55,
-      "speed": 36,
-      "strength": 40
+      "abilities": 62,
+      "durability": 55,
+      "iq": 50,
+      "speed": 42,
+      "strength": 35
     }
   },
   {
@@ -295,7 +295,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 72,
+      "iq": 50,
       "speed": 68,
       "strength": 52
     }
@@ -308,7 +308,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 55,
+      "iq": 26,
       "speed": 68,
       "strength": 52
     }
@@ -321,7 +321,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 72,
+      "iq": 60,
       "speed": 68,
       "strength": 52
     }
@@ -334,7 +334,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 72,
+      "iq": 54,
       "speed": 68,
       "strength": 52
     }
@@ -347,7 +347,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 85,
+      "iq": 72,
       "speed": 68,
       "strength": 52
     }
@@ -360,7 +360,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 35,
+      "iq": 28,
       "speed": 68,
       "strength": 52
     }
@@ -373,7 +373,7 @@
     "stats": {
       "abilities": 52,
       "durability": 38,
-      "iq": 85,
+      "iq": 58,
       "speed": 48,
       "strength": 44
     }
@@ -386,7 +386,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 72,
+      "iq": 32,
       "speed": 68,
       "strength": 52
     }
@@ -397,11 +397,11 @@
     "portrait": "/portraits/senku-ishigami.webp",
     "series": "Dr. Stone",
     "stats": {
-      "abilities": 38,
-      "durability": 28,
-      "iq": 85,
-      "speed": 40,
-      "strength": 40
+      "abilities": 28,
+      "durability": 12,
+      "iq": 97,
+      "speed": 16,
+      "strength": 14
     }
   },
   {
@@ -464,7 +464,7 @@
     "stats": {
       "abilities": 80,
       "durability": 80,
-      "iq": 55,
+      "iq": 42,
       "speed": 82,
       "strength": 88
     }
@@ -503,7 +503,7 @@
     "stats": {
       "abilities": 80,
       "durability": 80,
-      "iq": 35,
+      "iq": 48,
       "speed": 82,
       "strength": 88
     }
@@ -516,7 +516,7 @@
     "stats": {
       "abilities": 52,
       "durability": 38,
-      "iq": 72,
+      "iq": 62,
       "speed": 48,
       "strength": 38
     }
@@ -529,7 +529,7 @@
     "stats": {
       "abilities": 38,
       "durability": 52,
-      "iq": 85,
+      "iq": 78,
       "speed": 48,
       "strength": 58
     }
@@ -550,7 +550,7 @@
   {
     "displayName": "Father",
     "id": "father-fma",
-    "portrait": "/portraits/father-fma.webp",
+    "portrait": "/portraits/father-fma.jpg",
     "series": "Fullmetal Alchemist",
     "sources": {
       "wikiPage": "Father (Fullmetal Alchemist)",
@@ -559,7 +559,7 @@
     "stats": {
       "abilities": 86,
       "durability": 86,
-      "iq": 85,
+      "iq": 88,
       "speed": 48,
       "strength": 86
     }
@@ -572,7 +572,7 @@
     "stats": {
       "abilities": 38,
       "durability": 38,
-      "iq": 35,
+      "iq": 26,
       "speed": 48,
       "strength": 38
     }
@@ -585,7 +585,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 35,
+      "iq": 54,
       "speed": 88,
       "strength": 52
     }
@@ -611,7 +611,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 85,
+      "iq": 80,
       "speed": 48,
       "strength": 44
     }
@@ -624,9 +624,9 @@
     "stats": {
       "abilities": 38,
       "durability": 38,
-      "iq": 72,
+      "iq": 68,
       "speed": 48,
-      "strength": 40
+      "strength": 22
     }
   },
   {
@@ -635,11 +635,11 @@
     "portrait": "/portraits/sloth-fma.webp",
     "series": "Fullmetal Alchemist",
     "stats": {
-      "abilities": 22,
-      "durability": 22,
-      "iq": 12,
-      "speed": 40,
-      "strength": 22
+      "abilities": 38,
+      "durability": 38,
+      "iq": 16,
+      "speed": 68,
+      "strength": 48
     }
   },
   {
@@ -654,8 +654,8 @@
     "stats": {
       "abilities": 96,
       "durability": 96,
-      "iq": 85,
-      "speed": 40,
+      "iq": 88,
+      "speed": 88,
       "strength": 96
     }
   },
@@ -680,7 +680,7 @@
     "stats": {
       "abilities": 58,
       "durability": 58,
-      "iq": 85,
+      "iq": 68,
       "speed": 68,
       "strength": 58
     }
@@ -714,7 +714,7 @@
     "stats": {
       "abilities": 100,
       "durability": 100,
-      "iq": 85,
+      "iq": 55,
       "speed": 92,
       "strength": 100
     }
@@ -725,11 +725,11 @@
     "portrait": "/portraits/hinata-shoyo.jpg",
     "series": "Haikyuu!!",
     "stats": {
-      "abilities": 58,
-      "durability": 58,
-      "iq": 72,
-      "speed": 88,
-      "strength": 58
+      "abilities": 14,
+      "durability": 16,
+      "iq": 24,
+      "speed": 22,
+      "strength": 18
     }
   },
   {
@@ -740,7 +740,7 @@
     "stats": {
       "abilities": 28,
       "durability": 28,
-      "iq": 72,
+      "iq": 44,
       "speed": 32,
       "strength": 28
     }
@@ -753,7 +753,7 @@
     "stats": {
       "abilities": 66,
       "durability": 58,
-      "iq": 85,
+      "iq": 64,
       "speed": 68,
       "strength": 58
     }
@@ -766,7 +766,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 85,
+      "iq": 66,
       "speed": 48,
       "strength": 52
     }
@@ -783,7 +783,7 @@
     "stats": {
       "abilities": 58,
       "durability": 52,
-      "iq": 85,
+      "iq": 76,
       "speed": 68,
       "strength": 58
     }
@@ -796,7 +796,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 72,
+      "iq": 68,
       "speed": 68,
       "strength": 52
     }
@@ -809,7 +809,7 @@
     "stats": {
       "abilities": 50,
       "durability": 50,
-      "iq": 85,
+      "iq": 76,
       "speed": 68,
       "strength": 50
     }
@@ -826,7 +826,7 @@
     "stats": {
       "abilities": 66,
       "durability": 66,
-      "iq": 85,
+      "iq": 94,
       "speed": 68,
       "strength": 62
     }
@@ -839,7 +839,7 @@
     "stats": {
       "abilities": 50,
       "durability": 50,
-      "iq": 85,
+      "iq": 56,
       "speed": 68,
       "strength": 58
     }
@@ -852,7 +852,7 @@
     "stats": {
       "abilities": 62,
       "durability": 50,
-      "iq": 85,
+      "iq": 54,
       "speed": 68,
       "strength": 58
     }
@@ -863,11 +863,11 @@
     "portrait": "/portraits/aomine-daiki.jpg",
     "series": "Kuroko's Basketball",
     "stats": {
-      "abilities": 22,
-      "durability": 22,
-      "iq": 35,
-      "speed": 36,
-      "strength": 40
+      "abilities": 28,
+      "durability": 35,
+      "iq": 26,
+      "speed": 42,
+      "strength": 38
     }
   },
   {
@@ -876,11 +876,11 @@
     "portrait": "/portraits/kuroko-tetsuya.webp",
     "series": "Kuroko's Basketball",
     "stats": {
-      "abilities": 22,
-      "durability": 22,
-      "iq": 72,
-      "speed": 36,
-      "strength": 40
+      "abilities": 16,
+      "durability": 14,
+      "iq": 34,
+      "speed": 20,
+      "strength": 14
     }
   },
   {
@@ -895,7 +895,7 @@
     "stats": {
       "abilities": 74,
       "durability": 74,
-      "iq": 40,
+      "iq": 20,
       "speed": 88,
       "strength": 85
     }
@@ -912,7 +912,7 @@
     "stats": {
       "abilities": 78,
       "durability": 78,
-      "iq": 55,
+      "iq": 58,
       "speed": 68,
       "strength": 78
     }
@@ -938,7 +938,7 @@
     "stats": {
       "abilities": 66,
       "durability": 28,
-      "iq": 85,
+      "iq": 72,
       "speed": 36,
       "strength": 36
     }
@@ -955,7 +955,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 72,
+      "iq": 78,
       "speed": 48,
       "strength": 52
     }
@@ -1031,11 +1031,11 @@
     "portrait": "/portraits/ash-greninja-anime.jpg",
     "series": "Pokémon",
     "stats": {
-      "abilities": 96,
-      "durability": 96,
+      "abilities": 66,
+      "durability": 66,
       "iq": 72,
-      "speed": 40,
-      "strength": 96
+      "speed": 88,
+      "strength": 66
     }
   },
   {
@@ -1135,8 +1135,8 @@
     "portrait": "/portraits/xerneas-anime.jpg",
     "series": "Pokémon",
     "stats": {
-      "abilities": 40,
-      "durability": 40,
+      "abilities": 88,
+      "durability": 86,
       "iq": 72,
       "speed": 88,
       "strength": 85
@@ -1148,8 +1148,8 @@
     "portrait": "/portraits/yveltal-anime.jpg",
     "series": "Pokémon",
     "stats": {
-      "abilities": 40,
-      "durability": 40,
+      "abilities": 88,
+      "durability": 86,
       "iq": 72,
       "speed": 88,
       "strength": 85
@@ -1180,7 +1180,7 @@
     "stats": {
       "abilities": 62,
       "durability": 62,
-      "iq": 55,
+      "iq": 52,
       "speed": 88,
       "strength": 62
     }
@@ -1191,11 +1191,11 @@
     "portrait": "/portraits/buddha-record.jpg",
     "series": "Record of Ragnarok",
     "stats": {
-      "abilities": 40,
-      "durability": 40,
-      "iq": 85,
-      "speed": 40,
-      "strength": 40
+      "abilities": 62,
+      "durability": 62,
+      "iq": 70,
+      "speed": 82,
+      "strength": 62
     }
   },
   {
@@ -1206,7 +1206,7 @@
     "stats": {
       "abilities": 62,
       "durability": 62,
-      "iq": 40,
+      "iq": 72,
       "speed": 82,
       "strength": 62
     }
@@ -1223,7 +1223,7 @@
     "stats": {
       "abilities": 62,
       "durability": 62,
-      "iq": 40,
+      "iq": 48,
       "speed": 82,
       "strength": 62
     }
@@ -1236,7 +1236,7 @@
     "stats": {
       "abilities": 88,
       "durability": 88,
-      "iq": 72,
+      "iq": 50,
       "speed": 88,
       "strength": 88
     }
@@ -1253,7 +1253,7 @@
     "stats": {
       "abilities": 70,
       "durability": 70,
-      "iq": 72,
+      "iq": 76,
       "speed": 88,
       "strength": 70
     }
@@ -1321,7 +1321,7 @@
     "stats": {
       "abilities": 58,
       "durability": 58,
-      "iq": 72,
+      "iq": 62,
       "speed": 68,
       "strength": 58
     }
@@ -1340,7 +1340,7 @@
     "stats": {
       "abilities": 97,
       "durability": 97,
-      "iq": 40,
+      "iq": 80,
       "speed": 88,
       "strength": 97
     }
@@ -1357,7 +1357,7 @@
     "stats": {
       "abilities": 80,
       "durability": 82,
-      "iq": 85,
+      "iq": 90,
       "speed": 88,
       "strength": 90
     }
@@ -1375,7 +1375,7 @@
     "stats": {
       "abilities": 92,
       "durability": 92,
-      "iq": 40,
+      "iq": 54,
       "speed": 88,
       "strength": 92
     }
@@ -1405,7 +1405,7 @@
     "stats": {
       "abilities": 54,
       "durability": 54,
-      "iq": 85,
+      "iq": 76,
       "speed": 88,
       "strength": 68
     }
@@ -1413,12 +1413,12 @@
   {
     "displayName": "Eto Yoshimura",
     "id": "eto-yoshimura",
-    "portrait": "/portraits/eto-yoshimura.webp",
+    "portrait": "/portraits/eto-yoshimura.jpg",
     "series": "Tokyo Ghoul",
     "stats": {
       "abilities": 54,
       "durability": 54,
-      "iq": 85,
+      "iq": 74,
       "speed": 88,
       "strength": 68
     }
@@ -1431,7 +1431,7 @@
     "stats": {
       "abilities": 62,
       "durability": 62,
-      "iq": 40,
+      "iq": 74,
       "speed": 88,
       "strength": 68
     }
@@ -1444,7 +1444,7 @@
     "stats": {
       "abilities": 28,
       "durability": 28,
-      "iq": 85,
+      "iq": 32,
       "speed": 68,
       "strength": 52
     }
@@ -1457,7 +1457,7 @@
     "stats": {
       "abilities": 28,
       "durability": 28,
-      "iq": 35,
+      "iq": 28,
       "speed": 68,
       "strength": 52
     }
@@ -1491,8 +1491,8 @@
     "stats": {
       "abilities": 70,
       "durability": 70,
-      "iq": 72,
-      "speed": 40,
+      "iq": 68,
+      "speed": 68,
       "strength": 70
     }
   },
@@ -1508,8 +1508,8 @@
     "stats": {
       "abilities": 70,
       "durability": 70,
-      "iq": 40,
-      "speed": 40,
+      "iq": 84,
+      "speed": 70,
       "strength": 70
     }
   },
@@ -1521,7 +1521,7 @@
     "stats": {
       "abilities": 90,
       "durability": 90,
-      "iq": 85,
+      "iq": 46,
       "speed": 88,
       "strength": 90
     }
@@ -1538,7 +1538,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 55,
+      "iq": 52,
       "speed": 68,
       "strength": 58
     }
@@ -1551,7 +1551,7 @@
     "stats": {
       "abilities": 49,
       "durability": 46,
-      "iq": 72,
+      "iq": 48,
       "speed": 48,
       "strength": 46
     }
@@ -1564,7 +1564,7 @@
     "stats": {
       "abilities": 50,
       "durability": 50,
-      "iq": 40,
+      "iq": 30,
       "speed": 68,
       "strength": 58
     }
@@ -1583,7 +1583,7 @@
     "stats": {
       "abilities": 38,
       "durability": 38,
-      "iq": 85,
+      "iq": 70,
       "speed": 88,
       "strength": 58
     }
@@ -1596,7 +1596,7 @@
     "stats": {
       "abilities": 92,
       "durability": 92,
-      "iq": 40,
+      "iq": 80,
       "speed": 88,
       "strength": 92
     }
@@ -1609,7 +1609,7 @@
     "stats": {
       "abilities": 78,
       "durability": 78,
-      "iq": 22,
+      "iq": 70,
       "speed": 82,
       "strength": 78
     }
@@ -1624,11 +1624,11 @@
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Gilgamesh"
     },
     "stats": {
-      "abilities": 40,
-      "durability": 40,
-      "iq": 40,
-      "speed": 40,
-      "strength": 40
+      "abilities": 97,
+      "durability": 97,
+      "iq": 74,
+      "speed": 88,
+      "strength": 100
     }
   },
   {
@@ -1658,9 +1658,9 @@
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Ichigo_Kurosaki_(Pre-Timeskip)"
     },
     "stats": {
-      "abilities": 40,
+      "abilities": 76,
       "durability": 70,
-      "iq": 40,
+      "iq": 46,
       "speed": 68,
       "strength": 70
     }
@@ -1673,7 +1673,7 @@
     "stats": {
       "abilities": 74,
       "durability": 74,
-      "iq": 100,
+      "iq": 68,
       "speed": 82,
       "strength": 88
     }
@@ -1690,7 +1690,7 @@
     "stats": {
       "abilities": 42,
       "durability": 42,
-      "iq": 72,
+      "iq": 68,
       "speed": 88,
       "strength": 58
     }
@@ -1703,7 +1703,7 @@
     "stats": {
       "abilities": 80,
       "durability": 80,
-      "iq": 85,
+      "iq": 78,
       "speed": 88,
       "strength": 90
     }
@@ -1716,7 +1716,7 @@
     "stats": {
       "abilities": 54,
       "durability": 50,
-      "iq": 40,
+      "iq": 93,
       "speed": 68,
       "strength": 58
     }
@@ -1733,7 +1733,7 @@
     "stats": {
       "abilities": 90,
       "durability": 90,
-      "iq": 85,
+      "iq": 50,
       "speed": 88,
       "strength": 90
     }
@@ -1767,7 +1767,7 @@
     "stats": {
       "abilities": 90,
       "durability": 90,
-      "iq": 85,
+      "iq": 58,
       "speed": 88,
       "strength": 90
     }
@@ -1784,7 +1784,7 @@
     "stats": {
       "abilities": 46,
       "durability": 46,
-      "iq": 40,
+      "iq": 42,
       "speed": 68,
       "strength": 68
     }
@@ -1797,7 +1797,7 @@
     "stats": {
       "abilities": 58,
       "durability": 54,
-      "iq": 85,
+      "iq": 80,
       "speed": 88,
       "strength": 54
     }
@@ -1812,11 +1812,11 @@
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Saber"
     },
     "stats": {
-      "abilities": 40,
-      "durability": 40,
-      "iq": 40,
-      "speed": 40,
-      "strength": 40
+      "abilities": 97,
+      "durability": 97,
+      "iq": 64,
+      "speed": 88,
+      "strength": 100
     }
   },
   {
@@ -1831,7 +1831,7 @@
     "stats": {
       "abilities": 92,
       "durability": 92,
-      "iq": 35,
+      "iq": 38,
       "speed": 88,
       "strength": 92
     }
@@ -1844,7 +1844,7 @@
     "stats": {
       "abilities": 80,
       "durability": 80,
-      "iq": 40,
+      "iq": 60,
       "speed": 82,
       "strength": 88
     }
@@ -1857,7 +1857,7 @@
     "stats": {
       "abilities": 80,
       "durability": 80,
-      "iq": 85,
+      "iq": 72,
       "speed": 88,
       "strength": 88
     }
@@ -1874,7 +1874,7 @@
     "stats": {
       "abilities": 58,
       "durability": 54,
-      "iq": 85,
+      "iq": 84,
       "speed": 88,
       "strength": 68
     }
@@ -1882,12 +1882,12 @@
   {
     "displayName": "Sōsuke Aizen",
     "id": "aizen",
-    "portrait": "/portraits/aizen.webp",
+    "portrait": "/portraits/aizen.jpg",
     "series": "Bleach",
     "stats": {
       "abilities": 94,
       "durability": 94,
-      "iq": 85,
+      "iq": 92,
       "speed": 88,
       "strength": 94
     }
@@ -1900,7 +1900,7 @@
     "stats": {
       "abilities": 78,
       "durability": 78,
-      "iq": 72,
+      "iq": 44,
       "speed": 88,
       "strength": 88
     }
@@ -1915,11 +1915,11 @@
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Vegeta_(Dragon_Ball_Super)"
     },
     "stats": {
-      "abilities": 40,
-      "durability": 40,
-      "iq": 40,
-      "speed": 40,
-      "strength": 40
+      "abilities": 94,
+      "durability": 94,
+      "iq": 62,
+      "speed": 88,
+      "strength": 94
     }
   },
   {
@@ -1930,9 +1930,9 @@
     "stats": {
       "abilities": 28,
       "durability": 28,
-      "iq": 55,
+      "iq": 50,
       "speed": 32,
-      "strength": 40
+      "strength": 28
     }
   },
   {

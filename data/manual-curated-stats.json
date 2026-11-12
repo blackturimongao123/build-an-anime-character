@@ -1,0 +1,79 @@
+{
+  "hinata-shoyo": {
+    "strength": 18,
+    "speed": 22,
+    "abilities": 14,
+    "durability": 16
+  },
+  "senku-ishigami": {
+    "strength": 14,
+    "speed": 16,
+    "abilities": 28,
+    "durability": 12
+  },
+  "l-lawliet": {
+    "strength": 14,
+    "speed": 16,
+    "abilities": 18,
+    "durability": 14
+  },
+  "light-yagami": {
+    "strength": 12,
+    "speed": 14,
+    "abilities": 28,
+    "durability": 12
+  },
+  "ryuk-hxh": {
+    "strength": 35,
+    "speed": 42,
+    "abilities": 62,
+    "durability": 55
+  },
+  "kuroko-tetsuya": {
+    "strength": 14,
+    "speed": 20,
+    "abilities": 16,
+    "durability": 14
+  },
+  "aomine-daiki": {
+    "strength": 38,
+    "speed": 42,
+    "abilities": 28,
+    "durability": 35
+  },
+  "lelouch-vi-britannia": {
+    "strength": 18,
+    "speed": 20,
+    "durability": 16
+  },
+  "roy-mustang": {
+    "strength": 22
+  },
+  "thorfinn-anime": {
+    "strength": 28
+  },
+  "truth-fma": {
+    "speed": 88
+  },
+  "ichigo-bankai": {
+    "abilities": 76
+  },
+  "xerneas-anime": {
+    "abilities": 88,
+    "durability": 86
+  },
+  "yveltal-anime": {
+    "abilities": 88,
+    "durability": 86
+  },
+  "antares-sl": {
+    "speed": 68
+  },
+  "ashborn-sl": {
+    "speed": 70
+  },
+  "c-c-geass": {
+    "strength": 22,
+    "speed": 26
+  }
+}

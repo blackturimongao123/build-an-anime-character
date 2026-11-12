@@ -6,6 +6,10 @@ import { animePlanetPortraitUrl } from "./lib/anime-planet.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, "..");
+const hintsPath = resolve(root, "data", "anime-planet-hints.json");
+const apSlugHints: Record<string, string> = existsSync(hintsPath)
+  ? JSON.parse(readFileSync(hintsPath, "utf-8"))
+  : {};
 const charactersPath = resolve(root, "data", "characters.json");
 const outDir = resolve(root, "public-shared", "portraits");
 const clientPortraits = resolve(root, "client", "public", "portraits");
@@ -144,10 +148,11 @@ async function main() {
     }
 
     const baseName = simplifyName(c.displayName);
+    const seriesLabel = SERIES_ANILIST[c.series] ?? c.series;
     const queries = [
-      baseName,
       c.displayName,
-      `${baseName} ${SERIES_ANILIST[c.series] ?? c.series}`,
+      baseName,
+      `${baseName} ${seriesLabel}`,
     ];
 
     const useAnimePlanet = source === "animeplanet" || source === "both";
@@ -155,12 +160,11 @@ async function main() {
 
     let imageUrl: string | null = null;
     if (useAnimePlanet) {
-      imageUrl = await animePlanetPortraitUrl(baseName);
+      imageUrl = await animePlanetPortraitUrl(c.displayName, {
+        series: seriesLabel,
+        characterSlug: apSlugHints[c.id],
+      });
       await new Promise((r) => setTimeout(r, 280));
-      if (!imageUrl) {
-        imageUrl = await animePlanetPortraitUrl(c.displayName);
-        await new Promise((r) => setTimeout(r, 280));
-      }
     }
     if (!imageUrl && useAnilist) {
       for (const q of queries) {
