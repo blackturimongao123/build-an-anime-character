@@ -4,6 +4,15 @@ services:
     runtime: node
     plan: free
     rootDir: server
+    # The server also reads data/characters.json and the shared package, which
+    # live outside rootDir. Paths are relative to the repo root.
+    buildFilter:
+      paths:
+        - server/**
+        - shared/**
+        - data/characters.json
+        - package.json
+        - package-lock.json
     # Installs the npm workspace from the repo root and builds the shared
     # game-rules package the server imports (shared/dist is not committed).
     buildCommand: npm install && npm run build --workspace=@build-character/shared
