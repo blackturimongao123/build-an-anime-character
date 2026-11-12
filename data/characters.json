@@ -2,7 +2,7 @@
   {
     "displayName": "Akame",
     "id": "akame-aga",
-    "portrait": "/portraits/akame-aga.png",
+    "portrait": "/portraits/akame-aga.jpg",
     "series": "Akame ga Kill",
     "stats": {
       "abilities": 68,
@@ -15,7 +15,7 @@
   {
     "displayName": "Esdeath",
     "id": "esdeath",
-    "portrait": "/portraits/esdeath.png",
+    "portrait": "/portraits/esdeath.webp",
     "series": "Akame ga Kill",
     "stats": {
       "abilities": 78,
@@ -41,7 +41,7 @@
   {
     "displayName": "Koro Sensei",
     "id": "koro-sensei",
-    "portrait": "/portraits/koro-sensei.webp",
+    "portrait": "/portraits/koro-sensei.jpg",
     "series": "Assassination Classroom",
     "stats": {
       "abilities": 100,
@@ -54,7 +54,7 @@
   {
     "displayName": "Armin Arlert",
     "id": "armin-colossal-anime",
-    "portrait": "/portraits/armin-colossal-anime.png",
+    "portrait": "/portraits/armin-colossal-anime.jpg",
     "series": "Attack on Titan",
     "stats": {
       "abilities": 54,
@@ -84,7 +84,7 @@
   {
     "displayName": "Levi Ackerman",
     "id": "levi-ackerman",
-    "portrait": "/portraits/levi-ackerman.webp",
+    "portrait": "/portraits/levi-ackerman.jpg",
     "series": "Attack on Titan",
     "sources": {
       "wikiPage": "Levi Ackerman",
@@ -101,7 +101,7 @@
   {
     "displayName": "Mikasa Ackerman",
     "id": "mikasa-ackerman",
-    "portrait": "/portraits/mikasa-ackerman.webp",
+    "portrait": "/portraits/mikasa-ackerman.jpg",
     "series": "Attack on Titan",
     "stats": {
       "abilities": 46,
@@ -114,7 +114,7 @@
   {
     "displayName": "Reiner Braun",
     "id": "reiner-armored-anime",
-    "portrait": "/portraits/reiner-armored-anime.webp",
+    "portrait": "/portraits/reiner-armored-anime.jpg",
     "series": "Attack on Titan",
     "stats": {
       "abilities": 46,
@@ -127,7 +127,7 @@
   {
     "displayName": "Baki Hanma",
     "id": "baki-hanma-anime",
-    "portrait": "/portraits/baki-hanma-anime.png",
+    "portrait": "/portraits/baki-hanma-anime.jpg",
     "series": "Baki",
     "sources": {
       "wikiPage": "Baki Hanma",
@@ -144,7 +144,7 @@
   {
     "displayName": "Asta",
     "id": "asta-black",
-    "portrait": "/portraits/asta-black.png",
+    "portrait": "/portraits/asta-black.jpg",
     "series": "Black Clover",
     "stats": {
       "abilities": 70,
@@ -157,7 +157,7 @@
   {
     "displayName": "Julius Novachrono",
     "id": "julius-black-clover",
-    "portrait": "/portraits/julius-black-clover.webp",
+    "portrait": "/portraits/julius-black-clover.jpg",
     "series": "Black Clover",
     "stats": {
       "abilities": 66,
@@ -183,7 +183,7 @@
   {
     "displayName": "Yami Sukehiro",
     "id": "yami-black-clover",
-    "portrait": "/portraits/yami-black-clover.webp",
+    "portrait": "/portraits/yami-black-clover.jpg",
     "series": "Black Clover",
     "sources": {
       "wikiPage": "Yami Sukehiro",
@@ -200,7 +200,7 @@
   {
     "displayName": "Yuno",
     "id": "yuno-spirit-dive",
-    "portrait": "/portraits/yuno-spirit-dive.webp",
+    "portrait": "/portraits/yuno-spirit-dive.jpg",
     "series": "Black Clover",
     "stats": {
       "abilities": 70,
@@ -213,7 +213,7 @@
   {
     "displayName": "C.C.",
     "id": "c-c-geass",
-    "portrait": "/portraits/c-c-geass.png",
+    "portrait": "/portraits/c-c-geass.jpg",
     "series": "Code Geass",
     "stats": {
       "abilities": 50,
@@ -256,7 +256,7 @@
   {
     "displayName": "Light Yagami",
     "id": "light-yagami",
-    "portrait": "/portraits/light-yagami.webp",
+    "portrait": "/portraits/light-yagami.jpg",
     "series": "Death Note",
     "sources": {
       "wikiPage": "Light Yagami",
@@ -273,7 +273,7 @@
   {
     "displayName": "Ryuk",
     "id": "ryuk-hxh",
-    "portrait": "/portraits/ryuk-hxh.webp",
+    "portrait": "/portraits/ryuk-hxh.jpg",
     "series": "Death Note",
     "sources": {
       "wikiPage": "Ryuk",
@@ -329,7 +329,7 @@
   {
     "displayName": "Kyojuro Rengoku",
     "id": "rengoku-demon-slayer",
-    "portrait": "/portraits/rengoku-demon-slayer.webp",
+    "portrait": "/portraits/rengoku-demon-slayer.jpg",
     "series": "Demon Slayer",
     "stats": {
       "abilities": 52,
@@ -342,7 +342,7 @@
   {
     "displayName": "Muzan Kibutsuji",
     "id": "muzan-demon-slayer",
-    "portrait": "/portraits/muzan-demon-slayer.webp",
+    "portrait": "/portraits/muzan-demon-slayer.jpg",
     "series": "Demon Slayer",
     "stats": {
       "abilities": 52,
@@ -394,7 +394,7 @@
   {
     "displayName": "Senku Ishigami",
     "id": "senku-ishigami",
-    "portrait": "/portraits/senku-ishigami.webp",
+    "portrait": "/portraits/senku-ishigami.jpg",
     "series": "Dr. Stone",
     "stats": {
       "abilities": 28,
@@ -433,7 +433,7 @@
   {
     "displayName": "Natsu Dragneel",
     "id": "natsu-dragon-force",
-    "portrait": "/portraits/natsu-dragon-force.webp",
+    "portrait": "/portraits/natsu-dragon-force.jpg",
     "series": "Fairy Tail",
     "stats": {
       "abilities": 68,
@@ -459,7 +459,7 @@
   {
     "displayName": "Arthur Boyle",
     "id": "arthur-boyle",
-    "portrait": "/portraits/arthur-boyle.png",
+    "portrait": "/portraits/arthur-boyle.jpg",
     "series": "Fire Force",
     "stats": {
       "abilities": 80,
@@ -485,7 +485,7 @@
   {
     "displayName": "Shinra Kusakabe",
     "id": "shinra-fire-force",
-    "portrait": "/portraits/shinra-fire-force.webp",
+    "portrait": "/portraits/shinra-fire-force.jpg",
     "series": "Fire Force",
     "stats": {
       "abilities": 94,
@@ -498,7 +498,7 @@
   {
     "displayName": "Sho Kusakabe",
     "id": "sho-kusakabe",
-    "portrait": "/portraits/sho-kusakabe.webp",
+    "portrait": "/portraits/sho-kusakabe.jpg",
     "series": "Fire Force",
     "stats": {
       "abilities": 80,
@@ -537,7 +537,7 @@
   {
     "displayName": "Envy",
     "id": "envy-fma",
-    "portrait": "/portraits/envy-fma.png",
+    "portrait": "/portraits/envy-fma.jpg",
     "series": "Fullmetal Alchemist",
     "stats": {
       "abilities": 38,
@@ -593,7 +593,7 @@
   {
     "displayName": "Lust",
     "id": "lust-fma",
-    "portrait": "/portraits/lust-fma.webp",
+    "portrait": "/portraits/lust-fma.jpg",
     "series": "Fullmetal Alchemist",
     "stats": {
       "abilities": 38,
@@ -606,7 +606,7 @@
   {
     "displayName": "Pride",
     "id": "pride-fma",
-    "portrait": "/portraits/pride-fma.webp",
+    "portrait": "/portraits/pride-fma.png",
     "series": "Fullmetal Alchemist",
     "stats": {
       "abilities": 52,
@@ -619,7 +619,7 @@
   {
     "displayName": "Roy Mustang",
     "id": "roy-mustang",
-    "portrait": "/portraits/roy-mustang.webp",
+    "portrait": "/portraits/roy-mustang.jpg",
     "series": "Fullmetal Alchemist",
     "stats": {
       "abilities": 38,
@@ -632,7 +632,7 @@
   {
     "displayName": "Sloth",
     "id": "sloth-fma",
-    "portrait": "/portraits/sloth-fma.webp",
+    "portrait": "/portraits/sloth-fma.jpg",
     "series": "Fullmetal Alchemist",
     "stats": {
       "abilities": 38,
@@ -645,7 +645,7 @@
   {
     "displayName": "The Truth",
     "id": "truth-fma",
-    "portrait": "/portraits/truth-fma.webp",
+    "portrait": "/portraits/truth-fma.jpg",
     "series": "Fullmetal Alchemist",
     "sources": {
       "wikiPage": "Truth (Fullmetal Alchemist)",
@@ -662,7 +662,7 @@
   {
     "displayName": "Wrath",
     "id": "wrath-fma",
-    "portrait": "/portraits/wrath-fma.webp",
+    "portrait": "/portraits/wrath-fma.png",
     "series": "Fullmetal Alchemist",
     "stats": {
       "abilities": 62,
@@ -675,7 +675,7 @@
   {
     "displayName": "Sakata Gintoki",
     "id": "sakata-gintoki",
-    "portrait": "/portraits/sakata-gintoki.webp",
+    "portrait": "/portraits/sakata-gintoki.jpg",
     "series": "Gintama",
     "stats": {
       "abilities": 58,
@@ -705,7 +705,7 @@
   {
     "displayName": "Simon",
     "id": "simon-gurren-lagann",
-    "portrait": "/portraits/simon-gurren-lagann.webp",
+    "portrait": "/portraits/simon-gurren-lagann.jpg",
     "series": "Gurren Lagann",
     "sources": {
       "wikiPage": "Simon the Digger",
@@ -774,7 +774,7 @@
   {
     "displayName": "Isaac Netero",
     "id": "netero-hxh",
-    "portrait": "/portraits/netero-hxh.webp",
+    "portrait": "/portraits/netero-hxh.jpg",
     "series": "Hunter x Hunter",
     "sources": {
       "wikiPage": "Isaac Netero",
@@ -791,7 +791,7 @@
   {
     "displayName": "Killua Zoldyck",
     "id": "killua-godspeed",
-    "portrait": "/portraits/killua-godspeed.webp",
+    "portrait": "/portraits/killua-godspeed.jpg",
     "series": "Hunter x Hunter",
     "stats": {
       "abilities": 52,
@@ -834,7 +834,7 @@
   {
     "displayName": "Kuroki Gensai",
     "id": "kuroki-gensai",
-    "portrait": "/portraits/kuroki-gensai.webp",
+    "portrait": "/portraits/kuroki-gensai.jpg",
     "series": "Kengan Ashura",
     "stats": {
       "abilities": 50,
@@ -847,7 +847,7 @@
   {
     "displayName": "Tokita Ohma",
     "id": "ohma-tokita",
-    "portrait": "/portraits/ohma-tokita.webp",
+    "portrait": "/portraits/ohma-tokita.jpg",
     "series": "Kengan Ashura",
     "stats": {
       "abilities": 62,
@@ -873,7 +873,7 @@
   {
     "displayName": "Tetsuya Kuroko",
     "id": "kuroko-tetsuya",
-    "portrait": "/portraits/kuroko-tetsuya.webp",
+    "portrait": "/portraits/kuroko-tetsuya.jpg",
     "series": "Kuroko's Basketball",
     "stats": {
       "abilities": 16,
@@ -903,7 +903,7 @@
   {
     "displayName": "Shigeo Kageyama",
     "id": "mob-100-anime",
-    "portrait": "/portraits/mob-100-anime.webp",
+    "portrait": "/portraits/mob-100-anime.jpg",
     "series": "Mob Psycho 100",
     "sources": {
       "wikiPage": "Shigeo Kageyama",
@@ -920,7 +920,7 @@
   {
     "displayName": "Toichiro Suzuki",
     "id": "toichiro-suzuki",
-    "portrait": "/portraits/toichiro-suzuki.webp",
+    "portrait": "/portraits/toichiro-suzuki.jpg",
     "series": "Mob Psycho 100",
     "stats": {
       "abilities": 78,
@@ -946,7 +946,7 @@
   {
     "displayName": "Ainz Ooal Gown",
     "id": "ainz-ooal-gown",
-    "portrait": "/portraits/ainz-ooal-gown.png",
+    "portrait": "/portraits/ainz-ooal-gown.webp",
     "series": "Overlord",
     "sources": {
       "wikiPage": "Ainz Ooal Gown",
@@ -963,7 +963,7 @@
   {
     "displayName": "Shinichi Izumi",
     "id": "shinichi-izumi",
-    "portrait": "/portraits/shinichi-izumi.webp",
+    "portrait": "/portraits/shinichi-izumi.jpg",
     "series": "Parasyte",
     "stats": {
       "abilities": 28,
@@ -1054,7 +1054,7 @@
   {
     "displayName": "Ho-Oh",
     "id": "ho-oh-anime",
-    "portrait": "/portraits/ho-oh-anime.png",
+    "portrait": "/portraits/ho-oh-anime.webp",
     "series": "Pokémon",
     "stats": {
       "abilities": 78,
@@ -1080,7 +1080,7 @@
   {
     "displayName": "Lugia",
     "id": "lugia-anime",
-    "portrait": "/portraits/lugia-anime.webp",
+    "portrait": "/portraits/lugia-anime.jpg",
     "series": "Pokémon",
     "stats": {
       "abilities": 100,
@@ -1119,7 +1119,7 @@
   {
     "displayName": "Rayquaza",
     "id": "rayquaza-anime",
-    "portrait": "/portraits/rayquaza-anime.webp",
+    "portrait": "/portraits/rayquaza-anime.png",
     "series": "Pokémon",
     "stats": {
       "abilities": 80,
@@ -1158,7 +1158,7 @@
   {
     "displayName": "Zygarde",
     "id": "zygarde-complete-anime",
-    "portrait": "/portraits/zygarde-complete-anime.webp",
+    "portrait": "/portraits/zygarde-complete-anime.jpg",
     "series": "Pokémon",
     "stats": {
       "abilities": 78,
@@ -1171,7 +1171,7 @@
   {
     "displayName": "Adam",
     "id": "adam-record",
-    "portrait": "/portraits/adam-record.png",
+    "portrait": "/portraits/adam-record.jpg",
     "series": "Record of Ragnarok",
     "sources": {
       "wikiPage": "Adam (Record of Ragnarok)",
@@ -1214,7 +1214,7 @@
   {
     "displayName": "Thor",
     "id": "thor-record",
-    "portrait": "/portraits/thor-record.webp",
+    "portrait": "/portraits/thor-record.jpg",
     "series": "Record of Ragnarok",
     "sources": {
       "wikiPage": "Thor (Record of Ragnarok)",
@@ -1231,7 +1231,7 @@
   {
     "displayName": "Zeus",
     "id": "zeus-record",
-    "portrait": "/portraits/zeus-record.webp",
+    "portrait": "/portraits/zeus-record.jpg",
     "series": "Record of Ragnarok",
     "stats": {
       "abilities": 88,
@@ -1278,7 +1278,7 @@
   {
     "displayName": "Asuna Yuuki",
     "id": "asuna-alicization",
-    "portrait": "/portraits/asuna-alicization.png",
+    "portrait": "/portraits/asuna-alicization.jpg",
     "series": "Sword Art Online",
     "sources": {
       "wikiPage": "Asuna (Post-Aincrad)",
@@ -1312,7 +1312,7 @@
   {
     "displayName": "Kirito",
     "id": "kirito-stacia",
-    "portrait": "/portraits/kirito-stacia.webp",
+    "portrait": "/portraits/kirito-stacia.jpg",
     "series": "Sword Art Online",
     "sources": {
       "wikiPage": "Kirito (Post-Aincrad)",
@@ -1365,7 +1365,7 @@
   {
     "displayName": "Jin Mori",
     "id": "jin-mori-anime",
-    "portrait": "/portraits/jin-mori-anime.webp",
+    "portrait": "/portraits/jin-mori-anime.jpg",
     "series": "The God of High School",
     "sources": {
       "wikiPage": "Mori Jin",
@@ -1383,7 +1383,7 @@
   {
     "displayName": "Anos Voldigoad",
     "id": "anos-voldigoad",
-    "portrait": "/portraits/anos-voldigoad.png",
+    "portrait": "/portraits/anos-voldigoad.webp",
     "series": "The Misfit of Demon King Academy",
     "sources": {
       "wikiPage": "Anos Voldigoad",
@@ -1426,7 +1426,7 @@
   {
     "displayName": "Ken Kaneki",
     "id": "kaneki-ken-anime",
-    "portrait": "/portraits/kaneki-ken-anime.webp",
+    "portrait": "/portraits/kaneki-ken-anime.jpg",
     "series": "Tokyo Ghoul",
     "stats": {
       "abilities": 62,
@@ -1516,7 +1516,7 @@
   {
     "displayName": "Ban",
     "id": "ban-snatch",
-    "portrait": "/portraits/ban-snatch.png",
+    "portrait": "/portraits/ban-snatch.jpg",
     "series": "Seven Deadly Sins",
     "stats": {
       "abilities": 90,
@@ -1546,7 +1546,7 @@
   {
     "displayName": "Choso",
     "id": "choso",
-    "portrait": "/portraits/choso.png",
+    "portrait": "/portraits/choso.webp",
     "series": "Jujutsu Kaisen",
     "stats": {
       "abilities": 49,
@@ -1559,7 +1559,7 @@
   {
     "displayName": "Denji",
     "id": "denji-chainsaw",
-    "portrait": "/portraits/denji-chainsaw.png",
+    "portrait": "/portraits/denji-chainsaw.webp",
     "series": "Chainsaw Man",
     "stats": {
       "abilities": 50,
@@ -1572,7 +1572,7 @@
   {
     "displayName": "DIO",
     "id": "dio-part-3",
-    "portrait": "/portraits/dio-part-3.png",
+    "portrait": "/portraits/dio-part-3.jpg",
     "series": "JoJo",
     "sources": {
       "wikiFragment": "Stardust_Crusaders",
@@ -1604,7 +1604,7 @@
   {
     "displayName": "Genryūsai Shigekuni Yamamoto",
     "id": "yamamoto",
-    "portrait": "/portraits/yamamoto.webp",
+    "portrait": "/portraits/yamamoto.jpg",
     "series": "Bleach",
     "stats": {
       "abilities": 78,
@@ -1617,7 +1617,7 @@
   {
     "displayName": "Gilgamesh",
     "id": "gilgamesh-fsn",
-    "portrait": "/portraits/gilgamesh-fsn.png",
+    "portrait": "/portraits/gilgamesh-fsn.jpg",
     "series": "Fate",
     "sources": {
       "wikiPage": "Gilgamesh",
@@ -1634,7 +1634,7 @@
   {
     "displayName": "Goku",
     "id": "goku-ssj2",
-    "portrait": "/portraits/goku-ssj2.png",
+    "portrait": "/portraits/goku-ssj2.jpg",
     "series": "Dragon Ball",
     "sources": {
       "wikiPage": "Son Goku (DBS Anime)",
@@ -1668,7 +1668,7 @@
   {
     "displayName": "Izuku Midoriya",
     "id": "deku-100",
-    "portrait": "/portraits/deku-100.png",
+    "portrait": "/portraits/deku-100.jpg",
     "series": "My Hero Academia",
     "stats": {
       "abilities": 74,
@@ -1681,7 +1681,7 @@
   {
     "displayName": "Jotaro Kujo",
     "id": "jotaro-part-3",
-    "portrait": "/portraits/jotaro-part-3.webp",
+    "portrait": "/portraits/jotaro-part-3.jpg",
     "series": "JoJo",
     "sources": {
       "wikiPage": "Jotaro Kujo",
@@ -1724,7 +1724,7 @@
   {
     "displayName": "Meliodas",
     "id": "meliodas-assault",
-    "portrait": "/portraits/meliodas-assault.webp",
+    "portrait": "/portraits/meliodas-assault.jpg",
     "series": "Seven Deadly Sins",
     "sources": {
       "wikiPage": "Meliodas",
@@ -1792,7 +1792,7 @@
   {
     "displayName": "Ryomen Sukuna",
     "id": "sukuna",
-    "portrait": "/portraits/sukuna.webp",
+    "portrait": "/portraits/sukuna.jpg",
     "series": "Jujutsu Kaisen",
     "stats": {
       "abilities": 58,
@@ -1805,7 +1805,7 @@
   {
     "displayName": "Saber",
     "id": "saber-fsn",
-    "portrait": "/portraits/saber-fsn.webp",
+    "portrait": "/portraits/saber-fsn.jpg",
     "series": "Fate",
     "sources": {
       "wikiPage": "Saber",
@@ -1839,7 +1839,7 @@
   {
     "displayName": "Sanji",
     "id": "sanji",
-    "portrait": "/portraits/sanji.webp",
+    "portrait": "/portraits/sanji.jpg",
     "series": "One Piece",
     "stats": {
       "abilities": 80,
@@ -1908,7 +1908,7 @@
   {
     "displayName": "Vegeta",
     "id": "vegeta-ssb",
-    "portrait": "/portraits/vegeta-ssb.webp",
+    "portrait": "/portraits/vegeta-ssb.jpg",
     "series": "Dragon Ball",
     "sources": {
       "wikiPage": "Vegeta (Dragon Ball Super)",
@@ -1925,7 +1925,7 @@
   {
     "displayName": "Thorfinn",
     "id": "thorfinn-anime",
-    "portrait": "/portraits/thorfinn-anime.webp",
+    "portrait": "/portraits/thorfinn-anime.jpg",
     "series": "Vinland Saga",
     "stats": {
       "abilities": 28,
@@ -1938,7 +1938,7 @@
   {
     "displayName": "Thors",
     "id": "thors-snake",
-    "portrait": "/portraits/thors-snake.webp",
+    "portrait": "/portraits/thors-snake.jpg",
     "series": "Vinland Saga",
     "stats": {
       "abilities": 28,

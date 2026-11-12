@@ -8,6 +8,8 @@ export type AnimePlanetLookupOptions = {
   series?: string;
   /** Known `/characters/<slug>` from manual browse. */
   characterSlug?: string;
+  /** Anime-Planet `/anime/<slug>/characters` pages to scan (cast list). */
+  animeSlugs?: string[];
 };
 
 function simplifyName(displayName: string): string {
@@ -15,11 +17,38 @@ function simplifyName(displayName: string): string {
 }
 
 function normalizeName(s: string): string {
-  return s.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
+  return s
+    .normalize("NFKD")
+    .replace(/\p{M}/gu, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+/** AP often spells ō as `ou` (Sousuke) while roster uses ō (Sōsuke). */
+function foldRomaji(s: string): string {
+  return normalizeName(s).replace(/ou/g, "o").replace(/uu/g, "u");
 }
 
 function firstName(displayName: string): string {
   return displayName.trim().split(/\s+/)[0] ?? displayName;
+}
+
+function nameMatchScore(want: string, candidate: string): number {
+  const w = normalizeName(simplifyName(want));
+  const c = normalizeName(candidate);
+  if (!w || !c) return 0;
+  if (c === w || foldRomaji(want) === foldRomaji(candidate)) return 100;
+  const wParts = w.split(" ").filter(Boolean);
+  const first = wParts[0] ?? w;
+  const last = wParts[wParts.length - 1] ?? w;
+  if (c === first) return 92;
+  if (wParts.length > 1 && c === last) return 72;
+  if (wParts.length > 1 && wParts.every((p) => c.split(" ").includes(p))) return 78;
+  if (c.includes(w) || w.includes(c)) return 55;
+  if (c.startsWith(first)) return 60;
+  if (c.includes(first)) return 50;
+  return 0;
 }
 
 function extractPortraitUrl(html: string): string | null {
@@ -31,6 +60,65 @@ function extractPortraitUrl(html: string): string | null {
     /https:\/\/www\.anime-planet\.com\/images\/characters\/[^"'\s]+\.jpg[^"'\s]*/,
   );
   return thumb?.[0] ?? null;
+}
+
+/** Cast table thumbs use `name-1-190x297.jpg`; normalize to full primary CDN URL. */
+export function castThumbToPrimaryUrl(thumb: string): string {
+  return thumb.replace(/(-\d+x\d+)(?=\.(jpg|webp|png))/i, "");
+}
+
+type CastRow = { path: string; name: string; thumbUrl: string | null };
+
+export function parseAnimeCastPage(html: string): CastRow[] {
+  const rows: CastRow[] = [];
+  const seen = new Set<string>();
+
+  for (const block of html.matchAll(
+    /<tr>[\s\S]*?<a href="(\/characters\/[a-z0-9-]+)"[\s\S]*?<\/tr>/gi,
+  )) {
+    const segment = block[0];
+    const path = block[1];
+    if (seen.has(path)) continue;
+
+    const name =
+      segment.match(/class="name"[^>]*>([^<]+)</i)?.[1]?.trim() ??
+      segment.match(/alt="([^"]+)"/i)?.[1]?.trim() ??
+      "";
+    const thumb =
+      segment.match(
+        /https:\/\/cdn\.anime-planet\.com\/characters\/primary\/[^"'\s]+/i,
+      )?.[0] ?? null;
+
+    if (!name) continue;
+    seen.add(path);
+    rows.push({ path, name, thumbUrl: thumb });
+  }
+
+  if (rows.length > 0) return rows;
+
+  for (const m of html.matchAll(
+    /href="(\/characters\/[a-z0-9-]+)"[^>]*class="name"[^>]*>([^<]+)</gi,
+  )) {
+    const path = m[1];
+    if (seen.has(path)) continue;
+    seen.add(path);
+    rows.push({ path, name: m[2].trim(), thumbUrl: null });
+  }
+  return rows;
+}
+
+export function pickCastRow(
+  rows: CastRow[],
+  displayName: string,
+): CastRow | null {
+  const matchName = simplifyName(displayName) || displayName.trim();
+  let best: { row: CastRow; score: number } | null = null;
+  for (const row of rows) {
+    const score = nameMatchScore(matchName, row.name);
+    if (score < 50) continue;
+    if (!best || score > best.score) best = { row, score };
+  }
+  return best?.row ?? null;
 }
 
 function pickCharacterPath(
@@ -49,13 +137,8 @@ function pickCharacterPath(
   let best: { path: string; score: number } | null = null;
   for (const m of html.matchAll(re)) {
     const path = m[1];
-    const title = normalizeName(m[2]);
-    let score = 0;
-    if (title === want) score = 100;
-    else if (title.includes(want) || want.includes(title)) score = 80;
-    else if (want.split(" ").every((w) => title.includes(w))) score = 75;
-    else if (title.startsWith(wantFirst)) score = 60;
-    else if (title.includes(wantFirst)) score = 40;
+    const title = m[2].trim();
+    const score = nameMatchScore(displayName, title);
     if (!best || score > best.score) best = { path, score };
   }
 
@@ -105,15 +188,43 @@ function buildSearchQueries(
   return out;
 }
 
-async function portraitFromCharacterSlug(
-  slug: string,
+async function portraitFromCharacterPath(
+  path: string,
+  thumbUrl: string | null,
 ): Promise<string | null> {
-  const path = slug.replace(/^\//, "").replace(/^characters\//, "");
-  const page = await fetchHtml(`${ORIGIN}/characters/${path}`);
+  if (thumbUrl && !/kakashi-hatake/i.test(thumbUrl)) {
+    const primary = castThumbToPrimaryUrl(thumbUrl);
+    if (primary.includes("cdn.anime-planet.com")) return primary;
+  }
+  const page = await fetchHtml(`${ORIGIN}${path}`);
   if (!page) return null;
   const url = extractPortraitUrl(page.html);
   if (!url || /kakashi-hatake/i.test(url)) return null;
   return url;
+}
+
+async function portraitFromCharacterSlug(
+  slug: string,
+): Promise<string | null> {
+  const path = slug.replace(/^\//, "").replace(/^characters\//, "");
+  return portraitFromCharacterPath(`/characters/${path}`, null);
+}
+
+async function portraitFromAnimeCast(
+  displayName: string,
+  animeSlugs: string[],
+): Promise<string | null> {
+  for (const slug of animeSlugs) {
+    const castUrl = `${ORIGIN}/anime/${slug.replace(/^\//, "")}/characters`;
+    const page = await fetchHtml(castUrl);
+    if (!page) continue;
+    const rows = parseAnimeCastPage(page.html);
+    const row = pickCastRow(rows, displayName);
+    if (!row) continue;
+    const url = await portraitFromCharacterPath(row.path, row.thumbUrl);
+    if (url) return url;
+  }
+  return null;
 }
 
 async function animePlanetPortraitUrlForQuery(
@@ -142,11 +253,22 @@ async function animePlanetPortraitUrlForQuery(
   return url;
 }
 
-/** Resolve portrait CDN URL via Anime-Planet (full name first, first name last). */
+/**
+ * Resolve portrait CDN URL via Anime-Planet.
+ * Order: anime cast pages → direct character slug → global search (full name first).
+ */
 export async function animePlanetPortraitUrl(
   displayName: string,
   options?: AnimePlanetLookupOptions,
 ): Promise<string | null> {
+  if (options?.animeSlugs?.length) {
+    const fromCast = await portraitFromAnimeCast(
+      displayName,
+      options.animeSlugs,
+    );
+    if (fromCast) return fromCast;
+  }
+
   if (options?.characterSlug) {
     const fromSlug = await portraitFromCharacterSlug(options.characterSlug);
     if (fromSlug) return fromSlug;

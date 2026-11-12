@@ -10,6 +10,10 @@ const hintsPath = resolve(root, "data", "anime-planet-hints.json");
 const apSlugHints: Record<string, string> = existsSync(hintsPath)
   ? JSON.parse(readFileSync(hintsPath, "utf-8"))
   : {};
+const animeCastSlugsPath = resolve(root, "data", "anime-planet-anime-slugs.json");
+const animeCastSlugs: Record<string, string[]> = existsSync(animeCastSlugsPath)
+  ? JSON.parse(readFileSync(animeCastSlugsPath, "utf-8"))
+  : {};
 const charactersPath = resolve(root, "data", "characters.json");
 const outDir = resolve(root, "public-shared", "portraits");
 const clientPortraits = resolve(root, "client", "public", "portraits");
@@ -98,6 +102,19 @@ function simplifyName(displayName: string): string {
   return displayName.replace(/\s*\([^)]*\)\s*/g, " ").trim();
 }
 
+function animeSlugFromTitle(title: string): string {
+  return title
+    .normalize("NFKD")
+    .replace(/\p{M}/gu, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+function rejectPlaceholder(url: string): boolean {
+  return /kakashi-hatake/i.test(url) || url.includes("characters/primary/default");
+}
+
 function extFromUrl(url: string): string {
   try {
     const path = new URL(url).pathname.toLowerCase();
@@ -160,10 +177,14 @@ async function main() {
 
     let imageUrl: string | null = null;
     if (useAnimePlanet) {
+      const animeSlugs =
+        animeCastSlugs[c.series] ?? [animeSlugFromTitle(seriesLabel)];
       imageUrl = await animePlanetPortraitUrl(c.displayName, {
         series: seriesLabel,
         characterSlug: apSlugHints[c.id],
+        animeSlugs,
       });
+      if (imageUrl && rejectPlaceholder(imageUrl)) imageUrl = null;
       await new Promise((r) => setTimeout(r, 280));
     }
     if (!imageUrl && useAnilist) {

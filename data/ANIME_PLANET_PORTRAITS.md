@@ -1,20 +1,25 @@
 # Anime-Planet portrait lookup
 
-## Search order (automated + manual)
+## Preferred: anime **cast** page
 
-1. Set site search scope to **characters** (not anime).
-2. **`animePlanetPortraitUrl`** tries queries in this order:
-   - Full `displayName` (as stored on the roster)
-   - Parenthesis-stripped full name
-   - `Full Name` + series label (e.g. `Sōsuke Aizen` + `Bleach`)
-   - Per-id `SEARCH_OVERRIDES` in `fetch-portraits-ids.ts`
-   - **First name only last** (stricter match threshold so “Aizen” does not grab a random homonym)
-3. **`data/anime-planet-hints.json`** — direct `/characters/<slug>` when full-name search fails (e.g. AP lists Eto as slug `eto` only).
+For each roster series we map to Anime-Planet anime slug(s), e.g. [Tokyo Ghoul √A characters](https://www.anime-planet.com/anime/tokyo-ghoul-a/characters).
+
+The fetcher loads `data/anime-planet-anime-slugs.json`, requests `/anime/<slug>/characters`, parses the cast table (`class="name"` + `/characters/...` links), and matches the roster **display name** (full name first; “Eto Yoshimura” → cast row **Eto**).
+
+Portrait URL comes from the cast thumbnail CDN (full size) or the character page.
+
+## Fallback chain
+
+1. **Cast pages** for the character’s `series` (see `anime-planet-anime-slugs.json`)
+2. **`anime-planet-hints.json`** — manual `/characters/<slug>` when cast misses
+3. **Global character search** — full name → name + series → overrides → first name last
+
+## Manual browser flow
+
+1. Open the correct anime on Anime-Planet → **characters** tab (URL ends in `/characters`).
+2. Find the row (e.g. **Eto** on Tokyo Ghoul).
+3. If needed, add the anime slug to `anime-planet-anime-slugs.json` under the game series key (multiple seasons OK).
 
 ```bash
 npx tsx scripts/fetch-portraits-ids.ts <id> …
 ```
-
-## Manual browser flow
-
-Same as above: **characters** filter → type **full name** first → open the row that matches the series → copy slug into `anime-planet-hints.json` if needed.

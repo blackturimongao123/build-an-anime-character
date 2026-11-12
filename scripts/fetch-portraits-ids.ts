@@ -22,6 +22,10 @@ const hintsPath = resolve(root, "data", "anime-planet-hints.json");
 const apSlugHints: Record<string, string> = existsSync(hintsPath)
   ? JSON.parse(readFileSync(hintsPath, "utf-8"))
   : {};
+const animeCastSlugsPath = resolve(root, "data", "anime-planet-anime-slugs.json");
+const animeCastSlugs: Record<string, string[]> = existsSync(animeCastSlugsPath)
+  ? JSON.parse(readFileSync(animeCastSlugsPath, "utf-8"))
+  : {};
 const charactersPath = resolve(root, "data", "characters.json");
 const outDir = resolve(root, "public-shared", "portraits");
 const clientPortraits = resolve(root, "client", "public", "portraits");
@@ -100,6 +104,9 @@ const SEARCH_OVERRIDES: Record<string, string[]> = {
   aizen: ["Sōsuke Aizen", "Aizen Bleach", "Sosuke Aizen"],
   "father-fma": ["Father Homunculus", "Dwarf in the Flask"],
   "eto-yoshimura": ["Eto Yoshimura Tokyo Ghoul", "One-Eyed Owl"],
+  "ash-greninja-anime": ["Ash-Greninja", "Greninja"],
+  "palkia-anime": ["Palkia"],
+  "zygarde-complete-anime": ["Zygarde Complete", "Zygarde"],
 };
 
 function simplifyName(displayName: string): string {
@@ -180,7 +187,9 @@ async function download(url: string): Promise<Buffer> {
 }
 
 async function main() {
-  const targetIds = new Set(process.argv.slice(2));
+  const targetIds = new Set(
+    process.argv.slice(2).filter((a) => !a.startsWith("--")),
+  );
   if (targetIds.size === 0) {
     console.error("Usage: tsx fetch-portraits-ids.ts <id> …");
     process.exit(1);
@@ -219,6 +228,7 @@ async function main() {
         series: seriesLabel,
         extraQueries: SEARCH_OVERRIDES[id],
         characterSlug: apSlugHints[id],
+        animeSlugs: animeCastSlugs[c.series] ?? [],
       });
       await new Promise((r) => setTimeout(r, 260));
       if (imageUrl && rejectPlaceholder(imageUrl)) imageUrl = null;
