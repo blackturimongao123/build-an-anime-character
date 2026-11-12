@@ -17,6 +17,12 @@ export default function ShowdownScreen({ state, yourSide }: {
   const index = state.showdownIndex;
   const beat = state.showdownBeats[index];
   const sides: PlayerSide[] = [yourSide, yourSide === "p1" ? "p2" : "p1"];
+  // The average starts climbing when the punch lands.
+  const clashDelay =
+    (index <= 0 && typeof window !== "undefined" &&
+      window.matchMedia("(min-width: 681px) and (prefers-reduced-motion: no-preference)").matches
+      ? INTRO_DELAY_MS
+      : 0) + CLASH_CONTACT_MS;
 
   // Punch sound on contact: one heavy hit for a knockout, two quick hits for a tie.
   const beatKey = beat ? `${index}-${beat.category}` : null;
@@ -71,7 +77,7 @@ export default function ShowdownScreen({ state, yourSide }: {
                   );
                 })}
               </div>
-              <AverageScore color={color} value={average} />
+              <AverageScore color={color} value={average} animate delayMs={clashDelay} />
             </section>
           );
         })}

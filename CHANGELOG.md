@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-11-12: Average score
+
+### 8. Average score
+
+| Area | Change |
+|------|--------|
+| `shared/src/game.ts` | **AVG SCORE is now the total of all 5 stats ÷ 5.** Before, a knockout or tie removed that category from the loser's average (it averaged only surviving categories), so knockouts decided the winner. Now after clash *k* each side shows the sum of the first *k* revealed stats ÷ 5: it only climbs and ends at total ÷ 5. Knockout flags are kept for the on-screen knockout only. `finalWinner` compares the final values (equal → tie). |
+| `client/src/components/ArenaUI.tsx`, `ShowdownScreen.tsx`, `styles/global.css` | The AVG SCORE number counts up (about 0.65 s, ease-out) from its previous value when the punch lands (210 ms, plus the 620 ms intro on the first desktop clash), with a small pop while counting. Reduced motion jumps straight to the value. The results screen shows the final value without counting. |
+| `docs/GAMEPLAY.md`, `README.md` | Rules updated: average = total ÷ 5, fills in per clash, knockouts and ties are visual only. |
+
+**Tested:** shared and client build. Scripted boards (90, 10, 50, 70, 30 vs 20, 80, 50, 60, 40) give 18/4 → 20/20 → 30/30 → 44/42 → 50/50 → tie. A local bot match showed both averages climbing on every clash and never dropping.
+
 ## 2026-11-11: Release prep
 
 ### 7. Fixes found in the release check

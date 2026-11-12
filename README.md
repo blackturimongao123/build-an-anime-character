@@ -69,11 +69,11 @@ Short version:
 1. **Create room** (optionally vs BOT) or **join** with a 6-letter code.
 2. Each round, tap **+** on a category to lock your rolled character there (5 rounds total).
 3. After draft, **Showdown** compares each category: the portraits charge at each other, the lower stat is knocked off the board, and on a tie both clash and return to their spots.
-4. **AVG SCORE** updates after each clash. Highest final average wins.
+4. **AVG SCORE** is the total of all 5 stats ÷ 5. It fills in as each clash is revealed; knockouts and ties are visual only. Highest average wins.
 
 Sounds (roll ticks, clicks, punches) are synthesized in the browser; use the 🔊 button to mute.
 
-**Full rules** (draft timer, elimination, BOT tiers, ties): [docs/GAMEPLAY.md](docs/GAMEPLAY.md).
+**Full rules** (draft timer, knockouts, BOT tiers, ties): [docs/GAMEPLAY.md](docs/GAMEPLAY.md).
 
 ## Project structure
 

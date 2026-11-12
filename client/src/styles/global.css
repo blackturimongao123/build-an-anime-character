@@ -476,6 +476,8 @@ button:focus-visible, input:focus-visible, select:focus-visible {
 .avg-box--red { background: linear-gradient(#2a0600, #951400); }
 .avg-box strong { font-size: calc(37 * var(--unit)); font-weight: inherit; }
 .game--clashing .avg-box strong { color: #ffcf33; }
+.avg-box strong { display: inline-block; transition: transform .2s ease-out; }
+.avg-box--counting strong { transform: scale(1.12); }
 .burst {
   position: absolute;
   z-index: 3;

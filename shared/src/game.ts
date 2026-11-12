@@ -49,30 +49,27 @@ export function statForCategory(character: Character, category: Category): numbe
   return character.stats[category];
 }
 
-export function runningAverage(
-  board: PlayerBoard,
-  eliminated: Set<Category>,
-): number {
-  const scores: number[] = [];
-  for (const cat of CATEGORIES) {
+/**
+ * Average after the first `revealed` showdown fights: the total of every revealed
+ * score divided by the full category count (5). Knockouts don't affect it, so it
+ * only climbs as each fight is shown and ends at total / 5.
+ */
+export function runningAverage(board: PlayerBoard, revealed: number = CATEGORIES.length): number {
+  let total = 0;
+  for (const cat of CATEGORIES.slice(0, revealed)) {
     const ch = board.slots[cat];
-    if (ch && !eliminated.has(cat)) {
-      scores.push(statForCategory(ch, cat));
-    }
+    if (ch) total += statForCategory(ch, cat);
   }
-  if (scores.length === 0) return 0;
-  return Math.round((scores.reduce((a, b) => a + b, 0) / scores.length) * 10) / 10;
+  return Math.round((total / CATEGORIES.length) * 10) / 10;
 }
 
 export function computeShowdownBeats(
   boardP1: PlayerBoard,
   boardP2: PlayerBoard,
 ): ShowdownBeat[] {
-  const eliminatedP1 = new Set<Category>();
-  const eliminatedP2 = new Set<Category>();
   const beats: ShowdownBeat[] = [];
 
-  for (const category of CATEGORIES) {
+  for (const [index, category] of CATEGORIES.entries()) {
     const c1 = boardP1.slots[category];
     const c2 = boardP2.slots[category];
     const p1Score = c1 ? statForCategory(c1, category) : 0;
@@ -82,20 +79,17 @@ export function computeShowdownBeats(
     let p1Elim = false;
     let p2Elim = false;
 
+    // Knockouts are visual only; they don't change the average.
     if (p1Score > p2Score) {
       winner = "p1";
       p2Elim = true;
-      eliminatedP2.add(category);
     } else if (p2Score > p1Score) {
       winner = "p2";
       p1Elim = true;
-      eliminatedP1.add(category);
     } else {
       winner = "p1";
       p1Elim = true;
       p2Elim = true;
-      eliminatedP1.add(category);
-      eliminatedP2.add(category);
     }
 
     beats.push({
@@ -105,8 +99,8 @@ export function computeShowdownBeats(
       p2Score,
       p1Eliminated: p1Elim,
       p2Eliminated: p2Elim,
-      runningAvgP1: runningAverage(boardP1, eliminatedP1),
-      runningAvgP2: runningAverage(boardP2, eliminatedP2),
+      runningAvgP1: runningAverage(boardP1, index + 1),
+      runningAvgP2: runningAverage(boardP2, index + 1),
     });
   }
 

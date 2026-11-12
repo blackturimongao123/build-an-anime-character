@@ -6,7 +6,7 @@ This document describes player-facing rules and how the online server applies th
 
 ## Goal
 
-Build the **strongest overall lineup** across five stats. You do not add numbers together for one giant “power level”—each category is its own head-to-head clash. The player with the higher **running average** of still-active categories after all clashes wins.
+Build the **strongest overall lineup** across five stats. You do not add numbers together for one giant “power level”—each category is its own head-to-head clash. The player with the higher **average** (total of all 5 stats ÷ 5) wins.
 
 ---
 
@@ -66,7 +66,7 @@ lobby → draft (×5 rounds) → animating → showdown → results
 | **draft** | Each round, both sides get a **random character** from the global pool, then each **locks** that character into **one empty category** on their board. |
 | **animating** | Brief pause (~1.2s) between rounds or before showdown. |
 | **showdown** | Five clashes play in order (Strength → Speed → Abilities → IQ → Durability). |
-| **results** | Winner from final running averages; rematch option. |
+| **results** | Winner from final averages (total ÷ 5); rematch option. |
 
 ---
 
@@ -124,35 +124,33 @@ Clashes always run in this order:
 - Compare **P1’s stat** vs **P2’s stat** for that category only (0 if missing, which should not happen after a full draft).
 - **Higher stat wins the clash.**
 
-### Elimination mechanic
+### Knockouts (visual only)
 
-This is the distinctive rule:
+| Clash outcome | On screen |
+|---------------|-----------|
+| **You win** | Your opponent's character is knocked off the board. |
+| **You lose** | **Your** character is knocked off the board. |
+| **Tie** | Both clash and return to their spots (dimmed). |
 
-| Clash outcome | Effect |
-|---------------|--------|
-| **You win** | Your opponent is **eliminated in that category** (their slot no longer counts toward their average). |
-| **You lose** | **You** are eliminated in that category. |
-| **Tie** | **Both** are eliminated in that category. |
+Knockouts and ties are **visual only**. They never change either player's score.
 
-Elimination only affects the **running average** display and the final result—it does not remove characters from the board visually; it marks that slot as “out” for scoring.
+### Average (AVG SCORE)
 
-### Running average (AVG SCORE)
-
-After each clash, each side’s average is recomputed using **only categories not yet eliminated** for that player:
+Each side's average is the **total of all 5 stats ÷ 5**, rounded to 1 decimal. It fills in as the clashes are revealed: after clash *k*, it shows the sum of the first *k* revealed stats ÷ 5, so it only goes up and ends at the full total ÷ 5.
 
 \[
-\text{average} = \text{round to 1 decimal}\left(\frac{\sum \text{active stat values}}{\text{count of active categories}}\right)
+\text{average after clash } k = \text{round to 1 decimal}\left(\frac{\sum_{i=1}^{k} \text{stat}_i}{5}\right)
 \]
 
-Example: after winning Strength, you still count all five of your stats; after you lose Speed, your Speed slot stops contributing.
+Example: stats 90, 10, 50, 70, 30 show 18 → 20 → 30 → 44 → 50.
 
-The UI shows these running averages updating after each beat.
+The number counts up on screen when each punch lands (it jumps straight to the value when the device asks for reduced motion).
 
 ### Match winner
 
 After the last category (`finalWinner`):
 
-- Compare **final running averages** (after all eliminations from beat 5).
+- Compare **final averages** (total of all 5 stats ÷ 5).
 - Higher average wins (**p1** or **p2**).
 - **Exact tie** → declared **tie**.
 
