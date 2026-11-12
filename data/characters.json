@@ -46,7 +46,7 @@
     "stats": {
       "abilities": 100,
       "durability": 58,
-      "iq": 94,
+      "iq": 93,
       "speed": 68,
       "strength": 48
     }
@@ -76,7 +76,7 @@
     "stats": {
       "abilities": 46,
       "durability": 46,
-      "iq": 58,
+      "iq": 60,
       "speed": 48,
       "strength": 58
     }
@@ -93,7 +93,7 @@
     "stats": {
       "abilities": 46,
       "durability": 38,
-      "iq": 68,
+      "iq": 74,
       "speed": 48,
       "strength": 38
     }
@@ -106,7 +106,7 @@
     "stats": {
       "abilities": 46,
       "durability": 38,
-      "iq": 62,
+      "iq": 60,
       "speed": 48,
       "strength": 38
     }
@@ -136,7 +136,7 @@
     "stats": {
       "abilities": 38,
       "durability": 38,
-      "iq": 50,
+      "iq": 58,
       "speed": 32,
       "strength": 38
     }
@@ -218,7 +218,7 @@
     "stats": {
       "abilities": 50,
       "durability": 50,
-      "iq": 82,
+      "iq": 80,
       "speed": 26,
       "strength": 22
     }
@@ -231,7 +231,7 @@
     "stats": {
       "abilities": 62,
       "durability": 16,
-      "iq": 88,
+      "iq": 95,
       "speed": 20,
       "strength": 18
     }
@@ -248,7 +248,7 @@
     "stats": {
       "abilities": 18,
       "durability": 14,
-      "iq": 92,
+      "iq": 91,
       "speed": 16,
       "strength": 14
     }
@@ -265,7 +265,7 @@
     "stats": {
       "abilities": 28,
       "durability": 12,
-      "iq": 80,
+      "iq": 96,
       "speed": 14,
       "strength": 12
     }
@@ -282,7 +282,7 @@
     "stats": {
       "abilities": 62,
       "durability": 55,
-      "iq": 50,
+      "iq": 44,
       "speed": 42,
       "strength": 35
     }
@@ -347,7 +347,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 72,
+      "iq": 70,
       "speed": 68,
       "strength": 52
     }
@@ -399,7 +399,7 @@
     "stats": {
       "abilities": 28,
       "durability": 12,
-      "iq": 97,
+      "iq": 89,
       "speed": 16,
       "strength": 14
     }
@@ -529,7 +529,7 @@
     "stats": {
       "abilities": 38,
       "durability": 52,
-      "iq": 78,
+      "iq": 80,
       "speed": 48,
       "strength": 58
     }
@@ -559,7 +559,7 @@
     "stats": {
       "abilities": 86,
       "durability": 86,
-      "iq": 88,
+      "iq": 86,
       "speed": 48,
       "strength": 86
     }
@@ -611,7 +611,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 80,
+      "iq": 76,
       "speed": 48,
       "strength": 44
     }
@@ -624,7 +624,7 @@
     "stats": {
       "abilities": 38,
       "durability": 38,
-      "iq": 68,
+      "iq": 66,
       "speed": 48,
       "strength": 22
     }
@@ -654,7 +654,7 @@
     "stats": {
       "abilities": 96,
       "durability": 96,
-      "iq": 88,
+      "iq": 82,
       "speed": 88,
       "strength": 96
     }
@@ -680,7 +680,7 @@
     "stats": {
       "abilities": 58,
       "durability": 58,
-      "iq": 68,
+      "iq": 70,
       "speed": 68,
       "strength": 58
     }
@@ -697,7 +697,7 @@
     "stats": {
       "abilities": 100,
       "durability": 100,
-      "iq": 97,
+      "iq": 90,
       "speed": 88,
       "strength": 100
     }
@@ -714,7 +714,7 @@
     "stats": {
       "abilities": 100,
       "durability": 100,
-      "iq": 55,
+      "iq": 52,
       "speed": 92,
       "strength": 100
     }
@@ -766,7 +766,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 66,
+      "iq": 68,
       "speed": 48,
       "strength": 52
     }
@@ -783,7 +783,7 @@
     "stats": {
       "abilities": 58,
       "durability": 52,
-      "iq": 76,
+      "iq": 74,
       "speed": 68,
       "strength": 58
     }
@@ -796,7 +796,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 68,
+      "iq": 74,
       "speed": 68,
       "strength": 52
     }
@@ -809,7 +809,7 @@
     "stats": {
       "abilities": 50,
       "durability": 50,
-      "iq": 76,
+      "iq": 82,
       "speed": 68,
       "strength": 50
     }
@@ -826,7 +826,7 @@
     "stats": {
       "abilities": 66,
       "durability": 66,
-      "iq": 94,
+      "iq": 95,
       "speed": 68,
       "strength": 62
     }
@@ -839,7 +839,7 @@
     "stats": {
       "abilities": 50,
       "durability": 50,
-      "iq": 56,
+      "iq": 58,
       "speed": 68,
       "strength": 58
     }
@@ -852,7 +852,7 @@
     "stats": {
       "abilities": 62,
       "durability": 50,
-      "iq": 54,
+      "iq": 60,
       "speed": 68,
       "strength": 58
     }
@@ -865,7 +865,7 @@
     "stats": {
       "abilities": 28,
       "durability": 35,
-      "iq": 26,
+      "iq": 48,
       "speed": 42,
       "strength": 38
     }
@@ -878,7 +878,7 @@
     "stats": {
       "abilities": 16,
       "durability": 14,
-      "iq": 34,
+      "iq": 52,
       "speed": 20,
       "strength": 14
     }
@@ -955,7 +955,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 78,
+      "iq": 82,
       "speed": 48,
       "strength": 52
     }
@@ -981,7 +981,7 @@
     "stats": {
       "abilities": 97,
       "durability": 97,
-      "iq": 85,
+      "iq": 58,
       "speed": 88,
       "strength": 97
     }
@@ -994,7 +994,7 @@
     "stats": {
       "abilities": 94,
       "durability": 94,
-      "iq": 85,
+      "iq": 58,
       "speed": 97,
       "strength": 97
     }
@@ -1007,7 +1007,7 @@
     "stats": {
       "abilities": 94,
       "durability": 94,
-      "iq": 72,
+      "iq": 55,
       "speed": 88,
       "strength": 94
     }
@@ -1020,7 +1020,7 @@
     "stats": {
       "abilities": 94,
       "durability": 94,
-      "iq": 85,
+      "iq": 58,
       "speed": 97,
       "strength": 94
     }
@@ -1033,7 +1033,7 @@
     "stats": {
       "abilities": 66,
       "durability": 66,
-      "iq": 72,
+      "iq": 54,
       "speed": 88,
       "strength": 66
     }
@@ -1046,7 +1046,7 @@
     "stats": {
       "abilities": 80,
       "durability": 80,
-      "iq": 72,
+      "iq": 52,
       "speed": 88,
       "strength": 85
     }
@@ -1059,7 +1059,7 @@
     "stats": {
       "abilities": 78,
       "durability": 78,
-      "iq": 72,
+      "iq": 55,
       "speed": 88,
       "strength": 78
     }
@@ -1072,7 +1072,7 @@
     "stats": {
       "abilities": 80,
       "durability": 80,
-      "iq": 72,
+      "iq": 52,
       "speed": 88,
       "strength": 85
     }
@@ -1085,7 +1085,7 @@
     "stats": {
       "abilities": 100,
       "durability": 78,
-      "iq": 72,
+      "iq": 55,
       "speed": 88,
       "strength": 78
     }
@@ -1098,7 +1098,7 @@
     "stats": {
       "abilities": 91,
       "durability": 91,
-      "iq": 85,
+      "iq": 62,
       "speed": 88,
       "strength": 91
     }
@@ -1111,7 +1111,7 @@
     "stats": {
       "abilities": 94,
       "durability": 94,
-      "iq": 85,
+      "iq": 58,
       "speed": 97,
       "strength": 97
     }
@@ -1124,7 +1124,7 @@
     "stats": {
       "abilities": 80,
       "durability": 80,
-      "iq": 72,
+      "iq": 55,
       "speed": 88,
       "strength": 85
     }
@@ -1137,7 +1137,7 @@
     "stats": {
       "abilities": 88,
       "durability": 86,
-      "iq": 72,
+      "iq": 55,
       "speed": 88,
       "strength": 85
     }
@@ -1150,7 +1150,7 @@
     "stats": {
       "abilities": 88,
       "durability": 86,
-      "iq": 72,
+      "iq": 55,
       "speed": 88,
       "strength": 85
     }
@@ -1163,7 +1163,7 @@
     "stats": {
       "abilities": 78,
       "durability": 78,
-      "iq": 72,
+      "iq": 56,
       "speed": 88,
       "strength": 85
     }
@@ -1193,7 +1193,7 @@
     "stats": {
       "abilities": 62,
       "durability": 62,
-      "iq": 70,
+      "iq": 68,
       "speed": 82,
       "strength": 62
     }
@@ -1206,7 +1206,7 @@
     "stats": {
       "abilities": 62,
       "durability": 62,
-      "iq": 72,
+      "iq": 68,
       "speed": 82,
       "strength": 62
     }
@@ -1253,7 +1253,7 @@
     "stats": {
       "abilities": 70,
       "durability": 70,
-      "iq": 76,
+      "iq": 77,
       "speed": 88,
       "strength": 70
     }
@@ -1321,7 +1321,7 @@
     "stats": {
       "abilities": 58,
       "durability": 58,
-      "iq": 62,
+      "iq": 64,
       "speed": 68,
       "strength": 58
     }
@@ -1340,7 +1340,7 @@
     "stats": {
       "abilities": 97,
       "durability": 97,
-      "iq": 80,
+      "iq": 88,
       "speed": 88,
       "strength": 97
     }
@@ -1357,7 +1357,7 @@
     "stats": {
       "abilities": 80,
       "durability": 82,
-      "iq": 90,
+      "iq": 91,
       "speed": 88,
       "strength": 90
     }
@@ -1375,7 +1375,7 @@
     "stats": {
       "abilities": 92,
       "durability": 92,
-      "iq": 54,
+      "iq": 62,
       "speed": 88,
       "strength": 92
     }
@@ -1392,7 +1392,7 @@
     "stats": {
       "abilities": 94,
       "durability": 99,
-      "iq": 100,
+      "iq": 88,
       "speed": 88,
       "strength": 94
     }
@@ -1405,7 +1405,7 @@
     "stats": {
       "abilities": 54,
       "durability": 54,
-      "iq": 76,
+      "iq": 72,
       "speed": 88,
       "strength": 68
     }
@@ -1418,7 +1418,7 @@
     "stats": {
       "abilities": 54,
       "durability": 54,
-      "iq": 74,
+      "iq": 72,
       "speed": 88,
       "strength": 68
     }
@@ -1431,7 +1431,7 @@
     "stats": {
       "abilities": 62,
       "durability": 62,
-      "iq": 74,
+      "iq": 73,
       "speed": 88,
       "strength": 68
     }
@@ -1491,7 +1491,7 @@
     "stats": {
       "abilities": 70,
       "durability": 70,
-      "iq": 68,
+      "iq": 66,
       "speed": 68,
       "strength": 70
     }
@@ -1508,7 +1508,7 @@
     "stats": {
       "abilities": 70,
       "durability": 70,
-      "iq": 84,
+      "iq": 80,
       "speed": 70,
       "strength": 70
     }
@@ -1538,7 +1538,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 52,
+      "iq": 54,
       "speed": 68,
       "strength": 58
     }
@@ -1583,7 +1583,7 @@
     "stats": {
       "abilities": 38,
       "durability": 38,
-      "iq": 70,
+      "iq": 82,
       "speed": 88,
       "strength": 58
     }
@@ -1596,7 +1596,7 @@
     "stats": {
       "abilities": 92,
       "durability": 92,
-      "iq": 80,
+      "iq": 85,
       "speed": 88,
       "strength": 92
     }
@@ -1609,7 +1609,7 @@
     "stats": {
       "abilities": 78,
       "durability": 78,
-      "iq": 70,
+      "iq": 72,
       "speed": 82,
       "strength": 78
     }
@@ -1626,7 +1626,7 @@
     "stats": {
       "abilities": 97,
       "durability": 97,
-      "iq": 74,
+      "iq": 78,
       "speed": 88,
       "strength": 100
     }
@@ -1643,7 +1643,7 @@
     "stats": {
       "abilities": 94,
       "durability": 94,
-      "iq": 85,
+      "iq": 52,
       "speed": 88,
       "strength": 94
     }
@@ -1660,7 +1660,7 @@
     "stats": {
       "abilities": 76,
       "durability": 70,
-      "iq": 46,
+      "iq": 48,
       "speed": 68,
       "strength": 70
     }
@@ -1673,7 +1673,7 @@
     "stats": {
       "abilities": 74,
       "durability": 74,
-      "iq": 68,
+      "iq": 64,
       "speed": 82,
       "strength": 88
     }
@@ -1690,7 +1690,7 @@
     "stats": {
       "abilities": 42,
       "durability": 42,
-      "iq": 68,
+      "iq": 74,
       "speed": 88,
       "strength": 58
     }
@@ -1716,7 +1716,7 @@
     "stats": {
       "abilities": 54,
       "durability": 50,
-      "iq": 93,
+      "iq": 94,
       "speed": 68,
       "strength": 58
     }
@@ -1767,7 +1767,7 @@
     "stats": {
       "abilities": 90,
       "durability": 90,
-      "iq": 58,
+      "iq": 56,
       "speed": 88,
       "strength": 90
     }
@@ -1797,7 +1797,7 @@
     "stats": {
       "abilities": 58,
       "durability": 54,
-      "iq": 80,
+      "iq": 78,
       "speed": 88,
       "strength": 54
     }
@@ -1814,7 +1814,7 @@
     "stats": {
       "abilities": 97,
       "durability": 97,
-      "iq": 64,
+      "iq": 66,
       "speed": 88,
       "strength": 100
     }
@@ -1844,7 +1844,7 @@
     "stats": {
       "abilities": 80,
       "durability": 80,
-      "iq": 60,
+      "iq": 62,
       "speed": 82,
       "strength": 88
     }
@@ -1887,7 +1887,7 @@
     "stats": {
       "abilities": 94,
       "durability": 94,
-      "iq": 92,
+      "iq": 100,
       "speed": 88,
       "strength": 94
     }
@@ -1900,7 +1900,7 @@
     "stats": {
       "abilities": 78,
       "durability": 78,
-      "iq": 44,
+      "iq": 46,
       "speed": 88,
       "strength": 88
     }
@@ -1917,7 +1917,7 @@
     "stats": {
       "abilities": 94,
       "durability": 94,
-      "iq": 62,
+      "iq": 64,
       "speed": 88,
       "strength": 94
     }

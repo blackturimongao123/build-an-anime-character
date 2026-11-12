@@ -131,6 +131,8 @@ Only rows that **change** are listed. Unlisted ids keep current `manual-iq-overr
 | `anos-voldigoad` | 100 | **88** | Knowledge + arrogance | In-universe boast; cap under anti-omniscient tier for draft |
 | `anti-spiral` | 97 | **90** | Cosmic scheme | Long-horizon trap; not full four-pillar human versatility at 100 |
 
+| `alucard` | 85 | **78** | Fighting + long-game vampire | Manga peak body (see curated stats); centuries tactics, not composite mastermind tier (wiki **85** was genius-band inflation) |
+
 **Unchanged highlights:** `hinata-shoyo` **24**, `mash-burnedead` **20**, `sloth-fma` **16**, `luffy-gear-4` **40**, `saitama` **38**.
 
 ### Tier snapshot (proposed masterminds + ability battle IQ)
@@ -157,10 +159,14 @@ npm run data:iq-review-html
 # or: powershell -File scripts/build-iq-review-html.ps1
 ```
 
-## After you approve
+## Applied to game data (2026-11-12)
 
-1. Update `data/manual-iq-overrides.json` with approved numbers only (or use export from the review page).
-2. Run `npm run data:iq-apply`.
+Proposal merged into `manual-iq-overrides.json` (**81** proposal rows; **119** override ids) and applied to `characters.json` via `scripts/merge-iq-proposal.ps1` + `scripts/apply-iq-overrides.ps1`. Send a manual export from the review page when you want further tweaks.
+
+## After manual review (optional)
+
+1. Update `data/manual-iq-overrides.json` from your export (or edit proposal and re-run merge).
+2. Run `npm run data:iq-apply` (or `powershell -File scripts/apply-iq-overrides.ps1`).
 3. Optional: add pillar tags to this file per id if you want future UI tooltips.
 
 Reply with **approve all**, **approve with edits** (list id → iq), or **reject** rows to revert.
