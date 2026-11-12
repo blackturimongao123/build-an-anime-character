@@ -75,5 +75,12 @@
   "c-c-geass": {
     "strength": 22,
     "speed": 26
+  },
+  "alucard": {
+    "strength": 90,
+    "speed": 88,
+    "abilities": 94,
+    "durability": 98,
+    "iq": 78
   }
 }

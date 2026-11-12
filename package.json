@@ -24,6 +24,7 @@
     "data:stats-check": "cargo run --release --manifest-path stats-check/Cargo.toml -- --root .",
     "data:stats-check-apply": "cargo run --release --manifest-path stats-check/Cargo.toml -- --root . --apply",
     "data:iq-apply": "npm run iq-apply --workspace=scripts",
+    "data:iq-review-html": "node scripts/build-iq-review-html.mjs",
     "data:curated-apply": "npm run curated-apply --workspace=scripts",
     "data:assets": "npm run portraits --workspace=scripts && npm run data:stats"
   },

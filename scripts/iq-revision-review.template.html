@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>IQ Revision Review - Build a Character</title>
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #242836;
+      --border: #3a4154;
+      --text: #e8eaef;
+      --muted: #9aa3b5;
+      --accent: #6c9eff;
+      --accent-dim: #3d5a8a;
+      --up: #4ade80;
+      --down: #f87171;
+      --same: #94a3b8;
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.45;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: linear-gradient(180deg, var(--bg) 85%, transparent);
+      padding: 1rem 1.25rem 0.75rem;
+      border-bottom: 1px solid var(--border);
+    }
+    h1 { margin: 0 0 0.35rem; font-size: 1.35rem; font-weight: 650; }
+    .subtitle { color: var(--muted); font-size: 0.9rem; margin-bottom: 0.75rem; }
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem 0.75rem;
+      align-items: center;
+    }
+    .toolbar input[type="search"],
+    .toolbar select {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 0.45rem 0.65rem;
+      border-radius: 8px;
+      font-size: 0.9rem;
+    }
+    .toolbar input[type="search"] { min-width: 12rem; flex: 1; max-width: 20rem; }
+    .btn {
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--surface2);
+      color: var(--text);
+      padding: 0.45rem 0.85rem;
+      border-radius: 8px;
+      font-size: 0.88rem;
+      font-weight: 500;
+    }
+    .btn:hover { border-color: var(--accent); }
+    .btn-primary {
+      background: var(--accent-dim);
+      border-color: var(--accent);
+    }
+    .stats-pill {
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    main { padding: 1rem 1.25rem 3rem; max-width: 1100px; margin: 0 auto; }
+    details.framework {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.65rem 1rem;
+      margin-bottom: 1.25rem;
+      font-size: 0.88rem;
+      color: var(--muted);
+    }
+    details.framework summary {
+      cursor: pointer;
+      color: var(--text);
+      font-weight: 600;
+    }
+    details.framework pre {
+      white-space: pre-wrap;
+      margin: 0.5rem 0 0;
+      font-family: inherit;
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.1rem;
+      margin-bottom: 0.65rem;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 0.75rem 1rem;
+      align-items: start;
+    }
+    .card.hidden { display: none; }
+    .card.changed { border-left: 3px solid var(--accent); }
+    .meta h2 {
+      margin: 0;
+      font-size: 1.05rem;
+      font-weight: 600;
+    }
+    .meta .id {
+      font-size: 0.78rem;
+      color: var(--muted);
+      font-family: ui-monospace, monospace;
+    }
+    .meta .series { font-size: 0.82rem; color: var(--muted); margin-top: 0.15rem; }
+    .pillars {
+      display: inline-block;
+      margin-top: 0.35rem;
+      font-size: 0.75rem;
+      padding: 0.15rem 0.45rem;
+      background: var(--surface2);
+      border-radius: 6px;
+      color: var(--accent);
+    }
+    .why {
+      grid-column: 1 / -1;
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin: 0;
+    }
+    .iq-col {
+      text-align: right;
+      min-width: 11rem;
+    }
+    .iq-row {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 0.35rem;
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-bottom: 0.35rem;
+    }
+    .iq-row span.val { color: var(--text); font-weight: 600; min-width: 2ch; }
+    .delta {
+      font-size: 0.78rem;
+      font-weight: 600;
+      margin-top: 0.25rem;
+    }
+    .delta.up { color: var(--up); }
+    .delta.down { color: var(--down); }
+    .delta.same { color: var(--same); }
+    .iq-editor {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      justify-content: flex-end;
+    }
+    .iq-editor label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-right: 0.25rem;
+    }
+    .iq-editor input[type="number"] {
+      width: 3.5rem;
+      text-align: center;
+      font-size: 1.1rem;
+      font-weight: 700;
+      padding: 0.35rem;
+      border-radius: 8px;
+      border: 1px solid var(--accent);
+      background: var(--bg);
+      color: var(--text);
+    }
+    .iq-editor input[type="number"]:focus {
+      outline: 2px solid var(--accent);
+      outline-offset: 1px;
+    }
+    .step {
+      width: 2rem;
+      height: 2rem;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--surface2);
+      color: var(--text);
+      cursor: pointer;
+      font-size: 1.1rem;
+      line-height: 1;
+    }
+    .step:hover { border-color: var(--accent); }
+    @media (max-width: 640px) {
+      .card { grid-template-columns: 1fr; }
+      .iq-col { text-align: left; }
+      .iq-row, .iq-editor { justify-content: flex-start; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>IQ revision review</h1>
+    <p class="subtitle">Proposed IQ from <code>IQ_REVISION_PROPOSAL.md</code> - adjust values, then export for approval.</p>
+    <div class="toolbar">
+      <input type="search" id="search" placeholder="Search name, id, series..." autocomplete="off" />
+      <select id="filter">
+        <option value="all">All characters</option>
+        <option value="changed">Changed only</option>
+        <option value="edited">Your edits only</option>
+      </select>
+      <select id="sort">
+        <option value="name">Sort: name</option>
+        <option value="proposed-desc">Sort: IQ high to low</option>
+        <option value="proposed-asc">Sort: IQ low to high</option>
+        <option value="delta">Sort: largest change</option>
+      </select>
+      <button type="button" class="btn" id="resetBtn" title="Reset your edits to proposed values">Reset edits</button>
+      <button type="button" class="btn btn-primary" id="downloadBtn">Download export</button>
+      <span class="stats-pill" id="statsPill"></span>
+    </div>
+  </header>
+  <main>
+    <details class="framework">
+      <summary>Scoring framework (from proposal)</summary>
+      <pre id="frameworkText"></pre>
+    </details>
+    <div id="list"></div>
+  </main>
+  <script>
+    const ROSTER = /*ROSTER_JSON*/;
+    const STORAGE_KEY = "iq-revision-review-edits-v1";
+    const frameworkText = /*FRAMEWORK_JSON*/;
+
+    document.getElementById("frameworkText").textContent = frameworkText;
+
+    /** @type {Record<string, number>} */
+    let edits = {};
+    try {
+      edits = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
+    } catch { edits = {}; }
+
+    function clamp(n) {
+      return Math.min(100, Math.max(0, Math.round(Number(n)) || 0));
+    }
+
+    function getIq(char) {
+      return clamp(edits[char.id] ?? char.proposed);
+    }
+
+    function isEdited(char) {
+      const v = getIq(char);
+      return v !== char.proposed;
+    }
+
+    function delta(char) {
+      return getIq(char) - char.current;
+    }
+
+    const listEl = document.getElementById("list");
+
+    function renderCard(char) {
+      const iq = getIq(char);
+      const d = iq - char.current;
+      const deltaClass = d > 0 ? "up" : d < 0 ? "down" : "same";
+      const deltaSign = d > 0 ? "+" : "";
+      const changed = char.changed || isEdited(char);
+      const card = document.createElement("article");
+      card.className = "card" + (char.changed ? " changed" : "");
+      card.dataset.id = char.id;
+      card.dataset.name = (char.name + " " + char.id + " " + char.series).toLowerCase();
+      card.dataset.changed = char.changed ? "1" : "0";
+      card.dataset.edited = isEdited(char) ? "1" : "0";
+      card.dataset.proposed = String(iq);
+      card.dataset.delta = String(Math.abs(d));
+
+      const pillars = char.pillars
+        ? '<span class="pillars">' + escapeHtml(char.pillars) + "</span>"
+        : "";
+
+      card.innerHTML =
+        '<div class="meta">' +
+        "<h2>" + escapeHtml(char.name) + "</h2>" +
+        '<div class="id">' + escapeHtml(char.id) + "</div>" +
+        (char.series ? '<div class="series">' + escapeHtml(char.series) + "</div>" : "") +
+        pillars +
+        "</div>" +
+        '<div class="iq-col">' +
+        '<div class="iq-row">Was (proposal baseline): <span class="val">' + char.current + "</span></div>" +
+        '<div class="iq-row">File proposed: <span class="val">' + char.proposed + "</span></div>" +
+        '<div class="iq-editor">' +
+        "<label for='iq-" + char.id + "'>Your IQ</label>" +
+        '<button type="button" class="step" data-step="-1" aria-label="Decrease">-</button>' +
+        '<input type="number" id="iq-' + char.id + '" min="0" max="100" value="' + iq + '" />' +
+        '<button type="button" class="step" data-step="1" aria-label="Increase">+</button>' +
+        "</div>" +
+        '<div class="delta ' + deltaClass + '">Change vs baseline: ' + deltaSign + d + "</div>" +
+        "</div>" +
+        '<p class="why">' + escapeHtml(char.why) + "</p>";
+
+      const input = card.querySelector('input[type="number"]');
+      input.addEventListener("change", () => {
+        const v = clamp(input.value);
+        input.value = String(v);
+        edits[char.id] = v;
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(edits));
+        refresh();
+      });
+      card.querySelectorAll(".step").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const step = Number(btn.dataset.step);
+          const v = clamp(getIq(char) + step);
+          edits[char.id] = v;
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(edits));
+          refresh();
+        });
+      });
+
+      return card;
+    }
+
+    function escapeHtml(s) {
+      return String(s)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;");
+    }
+
+    let sorted = [...ROSTER];
+
+    function applySort() {
+      const mode = document.getElementById("sort").value;
+      sorted = [...ROSTER];
+      if (mode === "name") {
+        sorted.sort((a, b) => a.name.localeCompare(b.name));
+      } else if (mode === "proposed-desc") {
+        sorted.sort((a, b) => getIq(b) - getIq(a) || a.name.localeCompare(b.name));
+      } else if (mode === "proposed-asc") {
+        sorted.sort((a, b) => getIq(a) - getIq(b) || a.name.localeCompare(b.name));
+      } else if (mode === "delta") {
+        sorted.sort(
+          (a, b) =>
+            Math.abs(getIq(b) - b.current) - Math.abs(getIq(a) - a.current) ||
+            a.name.localeCompare(b.name)
+        );
+      }
+    }
+
+    function refresh() {
+      applySort();
+      const q = document.getElementById("search").value.trim().toLowerCase();
+      const filter = document.getElementById("filter").value;
+      listEl.innerHTML = "";
+      let shown = 0;
+      for (const char of sorted) {
+        const card = renderCard(char);
+        let hide = false;
+        if (q && !card.dataset.name.includes(q)) hide = true;
+        if (filter === "changed" && char.changed !== true) hide = true;
+        if (filter === "edited" && !isEdited(char)) hide = true;
+        if (hide) card.classList.add("hidden");
+        else shown++;
+        listEl.appendChild(card);
+      }
+      const editedCount = ROSTER.filter(isEdited).length;
+      const changedCount = ROSTER.filter((c) => c.changed).length;
+      document.getElementById("statsPill").textContent =
+        shown + " shown | " + changedCount + " proposal deltas | " + editedCount + " your edits";
+    }
+
+    document.getElementById("search").addEventListener("input", refresh);
+    document.getElementById("filter").addEventListener("change", refresh);
+    document.getElementById("sort").addEventListener("change", refresh);
+
+    document.getElementById("resetBtn").addEventListener("click", () => {
+      if (!confirm("Clear all local edits and restore file proposed values?")) return;
+      edits = {};
+      localStorage.removeItem(STORAGE_KEY);
+      refresh();
+    });
+
+    document.getElementById("downloadBtn").addEventListener("click", () => {
+      const overrides = {};
+      const rows = ROSTER.map((c) => {
+        const finalIq = getIq(c);
+        overrides[c.id] = finalIq;
+        return {
+          id: c.id,
+          displayName: c.name,
+          series: c.series,
+          baselineWas: c.current,
+          proposalFile: c.proposed,
+          finalIq,
+          editedByUser: finalIq !== c.proposed,
+          pillars: c.pillars,
+          rationale: c.why,
+        };
+      });
+      const payload = {
+        title: "IQ revision export",
+        exportedAt: new Date().toISOString(),
+        note: "finalIq is your value (local edits or proposal). Use manual-iq-overrides.json shape in overrides.",
+        overrides,
+        characters: rows,
+      };
+      const blob = new Blob([JSON.stringify(payload, null, 2)], {
+        type: "application/json",
+      });
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download =
+        "iq-revision-export-" + new Date().toISOString().slice(0, 10) + ".json";
+      a.click();
+      URL.revokeObjectURL(a.href);
+    });
+
+    refresh();
+  </script>
+</body>
+</html>
