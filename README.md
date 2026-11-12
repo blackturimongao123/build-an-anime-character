@@ -43,6 +43,8 @@ Optional: only the API server — `npm run dev:server`. Only the UI — `npm run
 
 You can use [`server/render.yaml`](server/render.yaml) as a blueprint.
 
+The live server is managed by the Render Blueprint at [`server/render.yaml`](server/render.yaml) (set **Blueprint Path** to `server/render.yaml`; it is not at the repo root). It is connected through Render's GitHub App and auto-deploys on every push to `main`. A service created from the plain public repo URL does not auto-deploy.
+
 ### 2. GitHub Pages
 
 1. In the repo **Settings → Secrets and variables → Actions**, add variable `VITE_WS_URL` = `wss://your-render-app.onrender.com`.
