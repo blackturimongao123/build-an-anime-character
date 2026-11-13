@@ -1,0 +1,212 @@
+[
+  {
+    "id": "gyro-jojo",
+    "displayName": "Gyro",
+    "series": "JoJo",
+    "wikiPage": "Gyro Zeppeli",
+    "apSlug": "gyro-zeppeli"
+  },
+  {
+    "id": "valentine-jojo",
+    "displayName": "Valentine",
+    "series": "JoJo",
+    "wikiPage": "Funny Valentine",
+    "apSlug": "funny-valentine"
+  },
+  {
+    "id": "weather-jojo",
+    "displayName": "Weather",
+    "series": "JoJo",
+    "wikiPage": "Weather Report",
+    "apSlug": "weather-report"
+  },
+  {
+    "id": "pucci-jojo",
+    "displayName": "Pucci",
+    "series": "JoJo",
+    "wikiPage": "Enrico Pucci",
+    "apSlug": "enrico-pucci"
+  },
+  {
+    "id": "jolyne-jojo",
+    "displayName": "Jolyne",
+    "series": "JoJo",
+    "wikiPage": "Jolyne Cujoh",
+    "apSlug": "jolyne-cujoh"
+  },
+  {
+    "id": "kars-jojo",
+    "displayName": "Kars",
+    "series": "JoJo",
+    "wikiPage": "Kars",
+    "apSlug": "kars"
+  },
+  {
+    "id": "wamuu-jojo",
+    "displayName": "Wamuu",
+    "series": "JoJo",
+    "wikiPage": "Wamuu",
+    "apSlug": "wamuu"
+  },
+  {
+    "id": "esidisi-jojo",
+    "displayName": "Esidisi",
+    "series": "JoJo",
+    "wikiPage": "Esidisi",
+    "apSlug": "esidisi"
+  },
+  {
+    "id": "dio-vampire-jojo",
+    "displayName": "DIO",
+    "series": "JoJo",
+    "wikiPage": "DIO (Part 3)",
+    "apSlug": "dio-brando"
+  },
+  {
+    "id": "kira-jojo",
+    "displayName": "Kira",
+    "series": "JoJo",
+    "wikiPage": "Yoshikage Kira",
+    "apSlug": "yoshikage-kira"
+  },
+  {
+    "id": "caesar-jojo",
+    "displayName": "Caesar",
+    "series": "JoJo",
+    "wikiPage": "Caesar Zeppeli",
+    "apSlug": "caesar-zeppeli"
+  },
+  {
+    "id": "lisa-lisa-jojo",
+    "displayName": "Lisa Lisa",
+    "series": "JoJo",
+    "wikiPage": "Lisa Lisa",
+    "apSlug": "lisa-lisa"
+  },
+  {
+    "id": "stroheim-jojo",
+    "displayName": "Stroheim",
+    "series": "JoJo",
+    "wikiPage": "Rudol von Stroheim",
+    "apSlug": "rudol-von-stroheim"
+  },
+  {
+    "id": "avdol-jojo",
+    "displayName": "Avdol",
+    "series": "JoJo",
+    "wikiPage": "Mohammed Avdol",
+    "apSlug": "mohammed-avdol"
+  },
+  {
+    "id": "iggie-jojo",
+    "displayName": "Iggy",
+    "series": "JoJo",
+    "wikiPage": "Iggy",
+    "apSlug": "iggie"
+  },
+  {
+    "id": "vanilla-ice-jojo",
+    "displayName": "Vanilla Ice",
+    "series": "JoJo",
+    "wikiPage": "Vanilla Ice",
+    "apSlug": "vanilla-ice"
+  },
+  {
+    "id": "koichi-jojo",
+    "displayName": "Koichi",
+    "series": "JoJo",
+    "wikiPage": "Koichi Hirose",
+    "apSlug": "koichi-hirose"
+  },
+  {
+    "id": "yukako-jojo",
+    "displayName": "Yukako",
+    "series": "JoJo",
+    "wikiPage": "Yukako Yamagishi",
+    "apSlug": "yukako-yamagishi"
+  },
+  {
+    "id": "angelo-jojo",
+    "displayName": "Angelo",
+    "series": "JoJo",
+    "wikiPage": "Angelo",
+    "apSlug": "angelo"
+  },
+  {
+    "id": "reimi-jojo",
+    "displayName": "Reimi",
+    "series": "JoJo",
+    "wikiPage": "Reimi Sugimoto",
+    "apSlug": "reimi-sugimoto"
+  },
+  {
+    "id": "mista-jojo",
+    "displayName": "Mista",
+    "series": "JoJo",
+    "wikiPage": "Guido Mista",
+    "apSlug": "guido-mista"
+  },
+  {
+    "id": "abbacchio-jojo",
+    "displayName": "Abbacchio",
+    "series": "JoJo",
+    "wikiPage": "Leone Abbacchio",
+    "apSlug": "leone-abbacchio"
+  },
+  {
+    "id": "trish-jojo",
+    "displayName": "Trish",
+    "series": "JoJo",
+    "wikiPage": "Trish Una",
+    "apSlug": "trish-una"
+  },
+  {
+    "id": "fugo-jojo",
+    "displayName": "Fugo",
+    "series": "JoJo",
+    "wikiPage": "Pannacotta Fugo",
+    "apSlug": "pannacotta-fugo"
+  },
+  {
+    "id": "ermes-jojo",
+    "displayName": "Ermes",
+    "series": "JoJo",
+    "wikiPage": "Ermes Costello",
+    "apSlug": "ermes-costello"
+  },
+  {
+    "id": "emporio-jojo",
+    "displayName": "Emporio",
+    "series": "JoJo",
+    "wikiPage": "Emporio Alnino",
+    "apSlug": "emporio-alnino"
+  },
+  {
+    "id": "anasui-jojo",
+    "displayName": "Anasui",
+    "series": "JoJo",
+    "wikiPage": "Narciso Anasui",
+    "apSlug": "narciso-anasui"
+  },
+  {
+    "id": "diego-brando-jojo",
+    "displayName": "Diego",
+    "series": "JoJo",
+    "wikiPage": "Diego Brando",
+    "apSlug": "diego-brando"
+  },
+  {
+    "id": "hot-pants-jojo",
+    "displayName": "Hot Pants",
+    "series": "JoJo",
+    "wikiPage": "Hot Pants",
+    "apSlug": "hot-pants"
+  },
+  {
+    "id": "lucy-jojo",
+    "displayName": "Lucy",
+    "series": "JoJo",
+    "wikiPage": "Lucy Steel",
+    "apSlug": "lucy-steel"
+  }
+]

@@ -59,29 +59,59 @@ for (const line of proposalMd.split("\n")) {
   });
 }
 
+/** IDs with reviewed IQ (proposal row or applied export), even when IQ is 50. */
+const curatedIqIds = new Set(proposal.keys());
+const appliedExportPath = path.join(
+  dataDir,
+  "iq-revision-export-applied-2026-11-12.json",
+);
+if (fs.existsSync(appliedExportPath)) {
+  const applied = JSON.parse(fs.readFileSync(appliedExportPath, "utf8"));
+  if (applied.overrides && typeof applied.overrides === "object") {
+    for (const id of Object.keys(applied.overrides)) curatedIqIds.add(id);
+  }
+}
+
 const roster = characters.map((c) => {
-  const gameIq = c.stats?.iq ?? 40;
+  const gameIq = Math.min(
+    100,
+    Math.max(0, Math.round(Number(c.stats?.iq) || 50)),
+  );
   const overrideIq = overrides[c.id];
-  const current = overrideIq ?? gameIq;
+  const current = gameIq;
   const p = proposal.get(c.id);
-  const proposed = p?.proposed ?? current;
-  const was = p?.was ?? current;
+  const baseline = p?.was ?? overrideIq ?? gameIq;
+  const proposed = p?.proposed ?? overrideIq ?? gameIq;
+  const physical = [
+    c.stats?.strength,
+    c.stats?.speed,
+    c.stats?.abilities,
+    c.stats?.durability,
+  ].map((v) => Math.round(Number(v) || 0));
+  const statsPlaceholder = physical.every((v) => v === 50);
+  const iqPlaceholder = gameIq === 50 && !curatedIqIds.has(c.id);
   const why =
     p?.why ??
-    (proposed === current
-      ? "No change in revision proposal; keeping current curated / in-game IQ."
-      : "—");
+    (p
+      ? "—"
+      : iqPlaceholder
+        ? "Placeholder IQ (default 50) — not yet in revision proposal; set a real score and export."
+        : "No IQ row in revision proposal; showing current in-game IQ (edit and export to curate).");
   return {
     id: c.id,
     name: c.displayName,
     series: c.series ?? "",
-    current: was,
+    current,
+    baseline,
     gameIq,
     overrideIq: overrideIq ?? null,
     proposed,
     pillars: p?.pillars ?? (p?.anchor ? `Anchor: ${p.anchor}` : null),
     why,
-    changed: proposed !== was,
+    changed: proposed !== baseline,
+    inProposal: Boolean(p),
+    iqPlaceholder,
+    statsPlaceholder,
   };
 });
 
@@ -96,4 +126,11 @@ html = html
   .replace("/*ROSTER_JSON*/", payload)
   .replace("/*FRAMEWORK_JSON*/", JSON.stringify(framework));
 fs.writeFileSync(path.join(dataDir, "iq-revision-review.html"), "\uFEFF" + html, "utf8");
-console.log("Wrote data/iq-revision-review.html (" + roster.length + " characters)");
+const placeholderIq = roster.filter((c) => c.iqPlaceholder).length;
+console.log(
+  "Wrote data/iq-revision-review.html (" +
+    roster.length +
+    " characters, " +
+    placeholderIq +
+    " placeholder IQ)",
+);

@@ -3,6 +3,7 @@ import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { tierStringToScore, clampScore } from "@build-character/shared";
 import type { CharacterStats } from "@build-character/shared";
+import { extractTabberPanels as extractTabberPanelsShared } from "./wiki-tabber-extract.js";
 
 const WIKI_API = "https://vsbattles.fandom.com/api.php";
 
@@ -134,13 +135,18 @@ const EXTRA_PHRASE_SCORES: [RegExp, number][] = [
   [/building level|8-c/i, 38],
   [/wall level|9-b/i, 28],
   [/street level|9-c/i, 22],
-  [/sub-relativistic\+?|mftl|ftl/i, 88],
+  [/\b(?:mftl|ftl)\b/i, 88],
+  [/sub-relativistic\+?/i, 80],
   [/relativistic/i, 82],
+  [/massively hypersonic\+?/i, 76],
+  [/massively hypersonic/i, 74],
+  [/high hypersonic\+?/i, 72],
   [/hypersonic\+?/i, 68],
   [/supersonic\+?/i, 48],
   [/transonic|subsonic/i, 32],
   [/class y|multi-solar system/i, 90],
   [/class x|solar system/i, 88],
+  [/class t\b|trillion tons/i, 90],
   [/class p\b|billion tons/i, 88],
   [/class e\b|exajoule/i, 90],
   [/class z\b/i, 85],
@@ -188,6 +194,38 @@ export function maxStrengthScore(text: string | null): number {
 const NON_PHYSICAL_SPEED =
   /instant(?:aneous)?\s+travel|instant\s+transmission|teleportation|\bteleport\b|flying\s+raijin|kunai\s+swap|swap\s+places|time\s+stop|time\s+freeze|omnipresence|dimensional\s+(travel|hop)|body\s+flicker\s+technique/i;
 
+/** VS Battles often bundles reaction tiers with combat/travel speed — score locomotion only. */
+function sliceLocomotionSpeedPart(part: string): string {
+  const p = part.trim();
+  if (!p) return p;
+
+  if (/\battack\s+speed\b/i.test(p) && !/\b(?:combat|travel)\s+speed\b/i.test(p)) {
+    return "";
+  }
+
+  if (
+    /\b(?:reactions?|perception)\b/i.test(p) &&
+    !/\b(?:combat|travel)\s+speed\b/i.test(p) &&
+    !/\b(?:hypersonic|supersonic|subsonic|transonic|relativistic|ftl)\b/i.test(p)
+  ) {
+    return "";
+  }
+
+  let s = p;
+  if (/\b(?:combat|travel)\s+speed\b/i.test(s)) {
+    s = s.replace(/\s+with\s+sub-relativistic[\s\S]*$/i, "");
+    s = s.replace(
+      /\s+with\s+[\s\S]*?\b(?:reactions?|perception)\b[\s\S]*$/i,
+      "",
+    );
+  } else {
+    s = s.replace(/\s+with\s+sub-relativistic\s+[\s\S]*$/i, "");
+    s = s.replace(/,\s*sub-relativistic[\s\S]*$/i, "");
+  }
+
+  return s.trim();
+}
+
 /** Prefer the highest **physical** speed tier in a pipe- or comma-separated VS Battles row. */
 export function maxPhysicalSpeedScore(text: string | null, fallback = 40): number {
   if (!text) return fallback;
@@ -197,8 +235,10 @@ export function maxPhysicalSpeedScore(text: string | null, fallback = 40): numbe
   for (const part of parts) {
     const p = part.trim();
     if (!p || NON_PHYSICAL_SPEED.test(p)) continue;
+    const loco = sliceLocomotionSpeedPart(p);
+    if (!loco) continue;
     keptPhysical = true;
-    best = Math.max(best, maxTierScore(p, 0));
+    best = Math.max(best, maxTierScore(loco, 0));
   }
   if (!keptPhysical) return maxTierScore(text, fallback);
   return clampScore(best > 0 ? best : fallback);
@@ -263,7 +303,17 @@ export type WikiStatSliceOptions = {
 };
 
 function normalizeTabHash(input: string): string {
-  const decoded = decodeURIComponent(input.replace(/\+/g, " "));
+  let decoded = input.replace(/\+/g, " ");
+  try {
+    decoded = decodeURIComponent(decoded);
+  } catch {
+    decoded = decoded.replace(/%(?![\da-f]{2})/gi, "");
+    try {
+      decoded = decodeURIComponent(decoded);
+    } catch {
+      /* keep best-effort string */
+    }
+  }
   return decoded
     .replace(/[▾▼]/g, "")
     .replace(/[\s-]+/g, "_")
@@ -277,33 +327,7 @@ function hashMatches(dataHash: string, target: string): boolean {
   return normalizeTabHash(dataHash) === normalizeTabHash(target);
 }
 
-function extractTabberPanels(
-  tabberHtml: string,
-): { hashes: string[]; panels: string[] } | null {
-  const tabsUl = tabberHtml.match(/<ul class="wds-tabs">([\s\S]*?)<\/ul>/);
-  if (!tabsUl) return null;
-  const hashes: string[] = [];
-  for (const m of tabsUl[1].matchAll(/data-hash="([^"]+)"/g)) hashes.push(m[1]);
-  if (!hashes.length) return null;
-
-  const wrapperEnd = tabberHtml.indexOf(tabsUl[0]) + tabsUl[0].length;
-  let rest = tabberHtml.slice(wrapperEnd);
-  const close = rest.indexOf("</div>");
-  if (close >= 0) rest = rest.slice(close + "</div>".length);
-
-  const panels: string[] = [];
-  for (let i = 0; i < hashes.length; i++) {
-    const open = rest.match(/<div class="wds-tab__content[^"]*">/);
-    if (!open || open.index === undefined) break;
-    const start = open.index;
-    const innerStart = start + open[0].length;
-    const next = rest.slice(innerStart).search(/<div class="wds-tab__content[^"]*">/);
-    const end = next >= 0 ? innerStart + next : rest.length;
-    panels.push(rest.slice(start, end));
-    rest = rest.slice(end);
-  }
-  return panels.length ? { hashes, panels } : null;
-}
+const extractTabberPanels = extractTabberPanelsShared;
 
 function firstTabberAfter(html: string, start: number): number {
   return html.indexOf('<div class="tabber wds-tabber">', start);

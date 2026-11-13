@@ -20,7 +20,7 @@
   "light-yagami": {
     "strength": 12,
     "speed": 14,
-    "abilities": 28,
+    "abilities": 56,
     "durability": 12
   },
   "ryuk-hxh": {
@@ -71,6 +71,9 @@
     "speed": 68
   },
   "ashborn-sl": {
+    "strength": 88,
+    "durability": 78,
+    "abilities": 76,
     "speed": 70
   },
   "c-c-geass": {
@@ -82,5 +85,11 @@
     "speed": 88,
     "abilities": 94,
     "durability": 98
+  },
+  "arima-kishou": {
+    "speed": 76
+  },
+  "thor-record": {
+    "strength": 84
   }
 }

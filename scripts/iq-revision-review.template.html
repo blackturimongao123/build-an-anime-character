@@ -125,6 +125,27 @@
       border-radius: 6px;
       color: var(--accent);
     }
+    .tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-top: 0.4rem; }
+    .tag {
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      padding: 0.12rem 0.4rem;
+      border-radius: 5px;
+      border: 1px solid var(--border);
+    }
+    .tag-iq {
+      color: #fbbf24;
+      border-color: #92400e;
+      background: rgba(251, 191, 36, 0.12);
+    }
+    .tag-stats {
+      color: var(--muted);
+      border-color: var(--border);
+      background: var(--surface2);
+    }
+    .card.has-placeholder { border-left: 3px solid #b45309; }
     .why {
       grid-column: 1 / -1;
       font-size: 0.9rem;
@@ -201,12 +222,14 @@
 <body>
   <header>
     <h1>IQ revision review</h1>
-    <p class="subtitle">Proposed IQ from <code>IQ_REVISION_PROPOSAL.md</code> - adjust values, then export for approval.</p>
+    <p class="subtitle">Full roster from <code>characters.json</code>; proposal rows from <code>IQ_REVISION_PROPOSAL.md</code>. Baseline = current in-game IQ.</p>
     <div class="toolbar">
       <input type="search" id="search" placeholder="Search name, id, series..." autocomplete="off" />
       <select id="filter">
         <option value="all">All characters</option>
-        <option value="changed">Changed only</option>
+        <option value="changed">Proposal changes only</option>
+        <option value="new">Not in proposal yet</option>
+        <option value="placeholder-iq">Placeholder IQ only</option>
         <option value="edited">Your edits only</option>
       </select>
       <select id="sort">
@@ -229,7 +252,7 @@
   </main>
   <script>
     const ROSTER = /*ROSTER_JSON*/;
-    const STORAGE_KEY = "iq-revision-review-edits-v1";
+    const STORAGE_KEY = "iq-revision-review-edits-v2";
     const frameworkText = /*FRAMEWORK_JSON*/;
 
     document.getElementById("frameworkText").textContent = frameworkText;
@@ -266,16 +289,31 @@
       const deltaSign = d > 0 ? "+" : "";
       const changed = char.changed || isEdited(char);
       const card = document.createElement("article");
-      card.className = "card" + (char.changed ? " changed" : "");
+      card.className =
+        "card" +
+        (char.changed ? " changed" : "") +
+        (char.iqPlaceholder ? " has-placeholder" : "");
       card.dataset.id = char.id;
       card.dataset.name = (char.name + " " + char.id + " " + char.series).toLowerCase();
       card.dataset.changed = char.changed ? "1" : "0";
       card.dataset.edited = isEdited(char) ? "1" : "0";
+      card.dataset.inProposal = char.inProposal ? "1" : "0";
+      card.dataset.iqPlaceholder = char.iqPlaceholder ? "1" : "0";
       card.dataset.proposed = String(iq);
       card.dataset.delta = String(Math.abs(d));
 
       const pillars = char.pillars
         ? '<span class="pillars">' + escapeHtml(char.pillars) + "</span>"
+        : "";
+      const tagBits = [];
+      if (char.iqPlaceholder) {
+        tagBits.push('<span class="tag tag-iq" title="Default IQ 50; not in curated export or proposal">Placeholder IQ</span>');
+      }
+      if (char.statsPlaceholder) {
+        tagBits.push('<span class="tag tag-stats" title="Strength/speed/abilities/durability still at default 50">Placeholder stats</span>');
+      }
+      const tags = tagBits.length
+        ? '<div class="tags">' + tagBits.join("") + "</div>"
         : "";
 
       card.innerHTML =
@@ -284,9 +322,11 @@
         '<div class="id">' + escapeHtml(char.id) + "</div>" +
         (char.series ? '<div class="series">' + escapeHtml(char.series) + "</div>" : "") +
         pillars +
+        tags +
         "</div>" +
         '<div class="iq-col">' +
-        '<div class="iq-row">Was (proposal baseline): <span class="val">' + char.current + "</span></div>" +
+        '<div class="iq-row">Current (in-game): <span class="val">' + char.current + "</span></div>" +
+        '<div class="iq-row">Proposal baseline: <span class="val">' + (char.baseline ?? char.current) + "</span></div>" +
         '<div class="iq-row">File proposed: <span class="val">' + char.proposed + "</span></div>" +
         '<div class="iq-editor">' +
         "<label for='iq-" + char.id + "'>Your IQ</label>" +
@@ -358,6 +398,8 @@
         let hide = false;
         if (q && !card.dataset.name.includes(q)) hide = true;
         if (filter === "changed" && char.changed !== true) hide = true;
+        if (filter === "new" && char.inProposal) hide = true;
+        if (filter === "placeholder-iq" && !char.iqPlaceholder) hide = true;
         if (filter === "edited" && !isEdited(char)) hide = true;
         if (hide) card.classList.add("hidden");
         else shown++;
@@ -365,8 +407,21 @@
       }
       const editedCount = ROSTER.filter(isEdited).length;
       const changedCount = ROSTER.filter((c) => c.changed).length;
+      const newCount = ROSTER.filter((c) => !c.inProposal).length;
+      const placeholderIqCount = ROSTER.filter((c) => c.iqPlaceholder).length;
       document.getElementById("statsPill").textContent =
-        shown + " shown | " + changedCount + " proposal deltas | " + editedCount + " your edits";
+        shown +
+        " shown | " +
+        ROSTER.length +
+        " roster | " +
+        placeholderIqCount +
+        " placeholder IQ | " +
+        newCount +
+        " not in proposal | " +
+        changedCount +
+        " proposal deltas | " +
+        editedCount +
+        " your edits";
     }
 
     document.getElementById("search").addEventListener("input", refresh);

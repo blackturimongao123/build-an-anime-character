@@ -20,5 +20,9 @@ data/portrait-samples/
 # Scraped wiki HTML cache (regenerable with npm run data:scrape)
 data/raw-wiki/
 
+# Local wiki scrape database (JSON shards + SQLite), regenerable
+data/wiki-db/
+wiki-db/target/
+
 # Screenshots of the original Roblox game, for local reference only
 reference UI/

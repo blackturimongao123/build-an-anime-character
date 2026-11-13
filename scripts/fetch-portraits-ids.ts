@@ -107,6 +107,36 @@ const SEARCH_OVERRIDES: Record<string, string[]> = {
   "ash-greninja-anime": ["Ash-Greninja", "Greninja"],
   "palkia-anime": ["Palkia"],
   "zygarde-complete-anime": ["Zygarde Complete", "Zygarde"],
+  "barragan-bleach": ["Barragan Louisenbairn", "Barragan Bleach"],
+  "tenjiro-bleach": ["Tenjiro Kirinji", "Kirinji Tenjiro"],
+  "gyomei-demon-slayer": ["Gyomei Himejima", "Gyomei Demon Slayer"],
+  "gogeta-dragon-ball": ["Gogeta", "Gogeta Dragon Ball Super"],
+  "gotenks-dragon-ball": ["Gotenks"],
+  "vegito-dragon-ball": ["Vegito", "Vegetto"],
+  "cu-chulainn-fate": ["Cú Chulainn", "Cu Chulainn Fate"],
+  "diarmuid-fate": ["Diarmuid Ua Duibhne", "Lancer Fate Zero"],
+  "lagann-gurren": ["Lagann", "Gurren Lagann mecha"],
+  "ttgl-gurren": ["Tengen Toppa Gurren Lagann", "TTGL"],
+  "mahoraga-jjk": ["Mahoraga", "Eight-Handled Sword Divergent Sila Divine General Mahoraga"],
+  "murakami-kuroko": ["Shun Izuki", "Kuroko Basketball Murashiki"],
+  "jaldabaoth-overlord": ["Jaldabaoth", "Overlord demon"],
+  "medemma-misfit": ["Misha Necron", "Medrio Misfit Demon King Academy"],
+  "kaoru-baki": ["Kaoru Hanayama"],
+  "rin-baki": ["Rin Hanayama", "Rin Baki"],
+  "ymir-attack-aot": ["Attack Titan", "Eren Yeager Attack Titan"],
+  "midoriya-100-mha": ["Izuku Midoriya 100%", "Deku Full Cowl 100"],
+  "deku-gearshift-mha": ["Izuku Midoriya Gearshift", "Deku Gearshift"],
+  "sho-mob": ["Sho Suzuki", "Mob Psycho Sho"],
+  "suzuki-mob": ["Toichiro Suzuki", "Mob Psycho Suzuki"],
+  "satan-goh": ["Mori Jin", "The God of High School Jin"],
+  "uesugi-goh": ["Yoo Mira", "God of High School Mira"],
+  "furuta-tg": ["Nimura Furuta", "Furuta Tokyo Ghoul"],
+  "utsumi-tg": ["Kanae von Rosewald", "Utsumi Tokyo Ghoul"],
+  "cart-aot": ["Pieck Finger", "Cart Titan"],
+  "pieck-aot": ["Pieck Finger"],
+  "asnodt-bleach": ["Äs Nödt", "As Nodt Bleach"],
+  "porco-aot": ["Porco Galliard"],
+  "ymir-jaw-aot": ["Jaw Titan", "Porco Galliard Jaw"],
 };
 
 function simplifyName(displayName: string): string {
@@ -207,8 +237,6 @@ async function main() {
       console.warn(`Unknown id ${id}`);
       continue;
     }
-    removePortraitFiles(id);
-
     const baseName = simplifyName(c.displayName);
     const seriesLabel = SERIES_ANILIST[c.series] ?? c.series;
     const queries = [
@@ -277,6 +305,7 @@ async function main() {
       continue;
     }
     const filename = `${id}${ext}`;
+    removePortraitFiles(id);
     writeFileSync(resolve(outDir, filename), bytes);
     writeFileSync(resolve(clientPortraits, filename), bytes);
     const c = byId.get(id)!;

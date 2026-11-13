@@ -150,10 +150,23 @@ async fn main() -> Result<()> {
             let mut doc: serde_json::Value = serde_json::from_str(&raw)?;
             if let Some(arr) = doc.as_array_mut() {
                 for c in arr {
-                    if let Some(id) = c.get("id").and_then(|v| v.as_str()) {
-                        if let Some(st) = by_id.get(id) {
-                            c["stats"] = serde_json::to_value(st)?;
-                        }
+                    let Some(id) = c.get("id").and_then(|v| v.as_str()) else {
+                        continue;
+                    };
+                    let Some(wiki) = by_id.get(id) else {
+                        continue;
+                    };
+                    let Some(stats) = c.get_mut("stats") else {
+                        continue;
+                    };
+                    for key in ["strength", "speed", "abilities", "durability"] {
+                        stats[key] = serde_json::json!(match key {
+                            "strength" => wiki.strength,
+                            "speed" => wiki.speed,
+                            "abilities" => wiki.abilities,
+                            "durability" => wiki.durability,
+                            _ => unreachable!(),
+                        });
                     }
                 }
             }

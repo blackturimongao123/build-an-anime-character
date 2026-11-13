@@ -11,6 +11,9 @@
     "stats-check": "cargo run --release --manifest-path ../stats-check/Cargo.toml -- --root ..",
     "iq-apply": "tsx apply-iq-overrides.ts",
     "curated-apply": "tsx apply-curated-stats.ts",
+    "wiki-shards": "tsx wiki-build-shards.ts",
+    "wiki-scrape": "tsx wiki-full-scrape.ts",
+    "wiki-apply": "tsx wiki-apply-from-db.ts",
     "import-manual-portraits": "tsx import-manual-portraits.ts"
   },
   "dependencies": {

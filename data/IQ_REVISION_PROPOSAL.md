@@ -150,7 +150,7 @@ Only rows that **change** are listed. Unlisted ids keep current `manual-iq-overr
 
 ## Interactive review page
 
-Open **`data/iq-revision-review.html`** in a browser (double-click; no server needed). It lists all **136** characters with proposed IQ, rationale, **− / number / +** editors, and **Download export** (JSON with `overrides` ready for `manual-iq-overrides.json`).
+Open **`data/iq-revision-review.html`** in a browser (double-click; no server needed). Regenerate with **`npm run data:iq-website`** so the full roster from **`characters.json`** is listed with **current in-game IQ** plus proposal rows from this file. Use **− / number / +** editors and **Download export** (JSON with `overrides` ready for `manual-iq-overrides.json`).
 
 Regenerate after editing this proposal:
 

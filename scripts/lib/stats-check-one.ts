@@ -78,11 +78,19 @@ export async function computeStatsForCharacter(
   return { wikiPage: wikiTitle, stats };
 }
 
+/** IQ comes from manual-iq-overrides, not wiki reconcile. */
+export const PHYSICAL_STAT_KEYS = [
+  "strength",
+  "speed",
+  "abilities",
+  "durability",
+] as const;
+
 function statDelta(
   stored: CharacterStats,
   expected: CharacterStats,
 ): Partial<Record<keyof CharacterStats, number>> {
-  const keys = ["strength", "speed", "abilities", "iq", "durability"] as const;
+  const keys = PHYSICAL_STAT_KEYS;
   const d: Partial<Record<keyof CharacterStats, number>> = {};
   for (const k of keys) {
     const diff = expected[k] - stored[k];

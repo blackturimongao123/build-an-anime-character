@@ -87,6 +87,7 @@ function loadFormPolicy(): {
 }
 
 function main() {
+  const allowMissingPortraits = process.argv.includes("--allow-missing-portraits");
   if (!existsSync(charactersPath)) {
     console.error("Missing data/characters.json");
     process.exit(1);
@@ -145,6 +146,7 @@ function main() {
   for (const c of chars) {
     const file = resolve(portraitDir, c.portrait.replace(/^\//, ""));
     if (!existsSync(file)) {
+      if (allowMissingPortraits) continue;
       console.error(`[portrait] ${c.id}: missing file public-shared${c.portrait}`);
       errors++;
       continue;
@@ -152,13 +154,20 @@ function main() {
     const hash = createHash("sha1").update(readFileSync(file)).digest("hex");
     byHash.set(hash, [...(byHash.get(hash) ?? []), c.id]);
   }
+  const idToChar = new Map(chars.map((c) => [c.id, c]));
   for (const group of byHash.values()) {
-    if (group.length > 1) {
-      console.error(
-        `[portrait] ${group.length} characters share the same image (placeholder?): ${group.slice(0, 5).join(", ")}${group.length > 5 ? ", …" : ""}`,
-      );
-      errors++;
-    }
+    if (group.length <= 1) continue;
+    const identities = new Set(
+      group.map((id) => {
+        const c = idToChar.get(id)!;
+        return `${c.series}\0${rosterFormIdentity(c)}`;
+      }),
+    );
+    if (identities.size === 1) continue;
+    console.error(
+      `[portrait] ${group.length} characters share the same image (placeholder?): ${group.slice(0, 5).join(", ")}${group.length > 5 ? ", …" : ""}`,
+    );
+    errors++;
   }
 
   const formPolicy = loadFormPolicy();

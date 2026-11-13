@@ -14,3 +14,5 @@ cargo run --release --manifest-path stats-check/Cargo.toml -- --root . --workers
 ```
 
 Report: `data/stats-check-report.json`
+
+**IQ is ignored** in match/diff/apply (game IQ uses `manual-iq-overrides.json` via `npm run data:iq-apply`).
