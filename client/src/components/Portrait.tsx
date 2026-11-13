@@ -3,7 +3,10 @@ import type { Character } from "@build-character/shared";
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, "");
 
-export function portraitSrc(character: Character | null | undefined): string {
+/** Portrait only needs these fields, so slim reel entries work too. */
+type PortraitCharacter = Pick<Character, "id" | "displayName" | "portrait">;
+
+export function portraitSrc(character: PortraitCharacter | null | undefined): string {
   if (!character) return "";
   const path = character.portrait.startsWith("/")
     ? character.portrait
@@ -17,7 +20,7 @@ export function Portrait({
   showName = true,
   score,
 }: {
-  character: Character | null | undefined;
+  character: PortraitCharacter | null | undefined;
   className?: string;
   showName?: boolean;
   score?: number;
@@ -35,6 +38,7 @@ export function Portrait({
           src={src}
           alt={character.displayName}
           onError={() => setFailedSrc(src)}
+          decoding="async"
           draggable={false}
         />
       ) : (

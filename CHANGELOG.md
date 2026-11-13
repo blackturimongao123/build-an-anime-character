@@ -1,5 +1,29 @@
 # Changelog
 
+## 2026-11-13: Lighter client and smoother roll reel
+
+### 9. Performance
+
+Measured with a full local bot match in headless Chromium at 4x CPU slowdown on a Slow 4G profile (1.6 Mbps, 150 ms), before → after:
+
+| Metric | Before | After |
+|--------|--------|-------|
+| JS bundle | 555 KB (122 KB gzip) | 365 KB (106 KB gzip) |
+| Reel cells blank mid-spin | 73% | 3% |
+| Portrait downloads per match | 177 (6.5 MB) | 78 (2.9 MB) |
+| React commits per second (showdown) | 35 | 0.5 |
+| Style recalculation per match | 2.2 s | 1.4 s |
+
+| Area | Change |
+|------|--------|
+| `client/vite.config.ts`, `client/src/data/roster.ts` | The client no longer bundles the full `data/characters.json` (stats, wiki URLs, notes for every character). The build writes a slim `reel-roster.generated.json` (id, name, portrait; only characters whose portrait exists), regenerated on every dev start/build and when `characters.json` changes. It is gitignored. The server still uses the full file. |
+| `client/src/data/roster.ts`, `main.tsx` | Reel faces are preloaded and decoded after the page loads and reused across spins, with 6 new faces added after each spin. Fillers no longer download 23 new images per reel per spin. |
+| `client/src/components/RollSlotCard.tsx` | The rolled character's portrait is fetched at high priority when its spin starts. The reel's motion blur only changes in 2 px steps instead of restyling the tall strip every frame. The card is memoized by character id, so the server's once-a-second timer updates no longer re-render the 24-face reel. |
+| `client/src/components/ArenaUI.tsx` | The AVG SCORE count-up writes the number directly each frame instead of re-rendering React 60 times a second. |
+| `client/src/components/Portrait.tsx` | Images decode asynchronously. |
+
+Not done yet: smaller portrait files. The originals average about 40 KB at about 400 px wide, while the reel shows them at about 170 px and the boards at 56 px. Generating about 320 px WebP thumbnails at build time would cut the remaining image bytes roughly in half or more, but needs a new image library (for example `sharp`).
+
 ## 2026-11-12: Average score
 
 ### 8. Average score

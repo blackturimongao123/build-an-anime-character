@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useLayoutEffect, useRef } from "react";
 
 export function PlayerAvatar({ name, bot = false, color }: {
   name: string;
@@ -22,6 +22,8 @@ const COUNT_UP_MS = 650;
 /**
  * Shows the average. With `animate`, it counts up from the last shown value
  * (starting at 0) to `value` after `delayMs`, for the per-fight climb.
+ * The count-up writes the number straight to the DOM each frame instead of
+ * re-rendering React 60 times a second.
  */
 export function AverageScore({ value, color, animate = false, delayMs = 0 }: {
   value: number;
@@ -29,38 +31,52 @@ export function AverageScore({ value, color, animate = false, delayMs = 0 }: {
   animate?: boolean;
   delayMs?: number;
 }) {
-  const [shown, setShown] = useState(animate ? 0 : value);
-  const shownRef = useRef(shown);
-  shownRef.current = shown;
+  const boxRef = useRef<HTMLDivElement>(null);
+  const numRef = useRef<HTMLElement>(null);
+  const shownRef = useRef(animate ? 0 : value);
 
-  useEffect(() => {
+  useLayoutEffect(() => {
+    const box = boxRef.current;
+    const num = numRef.current;
+    if (!box || !num) return;
+    const show = (v: number) => {
+      shownRef.current = v;
+      num.textContent = v.toFixed(1);
+    };
     const from = shownRef.current;
     const reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     if (!animate || reduced || from === value) {
-      setShown(value);
+      show(value);
+      box.classList.remove("avg-box--counting");
       return;
     }
+    show(from);
     let frame = 0;
     let start = 0;
     const step = (now: number) => {
-      if (!start) start = now;
+      if (!start) {
+        start = now;
+        box.classList.add("avg-box--counting");
+      }
       const t = Math.min(1, (now - start) / COUNT_UP_MS);
       const eased = 1 - (1 - t) ** 3;
-      setShown(from + (value - from) * eased);
+      show(from + (value - from) * eased);
       if (t < 1) frame = requestAnimationFrame(step);
+      else box.classList.remove("avg-box--counting");
     };
     const timer = setTimeout(() => { frame = requestAnimationFrame(step); }, delayMs);
     return () => {
       clearTimeout(timer);
       cancelAnimationFrame(frame);
+      box.classList.remove("avg-box--counting");
     };
   }, [value, animate, delayMs]);
 
-  const counting = shown !== value;
   return (
-    <div className={`avg-box avg-box--${color}${counting ? " avg-box--counting" : ""}`}>
+    <div ref={boxRef} className={`avg-box avg-box--${color}`}>
       <span>AVG SCORE</span>
-      <strong>{shown.toFixed(1)}</strong>
+      {/* Filled in by the layout effect (before paint), so React never owns this text. */}
+      <strong ref={numRef} />
     </div>
   );
 }

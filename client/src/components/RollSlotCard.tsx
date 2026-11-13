@@ -1,6 +1,6 @@
-import { forwardRef, useEffect, useMemo, useRef } from "react";
+import { forwardRef, memo, useEffect, useMemo, useRef } from "react";
 import type { Character } from "@build-character/shared";
-import { Portrait } from "./Portrait";
+import { Portrait, portraitSrc } from "./Portrait";
 import { pickSpinCharacters } from "../data/roster";
 import { getRollEnd } from "../hooks/rollClock";
 import { playReelStop, playReelTick } from "../audio/sfx";
@@ -9,16 +9,30 @@ import "./RollSlotCard.css";
 /** Filler portraits that scroll past before the final one lands. */
 const REEL_FILLERS = 22;
 
-export const RollSlotCard = forwardRef<
+type RollSlotCardProps = {
+  character: Character | null | undefined;
+  spinning: boolean;
+  revealed: boolean;
+  flownAway: boolean;
+  locked?: boolean;
+  side: "you" | "opp";
+};
+
+/**
+ * The server re-sends fresh character objects on every timer tick. Compare by
+ * id so those ticks don't re-render the card and its 24-face reel.
+ */
+const sameCard = (a: RollSlotCardProps, b: RollSlotCardProps) =>
+  a.character?.id === b.character?.id &&
+  a.spinning === b.spinning &&
+  a.revealed === b.revealed &&
+  a.flownAway === b.flownAway &&
+  a.locked === b.locked &&
+  a.side === b.side;
+
+export const RollSlotCard = memo(forwardRef<
   HTMLDivElement,
-  {
-    character: Character | null | undefined;
-    spinning: boolean;
-    revealed: boolean;
-    flownAway: boolean;
-    locked?: boolean;
-    side: "you" | "opp";
-  }
+  RollSlotCardProps
 >(function RollSlotCard(
   { character, spinning, revealed, flownAway, locked, side },
   ref,
@@ -62,7 +76,7 @@ export const RollSlotCard = forwardRef<
       )}
     </div>
   );
-});
+}), sameCard);
 
 /**
  * Slot-reel easing: spins fast and decelerates over most of the roll,
@@ -93,6 +107,10 @@ function SlotReel({ character, sound }: { character: Character; sound: boolean }
   const stripRef = useRef<HTMLDivElement>(null);
 
   const items = useMemo(() => {
+    // The rolled character is the face the reel lands on: fetch it first.
+    const landing = new Image();
+    landing.fetchPriority = "high";
+    landing.src = portraitSrc(character);
     const fillers = pickSpinCharacters(
       REEL_FILLERS + 1,
       new Set([character.id]),
@@ -117,6 +135,7 @@ function SlotReel({ character, sound }: { character: Character; sound: boolean }
     let raf = 0;
     let lastCell = startIndex;
     let lastTickAt = 0;
+    let lastBlur = -1;
 
     const reduceMotion = window.matchMedia?.(
       "(prefers-reduced-motion: reduce)",
@@ -136,8 +155,13 @@ function SlotReel({ character, sound }: { character: Character; sound: boolean }
       const speed = Math.abs(lastPos - pos) / (dt / 1000);
       lastPos = pos;
       lastT = now;
-      const blur = reduceMotion ? 0 : Math.min(6, speed * 0.35);
-      strip.style.setProperty("--reel-blur", `${blur.toFixed(2)}px`);
+      // Blur in 2px steps: a filter change re-renders the whole tall strip, so
+      // only touch it when the level actually changes (a few times per spin).
+      const blur = reduceMotion ? 0 : Math.round(Math.min(6, speed * 0.35) / 2) * 2;
+      if (blur !== lastBlur) {
+        strip.style.setProperty("--reel-blur", `${blur}px`);
+        lastBlur = blur;
+      }
 
       // Roulette tick each time a new portrait crosses the window (your card only,
       // so two reels don't double up).

@@ -11,6 +11,8 @@ shared/dist/
 
 # Generated on dev/build: vite copies public-shared/portraits here
 client/public/portraits/
+# Generated on dev/build from data/characters.json (slim reel roster)
+client/src/data/reel-roster.generated.json
 
 # Local scratch / debug files
 data/_*
