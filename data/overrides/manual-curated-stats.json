@@ -236,12 +236,6 @@
     "abilities": 34,
     "durability": 34
   },
-  "bertolt-aot": {
-    "strength": 44,
-    "speed": 33,
-    "abilities": 43,
-    "durability": 36
-  },
   "colossal-aot": {
     "strength": 44,
     "speed": 33,
@@ -321,12 +315,6 @@
     "durability": 24
   },
   "reiner-aot": {
-    "strength": 44,
-    "speed": 33,
-    "abilities": 34,
-    "durability": 34
-  },
-  "zeke-aot": {
     "strength": 44,
     "speed": 33,
     "abilities": 34,
@@ -1088,66 +1076,6 @@
     "abilities": 37,
     "durability": 37
   },
-  "gelus-dn": {
-    "strength": 30,
-    "speed": 40,
-    "abilities": 70,
-    "durability": 58
-  },
-  "higuchi-dn": {
-    "strength": 8,
-    "speed": 8,
-    "abilities": 40,
-    "durability": 8
-  },
-  "mello-dn": {
-    "strength": 12,
-    "speed": 44,
-    "abilities": 28,
-    "durability": 12
-  },
-  "mikami-dn": {
-    "strength": 8,
-    "speed": 8,
-    "abilities": 60,
-    "durability": 8
-  },
-  "misa-dn": {
-    "strength": 8,
-    "speed": 8,
-    "abilities": 28,
-    "durability": 8
-  },
-  "near-dn": {
-    "strength": 8,
-    "speed": 8,
-    "abilities": 8,
-    "durability": 8
-  },
-  "rem-dn": {
-    "strength": 30,
-    "speed": 40,
-    "abilities": 80,
-    "durability": 58
-  },
-  "sidoh-dn": {
-    "strength": 30,
-    "speed": 40,
-    "abilities": 70,
-    "durability": 58
-  },
-  "soichiro-dn": {
-    "strength": 10,
-    "speed": 10,
-    "abilities": 8,
-    "durability": 10
-  },
-  "watari-dn": {
-    "strength": 10,
-    "speed": 10,
-    "abilities": 10,
-    "durability": 10
-  },
   "akaza-demon-slayer": {
     "strength": 42,
     "speed": 66,
@@ -1421,12 +1349,6 @@
   "goku-dragon-ball": {
     "strength": 91,
     "speed": 97,
-    "abilities": 96,
-    "durability": 93
-  },
-  "goku-black-dragon-ball": {
-    "strength": 91,
-    "speed": 87,
     "abilities": 96,
     "durability": 93
   },
@@ -2636,12 +2558,6 @@
     "abilities": 20,
     "durability": 16
   },
-  "dom-mashle": {
-    "strength": 60,
-    "speed": 30,
-    "abilities": 56,
-    "durability": 52
-  },
   "dot-mashle": {
     "strength": 44,
     "speed": 58,
@@ -2677,12 +2593,6 @@
     "speed": 87,
     "abilities": 73,
     "durability": 69
-  },
-  "seraphy-mashle": {
-    "strength": 66,
-    "speed": 40,
-    "abilities": 72,
-    "durability": 60
   },
   "dimple-mob": {
     "strength": 53,
@@ -3836,12 +3746,6 @@
     "abilities": 97,
     "durability": 99
   },
-  "dino-slime": {
-    "strength": 95,
-    "speed": 97,
-    "abilities": 97,
-    "durability": 96
-  },
   "elmesia-slime": {
     "strength": 40,
     "speed": 40,
@@ -4003,36 +3907,6 @@
     "speed": 97,
     "abilities": 97,
     "durability": 99
-  },
-  "lay-misfit": {
-    "strength": 63,
-    "speed": 82,
-    "abilities": 90,
-    "durability": 65
-  },
-  "meli-misfit": {
-    "strength": 50,
-    "speed": 60,
-    "abilities": 76,
-    "durability": 52
-  },
-  "sasha-misfit": {
-    "strength": 75,
-    "speed": 67,
-    "abilities": 85,
-    "durability": 77
-  },
-  "shin-misfit": {
-    "strength": 85,
-    "speed": 97,
-    "abilities": 96,
-    "durability": 85
-  },
-  "zepes-misfit": {
-    "strength": 56,
-    "speed": 66,
-    "abilities": 70,
-    "durability": 56
   },
   "eto-tg": {
     "strength": 50,

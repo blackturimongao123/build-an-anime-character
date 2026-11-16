@@ -51,15 +51,6 @@
       "durability": 60
     }
   },
-  "rem-dn": {
-    "set": {
-      "strength": 30,
-      "speed": 40,
-      "abilities": 80,
-      "durability": 58
-    },
-    "reason": "no VS Battles page; Shinigami with a Death Note and Shinigami eyes (kill by name), physically unremarkable, killable only by breaking Shinigami rules; no usable VS Battles stats: Shinigami with Death Note and eyes; killable only by Shinigami rules"
-  },
   "lelouch-geass": {
     "abl_min": 72,
     "reason": "Geass of Absolute Obedience (mind control by eye contact) + strategic command"
@@ -284,60 +275,6 @@
       "durability": 16
     },
     "reason": "no usable VS Battles stats: Scout commander with ODM gear and thunder spears"
-  },
-  "soichiro-dn": {
-    "set": {
-      "strength": 10,
-      "speed": 10,
-      "abilities": 8,
-      "durability": 10
-    },
-    "reason": "no usable VS Battles stats: police chief, ordinary human"
-  },
-  "watari-dn": {
-    "set": {
-      "strength": 10,
-      "speed": 10,
-      "abilities": 10,
-      "durability": 10
-    },
-    "reason": "no usable VS Battles stats: ordinary human, marksman and inventor"
-  },
-  "higuchi-dn": {
-    "set": {
-      "strength": 8,
-      "speed": 8,
-      "abilities": 40,
-      "durability": 8
-    },
-    "reason": "no usable VS Battles stats: ordinary human with a Death Note"
-  },
-  "mikami-dn": {
-    "set": {
-      "strength": 8,
-      "speed": 8,
-      "abilities": 60,
-      "durability": 8
-    },
-    "reason": "no usable VS Battles stats: ordinary human with a Death Note and Shinigami eyes"
-  },
-  "sidoh-dn": {
-    "set": {
-      "strength": 30,
-      "speed": 40,
-      "abilities": 70,
-      "durability": 58
-    },
-    "reason": "no usable VS Battles stats: Shinigami with a Death Note, weaker than Ryuk"
-  },
-  "gelus-dn": {
-    "set": {
-      "strength": 30,
-      "speed": 40,
-      "abilities": 70,
-      "durability": 58
-    },
-    "reason": "no usable VS Battles stats: Shinigami with a Death Note; died saving Misa"
   },
   "bismarck-geass": {
     "set": {
@@ -870,24 +807,6 @@
     },
     "reason": "no usable VS Battles stats: Beast Monarch, below Antares"
   },
-  "dom-mashle": {
-    "set": {
-      "strength": 60,
-      "speed": 30,
-      "abilities": 56,
-      "durability": 52
-    },
-    "reason": "no usable VS Battles stats: Divine Visionary candidate, like Lance 68/24/59/57"
-  },
-  "seraphy-mashle": {
-    "set": {
-      "strength": 66,
-      "speed": 40,
-      "abilities": 72,
-      "durability": 60
-    },
-    "reason": "no usable VS Battles stats: Divine Visionary; sacred-magic stigma"
-  },
   "innocent-zero-mashle": {
     "set": {
       "strength": 74,
@@ -959,24 +878,6 @@
       "durability": 8
     },
     "reason": "no usable VS Battles stats: ordinary human"
-  },
-  "meli-misfit": {
-    "set": {
-      "strength": 50,
-      "speed": 60,
-      "abilities": 76,
-      "durability": 52
-    },
-    "reason": "no usable VS Battles stats: Demon-king-academy fighter, below Lay 63/82/90/65"
-  },
-  "zepes-misfit": {
-    "set": {
-      "strength": 56,
-      "speed": 66,
-      "abilities": 70,
-      "durability": 56
-    },
-    "reason": "no usable VS Battles stats: Demon-king-academy antagonist"
   },
   "il-pyo-goh": {
     "set": {

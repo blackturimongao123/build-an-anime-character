@@ -358,24 +358,6 @@
     }
   },
   {
-    "displayName": "Bertolt",
-    "id": "bertolt-aot",
-    "portrait": "/portraits/bertolt-aot.jpg",
-    "series": "Attack on Titan",
-    "stats": {
-      "strength": 44,
-      "speed": 33,
-      "abilities": 43,
-      "iq": 50,
-      "durability": 36
-    },
-    "sources": {
-      "wikiPage": "Bertolt Hoover",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Bertolt_Hoover",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Colossal",
     "id": "colossal-aot",
     "portrait": "/portraits/colossal-aot.jpg",
@@ -616,24 +598,6 @@
     "sources": {
       "wikiPage": "Reiner Braun",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Reiner_Braun",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Zeke",
-    "id": "zeke-aot",
-    "portrait": "/portraits/zeke-aot.png",
-    "series": "Attack on Titan",
-    "stats": {
-      "strength": 44,
-      "speed": 33,
-      "abilities": 34,
-      "iq": 50,
-      "durability": 34
-    },
-    "sources": {
-      "wikiPage": "Zeke Yeager",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Zeke_Yeager",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -2930,40 +2894,6 @@
     }
   },
   {
-    "displayName": "Gelus",
-    "id": "gelus-dn",
-    "portrait": "/portraits/gelus-dn.jpg",
-    "series": "Death Note",
-    "stats": {
-      "strength": 30,
-      "speed": 40,
-      "abilities": 70,
-      "iq": 50,
-      "durability": 58
-    },
-    "sources": {
-      "wikiPage": "Gelus",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Gelus"
-    }
-  },
-  {
-    "displayName": "Higuchi",
-    "id": "higuchi-dn",
-    "portrait": "/portraits/higuchi-dn.jpg",
-    "series": "Death Note",
-    "stats": {
-      "strength": 8,
-      "speed": 8,
-      "abilities": 40,
-      "iq": 50,
-      "durability": 8
-    },
-    "sources": {
-      "wikiPage": "Kyosuke Higuchi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kyosuke_Higuchi"
-    }
-  },
-  {
     "displayName": "Light",
     "id": "light-dn",
     "portrait": "/portraits/light-dn.jpg",
@@ -2982,95 +2912,6 @@
     }
   },
   {
-    "displayName": "Mello",
-    "id": "mello-dn",
-    "portrait": "/portraits/mello-dn.jpg",
-    "series": "Death Note",
-    "stats": {
-      "strength": 12,
-      "speed": 44,
-      "abilities": 28,
-      "iq": 50,
-      "durability": 12
-    },
-    "sources": {
-      "wikiPage": "Mello",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Mello",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Mikami",
-    "id": "mikami-dn",
-    "portrait": "/portraits/mikami-dn.jpg",
-    "series": "Death Note",
-    "stats": {
-      "strength": 8,
-      "speed": 8,
-      "abilities": 60,
-      "iq": 50,
-      "durability": 8
-    },
-    "sources": {
-      "wikiPage": "Teru Mikami",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Teru_Mikami"
-    }
-  },
-  {
-    "displayName": "Misa",
-    "id": "misa-dn",
-    "portrait": "/portraits/misa-dn.jpg",
-    "series": "Death Note",
-    "stats": {
-      "strength": 8,
-      "speed": 8,
-      "abilities": 28,
-      "iq": 50,
-      "durability": 8
-    },
-    "sources": {
-      "wikiPage": "Misa Amane",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Misa_Amane",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Near",
-    "id": "near-dn",
-    "portrait": "/portraits/near-dn.jpg",
-    "series": "Death Note",
-    "stats": {
-      "strength": 8,
-      "speed": 8,
-      "abilities": 8,
-      "iq": 50,
-      "durability": 8
-    },
-    "sources": {
-      "wikiPage": "Near",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Near",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Rem",
-    "id": "rem-dn",
-    "portrait": "/portraits/rem-dn.jpg",
-    "series": "Death Note",
-    "stats": {
-      "strength": 30,
-      "speed": 40,
-      "abilities": 80,
-      "iq": 50,
-      "durability": 58
-    },
-    "sources": {
-      "wikiPage": "Rem",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Rem",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Ryuk",
     "id": "ryuk-dn",
     "portrait": "/portraits/ryuk-dn.jpg",
@@ -3086,57 +2927,6 @@
       "iq": 44,
       "speed": 40,
       "strength": 30
-    }
-  },
-  {
-    "displayName": "Sidoh",
-    "id": "sidoh-dn",
-    "portrait": "/portraits/sidoh-dn.jpg",
-    "series": "Death Note",
-    "stats": {
-      "strength": 30,
-      "speed": 40,
-      "abilities": 70,
-      "iq": 50,
-      "durability": 58
-    },
-    "sources": {
-      "wikiPage": "Sidoh",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Sidoh"
-    }
-  },
-  {
-    "displayName": "Soichiro",
-    "id": "soichiro-dn",
-    "portrait": "/portraits/soichiro-dn.jpg",
-    "series": "Death Note",
-    "stats": {
-      "strength": 10,
-      "speed": 10,
-      "abilities": 8,
-      "iq": 50,
-      "durability": 10
-    },
-    "sources": {
-      "wikiPage": "Soichiro Yagami",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Soichiro_Yagami"
-    }
-  },
-  {
-    "displayName": "Watari",
-    "id": "watari-dn",
-    "portrait": "/portraits/watari-dn.jpg",
-    "series": "Death Note",
-    "stats": {
-      "strength": 10,
-      "speed": 10,
-      "abilities": 10,
-      "iq": 50,
-      "durability": 10
-    },
-    "sources": {
-      "wikiPage": "Watari",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Watari"
     }
   },
   {
@@ -3972,24 +3762,6 @@
       "iq": 65,
       "speed": 97,
       "strength": 91
-    }
-  },
-  {
-    "displayName": "Goku Black",
-    "id": "goku-black-dragon-ball",
-    "portrait": "/portraits/goku-black-dragon-ball.jpg",
-    "series": "Dragon Ball",
-    "stats": {
-      "strength": 91,
-      "speed": 87,
-      "abilities": 96,
-      "iq": 50,
-      "durability": 93
-    },
-    "sources": {
-      "wikiPage": "Goku Black",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Goku_Black",
-      "wikiStatKey": "fallback"
     }
   },
   {
@@ -7671,23 +7443,6 @@
     }
   },
   {
-    "displayName": "Dom",
-    "id": "dom-mashle",
-    "portrait": "/portraits/dom-mashle.jpg",
-    "series": "Mashle",
-    "stats": {
-      "strength": 60,
-      "speed": 30,
-      "abilities": 56,
-      "iq": 50,
-      "durability": 52
-    },
-    "sources": {
-      "wikiPage": "Dom",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Dom"
-    }
-  },
-  {
     "displayName": "Dot",
     "id": "dot-mashle",
     "portrait": "/portraits/dot-mashle.webp",
@@ -7792,23 +7547,6 @@
       "wikiPage": "Rayne Ames",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Rayne_Ames",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Seraphy",
-    "id": "seraphy-mashle",
-    "portrait": "/portraits/seraphy-mashle.jpg",
-    "series": "Mashle",
-    "stats": {
-      "strength": 66,
-      "speed": 40,
-      "abilities": 72,
-      "iq": 50,
-      "durability": 60
-    },
-    "sources": {
-      "wikiPage": "Seraphy",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Seraphy"
     }
   },
   {
@@ -11320,24 +11058,6 @@
     }
   },
   {
-    "displayName": "Dino",
-    "id": "dino-slime",
-    "portrait": "/portraits/dino-slime.jpg",
-    "series": "That Time I Got Reincarnated as a Slime",
-    "stats": {
-      "strength": 95,
-      "speed": 97,
-      "abilities": 97,
-      "iq": 50,
-      "durability": 96
-    },
-    "sources": {
-      "wikiPage": "Dino",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Dino",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
     "displayName": "Elmesia",
     "id": "elmesia-slime",
     "portrait": "/portraits/elmesia-slime.webp",
@@ -11815,93 +11535,6 @@
       "wikiPage": "Anos Voldigoad",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Anos_Voldigoad",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Lay",
-    "id": "lay-misfit",
-    "portrait": "/portraits/lay-misfit.jpg",
-    "series": "The Misfit of Demon King Academy",
-    "stats": {
-      "strength": 63,
-      "speed": 82,
-      "abilities": 90,
-      "iq": 50,
-      "durability": 65
-    },
-    "sources": {
-      "wikiPage": "Lay Glavielle",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Lay_Glavielle"
-    }
-  },
-  {
-    "displayName": "Meli",
-    "id": "meli-misfit",
-    "portrait": "/portraits/meli-misfit.jpg",
-    "series": "The Misfit of Demon King Academy",
-    "stats": {
-      "strength": 50,
-      "speed": 60,
-      "abilities": 76,
-      "iq": 50,
-      "durability": 52
-    },
-    "sources": {
-      "wikiPage": "Meli",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Meli"
-    }
-  },
-  {
-    "displayName": "Sasha",
-    "id": "sasha-misfit",
-    "portrait": "/portraits/sasha-misfit.jpg",
-    "series": "The Misfit of Demon King Academy",
-    "stats": {
-      "strength": 75,
-      "speed": 67,
-      "abilities": 85,
-      "iq": 50,
-      "durability": 77
-    },
-    "sources": {
-      "wikiPage": "Sasha Necron",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Sasha_Necron",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Shin",
-    "id": "shin-misfit",
-    "portrait": "/portraits/shin-misfit.webp",
-    "series": "The Misfit of Demon King Academy",
-    "stats": {
-      "strength": 85,
-      "speed": 97,
-      "abilities": 96,
-      "iq": 50,
-      "durability": 85
-    },
-    "sources": {
-      "wikiPage": "Shin",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Shin",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
-    "displayName": "Zepes",
-    "id": "zepes-misfit",
-    "portrait": "/portraits/zepes-misfit.jpg",
-    "series": "The Misfit of Demon King Academy",
-    "stats": {
-      "strength": 56,
-      "speed": 66,
-      "abilities": 70,
-      "iq": 50,
-      "durability": 56
-    },
-    "sources": {
-      "wikiPage": "Zepes Indu",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Zepes_Indu"
     }
   },
   {
