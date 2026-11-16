@@ -36,9 +36,10 @@
     "durability": 35
   },
   "lelouch-vi-britannia": {
-    "strength": 18,
-    "speed": 20,
-    "durability": 16
+    "strength": 40,
+    "speed": 48,
+    "abilities": 22,
+    "durability": 12
   },
   "roy-mustang": {
     "strength": 22
@@ -85,5 +86,11 @@
   },
   "thor-record": {
     "strength": 84
+  },
+  "edward-elric": {
+    "strength": 58,
+    "speed": 48,
+    "abilities": 38,
+    "durability": 52
   }
 }

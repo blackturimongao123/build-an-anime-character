@@ -602,21 +602,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Annie Leonhart (Crystal)",
-      "expected": null,
-      "id": "annie-crystal-aot",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 94,

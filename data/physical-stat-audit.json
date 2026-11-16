@@ -954,39 +954,6 @@
       "notes": []
     },
     {
-      "id": "annie-crystal-aot",
-      "display_name": "Annie",
-      "series": "Attack on Titan",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Annie Leonhart (Crystal)"
-      ]
-    },
-    {
       "id": "anos-misfit",
       "display_name": "Anos",
       "series": "The Misfit of Demon King Academy",

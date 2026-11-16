@@ -323,23 +323,6 @@
     }
   },
   {
-    "displayName": "Annie",
-    "id": "annie-crystal-aot",
-    "portrait": "/portraits/annie-crystal-aot.jpg",
-    "series": "Attack on Titan",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Annie Leonhart (Crystal)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Annie_Leonhart_(Crystal)"
-    }
-  },
-  {
     "displayName": "Armin",
     "id": "armin-colossal-anime",
     "portrait": "/portraits/armin-colossal-anime.jpg",
@@ -2866,10 +2849,10 @@
     "series": "Code Geass",
     "stats": {
       "abilities": 22,
-      "durability": 16,
+      "durability": 12,
       "iq": 100,
-      "speed": 20,
-      "strength": 18
+      "speed": 48,
+      "strength": 40
     },
     "sources": {
       "wikiPage": "Lelouch vi Britannia",
@@ -4967,11 +4950,11 @@
     "portrait": "/portraits/edward-elric.jpg",
     "series": "Fullmetal Alchemist",
     "stats": {
-      "abilities": 28,
-      "durability": 28,
+      "abilities": 38,
+      "durability": 52,
       "iq": 82,
-      "speed": 68,
-      "strength": 44
+      "speed": 48,
+      "strength": 58
     },
     "sources": {
       "wikiPage": "Edward Cullen",
