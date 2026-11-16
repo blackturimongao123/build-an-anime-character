@@ -7,7 +7,7 @@
   },
   "senku-dr-stone": {
     "strength": 8,
-    "speed": 8,
+    "speed": 12,
     "abilities": 28,
     "durability": 20
   },
@@ -31,7 +31,7 @@
   },
   "aomine-kuroko": {
     "strength": 16,
-    "speed": 20,
+    "speed": 24,
     "abilities": 20,
     "durability": 17
   },
@@ -334,13 +334,13 @@
   },
   "baki": {
     "strength": 44,
-    "speed": 44,
+    "speed": 48,
     "abilities": 48,
     "durability": 43
   },
   "doppo-baki": {
     "strength": 42,
-    "speed": 24,
+    "speed": 28,
     "abilities": 42,
     "durability": 42
   },
@@ -358,37 +358,37 @@
   },
   "musashi-baki": {
     "strength": 42,
-    "speed": 44,
+    "speed": 48,
     "abilities": 47,
     "durability": 42
   },
   "pickle-baki": {
     "strength": 42,
-    "speed": 24,
+    "speed": 28,
     "abilities": 46,
     "durability": 43
   },
   "yujiro-baki": {
     "strength": 44,
-    "speed": 44,
+    "speed": 48,
     "abilities": 48,
     "durability": 43
   },
   "asta-black-clover": {
     "strength": 74,
-    "speed": 69,
+    "speed": 77,
     "abilities": 77,
     "durability": 71
   },
   "charmy-black-clover": {
     "strength": 61,
-    "speed": 69,
+    "speed": 77,
     "abilities": 61,
     "durability": 61
   },
   "dante-black-clover": {
     "strength": 67,
-    "speed": 69,
+    "speed": 77,
     "abilities": 67,
     "durability": 67
   },
@@ -424,7 +424,7 @@
   },
   "jack-black-clover": {
     "strength": 67,
-    "speed": 69,
+    "speed": 73,
     "abilities": 67,
     "durability": 67
   },
@@ -478,13 +478,13 @@
   },
   "mereoleona-black-clover": {
     "strength": 74,
-    "speed": 69,
+    "speed": 77,
     "abilities": 71,
     "durability": 69
   },
   "noelle-black-clover": {
     "strength": 67,
-    "speed": 69,
+    "speed": 77,
     "abilities": 67,
     "durability": 69
   },
@@ -508,13 +508,13 @@
   },
   "yami-black-clover": {
     "strength": 74,
-    "speed": 69,
+    "speed": 77,
     "abilities": 71,
     "durability": 68
   },
   "yuno-black-clover": {
     "strength": 74,
-    "speed": 82,
+    "speed": 90,
     "abilities": 74,
     "durability": 67
   },
@@ -525,14 +525,14 @@
     "durability": 61
   },
   "zenon-black-clover": {
-    "strength": 74,
-    "speed": 69,
+    "strength": 67,
+    "speed": 77,
     "abilities": 67,
     "durability": 67
   },
   "aaroniero-bleach": {
     "strength": 63,
-    "speed": 48,
+    "speed": 52,
     "abilities": 66,
     "durability": 63
   },
@@ -580,7 +580,7 @@
   },
   "chojiro-bleach": {
     "strength": 67,
-    "speed": 55,
+    "speed": 59,
     "abilities": 70,
     "durability": 67
   },
@@ -616,7 +616,7 @@
   },
   "hachigen-bleach": {
     "strength": 44,
-    "speed": 55,
+    "speed": 59,
     "abilities": 65,
     "durability": 65
   },
@@ -634,7 +634,7 @@
   },
   "hiyori-bleach": {
     "strength": 61,
-    "speed": 55,
+    "speed": 59,
     "abilities": 61,
     "durability": 61
   },
@@ -676,7 +676,7 @@
   },
   "kensei-bleach": {
     "strength": 65,
-    "speed": 55,
+    "speed": 59,
     "abilities": 67,
     "durability": 66
   },
@@ -712,19 +712,19 @@
   },
   "lisa-bleach": {
     "strength": 63,
-    "speed": 55,
+    "speed": 59,
     "abilities": 63,
     "durability": 63
   },
   "love-bleach": {
     "strength": 67,
-    "speed": 55,
+    "speed": 59,
     "abilities": 67,
     "durability": 67
   },
   "mashiro-bleach": {
     "strength": 63,
-    "speed": 55,
+    "speed": 59,
     "abilities": 63,
     "durability": 63
   },
@@ -766,7 +766,7 @@
   },
   "nemu-bleach": {
     "strength": 67,
-    "speed": 40,
+    "speed": 44,
     "abilities": 69,
     "durability": 67
   },
@@ -850,7 +850,7 @@
   },
   "shinji-bleach": {
     "strength": 67,
-    "speed": 55,
+    "speed": 59,
     "abilities": 75,
     "durability": 67
   },
@@ -862,7 +862,7 @@
   },
   "soi-fon-bleach": {
     "strength": 63,
-    "speed": 55,
+    "speed": 59,
     "abilities": 71,
     "durability": 63
   },
@@ -874,25 +874,25 @@
   },
   "starrk-bleach": {
     "strength": 67,
-    "speed": 55,
+    "speed": 59,
     "abilities": 70,
     "durability": 67
   },
   "szayelaporro-bleach": {
     "strength": 63,
-    "speed": 48,
+    "speed": 52,
     "abilities": 68,
     "durability": 65
   },
   "tier-bleach": {
     "strength": 65,
-    "speed": 55,
+    "speed": 59,
     "abilities": 66,
     "durability": 65
   },
   "tosen-bleach": {
     "strength": 67,
-    "speed": 55,
+    "speed": 63,
     "abilities": 70,
     "durability": 69
   },
@@ -910,7 +910,7 @@
   },
   "ulquiorra-bleach": {
     "strength": 65,
-    "speed": 58,
+    "speed": 62,
     "abilities": 67,
     "durability": 66
   },
@@ -928,7 +928,7 @@
   },
   "uryu-bleach": {
     "strength": 48,
-    "speed": 40,
+    "speed": 48,
     "abilities": 91,
     "durability": 61
   },
@@ -958,13 +958,13 @@
   },
   "yoruichi-bleach": {
     "strength": 67,
-    "speed": 67,
+    "speed": 71,
     "abilities": 67,
     "durability": 67
   },
   "zommari-bleach": {
     "strength": 63,
-    "speed": 58,
+    "speed": 62,
     "abilities": 63,
     "durability": 67
   },
@@ -1084,7 +1084,7 @@
   },
   "suzaku-geass": {
     "strength": 38,
-    "speed": 33,
+    "speed": 37,
     "abilities": 37,
     "durability": 37
   },
@@ -1150,13 +1150,13 @@
   },
   "akaza-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 66,
     "abilities": 44,
     "durability": 47
   },
   "daki-demon-slayer": {
     "strength": 31,
-    "speed": 55,
+    "speed": 59,
     "abilities": 35,
     "durability": 33
   },
@@ -1180,13 +1180,13 @@
   },
   "giyu-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 66,
     "abilities": 48,
     "durability": 46
   },
   "gyokko-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 62,
     "abilities": 47,
     "durability": 44
   },
@@ -1216,25 +1216,25 @@
   },
   "kanao-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 62,
     "abilities": 47,
     "durability": 44
   },
   "kokushibo-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 62,
     "abilities": 47,
     "durability": 47
   },
   "mitsuri-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 62,
     "abilities": 47,
     "durability": 44
   },
   "muichiro-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 66,
     "abilities": 48,
     "durability": 44
   },
@@ -1252,13 +1252,13 @@
   },
   "obanai-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 66,
     "abilities": 48,
     "durability": 44
   },
   "rengoku-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 66,
     "abilities": 47,
     "durability": 44
   },
@@ -1270,19 +1270,19 @@
   },
   "sanemi-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 66,
     "abilities": 48,
     "durability": 44
   },
   "shinobu-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 66,
     "abilities": 48,
     "durability": 44
   },
   "tanjiro-demon-slayer": {
     "strength": 28,
-    "speed": 36,
+    "speed": 40,
     "abilities": 50,
     "durability": 29
   },
@@ -1300,7 +1300,7 @@
   },
   "zenitsu-demon-slayer": {
     "strength": 42,
-    "speed": 58,
+    "speed": 62,
     "abilities": 48,
     "durability": 44
   },
@@ -1420,7 +1420,7 @@
   },
   "goku-dragon-ball": {
     "strength": 91,
-    "speed": 93,
+    "speed": 97,
     "abilities": 96,
     "durability": 93
   },
@@ -1462,9 +1462,9 @@
   },
   "piccolo-dragon-ball": {
     "strength": 91,
-    "speed": 93,
+    "speed": 95,
     "abilities": 95,
-    "durability": 93
+    "durability": 92
   },
   "raditz-dragon-ball": {
     "strength": 71,
@@ -1480,7 +1480,7 @@
   },
   "tien-dragon-ball": {
     "strength": 84,
-    "speed": 87,
+    "speed": 95,
     "abilities": 95,
     "durability": 91
   },
@@ -1492,13 +1492,13 @@
   },
   "vegeta-dragon-ball": {
     "strength": 91,
-    "speed": 93,
-    "abilities": 93,
-    "durability": 91
+    "speed": 97,
+    "abilities": 96,
+    "durability": 93
   },
   "whis-dragon-ball": {
     "strength": 91,
-    "speed": 95,
+    "speed": 98,
     "abilities": 97,
     "durability": 91
   },
@@ -1510,7 +1510,7 @@
   },
   "acnologia-fairy-tail": {
     "strength": 90,
-    "speed": 82,
+    "speed": 86,
     "abilities": 90,
     "durability": 90
   },
@@ -1534,13 +1534,13 @@
   },
   "dimaria-fairy-tail": {
     "strength": 67,
-    "speed": 67,
+    "speed": 71,
     "abilities": 67,
     "durability": 67
   },
   "erza-fairy-tail": {
     "strength": 75,
-    "speed": 69,
+    "speed": 73,
     "abilities": 75,
     "durability": 75
   },
@@ -1558,7 +1558,7 @@
   },
   "gray-fairy-tail": {
     "strength": 67,
-    "speed": 67,
+    "speed": 71,
     "abilities": 67,
     "durability": 67
   },
@@ -1594,7 +1594,7 @@
   },
   "laxus-fairy-tail": {
     "strength": 75,
-    "speed": 74,
+    "speed": 78,
     "abilities": 75,
     "durability": 75
   },
@@ -1618,13 +1618,13 @@
   },
   "mirajane-fairy-tail": {
     "strength": 67,
-    "speed": 67,
+    "speed": 71,
     "abilities": 70,
     "durability": 67
   },
   "natsu-fairy-tail": {
     "strength": 90,
-    "speed": 77,
+    "speed": 85,
     "abilities": 90,
     "durability": 90
   },
@@ -1684,7 +1684,7 @@
   },
   "haumea-fire-force": {
     "strength": 91,
-    "speed": 71,
+    "speed": 79,
     "abilities": 97,
     "durability": 91
   },
@@ -1738,7 +1738,7 @@
   },
   "bradley-fma": {
     "strength": 28,
-    "speed": 40,
+    "speed": 44,
     "abilities": 28,
     "durability": 28
   },
@@ -2026,7 +2026,7 @@
   },
   "killua-hxh": {
     "strength": 40,
-    "speed": 58,
+    "speed": 62,
     "abilities": 40,
     "durability": 40
   },
@@ -2236,7 +2236,7 @@
   },
   "giorno-jojo": {
     "strength": 31,
-    "speed": 93,
+    "speed": 97,
     "abilities": 97,
     "durability": 70
   },
@@ -2290,7 +2290,7 @@
   },
   "kakyoin-jojo": {
     "strength": 24,
-    "speed": 67,
+    "speed": 71,
     "abilities": 24,
     "durability": 24
   },
@@ -2302,7 +2302,7 @@
   },
   "kira-jojo": {
     "strength": 38,
-    "speed": 20,
+    "speed": 24,
     "abilities": 94,
     "durability": 37
   },
@@ -2380,7 +2380,7 @@
   },
   "choso-jjk": {
     "strength": 34,
-    "speed": 36,
+    "speed": 44,
     "abilities": 40,
     "durability": 35
   },
@@ -2398,7 +2398,7 @@
   },
   "gojo-jjk": {
     "strength": 44,
-    "speed": 36,
+    "speed": 56,
     "abilities": 82,
     "durability": 72
   },
@@ -2488,7 +2488,7 @@
   },
   "panda-jjk": {
     "strength": 34,
-    "speed": 24,
+    "speed": 28,
     "abilities": 34,
     "durability": 34
   },
@@ -2500,7 +2500,7 @@
   },
   "sukuna-jjk": {
     "strength": 34,
-    "speed": 27,
+    "speed": 52,
     "abilities": 80,
     "durability": 64
   },
@@ -2524,7 +2524,7 @@
   },
   "yuji-jjk": {
     "strength": 34,
-    "speed": 24,
+    "speed": 38,
     "abilities": 38,
     "durability": 42
   },
@@ -2560,7 +2560,7 @@
   },
   "fei-kengan": {
     "strength": 37,
-    "speed": 33,
+    "speed": 37,
     "abilities": 37,
     "durability": 37
   },
@@ -2578,13 +2578,13 @@
   },
   "ohma-kengan": {
     "strength": 44,
-    "speed": 48,
+    "speed": 52,
     "abilities": 37,
     "durability": 37
   },
   "raian-kengan": {
     "strength": 44,
-    "speed": 24,
+    "speed": 28,
     "abilities": 37,
     "durability": 37
   },
@@ -2668,7 +2668,7 @@
   },
   "mash-mashle": {
     "strength": 74,
-    "speed": 87,
+    "speed": 95,
     "abilities": 63,
     "durability": 63
   },
@@ -2812,13 +2812,13 @@
   },
   "dabi-mha": {
     "strength": 63,
-    "speed": 69,
+    "speed": 73,
     "abilities": 63,
     "durability": 63
   },
   "deku-mha": {
     "strength": 67,
-    "speed": 74,
+    "speed": 82,
     "abilities": 72,
     "durability": 67
   },
@@ -2830,7 +2830,7 @@
   },
   "gentle-mha": {
     "strength": 56,
-    "speed": 44,
+    "speed": 48,
     "abilities": 48,
     "durability": 48
   },
@@ -2884,25 +2884,25 @@
   },
   "overhaul-mha": {
     "strength": 44,
-    "speed": 48,
+    "speed": 52,
     "abilities": 55,
     "durability": 63
   },
   "present-mic-mha": {
     "strength": 42,
-    "speed": 44,
+    "speed": 48,
     "abilities": 42,
     "durability": 37
   },
   "shigaraki-mha": {
     "strength": 67,
-    "speed": 74,
+    "speed": 82,
     "abilities": 78,
     "durability": 75
   },
   "todoroki-mha": {
     "strength": 63,
-    "speed": 69,
+    "speed": 73,
     "abilities": 66,
     "durability": 64
   },
@@ -2914,7 +2914,7 @@
   },
   "deidara-naruto": {
     "strength": 50,
-    "speed": 62,
+    "speed": 66,
     "abilities": 61,
     "durability": 63
   },
@@ -2926,7 +2926,7 @@
   },
   "guy-naruto": {
     "strength": 71,
-    "speed": 74,
+    "speed": 82,
     "abilities": 71,
     "durability": 71
   },
@@ -2944,25 +2944,25 @@
   },
   "hinata-naruto": {
     "strength": 48,
-    "speed": 62,
+    "speed": 66,
     "abilities": 48,
     "durability": 48
   },
   "itachi-naruto": {
     "strength": 61,
-    "speed": 74,
+    "speed": 78,
     "abilities": 80,
     "durability": 73
   },
   "jiraiya-naruto": {
     "strength": 61,
-    "speed": 62,
+    "speed": 66,
     "abilities": 61,
     "durability": 61
   },
   "kaguya-naruto": {
     "strength": 96,
-    "speed": 93,
+    "speed": 97,
     "abilities": 91,
     "durability": 74
   },
@@ -2980,7 +2980,7 @@
   },
   "killer-bee-naruto": {
     "strength": 61,
-    "speed": 67,
+    "speed": 71,
     "abilities": 66,
     "durability": 68
   },
@@ -2992,25 +2992,25 @@
   },
   "konan-naruto": {
     "strength": 44,
-    "speed": 62,
+    "speed": 66,
     "abilities": 67,
     "durability": 63
   },
   "madara-naruto": {
     "strength": 68,
-    "speed": 74,
+    "speed": 78,
     "abilities": 88,
     "durability": 82
   },
   "minato-naruto": {
     "strength": 61,
-    "speed": 74,
+    "speed": 78,
     "abilities": 79,
     "durability": 74
   },
   "naruto": {
     "strength": 83,
-    "speed": 74,
+    "speed": 82,
     "abilities": 91,
     "durability": 85
   },
@@ -3052,7 +3052,7 @@
   },
   "sasuke-naruto": {
     "strength": 74,
-    "speed": 74,
+    "speed": 82,
     "abilities": 83,
     "durability": 73
   },
@@ -3076,7 +3076,7 @@
   },
   "ace-one-piece": {
     "strength": 69,
-    "speed": 69,
+    "speed": 73,
     "abilities": 73,
     "durability": 71
   },
@@ -3094,7 +3094,7 @@
   },
   "big-mom-one-piece": {
     "strength": 71,
-    "speed": 71,
+    "speed": 75,
     "abilities": 76,
     "durability": 73
   },
@@ -3118,7 +3118,7 @@
   },
   "enel-one-piece": {
     "strength": 50,
-    "speed": 58,
+    "speed": 66,
     "abilities": 69,
     "durability": 47
   },
@@ -3142,13 +3142,13 @@
   },
   "kaido-one-piece": {
     "strength": 73,
-    "speed": 74,
+    "speed": 82,
     "abilities": 77,
     "durability": 74
   },
   "katakuri-one-piece": {
     "strength": 62,
-    "speed": 69,
+    "speed": 77,
     "abilities": 67,
     "durability": 64
   },
@@ -3178,19 +3178,19 @@
   },
   "lucci-one-piece": {
     "strength": 74,
-    "speed": 69,
+    "speed": 73,
     "abilities": 71,
     "durability": 71
   },
   "luffy-one-piece": {
     "strength": 62,
-    "speed": 69,
+    "speed": 77,
     "abilities": 72,
     "durability": 65
   },
   "marco-one-piece": {
     "strength": 69,
-    "speed": 71,
+    "speed": 75,
     "abilities": 72,
     "durability": 73
   },
@@ -3202,7 +3202,7 @@
   },
   "nami-one-piece": {
     "strength": 69,
-    "speed": 69,
+    "speed": 73,
     "abilities": 75,
     "durability": 71
   },
@@ -3226,7 +3226,7 @@
   },
   "sanji-one-piece": {
     "strength": 71,
-    "speed": 69,
+    "speed": 77,
     "abilities": 75,
     "durability": 74
   },
@@ -3250,7 +3250,7 @@
   },
   "zoro-one-piece": {
     "strength": 74,
-    "speed": 69,
+    "speed": 77,
     "abilities": 76,
     "durability": 71
   },
@@ -3286,13 +3286,13 @@
   },
   "drive-knight-opm": {
     "strength": 61,
-    "speed": 58,
+    "speed": 62,
     "abilities": 65,
     "durability": 61
   },
   "flash-opm": {
     "strength": 65,
-    "speed": 77,
+    "speed": 85,
     "abilities": 69,
     "durability": 66
   },
@@ -3304,7 +3304,7 @@
   },
   "garou-opm": {
     "strength": 62,
-    "speed": 55,
+    "speed": 59,
     "abilities": 55,
     "durability": 55
   },
@@ -3316,7 +3316,7 @@
   },
   "metal-knight-opm": {
     "strength": 50,
-    "speed": 55,
+    "speed": 59,
     "abilities": 65,
     "durability": 62
   },
@@ -3334,7 +3334,7 @@
   },
   "saitama-opm": {
     "strength": 84,
-    "speed": 77,
+    "speed": 85,
     "abilities": 90,
     "durability": 84
   },
@@ -3346,7 +3346,7 @@
   },
   "ainz-overlord": {
     "strength": 40,
-    "speed": 36,
+    "speed": 40,
     "abilities": 86,
     "durability": 70
   },
@@ -3370,7 +3370,7 @@
   },
   "demiurge-overlord": {
     "strength": 28,
-    "speed": 36,
+    "speed": 40,
     "abilities": 40,
     "durability": 40
   },
@@ -3442,7 +3442,7 @@
   },
   "eternatus-pokemon": {
     "strength": 94,
-    "speed": 87,
+    "speed": 91,
     "abilities": 94,
     "durability": 96
   },
@@ -3514,13 +3514,13 @@
   },
   "pikachu-pokemon": {
     "strength": 94,
-    "speed": 87,
+    "speed": 91,
     "abilities": 94,
     "durability": 94
   },
   "rayquaza-pokemon": {
     "strength": 89,
-    "speed": 87,
+    "speed": 91,
     "abilities": 89,
     "durability": 89
   },
@@ -3538,7 +3538,7 @@
   },
   "zygarde-pokemon": {
     "strength": 89,
-    "speed": 87,
+    "speed": 91,
     "abilities": 89,
     "durability": 89
   },
@@ -3550,7 +3550,7 @@
   },
   "buddha-record": {
     "strength": 51,
-    "speed": 67,
+    "speed": 71,
     "abilities": 51,
     "durability": 51
   },
@@ -3616,7 +3616,7 @@
   },
   "ban-sds": {
     "strength": 83,
-    "speed": 74,
+    "speed": 82,
     "abilities": 83,
     "durability": 85
   },
@@ -3670,9 +3670,9 @@
   },
   "meliodas-sds": {
     "strength": 83,
-    "speed": 77,
-    "abilities": 86,
-    "durability": 85
+    "speed": 78,
+    "abilities": 83,
+    "durability": 83
   },
   "merlin-sds": {
     "strength": 68,
@@ -3688,7 +3688,7 @@
   },
   "zeldris-sds": {
     "strength": 83,
-    "speed": 77,
+    "speed": 81,
     "abilities": 83,
     "durability": 83
   },
@@ -4114,7 +4114,7 @@
   },
   "mikey-tokyo-revengers": {
     "strength": 24,
-    "speed": 24,
+    "speed": 28,
     "abilities": 39,
     "durability": 20
   },

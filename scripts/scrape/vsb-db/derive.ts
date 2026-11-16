@@ -48,11 +48,20 @@ const LIFT_SCORE: Record<string, number> = {
 const tierScore = (code: string | null) => (code && code in TIER_SCORE ? TIER_SCORE[code] : null);
 
 /** Physical speed: drop clauses about teleporting / instant travel / time stop before ranking (STAT_RULES). */
-const NON_PHYSICAL = /teleport|instant(?:aneous)? (?:transmission|travel|movement)|instant transmission|time ?stop|stops? time|omnipresen|flying raijin|flying thunder god|warp|portal|dimensional travel|body flicker|shunpo is|reaction speed via precog/i;
+// Teleport-type movement is an ability, not speed. Speed a character boosts with their own abilities
+// (Gojo's Blue, Shunpo/flash steps, Gears, Gates, ki or cursed-energy reinforcement) IS physical speed (owner rule).
+const NON_PHYSICAL = /teleport|instant(?:aneous)? (?:transmission|travel|movement)|instant transmission|time ?stop|stops? time|omnipresen|flying raijin|flying thunder god|warp|portal|dimensional travel|reaction speed via precog/i;
 function physicalSpeed(text: string) {
   const clauses = text.split(/\s*(?:\||;|,(?![^()]*\)))\s*/);
   const kept = clauses.filter((c) => !NON_PHYSICAL.test(c));
   return rankSpeed(kept.join(", ") || "");
+}
+/** Unquantified ability boosts in the speed row ("higher with Blue", "far higher with Gear 4"): +4 / +8. */
+function speedBoost(text: string): number {
+  const kept = text.split(/\s*(?:\||;|,(?![^()]*\)))\s*/).filter((c) => !NON_PHYSICAL.test(c)).join(", ");
+  if (/\b(?:far|much|significantly|vastly) higher\b[^,;|]*\bwith\b/i.test(kept)) return 8;
+  if (/\bhigher\b[^,;|]*\bwith\b/i.test(kept)) return 4;
+  return 0;
 }
 
 // ---------- hax and durability bonuses from the Powers and Abilities list ----------
@@ -133,7 +142,8 @@ for (const c of roster) {
       const lift = st.lifting_strength?.tier_code ? LIFT_SCORE[String(st.lifting_strength.tier_code).toLowerCase()] ?? null : null;
       const str = Math.max(strike ?? 0, lift ?? 0) || ap;
       const sp = st.speed ? physicalSpeed(st.speed.plain_text) : null;
-      const spd = sp ? SPEED_SCORE[sp.value] ?? null : null;
+      const spdBase = sp && SPEED_SCORE[sp.value] != null ? SPEED_SCORE[sp.value] : null;
+      const spd = spdBase == null ? null : Math.max(spdBase, Math.min(97, spdBase + speedBoost(st.speed.plain_text)));
       const dur = tierScore(st.durability?.tier_code) ?? tier;
       const stamina = st.stamina?.plain_text ?? "";
       const stam = /limitless|infinite|nigh[- ]?(?:limitless|infinite)|tireless/i.test(stamina) ? 2 : /\b(low|poor|below average)\b/i.test(stamina) ? -2 : 0;
@@ -155,6 +165,7 @@ for (const c of roster) {
       if (adj.dur_min) dur = Math.max(dur, adj.dur_min);
       if (adj.str) str += adj.str;
       if (adj.spd) spd += adj.spd;
+      if (adj.spd_min) spd = Math.max(spd, adj.spd_min);
       const clamp = (n: number) => Math.max(1, Math.min(100, Math.round(n)));
       neu = { strength: clamp(str), speed: clamp(spd), abilities: clamp(abl), durability: clamp(dur) };
       if (adj.set) neu = { ...neu, ...adj.set }; // explicit values win (e.g. a wiki row the parser misreads)

@@ -71,12 +71,14 @@
   "gojo-jjk": {
     "abl_min": 82,
     "dur_min": 72,
-    "reason": "Limitless/Infinity (spatial manipulation, auto-defence), Unlimited Void (sure-hit information overload), Hollow Purple (matter erasure), RCT regeneration"
+    "reason": "Limitless/Infinity (spatial manipulation, auto-defence), Unlimited Void (sure-hit information overload), Hollow Purple (matter erasure), RCT regeneration; SPD: Lapse Blue pulls him through space at high speed and Limitless-enhanced movement is physical speed (owner rule), making him the fastest in his series",
+    "spd_min": 56
   },
   "sukuna-jjk": {
     "abl_min": 80,
     "dur_min": 64,
-    "reason": "Malevolent Shrine sure-hit domain, Dismantle/Cleave adaptive cutting, Fire Arrow; reverse cursed technique regeneration"
+    "reason": "Malevolent Shrine sure-hit domain, Dismantle/Cleave adaptive cutting, Fire Arrow; reverse cursed technique regeneration; SPD: cursed-energy reinforcement lets him keep pace with Jogo and Mahoraga in the aired Shibuya arc",
+    "spd_min": 52
   },
   "kenjaku-jjk": {
     "abl_min": 74,
@@ -134,8 +136,8 @@
     "reason": "Soul absorption and familiars (Level 0), millions of stored lives; existential immortality after absorbing Schrödinger"
   },
   "whis-dragon-ball": {
-    "spd": 8,
-    "reason": "Physically top-class: faster than Beerus and Ultra Instinct users; Temporal Do-Over (time rewind) is counted in ABL, not SPD"
+    "reason": "Physically top-class: faster than Beerus and Ultra Instinct Goku (owner example); Temporal Do-Over (time rewind) is counted in ABL, not SPD",
+    "spd_min": 98
   },
   "beerus-dragon-ball": {
     "abl_min": 96,
@@ -1173,5 +1175,9 @@
       "durability": 16
     },
     "reason": "no usable VS Battles stats: basketball athlete (Mirage Shot)"
+  },
+  "yuji-jjk": {
+    "spd_min": 38,
+    "reason": "SPD: cursed-energy reinforcement and Divergent Fist; keeps pace with Mahito and Todo in the aired Shibuya arc"
   }
 }

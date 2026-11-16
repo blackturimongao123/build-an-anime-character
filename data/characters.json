@@ -651,7 +651,7 @@
       "abilities": 48,
       "durability": 43,
       "iq": 71,
-      "speed": 44,
+      "speed": 48,
       "strength": 44
     }
   },
@@ -662,7 +662,7 @@
     "series": "Baki",
     "stats": {
       "strength": 42,
-      "speed": 24,
+      "speed": 28,
       "abilities": 42,
       "iq": 71,
       "durability": 42
@@ -716,7 +716,7 @@
     "series": "Baki",
     "stats": {
       "strength": 42,
-      "speed": 44,
+      "speed": 48,
       "abilities": 47,
       "iq": 77,
       "durability": 42
@@ -733,7 +733,7 @@
     "series": "Baki",
     "stats": {
       "strength": 42,
-      "speed": 24,
+      "speed": 28,
       "abilities": 46,
       "iq": 22,
       "durability": 43
@@ -751,7 +751,7 @@
     "series": "Baki",
     "stats": {
       "strength": 44,
-      "speed": 44,
+      "speed": 48,
       "abilities": 48,
       "iq": 76,
       "durability": 43
@@ -771,7 +771,7 @@
       "abilities": 77,
       "durability": 71,
       "iq": 36,
-      "speed": 69,
+      "speed": 77,
       "strength": 74
     },
     "sources": {
@@ -787,7 +787,7 @@
     "series": "Black Clover",
     "stats": {
       "strength": 61,
-      "speed": 69,
+      "speed": 77,
       "abilities": 61,
       "iq": 39,
       "durability": 61
@@ -805,7 +805,7 @@
     "series": "Black Clover",
     "stats": {
       "strength": 67,
-      "speed": 69,
+      "speed": 77,
       "abilities": 67,
       "iq": 64,
       "durability": 67
@@ -912,7 +912,7 @@
     "series": "Black Clover",
     "stats": {
       "strength": 67,
-      "speed": 69,
+      "speed": 73,
       "abilities": 67,
       "iq": 58,
       "durability": 67
@@ -1073,7 +1073,7 @@
     "series": "Black Clover",
     "stats": {
       "strength": 74,
-      "speed": 69,
+      "speed": 77,
       "abilities": 71,
       "iq": 71,
       "durability": 69
@@ -1093,7 +1093,7 @@
       "abilities": 67,
       "durability": 69,
       "iq": 46,
-      "speed": 69,
+      "speed": 77,
       "strength": 67
     },
     "sources": {
@@ -1169,7 +1169,7 @@
       "abilities": 71,
       "durability": 68,
       "iq": 60,
-      "speed": 69,
+      "speed": 77,
       "strength": 74
     }
   },
@@ -1182,7 +1182,7 @@
       "abilities": 74,
       "durability": 67,
       "iq": 58,
-      "speed": 82,
+      "speed": 90,
       "strength": 74
     },
     "sources": {
@@ -1215,8 +1215,8 @@
     "portrait": "/portraits/zenon-black-clover.webp",
     "series": "Black Clover",
     "stats": {
-      "strength": 74,
-      "speed": 69,
+      "strength": 67,
+      "speed": 77,
       "abilities": 67,
       "iq": 76,
       "durability": 67
@@ -1234,7 +1234,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 63,
-      "speed": 48,
+      "speed": 52,
       "abilities": 66,
       "iq": 49,
       "durability": 63
@@ -1378,7 +1378,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 67,
-      "speed": 55,
+      "speed": 59,
       "abilities": 70,
       "iq": 69,
       "durability": 67
@@ -1485,7 +1485,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 44,
-      "speed": 55,
+      "speed": 59,
       "abilities": 65,
       "iq": 76,
       "durability": 65
@@ -1536,7 +1536,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 61,
-      "speed": 55,
+      "speed": 59,
       "abilities": 61,
       "iq": 49,
       "durability": 61
@@ -1679,7 +1679,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 65,
-      "speed": 55,
+      "speed": 59,
       "abilities": 67,
       "iq": 52,
       "durability": 66
@@ -1787,7 +1787,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 63,
-      "speed": 55,
+      "speed": 59,
       "abilities": 63,
       "iq": 72,
       "durability": 63
@@ -1805,7 +1805,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 67,
-      "speed": 55,
+      "speed": 59,
       "abilities": 67,
       "iq": 65,
       "durability": 67
@@ -1823,7 +1823,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 63,
-      "speed": 55,
+      "speed": 59,
       "abilities": 63,
       "iq": 37,
       "durability": 63
@@ -1948,7 +1948,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 67,
-      "speed": 40,
+      "speed": 44,
       "abilities": 69,
       "iq": 72,
       "durability": 67
@@ -2197,7 +2197,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 67,
-      "speed": 55,
+      "speed": 59,
       "abilities": 75,
       "iq": 72,
       "durability": 67
@@ -2232,7 +2232,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 63,
-      "speed": 55,
+      "speed": 59,
       "abilities": 71,
       "iq": 68,
       "durability": 63
@@ -2267,7 +2267,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 67,
-      "speed": 55,
+      "speed": 59,
       "abilities": 70,
       "iq": 74,
       "durability": 67
@@ -2285,7 +2285,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 63,
-      "speed": 48,
+      "speed": 52,
       "abilities": 68,
       "iq": 88,
       "durability": 65
@@ -2302,7 +2302,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 65,
-      "speed": 55,
+      "speed": 59,
       "abilities": 66,
       "iq": 71,
       "durability": 65
@@ -2320,7 +2320,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 67,
-      "speed": 55,
+      "speed": 63,
       "abilities": 70,
       "iq": 54,
       "durability": 69
@@ -2372,7 +2372,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 65,
-      "speed": 58,
+      "speed": 62,
       "abilities": 67,
       "iq": 77,
       "durability": 66
@@ -2426,7 +2426,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 48,
-      "speed": 40,
+      "speed": 48,
       "abilities": 91,
       "iq": 81,
       "durability": 61
@@ -2514,7 +2514,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 67,
-      "speed": 67,
+      "speed": 71,
       "abilities": 67,
       "iq": 80,
       "durability": 67
@@ -2532,7 +2532,7 @@
     "series": "Bleach",
     "stats": {
       "strength": 63,
-      "speed": 58,
+      "speed": 62,
       "abilities": 63,
       "iq": 54,
       "durability": 67
@@ -2918,7 +2918,7 @@
     "series": "Code Geass",
     "stats": {
       "strength": 38,
-      "speed": 33,
+      "speed": 37,
       "abilities": 37,
       "iq": 68,
       "durability": 37
@@ -3148,7 +3148,7 @@
       "abilities": 44,
       "durability": 47,
       "iq": 61,
-      "speed": 58,
+      "speed": 66,
       "strength": 42
     },
     "sources": {
@@ -3164,7 +3164,7 @@
     "series": "Demon Slayer",
     "stats": {
       "strength": 31,
-      "speed": 55,
+      "speed": 59,
       "abilities": 35,
       "iq": 51,
       "durability": 33
@@ -3236,7 +3236,7 @@
     "series": "Demon Slayer",
     "stats": {
       "strength": 42,
-      "speed": 58,
+      "speed": 66,
       "abilities": 48,
       "iq": 69,
       "durability": 46
@@ -3254,7 +3254,7 @@
     "series": "Demon Slayer",
     "stats": {
       "strength": 42,
-      "speed": 58,
+      "speed": 62,
       "abilities": 47,
       "iq": 33,
       "durability": 44
@@ -3344,7 +3344,7 @@
     "series": "Demon Slayer",
     "stats": {
       "strength": 42,
-      "speed": 58,
+      "speed": 62,
       "abilities": 47,
       "iq": 67,
       "durability": 44
@@ -3364,7 +3364,7 @@
       "abilities": 47,
       "durability": 47,
       "iq": 60,
-      "speed": 58,
+      "speed": 62,
       "strength": 42
     },
     "sources": {
@@ -3380,7 +3380,7 @@
     "series": "Demon Slayer",
     "stats": {
       "strength": 42,
-      "speed": 58,
+      "speed": 62,
       "abilities": 47,
       "iq": 54,
       "durability": 44
@@ -3398,7 +3398,7 @@
     "series": "Demon Slayer",
     "stats": {
       "strength": 42,
-      "speed": 58,
+      "speed": 66,
       "abilities": 48,
       "iq": 74,
       "durability": 44
@@ -3452,7 +3452,7 @@
     "series": "Demon Slayer",
     "stats": {
       "strength": 42,
-      "speed": 58,
+      "speed": 66,
       "abilities": 48,
       "iq": 66,
       "durability": 44
@@ -3472,7 +3472,7 @@
       "abilities": 47,
       "durability": 44,
       "iq": 60,
-      "speed": 58,
+      "speed": 66,
       "strength": 42
     },
     "sources": {
@@ -3505,7 +3505,7 @@
     "series": "Demon Slayer",
     "stats": {
       "strength": 42,
-      "speed": 58,
+      "speed": 66,
       "abilities": 48,
       "iq": 67,
       "durability": 44
@@ -3523,7 +3523,7 @@
     "series": "Demon Slayer",
     "stats": {
       "strength": 42,
-      "speed": 58,
+      "speed": 66,
       "abilities": 48,
       "iq": 79,
       "durability": 44
@@ -3543,7 +3543,7 @@
       "abilities": 50,
       "durability": 29,
       "iq": 40,
-      "speed": 36,
+      "speed": 40,
       "strength": 28
     },
     "sources": {
@@ -3597,7 +3597,7 @@
       "abilities": 48,
       "durability": 44,
       "iq": 32,
-      "speed": 58,
+      "speed": 62,
       "strength": 42
     },
     "sources": {
@@ -3736,7 +3736,7 @@
       "abilities": 28,
       "durability": 20,
       "iq": 97,
-      "speed": 8,
+      "speed": 12,
       "strength": 8
     },
     "sources": {
@@ -3970,7 +3970,7 @@
       "abilities": 96,
       "durability": 93,
       "iq": 65,
-      "speed": 93,
+      "speed": 97,
       "strength": 91
     }
   },
@@ -4089,10 +4089,10 @@
     "series": "Dragon Ball",
     "stats": {
       "strength": 91,
-      "speed": 93,
+      "speed": 95,
       "abilities": 95,
       "iq": 75,
-      "durability": 93
+      "durability": 92
     },
     "sources": {
       "wikiPage": "Piccolo",
@@ -4143,7 +4143,7 @@
     "series": "Dragon Ball",
     "stats": {
       "strength": 84,
-      "speed": 87,
+      "speed": 95,
       "abilities": 95,
       "iq": 76,
       "durability": 91
@@ -4183,10 +4183,10 @@
       "wikiStatKey": "peak (non-manga)"
     },
     "stats": {
-      "abilities": 93,
-      "durability": 91,
+      "abilities": 96,
+      "durability": 93,
       "iq": 64,
-      "speed": 93,
+      "speed": 97,
       "strength": 91
     }
   },
@@ -4197,7 +4197,7 @@
     "series": "Dragon Ball",
     "stats": {
       "strength": 91,
-      "speed": 95,
+      "speed": 98,
       "abilities": 97,
       "iq": 87,
       "durability": 91
@@ -4234,7 +4234,7 @@
       "abilities": 90,
       "durability": 90,
       "iq": 49,
-      "speed": 82,
+      "speed": 86,
       "strength": 90
     },
     "sources": {
@@ -4304,7 +4304,7 @@
     "series": "Fairy Tail",
     "stats": {
       "strength": 67,
-      "speed": 67,
+      "speed": 71,
       "abilities": 67,
       "iq": 62,
       "durability": 67
@@ -4324,7 +4324,7 @@
       "abilities": 75,
       "durability": 75,
       "iq": 64,
-      "speed": 69,
+      "speed": 73,
       "strength": 75
     },
     "sources": {
@@ -4376,7 +4376,7 @@
     "series": "Fairy Tail",
     "stats": {
       "strength": 67,
-      "speed": 67,
+      "speed": 71,
       "abilities": 67,
       "iq": 63,
       "durability": 67
@@ -4484,7 +4484,7 @@
     "series": "Fairy Tail",
     "stats": {
       "strength": 75,
-      "speed": 74,
+      "speed": 78,
       "abilities": 75,
       "iq": 61,
       "durability": 75
@@ -4556,7 +4556,7 @@
     "series": "Fairy Tail",
     "stats": {
       "strength": 67,
-      "speed": 67,
+      "speed": 71,
       "abilities": 70,
       "iq": 64,
       "durability": 67
@@ -4576,7 +4576,7 @@
       "abilities": 90,
       "durability": 90,
       "iq": 47,
-      "speed": 77,
+      "speed": 85,
       "strength": 90
     },
     "sources": {
@@ -4753,7 +4753,7 @@
     "series": "Fire Force",
     "stats": {
       "strength": 91,
-      "speed": 71,
+      "speed": 79,
       "abilities": 97,
       "iq": 72,
       "durability": 91
@@ -4915,7 +4915,7 @@
     "series": "Fullmetal Alchemist",
     "stats": {
       "strength": 28,
-      "speed": 40,
+      "speed": 44,
       "abilities": 28,
       "iq": 65,
       "durability": 28
@@ -5837,7 +5837,7 @@
       "abilities": 40,
       "durability": 40,
       "iq": 74,
-      "speed": 58,
+      "speed": 62,
       "strength": 40
     },
     "sources": {
@@ -6460,7 +6460,7 @@
     "series": "JoJo",
     "stats": {
       "strength": 31,
-      "speed": 93,
+      "speed": 97,
       "abilities": 97,
       "iq": 80,
       "durability": 70
@@ -6622,7 +6622,7 @@
     "series": "JoJo",
     "stats": {
       "strength": 24,
-      "speed": 67,
+      "speed": 71,
       "abilities": 24,
       "iq": 76,
       "durability": 24
@@ -6658,7 +6658,7 @@
     "series": "JoJo",
     "stats": {
       "strength": 38,
-      "speed": 20,
+      "speed": 24,
       "abilities": 94,
       "iq": 79,
       "durability": 37
@@ -6894,7 +6894,7 @@
       "abilities": 40,
       "durability": 35,
       "iq": 48,
-      "speed": 36,
+      "speed": 44,
       "strength": 34
     },
     "sources": {
@@ -6953,7 +6953,7 @@
       "abilities": 82,
       "durability": 72,
       "iq": 70,
-      "speed": 36,
+      "speed": 56,
       "strength": 44
     }
   },
@@ -7215,7 +7215,7 @@
     "series": "Jujutsu Kaisen",
     "stats": {
       "strength": 34,
-      "speed": 24,
+      "speed": 28,
       "abilities": 34,
       "iq": 66,
       "durability": 34
@@ -7251,7 +7251,7 @@
       "abilities": 80,
       "durability": 64,
       "iq": 73,
-      "speed": 27,
+      "speed": 52,
       "strength": 34
     },
     "sources": {
@@ -7321,7 +7321,7 @@
     "series": "Jujutsu Kaisen",
     "stats": {
       "strength": 34,
-      "speed": 24,
+      "speed": 38,
       "abilities": 38,
       "iq": 36,
       "durability": 42
@@ -7429,7 +7429,7 @@
     "series": "Kengan Ashura",
     "stats": {
       "strength": 37,
-      "speed": 33,
+      "speed": 37,
       "abilities": 37,
       "iq": 70,
       "durability": 37
@@ -7484,7 +7484,7 @@
       "abilities": 37,
       "durability": 37,
       "iq": 75,
-      "speed": 48,
+      "speed": 52,
       "strength": 44
     },
     "sources": {
@@ -7500,7 +7500,7 @@
     "series": "Kengan Ashura",
     "stats": {
       "strength": 44,
-      "speed": 24,
+      "speed": 28,
       "abilities": 37,
       "iq": 71,
       "durability": 37
@@ -7537,7 +7537,7 @@
       "abilities": 20,
       "durability": 17,
       "iq": 66,
-      "speed": 20,
+      "speed": 24,
       "strength": 16
     },
     "sources": {
@@ -7765,7 +7765,7 @@
     "series": "Mashle",
     "stats": {
       "strength": 74,
-      "speed": 87,
+      "speed": 95,
       "abilities": 63,
       "iq": 38,
       "durability": 63
@@ -8187,7 +8187,7 @@
     "series": "My Hero Academia",
     "stats": {
       "strength": 63,
-      "speed": 69,
+      "speed": 73,
       "abilities": 63,
       "iq": 68,
       "durability": 63
@@ -8207,7 +8207,7 @@
       "abilities": 72,
       "durability": 67,
       "iq": 64,
-      "speed": 74,
+      "speed": 82,
       "strength": 67
     },
     "sources": {
@@ -8241,7 +8241,7 @@
     "series": "My Hero Academia",
     "stats": {
       "strength": 56,
-      "speed": 44,
+      "speed": 48,
       "abilities": 48,
       "iq": 65,
       "durability": 48
@@ -8402,7 +8402,7 @@
     "series": "My Hero Academia",
     "stats": {
       "strength": 44,
-      "speed": 48,
+      "speed": 52,
       "abilities": 55,
       "iq": 76,
       "durability": 63
@@ -8420,7 +8420,7 @@
     "series": "My Hero Academia",
     "stats": {
       "strength": 42,
-      "speed": 44,
+      "speed": 48,
       "abilities": 42,
       "iq": 70,
       "durability": 37
@@ -8438,7 +8438,7 @@
     "series": "My Hero Academia",
     "stats": {
       "strength": 67,
-      "speed": 74,
+      "speed": 82,
       "abilities": 78,
       "iq": 71,
       "durability": 75
@@ -8456,7 +8456,7 @@
     "series": "My Hero Academia",
     "stats": {
       "strength": 63,
-      "speed": 69,
+      "speed": 73,
       "abilities": 66,
       "iq": 72,
       "durability": 64
@@ -8492,7 +8492,7 @@
     "series": "Naruto",
     "stats": {
       "strength": 50,
-      "speed": 62,
+      "speed": 66,
       "abilities": 61,
       "iq": 69,
       "durability": 63
@@ -8528,7 +8528,7 @@
     "series": "Naruto",
     "stats": {
       "strength": 71,
-      "speed": 74,
+      "speed": 82,
       "abilities": 71,
       "iq": 61,
       "durability": 71
@@ -8582,7 +8582,7 @@
     "series": "Naruto",
     "stats": {
       "strength": 48,
-      "speed": 62,
+      "speed": 66,
       "abilities": 48,
       "iq": 65,
       "durability": 48
@@ -8599,7 +8599,7 @@
     "series": "Naruto",
     "stats": {
       "strength": 61,
-      "speed": 74,
+      "speed": 78,
       "abilities": 80,
       "iq": 90,
       "durability": 73
@@ -8617,7 +8617,7 @@
     "series": "Naruto",
     "stats": {
       "strength": 61,
-      "speed": 62,
+      "speed": 66,
       "abilities": 61,
       "iq": 79,
       "durability": 61
@@ -8635,7 +8635,7 @@
     "series": "Naruto",
     "stats": {
       "strength": 96,
-      "speed": 93,
+      "speed": 97,
       "abilities": 91,
       "iq": 49,
       "durability": 74
@@ -8688,7 +8688,7 @@
     "series": "Naruto",
     "stats": {
       "strength": 61,
-      "speed": 67,
+      "speed": 71,
       "abilities": 66,
       "iq": 64,
       "durability": 68
@@ -8724,7 +8724,7 @@
     "series": "Naruto",
     "stats": {
       "strength": 44,
-      "speed": 62,
+      "speed": 66,
       "abilities": 67,
       "iq": 78,
       "durability": 63
@@ -8744,7 +8744,7 @@
       "abilities": 88,
       "durability": 82,
       "iq": 83,
-      "speed": 74,
+      "speed": 78,
       "strength": 68
     },
     "sources": {
@@ -8760,7 +8760,7 @@
     "series": "Naruto",
     "stats": {
       "strength": 61,
-      "speed": 74,
+      "speed": 78,
       "abilities": 79,
       "iq": 84,
       "durability": 74
@@ -8785,7 +8785,7 @@
       "abilities": 91,
       "durability": 85,
       "iq": 59,
-      "speed": 74,
+      "speed": 82,
       "strength": 83
     }
   },
@@ -8905,7 +8905,7 @@
       "abilities": 83,
       "durability": 73,
       "iq": 72,
-      "speed": 74,
+      "speed": 82,
       "strength": 74
     },
     "sources": {
@@ -8975,7 +8975,7 @@
     "series": "One Piece",
     "stats": {
       "strength": 69,
-      "speed": 69,
+      "speed": 73,
       "abilities": 73,
       "iq": 48,
       "durability": 71
@@ -9027,7 +9027,7 @@
     "series": "One Piece",
     "stats": {
       "strength": 71,
-      "speed": 71,
+      "speed": 75,
       "abilities": 76,
       "iq": 37,
       "durability": 73
@@ -9098,7 +9098,7 @@
     "series": "One Piece",
     "stats": {
       "strength": 50,
-      "speed": 58,
+      "speed": 66,
       "abilities": 69,
       "iq": 69,
       "durability": 47
@@ -9169,7 +9169,7 @@
     "series": "One Piece",
     "stats": {
       "strength": 73,
-      "speed": 74,
+      "speed": 82,
       "abilities": 77,
       "iq": 55,
       "durability": 74
@@ -9187,7 +9187,7 @@
     "series": "One Piece",
     "stats": {
       "strength": 62,
-      "speed": 69,
+      "speed": 77,
       "abilities": 67,
       "iq": 77,
       "durability": 64
@@ -9275,7 +9275,7 @@
     "series": "One Piece",
     "stats": {
       "strength": 74,
-      "speed": 69,
+      "speed": 73,
       "abilities": 71,
       "iq": 76,
       "durability": 71
@@ -9301,7 +9301,7 @@
       "abilities": 72,
       "durability": 65,
       "iq": 45,
-      "speed": 69,
+      "speed": 77,
       "strength": 62
     }
   },
@@ -9312,7 +9312,7 @@
     "series": "One Piece",
     "stats": {
       "strength": 69,
-      "speed": 71,
+      "speed": 75,
       "abilities": 72,
       "iq": 76,
       "durability": 73
@@ -9348,7 +9348,7 @@
     "series": "One Piece",
     "stats": {
       "strength": 69,
-      "speed": 69,
+      "speed": 73,
       "abilities": 75,
       "iq": 79,
       "durability": 71
@@ -9421,7 +9421,7 @@
       "abilities": 75,
       "durability": 74,
       "iq": 59,
-      "speed": 69,
+      "speed": 77,
       "strength": 71
     },
     "sources": {
@@ -9498,7 +9498,7 @@
       "abilities": 76,
       "durability": 71,
       "iq": 57,
-      "speed": 69,
+      "speed": 77,
       "strength": 74
     }
   },
@@ -9599,7 +9599,7 @@
     "series": "One Punch Man",
     "stats": {
       "strength": 61,
-      "speed": 58,
+      "speed": 62,
       "abilities": 65,
       "iq": 81,
       "durability": 61
@@ -9617,7 +9617,7 @@
     "series": "One Punch Man",
     "stats": {
       "strength": 65,
-      "speed": 77,
+      "speed": 85,
       "abilities": 69,
       "iq": 73,
       "durability": 66
@@ -9654,7 +9654,7 @@
       "abilities": 55,
       "durability": 55,
       "iq": 70,
-      "speed": 55,
+      "speed": 59,
       "strength": 62
     },
     "sources": {
@@ -9688,7 +9688,7 @@
     "series": "One Punch Man",
     "stats": {
       "strength": 50,
-      "speed": 55,
+      "speed": 59,
       "abilities": 65,
       "iq": 85,
       "durability": 62
@@ -9748,7 +9748,7 @@
       "abilities": 90,
       "durability": 84,
       "iq": 15,
-      "speed": 77,
+      "speed": 85,
       "strength": 84
     }
   },
@@ -9784,7 +9784,7 @@
       "abilities": 86,
       "durability": 70,
       "iq": 82,
-      "speed": 36,
+      "speed": 40,
       "strength": 40
     }
   },
@@ -9849,7 +9849,7 @@
     "series": "Overlord",
     "stats": {
       "strength": 28,
-      "speed": 36,
+      "speed": 40,
       "abilities": 40,
       "iq": 88,
       "durability": 40
@@ -10064,7 +10064,7 @@
       "abilities": 94,
       "durability": 96,
       "iq": 55,
-      "speed": 87,
+      "speed": 91,
       "strength": 94
     },
     "sources": {
@@ -10278,7 +10278,7 @@
     "series": "Pokémon",
     "stats": {
       "strength": 94,
-      "speed": 87,
+      "speed": 91,
       "abilities": 94,
       "iq": 52,
       "durability": 94
@@ -10298,7 +10298,7 @@
       "abilities": 89,
       "durability": 89,
       "iq": 55,
-      "speed": 87,
+      "speed": 91,
       "strength": 89
     },
     "sources": {
@@ -10388,7 +10388,7 @@
       "abilities": 89,
       "durability": 89,
       "iq": 56,
-      "speed": 87,
+      "speed": 91,
       "strength": 89
     },
     "sources": {
@@ -10424,7 +10424,7 @@
       "abilities": 51,
       "durability": 51,
       "iq": 76,
-      "speed": 67,
+      "speed": 71,
       "strength": 51
     },
     "sources": {
@@ -10637,7 +10637,7 @@
       "abilities": 83,
       "durability": 85,
       "iq": 59,
-      "speed": 74,
+      "speed": 82,
       "strength": 83
     },
     "sources": {
@@ -10800,10 +10800,10 @@
       "wikiStatKey": "peak (non-manga)"
     },
     "stats": {
-      "abilities": 86,
-      "durability": 85,
+      "abilities": 83,
+      "durability": 83,
       "iq": 37,
-      "speed": 77,
+      "speed": 78,
       "strength": 83
     }
   },
@@ -10850,7 +10850,7 @@
     "series": "Seven Deadly Sins",
     "stats": {
       "strength": 83,
-      "speed": 77,
+      "speed": 81,
       "abilities": 83,
       "iq": 55,
       "durability": 83
@@ -12163,7 +12163,7 @@
       "abilities": 39,
       "durability": 20,
       "iq": 56,
-      "speed": 24,
+      "speed": 28,
       "strength": 24
     },
     "sources": {
