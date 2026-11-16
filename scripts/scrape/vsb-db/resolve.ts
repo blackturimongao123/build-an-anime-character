@@ -37,8 +37,11 @@ function editDistance(a: string, b: string): number {
 const wikiTitles: Record<string, string[]> = seriesCfg.wikiTitles;
 
 // Media variants we don't want as the main page (anime canon is the default; Solo Leveling uses novels).
-const AVOID = /\((Manga|Live Action|Games?|Video Games?|Stage Play|Spore|Webtoon|Light Novel|Web Novel|Novel)\)$/i;
-const AVOID_EXCEPT_NOVEL = /\((Live Action|Games?|Video Games?|Stage Play|Spore)\)$/i;
+const AVOID = /\((Manga|Live Action|Games?|Video Games?|Stage Play|Spore|Webtoon|Light Novel|Web Novel|Novel|Eyes of Heaven|All[- ]Star Battle|Ultimate Ninja[^)]*|Storm Series|Xenoverse[^)]*|Dokkan[^)]*|FighterZ|Kakarot|Legends|CFYOW|Mobile Games?|Granblue Fantasy|Jump Force|J-?Stars[^)]*|Jump Ultimate Stars|Crossover)\)$/i;
+const AVOID_EXCEPT_NOVEL = /\((Live Action|Games?|Video Games?|Stage Play|Spore|Eyes of Heaven|All[- ]Star Battle|Ultimate Ninja[^)]*|Storm Series|Xenoverse[^)]*|Dokkan[^)]*|FighterZ|Kakarot|Legends|CFYOW|Mobile Games?|Granblue Fantasy|Jump Force|J-?Stars[^)]*|Jump Ultimate Stars|Crossover)\)$/i;
+/** Series whose anime adapts the light novels: "(Light Novel)" pages are the anime's version. */
+const AVOID_EXCEPT_LIGHT_NOVEL = /\((Manga|Live Action|Games?|Video Games?|Stage Play|Spore|Webtoon|Web Novel|Eyes of Heaven|All[- ]Star Battle|Ultimate Ninja[^)]*|Storm Series|Xenoverse[^)]*|Dokkan[^)]*|FighterZ|Kakarot|Legends|CFYOW|Mobile Games?|Granblue Fantasy|Jump Force|J-?Stars[^)]*|Jump Ultimate Stars|Crossover)\)$/i;
+const LN_SERIES = new Set<string>(JSON.parse(readFileSync(resolve(root, "data/sources/anime-coverage.json"), "utf8")).lightNovelSeries ?? []);
 
 const norm = (s: string) => s.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[’']/g, "").replace(/[^a-z0-9]+/g, " ").trim();
 const base = (t: string) => t.replace(/\s*\([^)]*\)\s*$/, "");
@@ -110,7 +113,7 @@ async function main() {
     if (onlySeries && c.series !== onlySeries) continue;
     const pool = pools.get(c.series) ?? new Set<string>();
     const cats = seriesCats.get(c.series) ?? new Set<string>();
-    const avoid = c.series === "Solo Leveling" ? AVOID_EXCEPT_NOVEL : AVOID;
+    const avoid = c.series === "Solo Leveling" ? AVOID_EXCEPT_NOVEL : LN_SERIES.has(c.series) ? AVOID_EXCEPT_LIGHT_NOVEL : AVOID;
     const nameTokens = tokens(c.displayName);
 
     /** Fetch a title and check it is a character page of this series; follows disambiguation pages. */
@@ -130,7 +133,7 @@ async function main() {
       const inSeries = pool.has(p.title) || p.categories.some((x) => cats.has(x)) ||
         [...cats].some((cat) => new RegExp(`'''Origin:'''\\s*\\[\\[${cat.replace(/_/g, " ").replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`, "i").test(p.wikitext));
       if (!inSeries) return null;
-      if (!/Powers and Stats/i.test(p.wikitext)) return null;
+      if (!/Powers? and Stat\w*/i.test(p.wikitext)) return null;
       return { title: p.title, note: "" };
     };
 

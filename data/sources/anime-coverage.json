@@ -1,15 +1,18 @@
 {
   "_about": "Anime-canon filter for the VS Battles database (npm run wiki:db-build). Forms, stat lines and abilities are tagged anime | manga | both | unclear. Exempt series keep manga/novel content. For the rest, anything matching mangaOnly is excluded from the filtered views and game-stat derivation (raw rows stay in the DB). Anything matching unclear is listed for review in docs/reviews/WIKI_DB_COVERAGE.md. Patterns are case-insensitive regexes matched against the key/form name, the stat text and the ability detail. Coverage notes are as of 2026 and should be updated as new seasons air.",
+  "stillAiringPolicy": "Only what has aired (owner decision 2026-11-16): forms and feats already shown in the anime count as anime canon; anything not yet animated is excluded from filtered views and stat derivation, the same as manga-only content. Entries in a series' unclear list are treated as not yet animated until confirmed aired.",
   "exempt": ["Solo Leveling", "Fire Force", "Hellsing", "Kengan Ashura"],
+  "lightNovelSeries": ["Mushoku Tensei", "That Time I Got Reincarnated as a Slime", "Overlord", "Sword Art Online", "The Misfit of Demon King Academy"],
+  "_aboutLightNovelSeries": "These anime adapt light novels, so '(Light Novel)' pages count as the anime's version (content past the anime's coverage is still caught by the series' unclear/mangaOnly patterns). '(Web Novel)' versions differ from the anime and stay excluded.",
   "generic": {
-    "mangaOnly": ["\\bmanga[- ]only\\b", "\\bmanga[- ]exclusive\\b", "\\(manga\\)", "\\bonly in the manga\\b", "\\bin the manga\\b", "\\bweb ?novel\\b", "\\blight novel\\b"],
+    "mangaOnly": ["\\bmanga[- ]only\\b", "\\bmanga[- ]exclusive\\b", "\\(manga\\)", "\\bonly in the manga\\b", "\\bin the manga\\b", "\\bweb ?novel\\b", "\\blight novel\\b", "\\bcfyow\\b", "can'?t fear your own world", "\\beyes of heaven\\b", "\\bover heaven\\b"],
     "anime": ["\\banime[- ]only\\b", "\\(anime\\)", "\\banime[- ]original\\b", "\\bfiller\\b"]
   },
   "series": {
     "Dragon Ball": { "note": "Toei anime pages are used. Dragon Ball Super anime ends at the Tournament of Power, plus the Broly and Super Hero films and Daima.", "mangaOnly": ["\\bmoro\\b", "\\bgranolah\\b", "galactic patrol", "ultra ego", "true ultra instinct", "\\bheeters\\b", "\\bgas\\b \\(", "\\bblack frieza\\b"], "unclear": [] },
     "Naruto": { "note": "Boruto anime covers up to the Kawaki arc; Two Blue Vortex is manga-only.", "mangaOnly": ["two blue vortex", "\\btbv\\b", "blue vortex"], "unclear": ["\\bboruto\\b.*\\bpart 2\\b"] },
     "Bleach": { "note": "Thousand-Year Blood War anime parts 1-3 aired 2022-2024; the final part may not cover everything yet.", "mangaOnly": [], "unclear": ["\\bcalamity\\b", "almighty.*final", "\\bfinal battle\\b"] },
-    "Jujutsu Kaisen": { "note": "Anime season 3 adapts the Culling Game; the Shinjuku Showdown and later are manga-only.", "mangaOnly": ["shinjuku", "\\bheian\\b", "post-?culling", "fully restored", "\\bmahoraga adapted\\b"], "unclear": ["culling game"] },
+    "Jujutsu Kaisen": { "note": "Anime season 3 adapts the Culling Game; the Shinjuku Showdown and later are manga-only.", "mangaOnly": ["shinjuku", "\\bheian\\b", "post-?culling", "fully restored", "\\bmahoraga adapted\\b"], "unclear": ["\\bthe culling game arc\\b"], "airedNote": "Season 3 aired the first part of the Culling Game: Yuji vs Higuruma, the Sendai colony (Yuta) and Hakari vs Kashimo. Those Culling Game forms count. Choso's 'The Culling Game Arc' key can't be placed confidently in aired episodes, so it stays unclear (excluded)." },
     "One Piece": { "note": "Anime covers through Egghead.", "mangaOnly": [], "unclear": ["\\belbaph\\b", "\\belbaf\\b", "\\bgod valley\\b"] },
     "Black Clover": { "note": "Anime ended at the start of the Spade Kingdom arc; later arcs are manga-only.", "mangaOnly": ["\\bparadise\\b", "\\bpaladin", "\\blucius\\b", "final arc", "\\bpost-?spade\\b", "spade kingdom raid", "\\bdevil union\\b"], "unclear": ["\\bspade\\b"] },
     "Chainsaw Man": { "note": "Anime covers Part 1 through the Reze film; Part 2 is manga-only.", "mangaOnly": ["\\bpart 2\\b", "academy saga", "war devil", "death devil", "\\bfami\\b", "\\bfamine\\b"], "unclear": [] },
@@ -23,7 +26,7 @@
     "The God of High School": { "note": "Anime covers the first part of the webtoon.", "mangaOnly": [], "unclear": ["post-?anime", "part 3", "truth arc"] },
     "Akame ga Kill": { "note": "The anime has its own ending; manga forms differ.", "mangaOnly": [], "unclear": [] },
     "That Time I Got Reincarnated as a Slime": { "note": "Anime covers about the first part of the light novels.", "mangaOnly": [], "unclear": ["\\bfinal\\b", "\\bgod\\b form"] },
-    "Mashle": { "note": "Anime season 2 covers through the Divine Visionary selection.", "mangaOnly": [], "unclear": ["\\binnocent zero\\b.*final", "final arc"] },
+    "Mashle": { "note": "Anime season 2 covers through the Divine Visionary selection.", "mangaOnly": [], "unclear": ["\\binnocent zero\\b.*final", "(?<!pre-)\\bfinal arc"] },
     "Overlord": { "note": "Anime covers the light novels up to volume 14.", "mangaOnly": [], "unclear": [] },
     "Hajime no Ippo": { "note": "Anime ends at Rising.", "mangaOnly": [], "unclear": ["\\bretire", "post-rising"] }
   }

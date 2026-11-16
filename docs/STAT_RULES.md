@@ -7,6 +7,7 @@ How the four physical game stats are derived from VS Battles. IQ is not covered 
 - **Source:** each character's VS Battles page, stored in the local database (`npm run wiki:db-resolve` → `npm run wiki:db-build`).
 - **Strongest version:** use the strongest form or key of the character, per the duplicates rule in `docs/data/FRANCHISE_NOTES.md`.
 - **Anime canon only:** manga-only forms, stat lines and feats are left out (`data/sources/anime-coverage.json`). Solo Leveling, Fire Force, Hellsing and Kengan are exempt and keep their manga or novel content. Excluded rows stay in the database, tagged, so the rule can change later.
+- **Still-airing series, only what has aired** (decided 2026-11-16): forms and feats already shown in the anime count. Anything not yet animated is excluded, the same as manga-only content. Arcs the coverage table marks "unclear" are treated as not yet animated until they air.
 - **Firm values first:** "possibly" or "likely" values only count when a form has no firm value.
 
 ## The four stats

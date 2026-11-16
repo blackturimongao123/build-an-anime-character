@@ -1,4 +1,17 @@
-# VS Battles database: progress (paused 2026-11-16)
+# VS Battles database: progress
+
+**Update, 2026-11-16 (later the same day): all steps below are done.**
+
+- **Matching:** 631 of 742 characters matched a page.
+- **Parse:** 720 pages, agreeing with the wiki's own tier categories on 95% of them.
+- **Anime filter:** applied with the "only what has aired" rule.
+- **Stat rebuild:** done for all 694 live characters: 537 from the wiki, 45 from the wiki plus a manual adjustment, and 112 from series knowledge.
+- **Applied:** through `data/overrides/` and committed locally, not pushed.
+- **Review:** see `STAT_REBUILD.md` and `WIKI_DB_COVERAGE.md`.
+
+The original plan is kept below for reference.
+
+## Original notes (paused 2026-11-16)
 
 ## Done
 

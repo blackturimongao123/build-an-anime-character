@@ -49,6 +49,7 @@
     "wiki:db-resolve": "tsx scripts/scrape/vsb-db/resolve.ts",
     "wiki:db-build": "tsx scripts/scrape/vsb-db/build.ts",
     "wiki:db-query": "tsx scripts/scrape/vsb-db/query.ts",
+    "wiki:db-derive": "tsx scripts/scrape/vsb-db/derive.ts",
     "portraits:fetch": "cargo run --release --manifest-path tools/portraits-fetch/Cargo.toml -- --root . && node scripts/portraits/prune-portrait-duplicates.mjs",
     "portraits:fetch-ts": "tsx scripts/portraits/fetch-portraits.ts",
     "portraits:fetch-ids": "tsx scripts/portraits/fetch-portraits-ids.ts",

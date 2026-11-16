@@ -1,0 +1,1177 @@
+{
+  "_about": "Manual stat adjustments on top of the VS Battles baseline (see docs/STAT_RULES.md). Keys are game ids. Fields: abl / dur / str / spd add points; abl_min / dur_min set floors. Each entry cites the abilities it relies on. Hax that decides fights regardless of raw power gets a floor; everything else is a small add.",
+  "giorno-jojo": {
+    "abl_min": 97,
+    "dur_min": 70,
+    "reason": "Gold Experience Requiem: causality manipulation (Return to Zero nullifies any action/intent), life manipulation, auto-defence; near-untouchable once active"
+  },
+  "pucci-jojo": {
+    "abl_min": 92,
+    "reason": "Made in Heaven: time acceleration to a universe reset, plus Whitesnake soul/memory disc extraction"
+  },
+  "diavolo-jojo": {
+    "abl_min": 85,
+    "reason": "King Crimson time erasure + Epitaph precognition"
+  },
+  "kira-jojo": {
+    "abl_min": 82,
+    "reason": "Killer Queen explosions + Bites the Dust time loop"
+  },
+  "dio-jojo": {
+    "abl_min": 80,
+    "dur": 4,
+    "reason": "The World time stop; vampire regeneration and body control"
+  },
+  "jotaro-jojo": {
+    "abl_min": 70,
+    "reason": "Star Platinum: The World time stop and precision"
+  },
+  "aizen-bleach": {
+    "abl_min": 96,
+    "dur_min": 95,
+    "reason": "Kyoka Suigetsu complete hypnosis (total sensory control), Hogyoku-fused immortality and adaptive evolution"
+  },
+  "yhwach-bleach": {
+    "abl_min": 98,
+    "dur_min": 94,
+    "reason": "The Almighty (sees and rewrites the future), power absorption/bestowal (Auswählen), soul manipulation"
+  },
+  "light-dn": {
+    "abl_min": 85,
+    "reason": "Death Note: kills anyone whose name and face he knows (death manipulation, nearly no counterplay)"
+  },
+  "ryuk-dn": {
+    "abl_min": 82,
+    "dur_min": 60,
+    "reason": "Death Note use + Shinigami eyes; Shinigami are near-unkillable by humans (only by their own rules); no usable VS Battles stats: Shinigami: Death Note + Shinigami eyes, flight, intangible to humans",
+    "set": {
+      "strength": 30,
+      "speed": 40,
+      "abilities": 82,
+      "durability": 60
+    }
+  },
+  "rem-dn": {
+    "set": {
+      "strength": 30,
+      "speed": 40,
+      "abilities": 80,
+      "durability": 58
+    },
+    "reason": "no VS Battles page; Shinigami with a Death Note and Shinigami eyes (kill by name), physically unremarkable, killable only by breaking Shinigami rules; no usable VS Battles stats: Shinigami with Death Note and eyes; killable only by Shinigami rules"
+  },
+  "lelouch-geass": {
+    "abl_min": 72,
+    "reason": "Geass of Absolute Obedience (mind control by eye contact) + strategic command"
+  },
+  "cc-geass": {
+    "dur_min": 75,
+    "reason": "Code bearer: true immortality (regenerates from any injury, cannot age or die)"
+  },
+  "gojo-jjk": {
+    "abl_min": 82,
+    "dur_min": 72,
+    "reason": "Limitless/Infinity (spatial manipulation, auto-defence), Unlimited Void (sure-hit information overload), Hollow Purple (matter erasure), RCT regeneration"
+  },
+  "sukuna-jjk": {
+    "abl_min": 80,
+    "dur_min": 64,
+    "reason": "Malevolent Shrine sure-hit domain, Dismantle/Cleave adaptive cutting, Fire Arrow; reverse cursed technique regeneration"
+  },
+  "kenjaku-jjk": {
+    "abl_min": 74,
+    "reason": "Body swapping across bodies, Cursed Spirit Manipulation (absorbed spirits incl. Uzumaki), domain expansion; ABL pinned at 74: the parser reads his AP row as Boundless, but the wiki lists At least Large Town level",
+    "set": {
+      "abilities": 74
+    }
+  },
+  "mahito-jjk": {
+    "abl_min": 74,
+    "dur_min": 60,
+    "reason": "Idle Transfiguration (soul manipulation on touch), immune to damage that doesn't hit the soul"
+  },
+  "yuta-jjk": {
+    "abl_min": 72,
+    "reason": "Copy (technique mimicry), Rika (cursed energy reservoir), RCT on others"
+  },
+  "madara-naruto": {
+    "abl_min": 88,
+    "dur": 4,
+    "reason": "Rinnegan (Limbo shadows, Six Paths), Infinite Tsukuyomi (mass mind control), Truth-Seeking Balls (nullification); Hashirama cells regeneration"
+  },
+  "itachi-naruto": {
+    "abl_min": 80,
+    "reason": "Tsukuyomi/Izanami (fate-loop illusion), Amaterasu, Susanoo with Totsuka Blade (sealing)"
+  },
+  "obito-naruto": {
+    "abl_min": 82,
+    "dur_min": 70,
+    "reason": "Kamui intangibility and dimension sealing, Izanagi, Ten-Tails jinchuriki; no usable VS Battles stats: Kamui intangibility, Izanagi, Ten-Tails jinchuriki; below Madara 68/74/88/82",
+    "set": {
+      "strength": 62,
+      "speed": 74,
+      "abilities": 82,
+      "durability": 70
+    }
+  },
+  "kakashi-naruto": {
+    "abl": 3,
+    "reason": "Kamui (space-time warping), Sharingan copy"
+  },
+  "ainz-overlord": {
+    "abl_min": 86,
+    "dur_min": 70,
+    "reason": "Super-tier magic (Fallen Down), Grasp Heart instant death, Time Stop spell, The Goal of All Life Is Death; undead immunities"
+  },
+  "shalltear-overlord": {
+    "abl": 4,
+    "dur": 6,
+    "reason": "Einherjar, True Vampire regeneration and negative-energy immunities"
+  },
+  "alucard-hellsing": {
+    "abl_min": 78,
+    "dur_min": 92,
+    "reason": "Soul absorption and familiars (Level 0), millions of stored lives; existential immortality after absorbing Schrödinger"
+  },
+  "whis-dragon-ball": {
+    "spd": 8,
+    "reason": "Physically top-class: faster than Beerus and Ultra Instinct users; Temporal Do-Over (time rewind) is counted in ABL, not SPD"
+  },
+  "beerus-dragon-ball": {
+    "abl_min": 96,
+    "reason": "Hakai (existence erasure by touch or wave)"
+  },
+  "zeno-hxh": {
+    "abl": 2,
+    "reason": "Dragon Head / Dragon Dive Nen"
+  },
+  "meruem-hxh": {
+    "abl": 4,
+    "dur": 4,
+    "reason": "Aura absorption by eating, rapid adaptation and regeneration"
+  },
+  "netero-hxh": {
+    "abl": 2,
+    "reason": "Hundred-Type Guanyin Bodhisattva + Poor Man's Rose (lethal miasma)"
+  },
+  "kurapika-hxh": {
+    "abl": 6,
+    "reason": "Emperor Time (all Nen types), Chain Jail (Nen sealing on Spiders), Judgment Chain"
+  },
+  "shigaraki-mha": {
+    "abl": 6,
+    "dur": 4,
+    "reason": "Decay (spreading disintegration) + All For One's stolen Quirks; super-regeneration"
+  },
+  "all-for-one-mha": {
+    "abl": 6,
+    "reason": "All For One (steal and bestow Quirks), dozens of stacked Quirks"
+  },
+  "overhaul-mha": {
+    "abl": 4,
+    "reason": "Overhaul (disassemble/reassemble matter and bodies), Quirk-erasing bullets"
+  },
+  "makima-csm": {
+    "abl_min": 80,
+    "dur_min": 78,
+    "reason": "Control Devil: mind control, pain redirection to Japanese citizens (effective immortality), contract-based powers"
+  },
+  "muzan-demon-slayer": {
+    "dur": 6,
+    "reason": "Extreme regeneration, five brains/seven hearts; only sunlight kills"
+  },
+  "father-fma": {
+    "abl": 4,
+    "reason": "Absorbed God: alchemy without circles, soul manipulation of absorbed souls"
+  },
+  "truth-fma": {
+    "abl_min": 95,
+    "dur_min": 95,
+    "reason": "Abstract entity (the Gate): takes a toll from anyone who opens it; conceptual existence"
+  },
+  "mob": {
+    "abl": 4,
+    "reason": "Psychokinesis at ???% (matter/soul interaction), exorcism"
+  },
+  "saiki": {
+    "abl_min": 92,
+    "reason": "Telekinesis, time rewind, mind reading, petrification, reality reconstruction, astral projection"
+  },
+  "anos-misfit": {
+    "abl_min": 97,
+    "reason": "Destruction magic that destroys concepts and fate, Venuzdonoa (destroys destruction itself)"
+  },
+  "rimuru-slime": {
+    "abl_min": 96,
+    "reason": "Beelzebuth (absorb and analyse anything), Raphael/Ciel analysis, Void God Azathoth"
+  },
+  "gilgamesh-fate": {
+    "abl_min": 96,
+    "reason": "Gate of Babylon (prototype of every Noble Phantasm), Ea (world-splitting), Enkidu chains (divinity binding)"
+  },
+  "shinra-fire-force": {
+    "abl": 2,
+    "reason": "Adolla Link and Shinra Banshō (reality rewriting) in his final form"
+  },
+  "sho-fire-force": {
+    "abl_min": 80,
+    "reason": "Expansion of the universe: halts time around him"
+  },
+  "esdeath-aga": {
+    "abl_min": 72,
+    "reason": "Demon's Extract: ice manipulation and Mahapadma time freeze"
+  },
+  "kaneki-tg": {
+    "dur": 4,
+    "reason": "Kakuja/Dragon regeneration"
+  },
+  "arima-tg": {
+    "abl": 2,
+    "reason": "IXA/Narukami quinques, precognitive combat skill"
+  },
+  "erwin-aot": {
+    "set": {
+      "strength": 14,
+      "speed": 20,
+      "abilities": 16,
+      "durability": 14
+    },
+    "reason": "no usable VS Battles stats: human Scout commander with ODM gear; below Levi (24/33/34/24)"
+  },
+  "connie-aot": {
+    "set": {
+      "strength": 18,
+      "speed": 26,
+      "abilities": 18,
+      "durability": 16
+    },
+    "reason": "no usable VS Battles stats: rank-and-file Scout with ODM gear"
+  },
+  "gabi-aot": {
+    "set": {
+      "strength": 12,
+      "speed": 16,
+      "abilities": 14,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: child Warrior candidate, rifle and explosives"
+  },
+  "jean-aot": {
+    "set": {
+      "strength": 20,
+      "speed": 28,
+      "abilities": 20,
+      "durability": 18
+    },
+    "reason": "no usable VS Battles stats: top-10 Scout with ODM gear and thunder spears"
+  },
+  "historia-aot": {
+    "set": {
+      "strength": 14,
+      "speed": 22,
+      "abilities": 14,
+      "durability": 14
+    },
+    "reason": "no usable VS Battles stats: Scout trainee, later queen; no titan powers"
+  },
+  "hange-aot": {
+    "set": {
+      "strength": 16,
+      "speed": 24,
+      "abilities": 20,
+      "durability": 16
+    },
+    "reason": "no usable VS Battles stats: Scout commander with ODM gear and thunder spears"
+  },
+  "soichiro-dn": {
+    "set": {
+      "strength": 10,
+      "speed": 10,
+      "abilities": 8,
+      "durability": 10
+    },
+    "reason": "no usable VS Battles stats: police chief, ordinary human"
+  },
+  "watari-dn": {
+    "set": {
+      "strength": 10,
+      "speed": 10,
+      "abilities": 10,
+      "durability": 10
+    },
+    "reason": "no usable VS Battles stats: ordinary human, marksman and inventor"
+  },
+  "higuchi-dn": {
+    "set": {
+      "strength": 8,
+      "speed": 8,
+      "abilities": 40,
+      "durability": 8
+    },
+    "reason": "no usable VS Battles stats: ordinary human with a Death Note"
+  },
+  "mikami-dn": {
+    "set": {
+      "strength": 8,
+      "speed": 8,
+      "abilities": 60,
+      "durability": 8
+    },
+    "reason": "no usable VS Battles stats: ordinary human with a Death Note and Shinigami eyes"
+  },
+  "sidoh-dn": {
+    "set": {
+      "strength": 30,
+      "speed": 40,
+      "abilities": 70,
+      "durability": 58
+    },
+    "reason": "no usable VS Battles stats: Shinigami with a Death Note, weaker than Ryuk"
+  },
+  "gelus-dn": {
+    "set": {
+      "strength": 30,
+      "speed": 40,
+      "abilities": 70,
+      "durability": 58
+    },
+    "reason": "no usable VS Battles stats: Shinigami with a Death Note; died saving Misa"
+  },
+  "bismarck-geass": {
+    "set": {
+      "strength": 38,
+      "speed": 34,
+      "abilities": 46,
+      "durability": 36
+    },
+    "reason": "no usable VS Battles stats: Knight of One in the Galahad Knightmare; future-sight Geass"
+  },
+  "charles-geass": {
+    "set": {
+      "strength": 10,
+      "speed": 10,
+      "abilities": 62,
+      "durability": 40
+    },
+    "reason": "no usable VS Battles stats: memory-rewriting Geass plus Code immortality"
+  },
+  "cornelia-geass": {
+    "set": {
+      "strength": 34,
+      "speed": 33,
+      "abilities": 34,
+      "durability": 34
+    },
+    "reason": "no usable VS Battles stats: elite Knightmare pilot (Gloucester), like Jeremiah 38/33/37/37"
+  },
+  "schneizel-geass": {
+    "set": {
+      "strength": 10,
+      "speed": 10,
+      "abilities": 40,
+      "durability": 10
+    },
+    "reason": "no usable VS Battles stats: strategist commanding F.L.E.I.J.A. and Damocles; physically ordinary"
+  },
+  "nunnally-geass": {
+    "set": {
+      "strength": 6,
+      "speed": 4,
+      "abilities": 30,
+      "durability": 6
+    },
+    "reason": "no usable VS Battles stats: Geass user and Damocles key holder; physically frail"
+  },
+  "luciano-geass": {
+    "set": {
+      "strength": 34,
+      "speed": 33,
+      "abilities": 34,
+      "durability": 33
+    },
+    "reason": "no usable VS Battles stats: Knight of Two in the Percival Knightmare"
+  },
+  "chrome-dr-stone": {
+    "set": {
+      "strength": 9,
+      "speed": 10,
+      "abilities": 24,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: self-taught scientist, like Senku 8/8/28/20"
+  },
+  "gen-dr-stone": {
+    "set": {
+      "strength": 6,
+      "speed": 8,
+      "abilities": 26,
+      "durability": 8
+    },
+    "reason": "no usable VS Battles stats: mentalist and manipulator; physically weakest"
+  },
+  "ginro-dr-stone": {
+    "set": {
+      "strength": 10,
+      "speed": 12,
+      "abilities": 10,
+      "durability": 10
+    },
+    "reason": "no usable VS Battles stats: village spearman"
+  },
+  "kinro-dr-stone": {
+    "set": {
+      "strength": 12,
+      "speed": 14,
+      "abilities": 12,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: village guard and spearman"
+  },
+  "magma-dr-stone": {
+    "set": {
+      "strength": 14,
+      "speed": 12,
+      "abilities": 10,
+      "durability": 14
+    },
+    "reason": "no usable VS Battles stats: strongest village brawler"
+  },
+  "taiju-dr-stone": {
+    "set": {
+      "strength": 16,
+      "speed": 10,
+      "abilities": 8,
+      "durability": 30
+    },
+    "reason": "no usable VS Battles stats: superhuman stamina and endurance"
+  },
+  "dende-dragon-ball": {
+    "set": {
+      "strength": 10,
+      "speed": 30,
+      "abilities": 50,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: Earth's Guardian: healing and Dragon Ball creation; weak fighter"
+  },
+  "date-ippo": {
+    "set": {
+      "strength": 20,
+      "speed": 28,
+      "abilities": 20,
+      "durability": 20
+    },
+    "reason": "no usable VS Battles stats: former featherweight champion, like Sendo 22/30/23/20"
+  },
+  "bryan-ippo": {
+    "set": {
+      "strength": 22,
+      "speed": 26,
+      "abilities": 20,
+      "durability": 20
+    },
+    "reason": "no usable VS Battles stats: world-class welterweight brawler"
+  },
+  "volg-ippo": {
+    "set": {
+      "strength": 20,
+      "speed": 28,
+      "abilities": 22,
+      "durability": 20
+    },
+    "reason": "no usable VS Battles stats: Olympic-level boxer, White Fang"
+  },
+  "miyata-ippo": {
+    "set": {
+      "strength": 18,
+      "speed": 32,
+      "abilities": 20,
+      "durability": 18
+    },
+    "reason": "no usable VS Battles stats: fastest counter-puncher of the cast"
+  },
+  "kamogawa-ippo": {
+    "set": {
+      "strength": 14,
+      "speed": 14,
+      "abilities": 12,
+      "durability": 14
+    },
+    "reason": "no usable VS Battles stats: elderly trainer, former boxer"
+  },
+  "angelo-jojo": {
+    "set": {
+      "strength": 10,
+      "speed": 40,
+      "abilities": 30,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: Aqua Necklace: weak water Stand"
+  },
+  "rohan-jojo": {
+    "set": {
+      "strength": 10,
+      "speed": 50,
+      "abilities": 72,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: Heaven's Door: turns people into books and rewrites them"
+  },
+  "einar-vinland": {
+    "set": {
+      "strength": 16,
+      "speed": 20,
+      "abilities": 14,
+      "durability": 16
+    },
+    "reason": "no usable VS Battles stats: farmhand and former soldier, like Askeladd 20/27/21/20"
+  },
+  "floki-vinland": {
+    "set": {
+      "strength": 14,
+      "speed": 18,
+      "abilities": 16,
+      "durability": 14
+    },
+    "reason": "no usable VS Battles stats: Jomsviking schemer"
+  },
+  "snake-vinland": {
+    "set": {
+      "strength": 20,
+      "speed": 26,
+      "abilities": 20,
+      "durability": 18
+    },
+    "reason": "no usable VS Battles stats: skilled swordsman and farm guard captain"
+  },
+  "falcon-kengan": {
+    "set": {
+      "strength": 24,
+      "speed": 28,
+      "abilities": 20,
+      "durability": 22
+    },
+    "reason": "no usable VS Battles stats: Kengan fighter, mid-tier"
+  },
+  "hinata-haikyuu": {
+    "set": {
+      "strength": 12,
+      "speed": 16,
+      "abilities": 10,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: volleyball athlete (not on VS Battles)"
+  },
+  "kageyama-haikyuu": {
+    "set": {
+      "strength": 12,
+      "speed": 14,
+      "abilities": 10,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: volleyball athlete"
+  },
+  "nishinoya-haikyuu": {
+    "set": {
+      "strength": 10,
+      "speed": 16,
+      "abilities": 8,
+      "durability": 10
+    },
+    "reason": "no usable VS Battles stats: volleyball libero"
+  },
+  "tanaka-haikyuu": {
+    "set": {
+      "strength": 12,
+      "speed": 12,
+      "abilities": 8,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: volleyball athlete"
+  },
+  "tsukishima-haikyuu": {
+    "set": {
+      "strength": 10,
+      "speed": 10,
+      "abilities": 8,
+      "durability": 10
+    },
+    "reason": "no usable VS Battles stats: volleyball blocker"
+  },
+  "akaashi-haikyuu": {
+    "set": {
+      "strength": 10,
+      "speed": 12,
+      "abilities": 8,
+      "durability": 10
+    },
+    "reason": "no usable VS Battles stats: volleyball setter"
+  },
+  "asahi-haikyuu": {
+    "set": {
+      "strength": 14,
+      "speed": 12,
+      "abilities": 8,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: volleyball ace spiker"
+  },
+  "bokuto-haikyuu": {
+    "set": {
+      "strength": 14,
+      "speed": 14,
+      "abilities": 8,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: volleyball ace spiker"
+  },
+  "daichi-haikyuu": {
+    "set": {
+      "strength": 12,
+      "speed": 12,
+      "abilities": 8,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: volleyball captain"
+  },
+  "hinamori-bleach": {
+    "set": {
+      "strength": 34,
+      "speed": 50,
+      "abilities": 40,
+      "durability": 36
+    },
+    "reason": "no usable VS Battles stats: lieutenant with Tobiume; Kido specialist"
+  },
+  "iba-bleach": {
+    "set": {
+      "strength": 36,
+      "speed": 50,
+      "abilities": 36,
+      "durability": 36
+    },
+    "reason": "no usable VS Battles stats: lieutenant of the 7th division"
+  },
+  "omaeda-bleach": {
+    "set": {
+      "strength": 34,
+      "speed": 48,
+      "abilities": 32,
+      "durability": 36
+    },
+    "reason": "no usable VS Battles stats: lieutenant with Gegetsuburi"
+  },
+  "rose-bleach": {
+    "set": {
+      "strength": 40,
+      "speed": 56,
+      "abilities": 50,
+      "durability": 40
+    },
+    "reason": "no usable VS Battles stats: captain; Kinshara Bankai (sound-based illusions)"
+  },
+  "yachiru-bleach": {
+    "set": {
+      "strength": 40,
+      "speed": 58,
+      "abilities": 40,
+      "durability": 40
+    },
+    "reason": "no usable VS Battles stats: lieutenant; Sanpo Kenjū"
+  },
+  "kirsch-black-clover": {
+    "set": {
+      "strength": 26,
+      "speed": 60,
+      "abilities": 44,
+      "durability": 40
+    },
+    "reason": "no usable VS Battles stats: Mirror magic captain, like Gordon 26/69/53/53"
+  },
+  "grey-black-clover": {
+    "set": {
+      "strength": 22,
+      "speed": 58,
+      "abilities": 50,
+      "durability": 36
+    },
+    "reason": "no usable VS Battles stats: Transformation magic (can transform others and spells)"
+  },
+  "finral-black-clover": {
+    "set": {
+      "strength": 20,
+      "speed": 60,
+      "abilities": 48,
+      "durability": 30
+    },
+    "reason": "no usable VS Battles stats: Spatial magic portals"
+  },
+  "langris-black-clover": {
+    "set": {
+      "strength": 28,
+      "speed": 66,
+      "abilities": 58,
+      "durability": 36
+    },
+    "reason": "no usable VS Battles stats: Spatial magic that deletes what it touches"
+  },
+  "lucy-fairy-tail": {
+    "set": {
+      "strength": 34,
+      "speed": 50,
+      "abilities": 52,
+      "durability": 36
+    },
+    "reason": "no usable VS Battles stats: Celestial Spirit mage (Star Dress, Urano Metria), like Ultear 57/69/57/57 but weaker"
+  },
+  "iris-fire-force": {
+    "set": {
+      "strength": 20,
+      "speed": 30,
+      "abilities": 55,
+      "durability": 24
+    },
+    "reason": "no usable VS Battles stats: Pillar with an Adolla link; non-combatant sister"
+  },
+  "arrow-fire-force": {
+    "set": {
+      "strength": 44,
+      "speed": 60,
+      "abilities": 46,
+      "durability": 42
+    },
+    "reason": "no usable VS Battles stats: White Clad archer with flame arrows, like Maki 42/55/42/42"
+  },
+  "king-sds": {
+    "set": {
+      "strength": 72,
+      "speed": 66,
+      "abilities": 86,
+      "durability": 70
+    },
+    "reason": "no usable VS Battles stats: Fairy King: Chastiefol (multi-form Sacred Treasure), Disaster"
+  },
+  "testarossa-slime": {
+    "set": {
+      "strength": 90,
+      "speed": 87,
+      "abilities": 94,
+      "durability": 90
+    },
+    "reason": "no usable VS Battles stats: Primordial demon (White), Rimuru's diplomat; death magic"
+  },
+  "ultima-slime": {
+    "set": {
+      "strength": 90,
+      "speed": 87,
+      "abilities": 94,
+      "durability": 88
+    },
+    "reason": "no usable VS Battles stats: Primordial demon (Violet); pain-based magic"
+  },
+  "rigurd-slime": {
+    "set": {
+      "strength": 40,
+      "speed": 36,
+      "abilities": 38,
+      "durability": 40
+    },
+    "reason": "no usable VS Battles stats: hobgoblin leader"
+  },
+  "kurobe-slime": {
+    "set": {
+      "strength": 30,
+      "speed": 30,
+      "abilities": 40,
+      "durability": 30
+    },
+    "reason": "no usable VS Battles stats: smith; crafts magic weapons"
+  },
+  "elmesia-slime": {
+    "set": {
+      "strength": 40,
+      "speed": 40,
+      "abilities": 80,
+      "durability": 50
+    },
+    "reason": "no usable VS Battles stats: elven emperor with vast magic and political power"
+  },
+  "igris-sl": {
+    "set": {
+      "strength": 50,
+      "speed": 62,
+      "abilities": 48,
+      "durability": 50
+    },
+    "reason": "no usable VS Battles stats: Shadow knight commander, like Antares-tier scale 59/71/68/65"
+  },
+  "kaisel-sl": {
+    "set": {
+      "strength": 46,
+      "speed": 66,
+      "abilities": 30,
+      "durability": 44
+    },
+    "reason": "no usable VS Battles stats: Shadow wyvern mount"
+  },
+  "tank-sl": {
+    "set": {
+      "strength": 52,
+      "speed": 48,
+      "abilities": 30,
+      "durability": 56
+    },
+    "reason": "no usable VS Battles stats: Shadow bear"
+  },
+  "thomas-andre-sl": {
+    "set": {
+      "strength": 52,
+      "speed": 50,
+      "abilities": 40,
+      "durability": 60
+    },
+    "reason": "no usable VS Battles stats: National-level hunter (Goliath)"
+  },
+  "liu-zhigang-sl": {
+    "set": {
+      "strength": 48,
+      "speed": 58,
+      "abilities": 50,
+      "durability": 46
+    },
+    "reason": "no usable VS Battles stats: National-level hunter, wind-cutting"
+  },
+  "baran-sl": {
+    "set": {
+      "strength": 54,
+      "speed": 56,
+      "abilities": 58,
+      "durability": 56
+    },
+    "reason": "no usable VS Battles stats: Demon King of the Demon Castle"
+  },
+  "go-gunhee-sl": {
+    "set": {
+      "strength": 44,
+      "speed": 46,
+      "abilities": 44,
+      "durability": 46
+    },
+    "reason": "no usable VS Battles stats: S-rank chairman"
+  },
+  "rakan-sl": {
+    "set": {
+      "strength": 54,
+      "speed": 64,
+      "abilities": 50,
+      "durability": 52
+    },
+    "reason": "no usable VS Battles stats: Beast Monarch, below Antares"
+  },
+  "dom-mashle": {
+    "set": {
+      "strength": 60,
+      "speed": 30,
+      "abilities": 56,
+      "durability": 52
+    },
+    "reason": "no usable VS Battles stats: Divine Visionary candidate, like Lance 68/24/59/57"
+  },
+  "seraphy-mashle": {
+    "set": {
+      "strength": 66,
+      "speed": 40,
+      "abilities": 72,
+      "durability": 60
+    },
+    "reason": "no usable VS Battles stats: Divine Visionary; sacred-magic stigma"
+  },
+  "innocent-zero-mashle": {
+    "set": {
+      "strength": 74,
+      "speed": 50,
+      "abilities": 90,
+      "durability": 80
+    },
+    "reason": "no usable VS Battles stats: time magic and gathered magic, final antagonist"
+  },
+  "finn-mashle": {
+    "set": {
+      "strength": 34,
+      "speed": 30,
+      "abilities": 56,
+      "durability": 40
+    },
+    "reason": "no usable VS Battles stats: Swap magic (switches positions)"
+  },
+  "neon-hxh": {
+    "set": {
+      "strength": 6,
+      "speed": 8,
+      "abilities": 40,
+      "durability": 6
+    },
+    "reason": "no usable VS Battles stats: Lovely Ghostwriter (prophecy); non-combatant"
+  },
+  "silva-hxh": {
+    "set": {
+      "strength": 46,
+      "speed": 50,
+      "abilities": 40,
+      "durability": 44
+    },
+    "reason": "no usable VS Battles stats: Zoldyck patriarch, elite assassin"
+  },
+  "feitan-hxh": {
+    "set": {
+      "strength": 40,
+      "speed": 52,
+      "abilities": 46,
+      "durability": 38
+    },
+    "reason": "no usable VS Battles stats: Phantom Troupe; Pain Packer (Rising Sun)"
+  },
+  "mount-lady-mha": {
+    "set": {
+      "strength": 48,
+      "speed": 28,
+      "abilities": 20,
+      "durability": 46
+    },
+    "reason": "no usable VS Battles stats: Gigantification, like Midnight 37/33/37/37"
+  },
+  "best-jeanist-mha": {
+    "set": {
+      "strength": 34,
+      "speed": 36,
+      "abilities": 46,
+      "durability": 34
+    },
+    "reason": "no usable VS Battles stats: Fiber Master (controls fibres)"
+  },
+  "hide-tg": {
+    "set": {
+      "strength": 8,
+      "speed": 10,
+      "abilities": 8,
+      "durability": 8
+    },
+    "reason": "no usable VS Battles stats: ordinary human"
+  },
+  "meli-misfit": {
+    "set": {
+      "strength": 50,
+      "speed": 60,
+      "abilities": 76,
+      "durability": 52
+    },
+    "reason": "no usable VS Battles stats: Demon-king-academy fighter, below Lay 63/82/90/65"
+  },
+  "zepes-misfit": {
+    "set": {
+      "strength": 56,
+      "speed": 66,
+      "abilities": 70,
+      "durability": 56
+    },
+    "reason": "no usable VS Battles stats: Demon-king-academy antagonist"
+  },
+  "il-pyo-goh": {
+    "set": {
+      "strength": 30,
+      "speed": 40,
+      "abilities": 50,
+      "durability": 28
+    },
+    "reason": "no usable VS Battles stats: Kurayami borrowed-power fighter"
+  },
+  "hairo-saiki": {
+    "set": {
+      "strength": 10,
+      "speed": 12,
+      "abilities": 8,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: energetic student, no powers"
+  },
+  "chiyo-saiki": {
+    "set": {
+      "strength": 6,
+      "speed": 8,
+      "abilities": 6,
+      "durability": 6
+    },
+    "reason": "no usable VS Battles stats: ordinary student"
+  },
+  "ryoko-parasyte": {
+    "set": {
+      "strength": 16,
+      "speed": 16,
+      "abilities": 16,
+      "durability": 16
+    },
+    "reason": "no usable VS Battles stats: parasite strategist, like Gotou 26/24/20/20 but weaker"
+  },
+  "irina-ac": {
+    "set": {
+      "strength": 12,
+      "speed": 14,
+      "abilities": 14,
+      "durability": 12
+    },
+    "reason": "no usable VS Battles stats: seductive assassin; human"
+  },
+  "hitogami-mushoku": {
+    "set": {
+      "strength": 30,
+      "speed": 40,
+      "abilities": 90,
+      "durability": 80
+    },
+    "reason": "no usable VS Battles stats: god of the Void World: fate guidance, dream manipulation"
+  },
+  "orsted-mushoku": {
+    "set": {
+      "strength": 75,
+      "speed": 78,
+      "abilities": 85,
+      "durability": 75
+    },
+    "reason": "no usable VS Battles stats: Dragon God, strongest in the world; curse and full martial/magic mastery"
+  },
+  "paul-mushoku": {
+    "set": {
+      "strength": 35,
+      "speed": 40,
+      "abilities": 30,
+      "durability": 30
+    },
+    "reason": "no usable VS Battles stats: Sword Saint swordsman"
+  },
+  "roxy-mushoku": {
+    "set": {
+      "strength": 22,
+      "speed": 24,
+      "abilities": 55,
+      "durability": 22
+    },
+    "reason": "no usable VS Battles stats: Water King-class mage, like Rudeus 22/20/55/20"
+  },
+  "lilia-mushoku": {
+    "set": {
+      "strength": 14,
+      "speed": 18,
+      "abilities": 12,
+      "durability": 14
+    },
+    "reason": "no usable VS Battles stats: maid, former swordswoman"
+  },
+  "sylphie-mushoku": {
+    "set": {
+      "strength": 20,
+      "speed": 24,
+      "abilities": 50,
+      "durability": 20
+    },
+    "reason": "no usable VS Battles stats: silent-cast mage"
+  },
+  "eris-mushoku": {
+    "set": {
+      "strength": 30,
+      "speed": 34,
+      "abilities": 26,
+      "durability": 28
+    },
+    "reason": "no usable VS Battles stats: Sword King-level swordswoman"
+  },
+  "ghislaine-mushoku": {
+    "set": {
+      "strength": 34,
+      "speed": 38,
+      "abilities": 28,
+      "durability": 32
+    },
+    "reason": "no usable VS Battles stats: Sword King beastfolk"
+  },
+  "kashimo-jjk": {
+    "set": {
+      "strength": 40,
+      "speed": 36,
+      "abilities": 66,
+      "durability": 40
+    },
+    "reason": "no usable VS Battles stats: electricity technique + Mythical Beast Amber"
+  },
+  "mai-jjk": {
+    "set": {
+      "strength": 20,
+      "speed": 24,
+      "abilities": 26,
+      "durability": 20
+    },
+    "reason": "no usable VS Battles stats: Construction technique and cursed tools, like Nobara 20/24/23/20"
+  },
+  "reggie-jjk": {
+    "set": {
+      "strength": 22,
+      "speed": 24,
+      "abilities": 30,
+      "durability": 22
+    },
+    "reason": "no usable VS Battles stats: receipt-based Re-enactment technique"
+  },
+  "fami-csm": {
+    "set": {
+      "strength": 30,
+      "speed": 44,
+      "abilities": 62,
+      "durability": 40
+    },
+    "reason": "no usable VS Battles stats: Famine Devil (manga Part 2)"
+  },
+  "chelsea-aga": {
+    "set": {
+      "strength": 18,
+      "speed": 30,
+      "abilities": 40,
+      "durability": 18
+    },
+    "reason": "no usable VS Battles stats: Gaea Foundation disguise assassin"
+  },
+  "wrath-fma": {
+    "set": {
+      "strength": 30,
+      "speed": 42,
+      "abilities": 30,
+      "durability": 30
+    },
+    "reason": "no usable VS Battles stats: duplicate of King Bradley (Ultimate Eye swordsmanship)"
+  },
+  "king-one-piece": {
+    "set": {
+      "strength": 64,
+      "speed": 62,
+      "abilities": 62,
+      "durability": 70
+    },
+    "reason": "no usable VS Battles stats: Lunarian All-Star (flames, durability), like Luffy 62/69/72/65"
+  },
+  "haizaki-kuroko": {
+    "set": {
+      "strength": 17,
+      "speed": 20,
+      "abilities": 20,
+      "durability": 16
+    },
+    "reason": "no usable VS Battles stats: basketball athlete who steals opponents' moves, like Murasakibara 16/20/20/16"
+  },
+  "himuro-kuroko": {
+    "set": {
+      "strength": 16,
+      "speed": 20,
+      "abilities": 18,
+      "durability": 16
+    },
+    "reason": "no usable VS Battles stats: basketball athlete (Mirage Shot)"
+  }
+}

@@ -111,7 +111,9 @@ function bestOf(text: string, table: [string, string][] | string[], rankOf: (v: 
 const tierRank = (code: string) => TIER_RANK.get(code.toLowerCase()) ?? -1;
 
 export function rankTier(raw: string) {
-  const codes = [...raw.matchAll(/\{\{\s*((?:Low |High )?\d{1,2}-[A-C]|0)\s*\}\}/gi)].map((m) => m[1]);
+  // A bare {{0}} is used for other things on some pages; tier 0 only counts when the text says Boundless.
+  const codes = [...raw.matchAll(/\{\{\s*((?:Low |High )?\d{1,2}-[A-C]|0)\s*\}\}/gi)].map((m) => m[1])
+    .filter((c) => c !== "0" || /boundless/i.test(raw));
   const text = plain(raw);
   const fromText = bestOf(text, TIERS.map((t) => [t.toLowerCase(), t] as [string, string]), tierRank);
   // Templates are firm unless preceded by a soft word.
@@ -148,7 +150,7 @@ const LABELS: Record<string, string> = {
 };
 export const STAT_CATEGORIES = ["tier", "attack_potency", "speed", "lifting_strength", "striking_strength", "durability", "stamina", "range", "equipment", "intelligence", "weaknesses"];
 
-const LABEL_LINE = /^\s*'''\s*(?:\[\[(?:[^\]|]*\|)?)?([A-Za-z][A-Za-z /]*?)(?:\]\])?\s*(?::\s*'''|'''\s*:)\s*(.*)$/;
+const LABEL_LINE = /^\s*'''\s*(?:\[\[(?:[^\]|]*\|)?)?([A-Za-z][A-Za-z /]*?)(?:\]\])?\s*(?::\s*'''|'''\s*:?)\s*(.*)$/;
 /** Free-text lines that are often not split per key; when the split doesn't match the keys, they apply to all forms. */
 const FREE_TEXT = new Set(["weaknesses", "equipment", "intelligence", "range", "stamina"]);
 
@@ -164,10 +166,10 @@ export interface ParsedPage {
 
 export function parsePage(wikitext: string): ParsedPage {
   const issues: string[] = [];
-  const start = wikitext.search(/==\s*Powers and Stats\s*==/i);
+  const start = wikitext.search(/==\s*Powers? and Stat\w*\s*==/i);
   const origin = plain((wikitext.match(/'''Origin:'''\s*(.*)/i) ?? [])[1] ?? "");
   if (start < 0) return { keys: [], stats: {}, abilities: [], attacks: [], origin, note: "", issues: ["no Powers and Stats section"] };
-  const rest = wikitext.slice(start).replace(/^==\s*Powers and Stats\s*==/i, "");
+  const rest = wikitext.slice(start).replace(/^==\s*Powers? and Stat\w*\s*==/i, "");
   const endRel = rest.search(/\n==[^=]/);
   const section = endRel >= 0 ? rest.slice(0, endRel) : rest;
 
@@ -218,7 +220,10 @@ export function parsePage(wikitext: string): ParsedPage {
   }
 
   const attacks: string[] = [];
-  for (const line of get("attacks").split("\n")) {
+  // Usually in the "Others" section after Powers and Stats, so fall back to the whole page.
+  const attacksBlock = get("attacks") ||
+    (wikitext.match(/'''Notable Attacks\s*\/\s*Techniques:?'''\s*:?([\s\S]*?)(?:\n'''[A-Z][^'\n]{0,40}:?'''\s*:?\s*\n|\n==[^=])/i)?.[1] ?? "");
+  for (const line of attacksBlock.split("\n")) {
     const m = line.match(/^\s*\*?\s*'''([^']{2,80})'''/) ?? line.match(/^\s*\*\s*''([^']{2,80})''/);
     if (m) attacks.push(plain(m[1]).replace(/:$/, ""));
   }

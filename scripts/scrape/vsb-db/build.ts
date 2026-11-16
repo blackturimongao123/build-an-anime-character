@@ -21,12 +21,17 @@ const exempt = new Set<string>(coverage.exempt);
 const rx = (list: string[] = []) => list.map((s) => new RegExp(s, "i"));
 const GENERIC_MANGA = rx(coverage.generic.mangaOnly);
 const GENERIC_ANIME = rx(coverage.generic.anime);
+const LN_SERIES = new Set<string>(coverage.lightNovelSeries ?? []);
+const WIKI_TITLES: Record<string, string[]> = JSON.parse(readFileSync(R("data/sources/series-codes.json"), "utf8")).wikiTitles ?? {};
 
 /** Canon tag for a piece of text (form name, stat line or ability detail). */
 function canonOf(series: string, text: string, inherited = "both"): { source: string; reason: string } {
   const s = coverage.series[series] ?? {};
   for (const r of rx(s.mangaOnly)) if (r.test(text)) return { source: "manga", reason: `matches ${series} manga-only "${r.source}"` };
-  for (const r of GENERIC_MANGA) if (r.test(text)) return { source: "manga", reason: `says "${text.match(r)![0]}"` };
+  for (const r of GENERIC_MANGA) {
+    if (LN_SERIES.has(series) && /light novel/i.test(r.source)) continue; // the anime adapts the light novels
+    if (r.test(text)) return { source: "manga", reason: `says "${text.match(r)![0]}"` };
+  }
   for (const r of GENERIC_ANIME) if (r.test(text)) return { source: "anime", reason: `says "${text.match(r)![0]}"` };
   for (const r of rx(s.unclear)) if (r.test(text)) return { source: "unclear", reason: `matches ${series} coverage question "${r.source}"` };
   return { source: inherited, reason: inherited === "both" ? "" : "inherited from form/page" };
@@ -65,8 +70,20 @@ async function main() {
       done.add(title);
       const p = await api.page(title, { fresh });
       if (!p) { insIssue.run(title, "page could not be fetched"); continue; }
+      // Two titles can redirect to the same page: process each final page once.
+      if (p.title !== title && done.has(p.title)) continue;
+      done.add(p.title);
       const parsed = parsePage(p.wikitext);
-      const pageCanon = /\((Manga|Web Novel|Light Novel|Novel)\)$/i.test(p.title) ? "manga" : /\((Anime|Toei)\)$/i.test(p.title) ? "anime" : "both";
+      // Related version pages must come from the character's own franchise (skips crossovers like "(Granblue Fantasy)").
+      if (title !== c.page_title) {
+        const origins = (WIKI_TITLES[c.series] ?? []).map((t) => t.toLowerCase());
+        if (!origins.some((o) => parsed.origin.toLowerCase().includes(o.replace(/ \(verse\)$/, "")))) {
+          insIssue.run(p.title, `skipped related page: origin "${parsed.origin.slice(0, 60)}" is not ${c.series}`);
+          continue;
+        }
+      }
+      const lnOk = LN_SERIES.has(c.series) && /\(Light Novel\)$/i.test(p.title);
+      const pageCanon = lnOk ? "both" : /\((Manga|Web Novel|Light Novel|Novel)\)$/i.test(p.title) ? "manga" : /\((Anime|Toei)\)$/i.test(p.title) ? "anime" : "both";
       insPage.run(p.title, pageUrl(p.title), p.revid, new Date().toISOString(), parsed.origin, JSON.stringify(p.categories), pageCanon, parsed.note);
       for (const issue of parsed.issues) insIssue.run(p.title, issue);
       parsed.keys.forEach((key, i) => {
@@ -105,7 +122,8 @@ function exportTables(db: any) {
   const csvCell = (v: unknown) => { const s = v === null || v === undefined ? "" : String(v); return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s; };
   const byCat = new Map<string, any[]>();
   for (const r of rows) {
-    r.excluded_by_filter = !exempt.has(r.series) && r.canon_source === "manga" ? 1 : 0;
+    // "Only what has aired": manga-only and not-yet-animated ("unclear") content are both excluded.
+    r.excluded_by_filter = !exempt.has(r.series) && (r.canon_source === "manga" || r.canon_source === "unclear") ? 1 : 0;
     byCat.set(r.category, [...(byCat.get(r.category) ?? []), r]);
   }
   for (const [cat, list] of byCat) {
@@ -135,14 +153,14 @@ function writeCoverage(db: any) {
   const low = q("SELECT display_name, series, page_title, reason FROM characters WHERE confidence='low' ORDER BY series, display_name");
   const canon = q("SELECT canon_source, COUNT(*) n FROM forms GROUP BY canon_source");
   const excludedForms = q(`SELECT c.display_name, c.series, f.page_title, f.key_name, f.canon_reason FROM forms f JOIN characters c ON c.page_title = f.page_title
-    WHERE f.canon_source = 'manga' ORDER BY c.series, c.display_name`).filter((r) => !exempt.has(r.series));
+    WHERE f.canon_source IN ('manga','unclear') ORDER BY c.series, c.display_name`).filter((r) => !exempt.has(r.series));
   const unclear = q(`SELECT c.display_name, c.series, f.key_name, f.canon_reason FROM forms f JOIN characters c ON c.page_title = f.page_title
     WHERE f.canon_source = 'unclear' ORDER BY c.series, c.display_name`);
 
   // Strongest tier per character, all forms vs anime-canon filtered.
   const strongest = q(`SELECT c.game_id, c.display_name, c.series,
       MAX(s.rank_value) all_rank,
-      MAX(CASE WHEN f.canon_source <> 'manga' AND s.canon_source <> 'manga' THEN s.rank_value END) filtered_rank
+      MAX(CASE WHEN f.canon_source NOT IN ('manga','unclear') AND s.canon_source NOT IN ('manga','unclear') THEN s.rank_value END) filtered_rank
     FROM characters c JOIN forms f ON f.page_title = c.page_title JOIN stats s ON s.form_id = f.id AND s.category = 'tier'
     GROUP BY c.game_id`).filter((r) => !exempt.has(r.series) && r.all_rank !== r.filtered_rank);
 

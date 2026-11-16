@@ -1,6 +1,24 @@
 {
-  "_about": "Game id -> exact VS Battles page title, for characters the wiki lists under another name. Used first by npm run wiki:db-resolve.",
-  "chad-bleach": "Yasutora Sado",
+  "_about": "Game id -> exact VS Battles page title, for characters the wiki lists under another name. Used first by npm run wiki:db-resolve. Characters with no VS Battles page at all (e.g. Erwin, Hange, Schneizel) are not listed; they get series-knowledge stats.",
   "soi-fon-bleach": "Suì-Fēng",
-  "barragan-bleach": "Baraggan Louisenbairn"
+  "barragan-bleach": "Baraggan Louisenbairn",
+  "tien-dragon-ball": "Tien Shinhan (DBS Anime)",
+  "kenny-aot": "Kenny Ackerman",
+  "beast-aot": "Zeke Yeager",
+  "colossal-aot": "Bertolt Hoover",
+  "founding-aot": "Ymir Fritz",
+  "kizaru-one-piece": "Borsalino (Kizaru)",
+  "aokiji-one-piece": "Kuzan (Aokiji)",
+  "fujitora-one-piece": "Issho (Fujitora)",
+  "king-one-piece": "King (One Piece)",
+  "pain-naruto": "Nagato (Pain)",
+  "konan-naruto": "Konan",
+  "kashimo-jjk": "Hajime Kashimo",
+  "koichi-jojo": "Koichi Hirose",
+  "zygarde-pokemon": "Zygarde",
+  "kuzen-tg": "Yoshimura (Non-Killing Owl)",
+  "clayman-slime": "Clayman (Light Novel)",
+  "ramiris-slime": "Ramiris (Light Novel)",
+  "dagruel-slime": "Dagruel (Light Novel)",
+  "dino-slime": "Dino (Light Novel)"
 }

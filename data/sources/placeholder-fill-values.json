@@ -1,0 +1,659 @@
+{
+  "_about": "Series-knowledge stat estimates [str, spd, abl, iq, dur, reason] for characters without a usable VS Battles page (from the 2026-11-16 placeholder fill). Used by npm run wiki:db-derive only when the character still has placeholder 50s. IQ here is ignored; IQ comes from manual-iq-overrides.json.",
+  "erwin-aot": [
+    30,
+    44,
+    40,
+    92,
+    30,
+    "Human ODM soldier below Levi/Mikasa physically; the Scouts' master strategist."
+  ],
+  "connie-aot": [
+    28,
+    44,
+    38,
+    35,
+    28,
+    "Rank-and-file Scout, slightly under Mikasa/Levi; famously not the brightest."
+  ],
+  "gabi-aot": [
+    20,
+    36,
+    30,
+    55,
+    20,
+    "Child Warrior candidate and sharpshooter; no titan powers."
+  ],
+  "chojiro-bleach": [
+    72,
+    76,
+    70,
+    62,
+    70,
+    "Yamamoto's lieutenant with Bankai; a tier below captains."
+  ],
+  "asa-csm": [
+    34,
+    44,
+    48,
+    58,
+    32,
+    "Ordinary student; War Devil Yoru adds weapon-making abilities."
+  ],
+  "fami-csm": [
+    52,
+    70,
+    62,
+    85,
+    50,
+    "Famine Devil, one of the Four Horsemen; a manipulative schemer, kept under Makima."
+  ],
+  "charles-geass": [
+    26,
+    24,
+    40,
+    88,
+    22,
+    "Emperor; memory-rewriting Geass plus Code immortality, but physically ordinary."
+  ],
+  "cornelia-geass": [
+    30,
+    30,
+    28,
+    80,
+    28,
+    "Elite soldier-commander; brilliant tactician just under Lelouch."
+  ],
+  "bismarck-geass": [
+    38,
+    42,
+    40,
+    76,
+    34,
+    "Knight of One, top swordsman; future-sight Geass."
+  ],
+  "chrome-dr-stone": [
+    18,
+    22,
+    26,
+    80,
+    16,
+    "Self-taught 'sorcerer' scientist, Senku's right hand."
+  ],
+  "gen-dr-stone": [
+    12,
+    16,
+    30,
+    86,
+    12,
+    "Mentalist con man; physically the weakest, elite social manipulation."
+  ],
+  "ginro-dr-stone": [
+    20,
+    26,
+    18,
+    30,
+    18,
+    "Ginro, cowardly spearman of Ishigami Village."
+  ],
+  "android-17-dragon-ball": [
+    90,
+    86,
+    88,
+    60,
+    90,
+    "Tournament of Power standout, near Goku/Vegeta base tiers; barrier technique."
+  ],
+  "android-18-dragon-ball": [
+    88,
+    86,
+    84,
+    60,
+    88,
+    "Slightly below 17; infinite energy cyborg."
+  ],
+  "beerus-dragon-ball": [
+    97,
+    90,
+    97,
+    68,
+    97,
+    "God of Destruction; above Goku/Vegeta, Hakai."
+  ],
+  "broly-dragon-ball": [
+    95,
+    88,
+    90,
+    30,
+    96,
+    "Legendary Super Saiyan, rivals Gogeta; raw rage, little strategy."
+  ],
+  "buu-dragon-ball": [
+    92,
+    84,
+    94,
+    30,
+    96,
+    "Majin Buu: absorption, magic and extreme regeneration; childlike mind."
+  ],
+  "cell-dragon-ball": [
+    92,
+    86,
+    92,
+    72,
+    92,
+    "Perfect Cell; has every Z-fighter's technique plus regeneration; cunning."
+  ],
+  "dende-dragon-ball": [
+    22,
+    45,
+    60,
+    62,
+    24,
+    "Earth's Guardian; weak fighter but elite healing and Dragon Ball creation."
+  ],
+  "frieza-dragon-ball": [
+    94,
+    88,
+    92,
+    78,
+    92,
+    "Golden/Black Frieza is on Goku's level; a calculating tyrant."
+  ],
+  "gohan-dragon-ball": [
+    92,
+    86,
+    90,
+    80,
+    90,
+    "Ultimate/Beast Gohan at Goku's tier; a scholar."
+  ],
+  "archer-fate": [
+    82,
+    82,
+    90,
+    78,
+    80,
+    "Archer: Unlimited Blade Works projection, under Gilgamesh."
+  ],
+  "assassin-fate": [
+    68,
+    80,
+    76,
+    66,
+    60,
+    "Assassin: Zabaniya curse and presence concealment; fragile."
+  ],
+  "berserker-fate": [
+    92,
+    84,
+    86,
+    20,
+    98,
+    "Berserker: God Hand (12 lives) gives top durability; Mad Enhancement removes reason."
+  ],
+  "caster-fate": [
+    60,
+    70,
+    94,
+    88,
+    68,
+    "Caster: Age of Gods magecraft and Rule Breaker; cunning witch."
+  ],
+  "saber-fate-2": [
+    88,
+    84,
+    88,
+    72,
+    86,
+    "Saber: Excalibur and Avalon, top-tier knight-king."
+  ],
+  "arrow-fire-force": [
+    70,
+    76,
+    72,
+    55,
+    68,
+    "Evangelist's archer with flame arrows; mid-tier Fire Force threat."
+  ],
+  "charon-fire-force": [
+    88,
+    70,
+    86,
+    40,
+    92,
+    "Absorbs attacks and releases them; Haumea's bodyguard tank."
+  ],
+  "sho-fire-force": [
+    90,
+    92,
+    94,
+    48,
+    88,
+    "Knight of the Ashen Flame; stops time via the expansion of the universe. IQ kept at the current 48."
+  ],
+  "fu-fma": [
+    32,
+    58,
+    40,
+    66,
+    30,
+    "Elderly Xingese ninja bodyguard; skilled but human."
+  ],
+  "gluttony-fma": [
+    48,
+    40,
+    44,
+    10,
+    56,
+    "Homunculus with regeneration and the False Gate stomach; very dim."
+  ],
+  "asahi-haikyuu": [
+    24,
+    20,
+    14,
+    44,
+    18,
+    "Karasuno's ace spiker; athlete scale like Hinata."
+  ],
+  "daichi-haikyuu": [
+    20,
+    20,
+    14,
+    62,
+    20,
+    "Karasuno captain, steady defender and leader."
+  ],
+  "akaashi-haikyuu": [
+    16,
+    20,
+    14,
+    70,
+    16,
+    "Fukurodani's cerebral setter."
+  ],
+  "bokuto-haikyuu": [
+    24,
+    22,
+    16,
+    30,
+    18,
+    "Top-five ace spiker; emotional and simple."
+  ],
+  "date-ippo": [
+    30,
+    32,
+    30,
+    72,
+    30,
+    "Former featherweight champion, veteran ring IQ."
+  ],
+  "bryan-ippo": [
+    34,
+    34,
+    30,
+    40,
+    30,
+    "Bryan Hawk, brutal welterweight champion; arrogant brawler."
+  ],
+  "avdol-jojo": [
+    40,
+    76,
+    44,
+    62,
+    34,
+    "Magician's Red, flame Stand; experienced fortune teller."
+  ],
+  "angelo-jojo": [
+    24,
+    60,
+    32,
+    40,
+    26,
+    "Aqua Necklace, a weak Stand serial killer."
+  ],
+  "caesar-jojo": [
+    34,
+    56,
+    40,
+    66,
+    30,
+    "Hamon master of the bubble technique."
+  ],
+  "emporio-jojo": [
+    10,
+    20,
+    26,
+    50,
+    12,
+    "Child with a ghost-object Stand; survives through wits."
+  ],
+  "dagon-jjk": [
+    52,
+    48,
+    58,
+    45,
+    56,
+    "Special-grade curse with a Domain Expansion; near Geto/Choso tier."
+  ],
+  "falcon-kengan": [
+    44,
+    50,
+    40,
+    45,
+    44,
+    "Kengan fighter, below Ohma/Agito."
+  ],
+  "eris-mushoku": [
+    46,
+    58,
+    40,
+    38,
+    42,
+    "Sword God-style swordswoman; hot-headed."
+  ],
+  "ghislaine-mushoku": [
+    52,
+    60,
+    42,
+    30,
+    48,
+    "Sword King beastfolk; strongest melee of the cast, bad at books."
+  ],
+  "aizawa-mha": [
+    40,
+    56,
+    62,
+    72,
+    34,
+    "Eraser Head: Quirk erasure plus capture weapon; a sharp teacher."
+  ],
+  "bakugo-mha": [
+    76,
+    80,
+    72,
+    74,
+    68,
+    "Explosion Quirk, a battle genius just under Deku."
+  ],
+  "best-jeanist-mha": [
+    42,
+    50,
+    62,
+    68,
+    38,
+    "Fiber Master control; No. 3/4 hero."
+  ],
+  "endeavor-mha": [
+    84,
+    78,
+    80,
+    58,
+    76,
+    "No. 1 hero after All Might; Hellflame."
+  ],
+  "compress-mha": [
+    40,
+    56,
+    64,
+    70,
+    36,
+    "Compress Quirk; a stage magician and tactician."
+  ],
+  "gentle-mha": [
+    36,
+    44,
+    60,
+    66,
+    40,
+    "Elasticity Quirk villain; gentleman schemer."
+  ],
+  "gran-torino-mha": [
+    46,
+    76,
+    50,
+    68,
+    40,
+    "Jet Quirk speedster who trained All Might."
+  ],
+  "akainu-one-piece": [
+    92,
+    82,
+    84,
+    62,
+    90,
+    "Fleet Admiral, magma logia; beat Ace and Whitebeard's crew."
+  ],
+  "aokiji-one-piece": [
+    90,
+    82,
+    84,
+    70,
+    88,
+    "Ice logia admiral; fought Akainu for 10 days."
+  ],
+  "big-mom-one-piece": [
+    94,
+    76,
+    78,
+    40,
+    96,
+    "Emperor; absurdly tough body (Iron Balloon) and soul fruit; erratic."
+  ],
+  "blackbeard-one-piece": [
+    92,
+    76,
+    88,
+    72,
+    90,
+    "Emperor with two Devil Fruits (darkness and quake); a schemer."
+  ],
+  "fujitora-one-piece": [
+    90,
+    76,
+    86,
+    72,
+    84,
+    "Gravity admiral, blind swordsman."
+  ],
+  "atomic-samurai-opm": [
+    82,
+    86,
+    70,
+    60,
+    66,
+    "S-Class rank 4 swordsman."
+  ],
+  "bang-opm": [
+    86,
+    84,
+    72,
+    70,
+    70,
+    "S-Class rank 3, Water Stream Rock Smashing Fist master."
+  ],
+  "bomb-opm": [
+    84,
+    82,
+    70,
+    58,
+    68,
+    "Bomb, Bang's brother; same martial art."
+  ],
+  "boros-opm": [
+    92,
+    88,
+    90,
+    60,
+    92,
+    "Dominator of the Universe; Meteoric Burst, regeneration; pushed Saitama."
+  ],
+  "child-emperor-opm": [
+    30,
+    40,
+    76,
+    92,
+    28,
+    "S-Class genius child inventor."
+  ],
+  "fubuki-opm": [
+    50,
+    56,
+    72,
+    62,
+    50,
+    "B-Class rank 1 esper, well below Tatsumaki."
+  ],
+  "genos-opm": [
+    80,
+    82,
+    72,
+    62,
+    66,
+    "S-Class cyborg, under Bang/Atomic."
+  ],
+  "albedo-overlord": [
+    58,
+    50,
+    52,
+    86,
+    60,
+    "Guardian Overseer, top tank; matched to Ainz's in-house scale."
+  ],
+  "cocytus-overlord": [
+    60,
+    50,
+    56,
+    58,
+    58,
+    "Guardian, strongest pure weapon user."
+  ],
+  "demiurge-overlord": [
+    50,
+    48,
+    58,
+    96,
+    50,
+    "Guardian; Nazarick's strategic genius."
+  ],
+  "diane-sds": [
+    88,
+    80,
+    84,
+    42,
+    88,
+    "Sin of Envy, giant earth magic."
+  ],
+  "gowther-sds": [
+    76,
+    82,
+    90,
+    90,
+    70,
+    "Sin of Lust, mind-manipulating doll; analytical."
+  ],
+  "estarossa-sds": [
+    92,
+    88,
+    90,
+    60,
+    90,
+    "Ten Commandment Love, Full Counter; on the main cast's level."
+  ],
+  "baran-sl": [
+    68,
+    66,
+    70,
+    60,
+    70,
+    "Demon King Baran (Demon Castle boss); under Antares/Ashborn."
+  ],
+  "go-gunhee-sl": [
+    56,
+    56,
+    58,
+    72,
+    56,
+    "Go Gunhee, Korea's top S-rank and Association chairman."
+  ],
+  "bercouli-sao": [
+    58,
+    50,
+    62,
+    74,
+    58,
+    "Bercouli, Integrity Knight commander; Memory Release time-slash."
+  ],
+  "carrion-slime": [
+    90,
+    80,
+    84,
+    58,
+    90,
+    "Beast Master Demon Lord, below the true Demon Lords."
+  ],
+  "clayman-slime": [
+    70,
+    60,
+    76,
+    62,
+    66,
+    "Weakest of the Octagram; a puppeteer schemer."
+  ],
+  "frey-slime": [
+    88,
+    80,
+    86,
+    70,
+    86,
+    "Sky Queen Demon Lord, wins by cunning."
+  ],
+  "deeno-slime": [
+    92,
+    82,
+    92,
+    40,
+    92,
+    "Fallen angel of Veldora's era; lazy."
+  ],
+  "elmesia-slime": [
+    70,
+    60,
+    90,
+    90,
+    70,
+    "Elven emperor; politically brilliant, vast magic."
+  ],
+  "daewi-goh": [
+    70,
+    66,
+    62,
+    50,
+    72,
+    "Han Daewi, top fighter in God of High School; below Mori."
+  ],
+  "bjorn-vinland": [
+    34,
+    28,
+    26,
+    40,
+    30,
+    "Berserker, Askeladd's strong right hand."
+  ],
+  "einar-vinland": [
+    30,
+    24,
+    20,
+    46,
+    28,
+    "Slave farmer, ex-soldier; ordinary human."
+  ],
+  "floki-vinland": [
+    26,
+    26,
+    24,
+    72,
+    24,
+    "Jomsviking chief strategist and schemer."
+  ]
+}
