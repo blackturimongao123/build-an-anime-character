@@ -1,5 +1,5 @@
 {
-  "_about": "Game id -> exact VS Battles page title, for characters the wiki lists under another name. Used first by npm run wiki:db-resolve. Characters with no VS Battles page at all (e.g. Erwin, Hange, Schneizel) are not listed; they get series-knowledge stats.",
+  "_about": "Game id -> exact VS Battles page title, for characters the wiki lists under another name. Used first by npm run wiki:db-resolve. Also pins characters whose display name is an alias (e.g. Owl, Fairy King), so renames never change which page is used. Characters with no VS Battles page at all (e.g. Erwin, Hange, Schneizel) are not listed; they get series-knowledge stats.",
   "soi-fon-bleach": "Suì-Fēng",
   "barragan-bleach": "Baraggan Louisenbairn",
   "tien-dragon-ball": "Tien Shinhan (DBS Anime)",
@@ -19,5 +19,23 @@
   "kuzen-tg": "Yoshimura (Non-Killing Owl)",
   "clayman-slime": "Clayman (Light Novel)",
   "ramiris-slime": "Ramiris (Light Novel)",
-  "dagruel-slime": "Dagruel (Light Novel)"
+  "dagruel-slime": "Dagruel (Light Novel)",
+  "benimaru-fire-force": "Benimaru Shinmon",
+  "gentle-mha": "Danjuro Tobita (Gentle Criminal)",
+  "guy-naruto": "Might Guy",
+  "guy-slime": "Guy Crimson (Light Novel)",
+  "himuro-kengan": "Himuro Ryo",
+  "jack-baki": "Jack Hanma",
+  "jack-record": "Jack The Ripper (Record of Ragnarok)",
+  "jugram-bleach": "Jugram Haschwalth",
+  "king-sds": "King (Nanatsu no Taizai)",
+  "kira-bleach": "Izuru Kira",
+  "kira-jojo": "Yoshikage Kira",
+  "maki-fire-force": "Maki Oze",
+  "maki-jjk": "Maki Zenin",
+  "qin-record": "Qin Shi Huang (Record of Ragnarok)",
+  "shuu-tg": "Shuu Tsukiyama",
+  "tier-bleach": "Tier Harribel",
+  "valentine-jojo": "Funny Valentine",
+  "weather-jojo": "Weather Report"
 }

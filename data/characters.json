@@ -341,7 +341,7 @@
     }
   },
   {
-    "displayName": "Beast",
+    "displayName": "Beast Titan",
     "id": "beast-aot",
     "portrait": "/portraits/beast-aot.png",
     "series": "Attack on Titan",
@@ -358,7 +358,7 @@
     }
   },
   {
-    "displayName": "Colossal",
+    "displayName": "Colossal Titan",
     "id": "colossal-aot",
     "portrait": "/portraits/colossal-aot.jpg",
     "series": "Attack on Titan",
@@ -445,7 +445,7 @@
     }
   },
   {
-    "displayName": "Founding",
+    "displayName": "Founding Titan",
     "id": "founding-aot",
     "portrait": "/portraits/founding-aot.png",
     "series": "Attack on Titan",
@@ -638,7 +638,7 @@
     }
   },
   {
-    "displayName": "Jack",
+    "displayName": "Jack Hanma",
     "id": "jack-baki",
     "portrait": "/portraits/jack-baki.jpg",
     "series": "Baki",
@@ -1601,7 +1601,7 @@
     }
   },
   {
-    "displayName": "Jugram",
+    "displayName": "Haschwalth",
     "id": "jugram-bleach",
     "portrait": "/portraits/jugram-bleach.webp",
     "series": "Bleach",
@@ -1655,7 +1655,7 @@
     }
   },
   {
-    "displayName": "Kira",
+    "displayName": "Izuru Kira",
     "id": "kira-bleach",
     "portrait": "/portraits/kira-bleach.webp",
     "series": "Bleach",
@@ -2260,7 +2260,7 @@
     }
   },
   {
-    "displayName": "Tier",
+    "displayName": "Harribel",
     "id": "tier-bleach",
     "portrait": "/portraits/tier-bleach.jpg",
     "series": "Bleach",
@@ -4483,7 +4483,7 @@
     }
   },
   {
-    "displayName": "Benimaru",
+    "displayName": "Benimaru Shinmon",
     "id": "benimaru-fire-force",
     "portrait": "/portraits/benimaru-fire-force.jpg",
     "series": "Fire Force",
@@ -4591,7 +4591,7 @@
     }
   },
   {
-    "displayName": "Maki",
+    "displayName": "Maki Oze",
     "id": "maki-fire-force",
     "portrait": "/portraits/maki-fire-force.jpg",
     "series": "Fire Force",
@@ -5161,7 +5161,7 @@
     }
   },
   {
-    "displayName": "Hinata",
+    "displayName": "Shoyo Hinata",
     "id": "hinata-haikyuu",
     "portrait": "/portraits/hinata-haikyuu.jpg",
     "series": "Haikyuu!!",
@@ -6424,7 +6424,7 @@
     }
   },
   {
-    "displayName": "Kira",
+    "displayName": "Yoshikage Kira",
     "id": "kira-jojo",
     "portrait": "/portraits/kira-jojo.jpg",
     "series": "JoJo",
@@ -6586,7 +6586,7 @@
     }
   },
   {
-    "displayName": "Valentine",
+    "displayName": "Funny Valentine",
     "id": "valentine-jojo",
     "portrait": "/portraits/valentine-jojo.webp",
     "series": "JoJo",
@@ -6640,7 +6640,7 @@
     }
   },
   {
-    "displayName": "Weather",
+    "displayName": "Weather Report",
     "id": "weather-jojo",
     "portrait": "/portraits/weather-jojo.webp",
     "series": "JoJo",
@@ -6873,7 +6873,7 @@
     }
   },
   {
-    "displayName": "Maki",
+    "displayName": "Maki Zenin",
     "id": "maki-jjk",
     "portrait": "/portraits/maki-jjk.jpg",
     "series": "Jujutsu Kaisen",
@@ -7231,7 +7231,7 @@
     }
   },
   {
-    "displayName": "Himuro",
+    "displayName": "Ryo Himuro",
     "id": "himuro-kengan",
     "portrait": "/portraits/himuro-kengan.jpg",
     "series": "Kengan Ashura",
@@ -7973,7 +7973,7 @@
     }
   },
   {
-    "displayName": "Gentle",
+    "displayName": "Gentle Criminal",
     "id": "gentle-mha",
     "portrait": "/portraits/gentle-mha.jpg",
     "series": "My Hero Academia",
@@ -8260,7 +8260,7 @@
     }
   },
   {
-    "displayName": "Guy",
+    "displayName": "Might Guy",
     "id": "guy-naruto",
     "portrait": "/portraits/guy-naruto.webp",
     "series": "Naruto",
@@ -10208,7 +10208,7 @@
     }
   },
   {
-    "displayName": "Jack",
+    "displayName": "Jack the Ripper",
     "id": "jack-record",
     "portrait": "/portraits/jack-record.webp",
     "series": "Record of Ragnarok",
@@ -10296,7 +10296,7 @@
     }
   },
   {
-    "displayName": "Qin",
+    "displayName": "Qin Shi Huang",
     "id": "qin-record",
     "portrait": "/portraits/qin-record.webp",
     "series": "Record of Ragnarok",
@@ -10493,7 +10493,7 @@
     }
   },
   {
-    "displayName": "King",
+    "displayName": "Fairy King",
     "id": "king-sds",
     "portrait": "/portraits/king-sds.jpg",
     "series": "Seven Deadly Sins",
@@ -11128,7 +11128,7 @@
     }
   },
   {
-    "displayName": "Guy",
+    "displayName": "Guy Crimson",
     "id": "guy-slime",
     "portrait": "/portraits/guy-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
@@ -11627,7 +11627,7 @@
     }
   },
   {
-    "displayName": "Kuzen",
+    "displayName": "Owl",
     "id": "kuzen-tg",
     "portrait": "/portraits/kuzen-tg.png",
     "series": "Tokyo Ghoul",
@@ -11644,7 +11644,7 @@
     }
   },
   {
-    "displayName": "Shuu",
+    "displayName": "Tsukiyama",
     "id": "shuu-tg",
     "portrait": "/portraits/shuu-tg.jpg",
     "series": "Tokyo Ghoul",
