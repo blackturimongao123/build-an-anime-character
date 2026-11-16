@@ -4639,110 +4639,6 @@
     }
   },
   {
-    "displayName": "Archer",
-    "id": "emiya-fate",
-    "portrait": "/portraits/emiya-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 65,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "EMIYA",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/EMIYA"
-    }
-  },
-  {
-    "displayName": "Assassin",
-    "id": "hassan-fate",
-    "portrait": "/portraits/hassan-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 73,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Hassan-i-Sabbah",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Hassan-i-Sabbah"
-    }
-  },
-  {
-    "displayName": "Berserker",
-    "id": "heracles-fate",
-    "portrait": "/portraits/heracles-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 15,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Heracles",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Heracles",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
-    "displayName": "Caster",
-    "id": "medea-fate",
-    "portrait": "/portraits/medea-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 71,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Medea",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Medea"
-    }
-  },
-  {
-    "displayName": "Enkidu",
-    "id": "enkidu-fate",
-    "portrait": "/portraits/enkidu-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Enkidu",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Enkidu"
-    }
-  },
-  {
-    "displayName": "Ereshkigal",
-    "id": "ereshkigal-fate",
-    "portrait": "/portraits/ereshkigal-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Ereshkigal",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Ereshkigal",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
     "displayName": "Gilgamesh",
     "id": "gilgamesh-fsn",
     "portrait": "/portraits/gilgamesh-fsn.jpg",
@@ -4761,45 +4657,27 @@
     }
   },
   {
-    "displayName": "Goetia",
-    "id": "goetia-fate",
-    "portrait": "/portraits/goetia-fate.png",
+    "displayName": "Saber",
+    "id": "saber-fsn",
+    "portrait": "/portraits/saber-fsn.jpg",
     "series": "Fate",
-    "stats": {
-      "strength": 97,
-      "speed": 40,
-      "abilities": 97,
-      "iq": 50,
-      "durability": 97
-    },
     "sources": {
-      "wikiPage": "Goetia",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Goetia",
+      "wikiPage": "Artoria Pendragon (Saber)",
+      "wikiUrl": "https://vsbattles.fandom.com/wiki/Artoria_Pendragon_(Saber)",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Ishtar",
-    "id": "ishtar-fate",
-    "portrait": "/portraits/ishtar-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
     },
-    "sources": {
-      "wikiPage": "Ishtar",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Ishtar",
-      "wikiStatKey": "fallback"
+    "stats": {
+      "abilities": 97,
+      "durability": 97,
+      "iq": 64,
+      "speed": 88,
+      "strength": 100
     }
   },
   {
     "displayName": "Iskandar",
     "id": "iskandar-king-fate",
-    "portrait": "/portraits/iskandar-king-fate.jpg",
+    "portrait": "/portraits/iskandar-king-fate.png",
     "series": "Fate",
     "stats": {
       "strength": 50,
@@ -4811,216 +4689,6 @@
     "sources": {
       "wikiPage": "Iskandar (King of Conquerors)",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Iskandar_(King_of_Conquerors)"
-    }
-  },
-  {
-    "displayName": "Jeanne",
-    "id": "jeanne-fate",
-    "portrait": "/portraits/jeanne-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Jeanne d'Arc",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Jeanne_d'Arc",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
-    "displayName": "Jeanne Alter",
-    "id": "jeanne-alter-fate",
-    "portrait": "/portraits/jeanne-alter-fate.webp",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Jeanne d'Arc Alter",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Jeanne_d'Arc_Alter"
-    }
-  },
-  {
-    "displayName": "Karna",
-    "id": "karna-fate",
-    "portrait": "/portraits/karna-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Karna",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Karna"
-    }
-  },
-  {
-    "displayName": "Mash",
-    "id": "mash-fate",
-    "portrait": "/portraits/mash-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 100,
-      "speed": 82,
-      "abilities": 68,
-      "iq": 50,
-      "durability": 97
-    },
-    "sources": {
-      "wikiPage": "Mash Kyrielight",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Mash_Kyrielight",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Merlin",
-    "id": "merlin-fate",
-    "portrait": "/portraits/merlin-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 100,
-      "speed": 82,
-      "abilities": 70,
-      "iq": 50,
-      "durability": 70
-    },
-    "sources": {
-      "wikiPage": "Merlin (Fate)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Merlin_(Fate)",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Mordred",
-    "id": "mordred-fate",
-    "portrait": "/portraits/mordred-fate.png",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Mordred",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Mordred"
-    }
-  },
-  {
-    "displayName": "Rider",
-    "id": "iskandar-fate",
-    "portrait": "/portraits/iskandar-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Iskandar",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Iskandar"
-    }
-  },
-  {
-    "displayName": "Rin",
-    "id": "rin-fate",
-    "portrait": "/portraits/rin-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 38,
-      "speed": 32,
-      "abilities": 70,
-      "iq": 76,
-      "durability": 68
-    },
-    "sources": {
-      "wikiPage": "Rin Tohsaka",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Rin_Tohsaka",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Scathach",
-    "id": "scathach-fate",
-    "portrait": "/portraits/scathach-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Scathach",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Scathach"
-    }
-  },
-  {
-    "displayName": "Solomon",
-    "id": "solomon-fate",
-    "portrait": "/portraits/solomon-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Solomon",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Solomon",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
-    "displayName": "Tamamo",
-    "id": "tamamo-fate",
-    "portrait": "/portraits/tamamo-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Tamamo-no-Mae",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Tamamo-no-Mae"
-    }
-  },
-  {
-    "displayName": "Tokiomi",
-    "id": "tokiomi-fate",
-    "portrait": "/portraits/tokiomi-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 38,
-      "speed": 76,
-      "abilities": 68,
-      "iq": 50,
-      "durability": 38
-    },
-    "sources": {
-      "wikiPage": "Tokiomi Tohsaka",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Tokiomi_Tohsaka",
-      "wikiStatKey": "peak (non-manga)"
     }
   },
   {

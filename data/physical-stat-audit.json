@@ -5267,39 +5267,6 @@
       ]
     },
     {
-      "id": "emiya-fate",
-      "display_name": "Archer",
-      "series": "Fate",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for EMIYA"
-      ]
-    },
-    {
       "id": "endeavor-mha",
       "display_name": "Endeavor",
       "series": "My Hero Academia",
@@ -5370,39 +5337,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "enkidu-fate",
-      "display_name": "Enkidu",
-      "series": "Fate",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Enkidu"
-      ]
     },
     {
       "id": "enmu-demon-slayer",
@@ -5498,42 +5432,6 @@
         "speed": 48,
         "abilities": 46,
         "durability": 46
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "ereshkigal-fate",
-      "display_name": "Ereshkigal",
-      "series": "Fate",
-      "wiki_page": "Ereshkigal",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
       },
       "delta_path": null,
       "peak_gap": {
@@ -7429,45 +7327,6 @@
       "notes": []
     },
     {
-      "id": "goetia-fate",
-      "display_name": "Goetia",
-      "series": "Fate",
-      "wiki_page": "Goetia",
-      "game": {
-        "strength": 100,
-        "speed": 82,
-        "abilities": 97,
-        "durability": 70
-      },
-      "wiki_path": {
-        "strength": 100,
-        "speed": 82,
-        "abilities": 97,
-        "durability": 97
-      },
-      "wiki_peak": {
-        "strength": 100,
-        "speed": 82,
-        "abilities": 97,
-        "durability": 97
-      },
-      "delta_path": {
-        "durability": 27
-      },
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 27
-      },
-      "curated": null,
-      "status": [
-        "wiki_path_mismatch",
-        "wiki_peak_above_game"
-      ],
-      "notes": []
-    },
-    {
       "id": "gogeta-dragon-ball",
       "display_name": "Gogeta",
       "series": "Dragon Ball",
@@ -8560,39 +8419,6 @@
       "notes": []
     },
     {
-      "id": "hassan-fate",
-      "display_name": "Assassin",
-      "series": "Fate",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Hassan-i-Sabbah"
-      ]
-    },
-    {
       "id": "haumea-fire-force",
       "display_name": "Haumea",
       "series": "Fire Force",
@@ -8636,42 +8462,6 @@
       "display_name": "Hawks",
       "series": "My Hero Academia",
       "wiki_page": "Keigo Takami",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "heracles-fate",
-      "display_name": "Berserker",
-      "series": "Fate",
-      "wiki_page": "Heracles",
       "game": {
         "strength": 40,
         "speed": 40,
@@ -9878,75 +9668,6 @@
       "notes": []
     },
     {
-      "id": "ishtar-fate",
-      "display_name": "Ishtar",
-      "series": "Fate",
-      "wiki_page": "Ishtar",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "iskandar-fate",
-      "display_name": "Rider",
-      "series": "Fate",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Iskandar"
-      ]
-    },
-    {
       "id": "iskandar-king-fate",
       "display_name": "Iskandar",
       "series": "Fate",
@@ -10405,75 +10126,6 @@
       "notes": [
         "No parse content for Jean Kirstein"
       ]
-    },
-    {
-      "id": "jeanne-alter-fate",
-      "display_name": "Jeanne Alter",
-      "series": "Fate",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Jeanne d'Arc Alter"
-      ]
-    },
-    {
-      "id": "jeanne-fate",
-      "display_name": "Jeanne",
-      "series": "Fate",
-      "wiki_page": "Jeanne d'Arc",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
     },
     {
       "id": "jellal-fairy-tail",
@@ -11619,39 +11271,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "karna-fate",
-      "display_name": "Karna",
-      "series": "Fate",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Karna"
-      ]
     },
     {
       "id": "kashimo-jjk",
@@ -14613,42 +14232,6 @@
       "notes": []
     },
     {
-      "id": "mash-fate",
-      "display_name": "Mash",
-      "series": "Fate",
-      "wiki_page": "Mash Kyrielight",
-      "game": {
-        "strength": 100,
-        "speed": 82,
-        "abilities": 68,
-        "durability": 97
-      },
-      "wiki_path": {
-        "strength": 100,
-        "speed": 82,
-        "abilities": 68,
-        "durability": 97
-      },
-      "wiki_peak": {
-        "strength": 100,
-        "speed": 82,
-        "abilities": 68,
-        "durability": 97
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "mash-mashle",
       "display_name": "Mash",
       "series": "Mashle",
@@ -14755,39 +14338,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "medea-fate",
-      "display_name": "Caster",
-      "series": "Fate",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Medea"
-      ]
     },
     {
       "id": "medemma-misfit",
@@ -15061,42 +14611,6 @@
         "speed": 82,
         "abilities": 78,
         "durability": 78
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "merlin-fate",
-      "display_name": "Merlin",
-      "series": "Fate",
-      "wiki_page": "Merlin (Fate)",
-      "game": {
-        "strength": 100,
-        "speed": 82,
-        "abilities": 70,
-        "durability": 70
-      },
-      "wiki_path": {
-        "strength": 100,
-        "speed": 82,
-        "abilities": 70,
-        "durability": 70
-      },
-      "wiki_peak": {
-        "strength": 100,
-        "speed": 82,
-        "abilities": 70,
-        "durability": 70
       },
       "delta_path": null,
       "peak_gap": {
@@ -15900,39 +15414,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "mordred-fate",
-      "display_name": "Mordred",
-      "series": "Fate",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Mordred"
-      ]
     },
     {
       "id": "morel-hxh",
@@ -18801,42 +18282,6 @@
       "notes": []
     },
     {
-      "id": "rin-fate",
-      "display_name": "Rin",
-      "series": "Fate",
-      "wiki_page": "Rin Tohsaka",
-      "game": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 70,
-        "durability": 68
-      },
-      "wiki_path": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 70,
-        "durability": 68
-      },
-      "wiki_peak": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 70,
-        "durability": 68
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "ritsu-mob",
       "display_name": "Ritsu",
       "series": "Mob Psycho 100",
@@ -19719,39 +19164,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "scathach-fate",
-      "display_name": "Scathach",
-      "series": "Fate",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Scathach"
-      ]
     },
     {
       "id": "schneizel-geass",
@@ -20935,42 +20347,6 @@
       ]
     },
     {
-      "id": "solomon-fate",
-      "display_name": "Solomon",
-      "series": "Fate",
-      "wiki_page": "Solomon",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "starrk-bleach",
       "display_name": "Starrk",
       "series": "Bleach",
@@ -21326,39 +20702,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "tamamo-fate",
-      "display_name": "Tamamo",
-      "series": "Fate",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Tamamo-no-Mae"
-      ]
     },
     {
       "id": "tanaka-haikyuu",
@@ -22146,42 +21489,6 @@
         "speed": 48,
         "abilities": 54,
         "durability": 54
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "tokiomi-fate",
-      "display_name": "Tokiomi",
-      "series": "Fate",
-      "wiki_page": "Tokiomi Tohsaka",
-      "game": {
-        "strength": 38,
-        "speed": 76,
-        "abilities": 68,
-        "durability": 38
-      },
-      "wiki_path": {
-        "strength": 38,
-        "speed": 76,
-        "abilities": 68,
-        "durability": 38
-      },
-      "wiki_peak": {
-        "strength": 38,
-        "speed": 76,
-        "abilities": 68,
-        "durability": 38
       },
       "delta_path": null,
       "peak_gap": {

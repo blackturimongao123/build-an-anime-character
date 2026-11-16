@@ -3176,21 +3176,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for EMIYA",
-      "expected": null,
-      "id": "emiya-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": "No parse content for Emporio Alnino",
       "expected": null,
       "id": "emporio-jojo",
@@ -3245,21 +3230,6 @@
         "strength": 68
       },
       "wiki_page": "Enel"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Enkidu",
-      "expected": null,
-      "id": "enkidu-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -3323,27 +3293,6 @@
         "strength": 58
       },
       "wiki_page": "Eren Yeager"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "ereshkigal-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Ereshkigal"
     },
     {
       "delta": null,
@@ -4517,27 +4466,6 @@
     },
     {
       "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 97,
-        "durability": 97,
-        "iq": 40,
-        "speed": 82,
-        "strength": 100
-      },
-      "id": "goetia-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 97,
-        "durability": 97,
-        "iq": 50,
-        "speed": 82,
-        "strength": 100
-      },
-      "wiki_page": "Goetia"
-    },
-    {
-      "delta": null,
       "error": "No parse content for Gogeta",
       "expected": null,
       "id": "gogeta-dragon-ball",
@@ -5192,21 +5120,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Hassan-i-Sabbah",
-      "expected": null,
-      "id": "hassan-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 94,
@@ -5246,27 +5159,6 @@
         "strength": 40
       },
       "wiki_page": "Keigo Takami"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "heracles-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Heracles"
     },
     {
       "delta": null,
@@ -5993,42 +5885,6 @@
     },
     {
       "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "ishtar-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Ishtar"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Iskandar",
-      "expected": null,
-      "id": "iskandar-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": "No parse content for Iskandar (King of Conquerors)",
       "expected": null,
       "id": "iskandar-king-fate",
@@ -6275,42 +6131,6 @@
         "strength": 50
       },
       "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Jeanne d'Arc Alter",
-      "expected": null,
-      "id": "jeanne-alter-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "jeanne-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Jeanne d'Arc"
     },
     {
       "delta": null,
@@ -6989,21 +6809,6 @@
         "strength": 36
       },
       "wiki_page": "Karma Akabane"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Karna",
-      "expected": null,
-      "id": "karna-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -8917,27 +8722,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 68,
-        "durability": 97,
-        "iq": 22,
-        "speed": 82,
-        "strength": 100
-      },
-      "id": "mash-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 68,
-        "durability": 97,
-        "iq": 50,
-        "speed": 82,
-        "strength": 100
-      },
-      "wiki_page": "Mash Kyrielight"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 74,
         "durability": 74,
         "iq": 40,
@@ -9032,21 +8816,6 @@
         "strength": 78
       },
       "wiki_page": "Mayuri Kurotsuchi"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Medea",
-      "expected": null,
-      "id": "medea-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -9224,27 +8993,6 @@
         "strength": 85
       },
       "wiki_page": "Mereoleona Vermillion"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 70,
-        "durability": 70,
-        "iq": 85,
-        "speed": 82,
-        "strength": 100
-      },
-      "id": "merlin-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 70,
-        "durability": 70,
-        "iq": 50,
-        "speed": 82,
-        "strength": 100
-      },
-      "wiki_page": "Merlin (Fate)"
     },
     {
       "delta": null,
@@ -9716,21 +9464,6 @@
         "strength": 90
       },
       "wiki_page": "Monspeet"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Mordred",
-      "expected": null,
-      "id": "mordred-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -11536,27 +11269,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 70,
-        "durability": 68,
-        "iq": 72,
-        "speed": 32,
-        "strength": 38
-      },
-      "id": "rin-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 70,
-        "durability": 68,
-        "iq": 50,
-        "speed": 32,
-        "strength": 38
-      },
-      "wiki_page": "Rin Tohsaka"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 52,
         "durability": 52,
         "iq": 72,
@@ -12074,21 +11786,6 @@
         "strength": 40
       },
       "wiki_page": "Scar"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Scathach",
-      "expected": null,
-      "id": "scathach-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -12775,27 +12472,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "solomon-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Solomon"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 97,
         "durability": 97,
         "iq": 85,
@@ -13067,21 +12743,6 @@
         "strength": 52
       },
       "wiki_page": "Tamaki Kotatsu"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Tamamo-no-Mae",
-      "expected": null,
-      "id": "tamamo-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -13571,27 +13232,6 @@
         "strength": 58
       },
       "wiki_page": "Toji Fushiguro"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 68,
-        "durability": 38,
-        "iq": 22,
-        "speed": 76,
-        "strength": 38
-      },
-      "id": "tokiomi-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 68,
-        "durability": 38,
-        "iq": 50,
-        "speed": 76,
-        "strength": 38
-      },
-      "wiki_page": "Tokiomi Tohsaka"
     },
     {
       "delta": null,
