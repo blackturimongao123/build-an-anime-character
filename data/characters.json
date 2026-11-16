@@ -26,7 +26,7 @@
       "strength": 58,
       "speed": 68,
       "abilities": 54,
-      "iq": 50,
+      "iq": 64,
       "durability": 54
     },
     "sources": {
@@ -44,7 +44,7 @@
       "strength": 40,
       "speed": 48,
       "abilities": 40,
-      "iq": 50,
+      "iq": 71,
       "durability": 40
     },
     "sources": {
@@ -80,7 +80,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 65,
       "durability": 50
     },
     "sources": {
@@ -98,7 +98,7 @@
       "strength": 58,
       "speed": 68,
       "abilities": 54,
-      "iq": 50,
+      "iq": 76,
       "durability": 54
     },
     "sources": {
@@ -116,7 +116,7 @@
       "strength": 58,
       "speed": 76,
       "abilities": 68,
-      "iq": 50,
+      "iq": 65,
       "durability": 62
     },
     "sources": {
@@ -134,7 +134,7 @@
       "strength": 58,
       "speed": 68,
       "abilities": 54,
-      "iq": 50,
+      "iq": 79,
       "durability": 54
     },
     "sources": {
@@ -152,7 +152,7 @@
       "strength": 62,
       "speed": 48,
       "abilities": 62,
-      "iq": 50,
+      "iq": 38,
       "durability": 62
     },
     "sources": {
@@ -188,7 +188,7 @@
       "strength": 48,
       "speed": 48,
       "abilities": 38,
-      "iq": 50,
+      "iq": 84,
       "durability": 28
     },
     "sources": {
@@ -206,7 +206,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
@@ -223,7 +223,7 @@
       "strength": 48,
       "speed": 68,
       "abilities": 38,
-      "iq": 50,
+      "iq": 70,
       "durability": 38
     },
     "sources": {
@@ -241,7 +241,7 @@
       "strength": 48,
       "speed": 48,
       "abilities": 38,
-      "iq": 50,
+      "iq": 79,
       "durability": 38
     },
     "sources": {
@@ -259,7 +259,7 @@
       "strength": 36,
       "speed": 48,
       "abilities": 28,
-      "iq": 50,
+      "iq": 84,
       "durability": 90
     },
     "sources": {
@@ -295,65 +295,13 @@
       "strength": 36,
       "speed": 48,
       "abilities": 28,
-      "iq": 50,
+      "iq": 76,
       "durability": 90
     },
     "sources": {
       "wikiPage": "Nagisa Shiota",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Nagisa_Shiota",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Red Guts",
-    "id": "red-guts-ac",
-    "portrait": "/portraits/red-guts-ac.jpg",
-    "series": "Assassination Classroom",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Red Guts",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Red_Guts"
-    }
-  },
-  {
-    "displayName": "Rio",
-    "id": "rio-ac",
-    "portrait": "/portraits/rio-ac.jpg",
-    "series": "Assassination Classroom",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Rio Nakamura",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Rio_Nakamura"
-    }
-  },
-  {
-    "displayName": "Shiro",
-    "id": "shiro-ac",
-    "portrait": "/portraits/shiro-ac.jpg",
-    "series": "Assassination Classroom",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Shiro",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Shiro",
-      "wikiStatKey": "fallback"
     }
   },
   {
@@ -365,7 +313,7 @@
       "strength": 58,
       "speed": 48,
       "abilities": 46,
-      "iq": 50,
+      "iq": 55,
       "durability": 46
     },
     "sources": {
@@ -410,23 +358,6 @@
     }
   },
   {
-    "displayName": "Armored",
-    "id": "ymir-armored-aot",
-    "portrait": "/portraits/ymir-armored-aot.jpg",
-    "series": "Attack on Titan",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Reiner Braun (Armored Titan)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Reiner_Braun_(Armored_Titan)"
-    }
-  },
-  {
     "displayName": "Beast",
     "id": "ymir-beast-aot",
     "portrait": "/portraits/ymir-beast-aot.jpg",
@@ -435,7 +366,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 83,
       "durability": 50
     },
     "sources": {
@@ -470,7 +401,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 61,
       "durability": 50
     },
     "sources": {
@@ -487,7 +418,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 34,
       "durability": 50
     },
     "sources": {
@@ -522,7 +453,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 85,
       "durability": 50
     },
     "sources": {
@@ -539,7 +470,7 @@
       "strength": 58,
       "speed": 48,
       "abilities": 46,
-      "iq": 50,
+      "iq": 64,
       "durability": 46
     },
     "sources": {
@@ -557,7 +488,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 28,
       "durability": 50
     },
     "sources": {
@@ -574,7 +505,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 60,
       "durability": 50
     },
     "sources": {
@@ -591,7 +522,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 82,
       "durability": 50
     },
     "sources": {
@@ -608,7 +539,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 69,
       "durability": 50
     },
     "sources": {
@@ -625,7 +556,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 73,
       "durability": 50
     },
     "sources": {
@@ -642,7 +573,7 @@
       "strength": 38,
       "speed": 48,
       "abilities": 38,
-      "iq": 50,
+      "iq": 73,
       "durability": 38
     },
     "sources": {
@@ -667,24 +598,6 @@
       "iq": 70,
       "speed": 48,
       "strength": 38
-    }
-  },
-  {
-    "displayName": "Levi",
-    "id": "levi-anime-aot",
-    "portrait": "/portraits/levi-anime-aot.jpg",
-    "series": "Attack on Titan",
-    "stats": {
-      "strength": 38,
-      "speed": 48,
-      "abilities": 46,
-      "iq": 50,
-      "durability": 38
-    },
-    "sources": {
-      "wikiPage": "Levi Ackerman",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Levi_Ackerman",
-      "wikiStatKey": "peak (non-manga)"
     }
   },
   {
@@ -720,59 +633,6 @@
     "sources": {
       "wikiPage": "Reiner Braun",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Reiner_Braun",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Sasha",
-    "id": "sasha-aot",
-    "portrait": "/portraits/sasha-aot.jpg",
-    "series": "Attack on Titan",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Sasha Braus",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Sasha_Braus"
-    }
-  },
-  {
-    "displayName": "Warhammer",
-    "id": "warhammer-aot",
-    "portrait": "/portraits/warhammer-aot.jpg",
-    "series": "Attack on Titan",
-    "stats": {
-      "strength": 58,
-      "speed": 32,
-      "abilities": 46,
-      "iq": 50,
-      "durability": 46
-    },
-    "sources": {
-      "wikiPage": "Lara Tybur",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Lara_Tybur",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Ymir",
-    "id": "ymir-aot",
-    "portrait": "/portraits/ymir-aot.jpg",
-    "series": "Attack on Titan",
-    "stats": {
-      "strength": 58,
-      "speed": 48,
-      "abilities": 54,
-      "iq": 50,
-      "durability": 46
-    },
-    "sources": {
-      "wikiPage": "Ymir Fritz",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Ymir_Fritz",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -821,7 +681,7 @@
       "strength": 52,
       "speed": 32,
       "abilities": 52,
-      "iq": 50,
+      "iq": 71,
       "durability": 52
     },
     "sources": {
@@ -839,7 +699,7 @@
       "strength": 52,
       "speed": 32,
       "abilities": 52,
-      "iq": 50,
+      "iq": 59,
       "durability": 52
     },
     "sources": {
@@ -857,7 +717,7 @@
       "strength": 58,
       "speed": 32,
       "abilities": 52,
-      "iq": 50,
+      "iq": 42,
       "durability": 52
     },
     "sources": {
@@ -875,7 +735,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 77,
       "durability": 50
     },
     "sources": {
@@ -892,48 +752,12 @@
       "strength": 52,
       "speed": 32,
       "abilities": 52,
-      "iq": 50,
+      "iq": 22,
       "durability": 52
     },
     "sources": {
       "wikiPage": "Pickle",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Pickle",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Spec",
-    "id": "spec-baki",
-    "portrait": "/portraits/spec-baki.jpg",
-    "series": "Baki",
-    "stats": {
-      "strength": 38,
-      "speed": 32,
-      "abilities": 38,
-      "iq": 50,
-      "durability": 38
-    },
-    "sources": {
-      "wikiPage": "Spec",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Spec",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Sukune",
-    "id": "sukune-baki",
-    "portrait": "/portraits/sukune-baki.jpg",
-    "series": "Baki",
-    "stats": {
-      "strength": 52,
-      "speed": 32,
-      "abilities": 28,
-      "iq": 50,
-      "durability": 28
-    },
-    "sources": {
-      "wikiPage": "Nomi no Sukune",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Nomi_no_Sukune",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -946,7 +770,7 @@
       "strength": 58,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 76,
       "durability": 52
     },
     "sources": {
@@ -982,7 +806,7 @@
       "strength": 70,
       "speed": 82,
       "abilities": 70,
-      "iq": 50,
+      "iq": 39,
       "durability": 70
     },
     "sources": {
@@ -1000,7 +824,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 64,
       "durability": 78
     },
     "sources": {
@@ -1018,7 +842,7 @@
       "strength": 40,
       "speed": 82,
       "abilities": 40,
-      "iq": 50,
+      "iq": 68,
       "durability": 40
     },
     "sources": {
@@ -1036,7 +860,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 74,
       "durability": 78
     },
     "sources": {
@@ -1054,7 +878,7 @@
       "strength": 40,
       "speed": 82,
       "abilities": 66,
-      "iq": 50,
+      "iq": 69,
       "durability": 66
     },
     "sources": {
@@ -1072,7 +896,7 @@
       "strength": 40,
       "speed": 82,
       "abilities": 70,
-      "iq": 50,
+      "iq": 65,
       "durability": 70
     },
     "sources": {
@@ -1090,7 +914,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 58,
       "durability": 50
     },
     "sources": {
@@ -1107,7 +931,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 58,
       "durability": 50
     },
     "sources": {
@@ -1143,7 +967,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 68,
       "durability": 50
     },
     "sources": {
@@ -1160,7 +984,7 @@
       "strength": 40,
       "speed": 82,
       "abilities": 66,
-      "iq": 50,
+      "iq": 42,
       "durability": 66
     },
     "sources": {
@@ -1178,7 +1002,7 @@
       "strength": 40,
       "speed": 82,
       "abilities": 40,
-      "iq": 50,
+      "iq": 67,
       "durability": 40
     },
     "sources": {
@@ -1196,7 +1020,7 @@
       "strength": 70,
       "speed": 82,
       "abilities": 74,
-      "iq": 50,
+      "iq": 76,
       "durability": 70
     },
     "sources": {
@@ -1214,7 +1038,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 53,
       "durability": 78
     },
     "sources": {
@@ -1232,7 +1056,7 @@
       "strength": 40,
       "speed": 82,
       "abilities": 70,
-      "iq": 50,
+      "iq": 66,
       "durability": 70
     },
     "sources": {
@@ -1250,7 +1074,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 64,
       "durability": 50
     },
     "sources": {
@@ -1268,30 +1092,13 @@
       "strength": 85,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 71,
       "durability": 78
     },
     "sources": {
       "wikiPage": "Mereoleona Vermillion",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Mereoleona_Vermillion",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Morris",
-    "id": "morris-black-clover",
-    "portrait": "/portraits/morris-black-clover.jpg",
-    "series": "Black Clover",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Morris",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Morris"
     }
   },
   {
@@ -1321,7 +1128,7 @@
       "strength": 40,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 70,
       "durability": 78
     },
     "sources": {
@@ -1339,46 +1146,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Patri",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Patri"
-    }
-  },
-  {
-    "displayName": "Rebecca",
-    "id": "rebecca-black-clover",
-    "portrait": "/portraits/rebecca-black-clover.jpg",
-    "series": "Black Clover",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Rebecca Scarlet",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Rebecca_Scarlet"
-    }
-  },
-  {
-    "displayName": "Sally",
-    "id": "sally-black-clover",
-    "portrait": "/portraits/sally-black-clover.jpg",
-    "series": "Black Clover",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Sally",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Sally"
     }
   },
   {
@@ -1390,30 +1163,12 @@
       "strength": 40,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 75,
       "durability": 78
     },
     "sources": {
       "wikiPage": "William Vangeance",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/William_Vangeance",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Vanica",
-    "id": "vanica-black-clover",
-    "portrait": "/portraits/vanica-black-clover.jpg",
-    "series": "Black Clover",
-    "stats": {
-      "strength": 78,
-      "speed": 82,
-      "abilities": 78,
-      "iq": 50,
-      "durability": 78
-    },
-    "sources": {
-      "wikiPage": "Vanica Zogratis",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Vanica_Zogratis",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -1462,7 +1217,7 @@
       "strength": 70,
       "speed": 82,
       "abilities": 70,
-      "iq": 50,
+      "iq": 79,
       "durability": 70
     },
     "sources": {
@@ -1480,7 +1235,7 @@
       "strength": 85,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 76,
       "durability": 78
     },
     "sources": {
@@ -1498,7 +1253,7 @@
       "strength": 74,
       "speed": 72,
       "abilities": 74,
-      "iq": 50,
+      "iq": 49,
       "durability": 74
     },
     "sources": {
@@ -1534,7 +1289,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 40,
-      "iq": 50,
+      "iq": 69,
       "durability": 78
     },
     "sources": {
@@ -1552,7 +1307,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 40,
-      "iq": 50,
+      "iq": 37,
       "durability": 78
     },
     "sources": {
@@ -1570,7 +1325,7 @@
       "strength": 58,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 49,
       "durability": 78
     },
     "sources": {
@@ -1588,7 +1343,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 71,
       "durability": 78
     },
     "sources": {
@@ -1606,7 +1361,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 74,
       "durability": 78
     },
     "sources": {
@@ -1624,7 +1379,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 17,
       "durability": 78
     },
     "sources": {
@@ -1642,7 +1397,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 69,
       "durability": 50
     },
     "sources": {
@@ -1659,7 +1414,7 @@
       "strength": 74,
       "speed": 76,
       "abilities": 74,
-      "iq": 50,
+      "iq": 38,
       "durability": 74
     },
     "sources": {
@@ -1677,7 +1432,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 48,
       "durability": 80
     },
     "sources": {
@@ -1695,7 +1450,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 92,
       "durability": 78
     },
     "sources": {
@@ -1713,7 +1468,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 66,
       "durability": 78
     },
     "sources": {
@@ -1731,7 +1486,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 99,
-      "iq": 50,
+      "iq": 56,
       "durability": 78
     },
     "sources": {
@@ -1749,7 +1504,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 76,
       "durability": 50
     },
     "sources": {
@@ -1766,7 +1521,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 56,
       "durability": 50
     },
     "sources": {
@@ -1783,7 +1538,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 69,
       "durability": 50
     },
     "sources": {
@@ -1800,7 +1555,7 @@
       "strength": 70,
       "speed": 76,
       "abilities": 70,
-      "iq": 50,
+      "iq": 49,
       "durability": 70
     },
     "sources": {
@@ -1818,7 +1573,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 43,
       "durability": 50
     },
     "sources": {
@@ -1835,7 +1590,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 84,
       "durability": 50
     },
     "sources": {
@@ -1871,7 +1626,7 @@
       "strength": 74,
       "speed": 76,
       "abilities": 74,
-      "iq": 50,
+      "iq": 54,
       "durability": 70
     },
     "sources": {
@@ -1889,7 +1644,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 72,
       "durability": 78
     },
     "sources": {
@@ -1907,7 +1662,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 81,
       "durability": 78
     },
     "sources": {
@@ -1925,7 +1680,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 36,
       "durability": 78
     },
     "sources": {
@@ -1943,7 +1698,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 52,
       "durability": 78
     },
     "sources": {
@@ -1961,7 +1716,7 @@
       "strength": 74,
       "speed": 76,
       "abilities": 74,
-      "iq": 50,
+      "iq": 74,
       "durability": 74
     },
     "sources": {
@@ -1979,7 +1734,7 @@
       "strength": 92,
       "speed": 82,
       "abilities": 92,
-      "iq": 50,
+      "iq": 77,
       "durability": 92
     },
     "sources": {
@@ -1997,7 +1752,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 61,
       "durability": 78
     },
     "sources": {
@@ -2015,7 +1770,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 65,
       "durability": 78
     },
     "sources": {
@@ -2033,7 +1788,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 73,
       "durability": 78
     },
     "sources": {
@@ -2051,7 +1806,7 @@
       "strength": 74,
       "speed": 76,
       "abilities": 74,
-      "iq": 50,
+      "iq": 72,
       "durability": 74
     },
     "sources": {
@@ -2069,7 +1824,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 65,
       "durability": 78
     },
     "sources": {
@@ -2087,7 +1842,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 37,
       "durability": 50
     },
     "sources": {
@@ -2104,7 +1859,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 35,
       "durability": 78
     },
     "sources": {
@@ -2122,7 +1877,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 98,
       "durability": 78
     },
     "sources": {
@@ -2140,7 +1895,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 42,
       "durability": 78
     },
     "sources": {
@@ -2158,7 +1913,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 61,
       "durability": 78
     },
     "sources": {
@@ -2176,7 +1931,7 @@
       "strength": 58,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 79,
       "durability": 78
     },
     "sources": {
@@ -2194,7 +1949,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 64,
       "durability": 78
     },
     "sources": {
@@ -2212,7 +1967,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 72,
       "durability": 78
     },
     "sources": {
@@ -2230,7 +1985,7 @@
       "strength": 74,
       "speed": 76,
       "abilities": 74,
-      "iq": 50,
+      "iq": 46,
       "durability": 74
     },
     "sources": {
@@ -2248,7 +2003,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 74,
       "durability": 50
     },
     "sources": {
@@ -2266,7 +2021,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 34,
       "durability": 50
     },
     "sources": {
@@ -2283,7 +2038,7 @@
       "strength": 58,
       "speed": 88,
       "abilities": 78,
-      "iq": 50,
+      "iq": 67,
       "durability": 94
     },
     "sources": {
@@ -2301,7 +2056,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 52,
       "durability": 50
     },
     "sources": {
@@ -2318,7 +2073,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 56,
       "durability": 78
     },
     "sources": {
@@ -2336,7 +2091,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 69,
       "durability": 78
     },
     "sources": {
@@ -2354,7 +2109,7 @@
       "strength": 70,
       "speed": 76,
       "abilities": 70,
-      "iq": 50,
+      "iq": 63,
       "durability": 70
     },
     "sources": {
@@ -2372,7 +2127,7 @@
       "strength": 92,
       "speed": 82,
       "abilities": 92,
-      "iq": 50,
+      "iq": 58,
       "durability": 92
     },
     "sources": {
@@ -2390,7 +2145,7 @@
       "strength": 58,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 66,
       "durability": 78
     },
     "sources": {
@@ -2408,7 +2163,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 67,
       "durability": 50
     },
     "sources": {
@@ -2425,7 +2180,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 68,
       "durability": 78
     },
     "sources": {
@@ -2443,7 +2198,7 @@
       "strength": 92,
       "speed": 82,
       "abilities": 92,
-      "iq": 50,
+      "iq": 79,
       "durability": 92
     },
     "sources": {
@@ -2461,7 +2216,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 72,
       "durability": 78
     },
     "sources": {
@@ -2479,7 +2234,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 80,
       "durability": 50
     },
     "sources": {
@@ -2496,7 +2251,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 68,
       "durability": 50
     },
     "sources": {
@@ -2513,7 +2268,7 @@
       "strength": 92,
       "speed": 88,
       "abilities": 96,
-      "iq": 50,
+      "iq": 95,
       "durability": 94
     },
     "sources": {
@@ -2531,7 +2286,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 74,
       "durability": 78
     },
     "sources": {
@@ -2549,7 +2304,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 88,
       "durability": 50
     },
     "sources": {
@@ -2566,7 +2321,7 @@
       "strength": 78,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 71,
       "durability": 78
     },
     "sources": {
@@ -2584,7 +2339,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 54,
       "durability": 50
     },
     "sources": {
@@ -2601,7 +2356,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 78,
       "durability": 50
     },
     "sources": {
@@ -2619,7 +2374,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 79,
       "durability": 50
     },
     "sources": {
@@ -2636,7 +2391,7 @@
       "strength": 58,
       "speed": 76,
       "abilities": 40,
-      "iq": 50,
+      "iq": 77,
       "durability": 40
     },
     "sources": {
@@ -2654,7 +2409,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 79,
       "durability": 78
     },
     "sources": {
@@ -2672,7 +2427,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 99,
       "durability": 78
     },
     "sources": {
@@ -2690,7 +2445,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 81,
       "durability": 50
     },
     "sources": {
@@ -2707,7 +2462,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 44,
       "durability": 50
     },
     "sources": {
@@ -2742,7 +2497,7 @@
       "strength": 78,
       "speed": 40,
       "abilities": 78,
-      "iq": 50,
+      "iq": 26,
       "durability": 78
     },
     "sources": {
@@ -2760,7 +2515,7 @@
       "strength": 94,
       "speed": 88,
       "abilities": 96,
-      "iq": 50,
+      "iq": 86,
       "durability": 94
     },
     "sources": {
@@ -2778,7 +2533,7 @@
       "strength": 78,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 80,
       "durability": 78
     },
     "sources": {
@@ -2796,7 +2551,7 @@
       "strength": 74,
       "speed": 76,
       "abilities": 74,
-      "iq": 50,
+      "iq": 54,
       "durability": 78
     },
     "sources": {
@@ -2814,7 +2569,7 @@
       "strength": 46,
       "speed": 72,
       "abilities": 46,
-      "iq": 50,
+      "iq": 71,
       "durability": 46
     },
     "sources": {
@@ -2832,7 +2587,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
@@ -2850,7 +2605,7 @@
       "strength": 38,
       "speed": 72,
       "abilities": 42,
-      "iq": 50,
+      "iq": 22,
       "durability": 38
     },
     "sources": {
@@ -2878,23 +2633,6 @@
     }
   },
   {
-    "displayName": "Denji",
-    "id": "denji-chainsaw-csm",
-    "portrait": "/portraits/denji-chainsaw-csm.webp",
-    "series": "Chainsaw Man",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Denji",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Denji"
-    }
-  },
-  {
     "displayName": "Fami",
     "id": "fami-csm",
     "portrait": "/portraits/fami-csm.webp",
@@ -2903,7 +2641,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 78,
       "durability": 50
     },
     "sources": {
@@ -2920,7 +2658,7 @@
       "strength": 42,
       "speed": 72,
       "abilities": 42,
-      "iq": 50,
+      "iq": 65,
       "durability": 42
     },
     "sources": {
@@ -2938,7 +2676,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 78,
       "durability": 50
     },
     "sources": {
@@ -2955,7 +2693,7 @@
       "strength": 40,
       "speed": 72,
       "abilities": 72,
-      "iq": 50,
+      "iq": 46,
       "durability": 40
     },
     "sources": {
@@ -2983,24 +2721,6 @@
     }
   },
   {
-    "displayName": "Makima",
-    "id": "makima-csm",
-    "portrait": "/portraits/makima-csm.webp",
-    "series": "Chainsaw Man",
-    "stats": {
-      "strength": 58,
-      "speed": 76,
-      "abilities": 54,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Makima",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Makima",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Power",
     "id": "power-csm",
     "portrait": "/portraits/power-csm.webp",
@@ -3009,30 +2729,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 28,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Power",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Power"
-    }
-  },
-  {
-    "displayName": "Quanxi",
-    "id": "quanxi-csm",
-    "portrait": "/portraits/quanxi-csm.webp",
-    "series": "Chainsaw Man",
-    "stats": {
-      "strength": 58,
-      "speed": 76,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Quanxi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Quanxi",
-      "wikiStatKey": "peak (non-manga)"
     }
   },
   {
@@ -3044,30 +2746,13 @@
       "strength": 40,
       "speed": 72,
       "abilities": 50,
-      "iq": 50,
+      "iq": 71,
       "durability": 46
     },
     "sources": {
       "wikiPage": "Reze",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Reze",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Yoru",
-    "id": "yoru-csm",
-    "portrait": "/portraits/yoru-csm.jpg",
-    "series": "Chainsaw Man",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Yoru",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Yoru"
     }
   },
   {
@@ -3079,7 +2764,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 73,
       "durability": 50
     },
     "sources": {
@@ -3114,7 +2799,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 85,
       "durability": 50
     },
     "sources": {
@@ -3131,7 +2816,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 75,
       "durability": 50
     },
     "sources": {
@@ -3148,7 +2833,7 @@
       "strength": 40,
       "speed": 40,
       "abilities": 22,
-      "iq": 50,
+      "iq": 68,
       "durability": 22
     },
     "sources": {
@@ -3166,7 +2851,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 66,
       "durability": 50
     },
     "sources": {
@@ -3193,24 +2878,6 @@
     }
   },
   {
-    "displayName": "Lelouch",
-    "id": "euclid-geass",
-    "portrait": "/portraits/euclid-geass.webp",
-    "series": "Code Geass",
-    "stats": {
-      "strength": 40,
-      "speed": 48,
-      "abilities": 22,
-      "iq": 50,
-      "durability": 12
-    },
-    "sources": {
-      "wikiPage": "Lelouch vi Britannia",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Lelouch_vi_Britannia",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Luciano",
     "id": "luciano-geass",
     "portrait": "/portraits/luciano-geass.webp",
@@ -3219,46 +2886,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 34,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Luciano Bradley",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Luciano_Bradley"
-    }
-  },
-  {
-    "displayName": "Marianne",
-    "id": "marianne-geass",
-    "portrait": "/portraits/marianne-geass.webp",
-    "series": "Code Geass",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Marianne vi Britannia",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Marianne_vi_Britannia"
-    }
-  },
-  {
-    "displayName": "Monica",
-    "id": "monica-geass",
-    "portrait": "/portraits/monica-geass.png",
-    "series": "Code Geass",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Monica Krushevsky",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Monica_Krushevsky"
     }
   },
   {
@@ -3270,7 +2903,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 66,
       "durability": 50
     },
     "sources": {
@@ -3287,7 +2920,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 94,
       "durability": 50
     },
     "sources": {
@@ -3304,30 +2937,13 @@
       "strength": 100,
       "speed": 48,
       "abilities": 50,
-      "iq": 50,
+      "iq": 68,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Suzaku Kururugi",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Suzaku_Kururugi",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "V.V.",
-    "id": "vv-geass",
-    "portrait": "/portraits/vv-geass.jpg",
-    "series": "Code Geass",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "V.V.",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/V.V."
     }
   },
   {
@@ -3490,24 +3106,6 @@
     }
   },
   {
-    "displayName": "Ryuk",
-    "id": "shinigami-dn",
-    "portrait": "/portraits/shinigami-dn.jpg",
-    "series": "Death Note",
-    "stats": {
-      "strength": 40,
-      "speed": 36,
-      "abilities": 40,
-      "iq": 50,
-      "durability": 40
-    },
-    "sources": {
-      "wikiPage": "Ryuk",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Ryuk",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Sidoh",
     "id": "sidoh-dn",
     "portrait": "/portraits/sidoh-dn.jpg",
@@ -3566,7 +3164,7 @@
     "stats": {
       "abilities": 52,
       "durability": 52,
-      "iq": 50,
+      "iq": 61,
       "speed": 76,
       "strength": 52
     },
@@ -3585,7 +3183,7 @@
       "strength": 44,
       "speed": 76,
       "abilities": 42,
-      "iq": 50,
+      "iq": 51,
       "durability": 38
     },
     "sources": {
@@ -3603,7 +3201,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 73,
       "durability": 52
     },
     "sources": {
@@ -3621,7 +3219,7 @@
       "strength": 44,
       "speed": 76,
       "abilities": 38,
-      "iq": 50,
+      "iq": 66,
       "durability": 38
     },
     "sources": {
@@ -3639,7 +3237,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 57,
       "durability": 52
     },
     "sources": {
@@ -3657,7 +3255,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 69,
       "durability": 52
     },
     "sources": {
@@ -3675,7 +3273,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 33,
       "durability": 52
     },
     "sources": {
@@ -3693,7 +3291,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 70,
       "durability": 52
     },
     "sources": {
@@ -3711,7 +3309,7 @@
       "strength": 40,
       "speed": 76,
       "abilities": 40,
-      "iq": 50,
+      "iq": 60,
       "durability": 52
     },
     "sources": {
@@ -3747,7 +3345,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 35,
       "durability": 52
     },
     "sources": {
@@ -3765,7 +3363,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 67,
       "durability": 52
     },
     "sources": {
@@ -3801,7 +3399,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 54,
       "durability": 52
     },
     "sources": {
@@ -3819,7 +3417,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 74,
       "durability": 52
     },
     "sources": {
@@ -3843,24 +3441,6 @@
     "sources": {
       "wikiPage": "Muzan Kibutsuji",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Muzan_Kibutsuji",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Nakime",
-    "id": "nakime-demon-slayer",
-    "portrait": "/portraits/nakime-demon-slayer.webp",
-    "series": "Demon Slayer",
-    "stats": {
-      "strength": 52,
-      "speed": 76,
-      "abilities": 52,
-      "iq": 50,
-      "durability": 52
-    },
-    "sources": {
-      "wikiPage": "Nakime",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Nakime",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -3891,7 +3471,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 66,
       "durability": 52
     },
     "sources": {
@@ -3927,7 +3507,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 64,
       "durability": 50
     },
     "sources": {
@@ -3944,7 +3524,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 67,
       "durability": 52
     },
     "sources": {
@@ -3962,30 +3542,13 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 79,
       "durability": 52
     },
     "sources": {
       "wikiPage": "Shinobu Kocho",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Shinobu_Kocho",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Tamayo",
-    "id": "tamayo-demon-slayer",
-    "portrait": "/portraits/tamayo-demon-slayer.jpg",
-    "series": "Demon Slayer",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Tamayo",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Tamayo"
     }
   },
   {
@@ -4015,7 +3578,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 73,
       "durability": 52
     },
     "sources": {
@@ -4033,30 +3596,12 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 75,
       "durability": 52
     },
     "sources": {
       "wikiPage": "Yoriichi Tsugikuni",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Yoriichi_Tsugikuni",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Yushiro",
-    "id": "yushiro-demon-slayer",
-    "portrait": "/portraits/yushiro-demon-slayer.jpg",
-    "series": "Demon Slayer",
-    "stats": {
-      "strength": 38,
-      "speed": 32,
-      "abilities": 38,
-      "iq": 50,
-      "durability": 38
-    },
-    "sources": {
-      "wikiPage": "Yushiro",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Yushiro",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -4087,7 +3632,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 87,
       "durability": 50
     },
     "sources": {
@@ -4104,7 +3649,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 81,
       "durability": 50
     },
     "sources": {
@@ -4121,7 +3666,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 35,
       "durability": 50
     },
     "sources": {
@@ -4138,7 +3683,7 @@
       "strength": 52,
       "speed": 48,
       "abilities": 28,
-      "iq": 50,
+      "iq": 72,
       "durability": 28
     },
     "sources": {
@@ -4156,7 +3701,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 44,
       "durability": 50
     },
     "sources": {
@@ -4173,7 +3718,7 @@
       "strength": 52,
       "speed": 48,
       "abilities": 28,
-      "iq": 50,
+      "iq": 72,
       "durability": 28
     },
     "sources": {
@@ -4191,29 +3736,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 31,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Magma",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Magma"
-    }
-  },
-  {
-    "displayName": "Ryusui",
-    "id": "ryusui-stone",
-    "portrait": "/portraits/ryusui-stone.webp",
-    "series": "Dr. Stone",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Ryusui Nanami",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Ryusui_Nanami"
     }
   },
   {
@@ -4235,23 +3763,6 @@
     }
   },
   {
-    "displayName": "Stanley",
-    "id": "stanley-stone",
-    "portrait": "/portraits/stanley-stone.webp",
-    "series": "Dr. Stone",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Stanley Snyder",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Stanley_Snyder"
-    }
-  },
-  {
     "displayName": "Taiju",
     "id": "taiju-stone",
     "portrait": "/portraits/taiju-stone.webp",
@@ -4260,7 +3771,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 41,
       "durability": 50
     },
     "sources": {
@@ -4277,64 +3788,13 @@
       "strength": 52,
       "speed": 48,
       "abilities": 28,
-      "iq": 50,
+      "iq": 77,
       "durability": 28
     },
     "sources": {
       "wikiPage": "Tsukasa Shishio",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Tsukasa_Shishio",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Whyman",
-    "id": "whyman-stone",
-    "portrait": "/portraits/whyman-stone.webp",
-    "series": "Dr. Stone",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Whyman",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Whyman"
-    }
-  },
-  {
-    "displayName": "Xeno",
-    "id": "xeno-stone",
-    "portrait": "/portraits/xeno-stone.jpg",
-    "series": "Dr. Stone",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Xeno Houston Wingfield",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Xeno_Houston_Wingfield"
-    }
-  },
-  {
-    "displayName": "Yuzuriha",
-    "id": "yuzuriha-stone",
-    "portrait": "/portraits/yuzuriha-stone.jpg",
-    "series": "Dr. Stone",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Yuzuriha Ogawa",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Yuzuriha_Ogawa"
     }
   },
   {
@@ -4346,7 +3806,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 62,
       "durability": 50
     },
     "sources": {
@@ -4363,7 +3823,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 62,
       "durability": 50
     },
     "sources": {
@@ -4380,7 +3840,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 56,
       "durability": 50
     },
     "sources": {
@@ -4398,7 +3858,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 38,
       "durability": 50
     },
     "sources": {
@@ -4416,7 +3876,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 75,
       "durability": 50
     },
     "sources": {
@@ -4434,7 +3894,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 67,
       "durability": 50
     },
     "sources": {
@@ -4452,7 +3912,7 @@
       "strength": 92,
       "speed": 88,
       "abilities": 92,
-      "iq": 50,
+      "iq": 68,
       "durability": 92
     },
     "sources": {
@@ -4470,7 +3930,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 63,
       "durability": 50
     },
     "sources": {
@@ -4487,7 +3947,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
@@ -4505,7 +3965,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
@@ -4529,23 +3989,6 @@
       "iq": 65,
       "speed": 88,
       "strength": 94
-    }
-  },
-  {
-    "displayName": "Goku",
-    "id": "goku-ui-dragon-ball",
-    "portrait": "/portraits/goku-ui-dragon-ball.jpg",
-    "series": "Dragon Ball",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Son Goku (Ultra Instinct)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Son_Goku_(Ultra_Instinct)"
     }
   },
   {
@@ -4575,7 +4018,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 77,
       "durability": 50
     },
     "sources": {
@@ -4593,7 +4036,7 @@
       "strength": 94,
       "speed": 92,
       "abilities": 94,
-      "iq": 50,
+      "iq": 30,
       "durability": 94
     },
     "sources": {
@@ -4611,7 +4054,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 64,
       "durability": 50
     },
     "sources": {
@@ -4629,7 +4072,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 66,
       "durability": 50
     },
     "sources": {
@@ -4647,7 +4090,7 @@
       "strength": 80,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 32,
       "durability": 80
     },
     "sources": {
@@ -4665,7 +4108,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 75,
       "durability": 50
     },
     "sources": {
@@ -4683,7 +4126,7 @@
       "strength": 80,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 52,
       "durability": 80
     },
     "sources": {
@@ -4701,7 +4144,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 65,
       "durability": 50
     },
     "sources": {
@@ -4719,7 +4162,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 76,
       "durability": 50
     },
     "sources": {
@@ -4737,7 +4180,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
@@ -4765,23 +4208,6 @@
     }
   },
   {
-    "displayName": "Vegeta",
-    "id": "vegeta-ssb-evolved-dragon-ball",
-    "portrait": "/portraits/vegeta-ssb-evolved-dragon-ball.jpg",
-    "series": "Dragon Ball",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Vegeta (Super Saiyan Blue Evolved)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Vegeta_(Super_Saiyan_Blue_Evolved)"
-    }
-  },
-  {
     "displayName": "Whis",
     "id": "whis-dragon-ball",
     "portrait": "/portraits/whis-dragon-ball.jpg",
@@ -4790,7 +4216,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 87,
       "durability": 50
     },
     "sources": {
@@ -4808,7 +4234,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 74,
       "durability": 50
     },
     "sources": {
@@ -4824,7 +4250,7 @@
     "stats": {
       "abilities": 96,
       "durability": 96,
-      "iq": 50,
+      "iq": 49,
       "speed": 88,
       "strength": 96
     },
@@ -4832,23 +4258,6 @@
       "wikiPage": "Acnologia",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Acnologia",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Acnologia",
-    "id": "acnologia-human-fairy-tail",
-    "portrait": "/portraits/acnologia-human-fairy-tail.jpg",
-    "series": "Fairy Tail",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Acnologia (Human)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Acnologia_(Human)"
     }
   },
   {
@@ -4860,7 +4269,7 @@
       "strength": 96,
       "speed": 88,
       "abilities": 96,
-      "iq": 50,
+      "iq": 49,
       "durability": 96
     },
     "sources": {
@@ -4878,7 +4287,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 82,
-      "iq": 50,
+      "iq": 76,
       "durability": 82
     },
     "sources": {
@@ -4896,7 +4305,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 58,
       "durability": 78
     },
     "sources": {
@@ -4914,7 +4323,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 62,
       "durability": 78
     },
     "sources": {
@@ -4950,7 +4359,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 82,
-      "iq": 50,
+      "iq": 80,
       "durability": 82
     },
     "sources": {
@@ -4968,7 +4377,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 56,
       "durability": 80
     },
     "sources": {
@@ -4986,7 +4395,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 63,
       "durability": 50
     },
     "sources": {
@@ -5004,7 +4413,7 @@
       "strength": 96,
       "speed": 88,
       "abilities": 96,
-      "iq": 50,
+      "iq": 52,
       "durability": 96
     },
     "sources": {
@@ -5022,7 +4431,7 @@
       "strength": 96,
       "speed": 88,
       "abilities": 96,
-      "iq": 50,
+      "iq": 73,
       "durability": 96
     },
     "sources": {
@@ -5040,7 +4449,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 75,
       "durability": 78
     },
     "sources": {
@@ -5058,47 +4467,12 @@
       "strength": 90,
       "speed": 88,
       "abilities": 82,
-      "iq": 50,
+      "iq": 67,
       "durability": 82
     },
     "sources": {
       "wikiPage": "Irene Belserion",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Irene_Belserion",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Irene",
-    "id": "irene-dragon-fairy-tail",
-    "portrait": "/portraits/irene-dragon-fairy-tail.webp",
-    "series": "Fairy Tail",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Irene Belserion (Dragon)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Irene_Belserion_(Dragon)"
-    }
-  },
-  {
-    "displayName": "Jacob",
-    "id": "jacob-fairy-tail",
-    "portrait": "/portraits/jacob-fairy-tail.jpg",
-    "series": "Fairy Tail",
-    "stats": {
-      "strength": 90,
-      "speed": 82,
-      "abilities": 78,
-      "iq": 50,
-      "durability": 78
-    },
-    "sources": {
-      "wikiPage": "Jacob Lessio",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Jacob_Lessio",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -5111,7 +4485,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 80,
-      "iq": 50,
+      "iq": 87,
       "durability": 80
     },
     "sources": {
@@ -5129,7 +4503,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 61,
       "durability": 50
     },
     "sources": {
@@ -5147,7 +4521,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 56,
       "durability": 50
     },
     "sources": {
@@ -5165,7 +4539,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 62,
       "durability": 78
     },
     "sources": {
@@ -5183,7 +4557,7 @@
       "strength": 40,
       "speed": 82,
       "abilities": 96,
-      "iq": 50,
+      "iq": 85,
       "durability": 96
     },
     "sources": {
@@ -5201,7 +4575,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 78,
-      "iq": 50,
+      "iq": 64,
       "durability": 78
     },
     "sources": {
@@ -5229,59 +4603,6 @@
     }
   },
   {
-    "displayName": "Natsu",
-    "id": "natsu-ignia-fairy-tail",
-    "portrait": "/portraits/natsu-ignia-fairy-tail.jpg",
-    "series": "Fairy Tail",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Natsu Dragneel (Dragon Force)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Natsu_Dragneel_(Dragon_Force)"
-    }
-  },
-  {
-    "displayName": "Neinhart",
-    "id": "neinhart-fairy-tail",
-    "portrait": "/portraits/neinhart-fairy-tail.jpg",
-    "series": "Fairy Tail",
-    "stats": {
-      "strength": 78,
-      "speed": 82,
-      "abilities": 78,
-      "iq": 50,
-      "durability": 78
-    },
-    "sources": {
-      "wikiPage": "Neinhart",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Neinhart",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Selene",
-    "id": "selene-fairy-tail",
-    "portrait": "/portraits/selene-fairy-tail.jpg",
-    "series": "Fairy Tail",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Selene",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Selene",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
     "displayName": "Ultear",
     "id": "ultear-fairy-tail",
     "portrait": "/portraits/ultear-fairy-tail.jpg",
@@ -5290,30 +4611,12 @@
       "strength": 68,
       "speed": 82,
       "abilities": 68,
-      "iq": 50,
+      "iq": 76,
       "durability": 68
     },
     "sources": {
       "wikiPage": "Ultear Milkovich",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Ultear_Milkovich",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Wall",
-    "id": "wall-echtena-fairy-tail",
-    "portrait": "/portraits/wall-echtena-fairy-tail.jpg",
-    "series": "Fairy Tail",
-    "stats": {
-      "strength": 90,
-      "speed": 82,
-      "abilities": 78,
-      "iq": 50,
-      "durability": 78
-    },
-    "sources": {
-      "wikiPage": "Wall Eehto",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Wall_Eehto",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -5336,24 +4639,6 @@
     }
   },
   {
-    "displayName": "Zeref",
-    "id": "zeref-fairy-tail",
-    "portrait": "/portraits/zeref-fairy-tail.webp",
-    "series": "Fairy Tail",
-    "stats": {
-      "strength": 96,
-      "speed": 88,
-      "abilities": 96,
-      "iq": 50,
-      "durability": 96
-    },
-    "sources": {
-      "wikiPage": "Zeref Dragneel",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Zeref_Dragneel",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Archer",
     "id": "emiya-fate",
     "portrait": "/portraits/emiya-fate.jpg",
@@ -5362,7 +4647,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 65,
       "durability": 50
     },
     "sources": {
@@ -5379,7 +4664,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 73,
       "durability": 50
     },
     "sources": {
@@ -5396,7 +4681,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 15,
       "durability": 50
     },
     "sources": {
@@ -5414,7 +4699,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 71,
       "durability": 50
     },
     "sources": {
@@ -5473,23 +4758,6 @@
       "iq": 68,
       "speed": 88,
       "strength": 100
-    }
-  },
-  {
-    "displayName": "Gilgamesh",
-    "id": "gilgamesh-ea-fate",
-    "portrait": "/portraits/gilgamesh-ea-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Gilgamesh (Fate)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Gilgamesh_(Fate)"
     }
   },
   {
@@ -5598,24 +4866,6 @@
     }
   },
   {
-    "displayName": "Kirei",
-    "id": "kirei-fate",
-    "portrait": "/portraits/kirei-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 68,
-      "speed": 88,
-      "abilities": 68,
-      "iq": 50,
-      "durability": 68
-    },
-    "sources": {
-      "wikiPage": "Kirei Kotomine",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kirei_Kotomine",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Mash",
     "id": "mash-fate",
     "portrait": "/portraits/mash-fate.jpg",
@@ -5694,7 +4944,7 @@
       "strength": 38,
       "speed": 32,
       "abilities": 70,
-      "iq": 50,
+      "iq": 76,
       "durability": 68
     },
     "sources": {
@@ -5718,24 +4968,6 @@
     "sources": {
       "wikiPage": "Scathach",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Scathach"
-    }
-  },
-  {
-    "displayName": "Shirou",
-    "id": "shirou-fate",
-    "portrait": "/portraits/shirou-fate.jpg",
-    "series": "Fate",
-    "stats": {
-      "strength": 70,
-      "speed": 88,
-      "abilities": 70,
-      "iq": 50,
-      "durability": 97
-    },
-    "sources": {
-      "wikiPage": "Shirou Emiya",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Shirou_Emiya",
-      "wikiStatKey": "peak (non-manga)"
     }
   },
   {
@@ -5800,7 +5032,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 78,
       "durability": 50
     },
     "sources": {
@@ -5854,7 +5086,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 61,
       "durability": 50
     },
     "sources": {
@@ -5872,7 +5104,7 @@
       "strength": 40,
       "speed": 88,
       "abilities": 94,
-      "iq": 50,
+      "iq": 72,
       "durability": 94
     },
     "sources": {
@@ -5890,7 +5122,7 @@
       "strength": 58,
       "speed": 82,
       "abilities": 58,
-      "iq": 50,
+      "iq": 78,
       "durability": 58
     },
     "sources": {
@@ -5908,7 +5140,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 58,
       "durability": 50
     },
     "sources": {
@@ -5926,47 +5158,13 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 77,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Joker",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Joker",
       "wikiStatKey": "fallback"
-    }
-  },
-  {
-    "displayName": "Konro",
-    "id": "konro-fire-force",
-    "portrait": "/portraits/konro-fire-force.jpg",
-    "series": "Fire Force",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Konro Sagamihara",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Konro_Sagamihara"
-    }
-  },
-  {
-    "displayName": "Licht",
-    "id": "licht-fire-force",
-    "portrait": "/portraits/licht-fire-force.jpg",
-    "series": "Fire Force",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Yuu",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Yuu"
     }
   },
   {
@@ -5978,7 +5176,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 67,
       "durability": 52
     },
     "sources": {
@@ -6032,30 +5230,13 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 46,
       "durability": 52
     },
     "sources": {
       "wikiPage": "Tamaki Kotatsu",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Tamaki_Kotatsu",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Toru",
-    "id": "toru-fire-force",
-    "portrait": "/portraits/toru-fire-force.jpg",
-    "series": "Fire Force",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Toru",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Toru"
     }
   },
   {
@@ -6077,24 +5258,6 @@
     }
   },
   {
-    "displayName": "Alphonse",
-    "id": "hohe-brother-fma",
-    "portrait": "/portraits/hohe-brother-fma.jpg",
-    "series": "Fullmetal Alchemist",
-    "stats": {
-      "strength": 38,
-      "speed": 48,
-      "abilities": 52,
-      "iq": 50,
-      "durability": 38
-    },
-    "sources": {
-      "wikiPage": "Alphonse Elric",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Alphonse_Elric",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Bradley",
     "id": "king-bradley-fma",
     "portrait": "/portraits/king-bradley-fma.jpg",
@@ -6103,7 +5266,7 @@
       "strength": 44,
       "speed": 68,
       "abilities": 38,
-      "iq": 50,
+      "iq": 65,
       "durability": 38
     },
     "sources": {
@@ -6121,7 +5284,7 @@
       "strength": 44,
       "speed": 48,
       "abilities": 38,
-      "iq": 50,
+      "iq": 55,
       "durability": 38
     },
     "sources": {
@@ -6149,24 +5312,6 @@
     }
   },
   {
-    "displayName": "Edward",
-    "id": "edward-fma",
-    "portrait": "/portraits/edward-fma.jpg",
-    "series": "Fullmetal Alchemist",
-    "stats": {
-      "strength": 58,
-      "speed": 48,
-      "abilities": 38,
-      "iq": 50,
-      "durability": 52
-    },
-    "sources": {
-      "wikiPage": "Edward Elric",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Edward_Elric",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Envy",
     "id": "envy-fma",
     "portrait": "/portraits/envy-fma.jpg",
@@ -6177,24 +5322,6 @@
       "iq": 55,
       "speed": 48,
       "strength": 44
-    },
-    "sources": {
-      "wikiPage": "Envy",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Envy",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Envy",
-    "id": "envy-fma-catalog",
-    "portrait": "/portraits/envy-fma-catalog.jpg",
-    "series": "Fullmetal Alchemist",
-    "stats": {
-      "strength": 44,
-      "speed": 48,
-      "abilities": 38,
-      "iq": 50,
-      "durability": 38
     },
     "sources": {
       "wikiPage": "Envy",
@@ -6221,24 +5348,6 @@
     }
   },
   {
-    "displayName": "Father",
-    "id": "father-god-fma",
-    "portrait": "/portraits/father-god-fma.jpg",
-    "series": "Fullmetal Alchemist",
-    "stats": {
-      "strength": 86,
-      "speed": 48,
-      "abilities": 86,
-      "iq": 50,
-      "durability": 86
-    },
-    "sources": {
-      "wikiPage": "Father (Fullmetal Alchemist)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Father_(Fullmetal_Alchemist)",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Fu",
     "id": "fu-fma",
     "portrait": "/portraits/fu-fma.jpg",
@@ -6247,31 +5356,13 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 68,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Fu",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Fu",
       "wikiStatKey": "fallback"
-    }
-  },
-  {
-    "displayName": "Gluttony",
-    "id": "gluttony-fma",
-    "portrait": "/portraits/gluttony-fma.jpg",
-    "series": "Fullmetal Alchemist",
-    "stats": {
-      "abilities": 38,
-      "durability": 38,
-      "iq": 7,
-      "speed": 48,
-      "strength": 38
-    },
-    "sources": {
-      "wikiPage": "Gluttony (Fullmetal Alchemist)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Gluttony_(Fullmetal_Alchemist)",
-      "wikiStatKey": "peak (non-manga)"
     }
   },
   {
@@ -6283,7 +5374,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 7,
       "durability": 50
     },
     "sources": {
@@ -6300,7 +5391,7 @@
       "strength": 38,
       "speed": 48,
       "abilities": 52,
-      "iq": 50,
+      "iq": 85,
       "durability": 42
     },
     "sources": {
@@ -6318,7 +5409,7 @@
       "strength": 58,
       "speed": 48,
       "abilities": 38,
-      "iq": 50,
+      "iq": 77,
       "durability": 38
     },
     "sources": {
@@ -6336,7 +5427,7 @@
       "strength": 40,
       "speed": 48,
       "abilities": 52,
-      "iq": 50,
+      "iq": 79,
       "durability": 28
     },
     "sources": {
@@ -6354,7 +5445,7 @@
       "strength": 38,
       "speed": 48,
       "abilities": 38,
-      "iq": 50,
+      "iq": 71,
       "durability": 38
     },
     "sources": {
@@ -6382,24 +5473,6 @@
     }
   },
   {
-    "displayName": "Lust",
-    "id": "lust-human-fma",
-    "portrait": "/portraits/lust-human-fma.jpg",
-    "series": "Fullmetal Alchemist",
-    "stats": {
-      "strength": 38,
-      "speed": 48,
-      "abilities": 38,
-      "iq": 50,
-      "durability": 38
-    },
-    "sources": {
-      "wikiPage": "Lust",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Lust",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Olivier",
     "id": "olivier-fma",
     "portrait": "/portraits/olivier-fma.jpg",
@@ -6408,7 +5481,7 @@
       "strength": 38,
       "speed": 48,
       "abilities": 38,
-      "iq": 50,
+      "iq": 78,
       "durability": 38
     },
     "sources": {
@@ -6433,23 +5506,6 @@
       "wikiPage": "Pride",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Pride",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Sig",
-    "id": "sig-fma",
-    "portrait": "/portraits/sig-fma.jpg",
-    "series": "Fullmetal Alchemist",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Sig Curtis",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Sig_Curtis"
     }
   },
   {
@@ -6525,24 +5581,6 @@
     }
   },
   {
-    "displayName": "Gintoki",
-    "id": "gintoki-gintama",
-    "portrait": "/portraits/gintoki-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 58,
-      "speed": 68,
-      "abilities": 58,
-      "iq": 50,
-      "durability": 58
-    },
-    "sources": {
-      "wikiPage": "Gintoki Sakata",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Gintoki_Sakata",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Hijikata",
     "id": "hijikata-gintama",
     "portrait": "/portraits/hijikata-gintama.jpg",
@@ -6551,221 +5589,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Toshiro Hijikata",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Toshiro_Hijikata"
-    }
-  },
-  {
-    "displayName": "Kagura",
-    "id": "kagura-gintama",
-    "portrait": "/portraits/kagura-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Kagura",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kagura",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
-    "displayName": "Kamui",
-    "id": "kamui-gintama",
-    "portrait": "/portraits/kamui-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Kamui",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kamui",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
-    "displayName": "Katsura",
-    "id": "katsura-gintama",
-    "portrait": "/portraits/katsura-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Kotaro Katsura",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kotaro_Katsura"
-    }
-  },
-  {
-    "displayName": "Kondo",
-    "id": "kondo-gintama",
-    "portrait": "/portraits/kondo-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Isao Kondo",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Isao_Kondo"
-    }
-  },
-  {
-    "displayName": "Matsudaira",
-    "id": "matsudaira-gintama",
-    "portrait": "/portraits/matsudaira-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Heiji Matsudaira",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Heiji_Matsudaira"
-    }
-  },
-  {
-    "displayName": "Nobunobu",
-    "id": "nobunobu-gintama",
-    "portrait": "/portraits/nobunobu-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Shigeshige Tokugawa",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Shigeshige_Tokugawa"
-    }
-  },
-  {
-    "displayName": "Otae",
-    "id": "otae-gintama",
-    "portrait": "/portraits/otae-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Otae Shimura",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Otae_Shimura"
-    }
-  },
-  {
-    "displayName": "Shinpachi",
-    "id": "shinpachi-gintama",
-    "portrait": "/portraits/shinpachi-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Shinpachi Shimura",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Shinpachi_Shimura"
-    }
-  },
-  {
-    "displayName": "Sougo",
-    "id": "sogo-gintama",
-    "portrait": "/portraits/sogo-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 58,
-      "speed": 68,
-      "abilities": 58,
-      "iq": 50,
-      "durability": 58
-    },
-    "sources": {
-      "wikiPage": "Sougo Okita",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Sougo_Okita",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Takasugi",
-    "id": "takasugi-gintama",
-    "portrait": "/portraits/takasugi-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 58,
-      "speed": 68,
-      "abilities": 58,
-      "iq": 50,
-      "durability": 58
-    },
-    "sources": {
-      "wikiPage": "Shinsuke Takasugi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Shinsuke_Takasugi",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Tsukuyo",
-    "id": "tsukuyo-gintama",
-    "portrait": "/portraits/tsukuyo-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 58,
-      "speed": 68,
-      "abilities": 58,
-      "iq": 50,
-      "durability": 58
-    },
-    "sources": {
-      "wikiPage": "Tsukuyo",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Tsukuyo",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Yamazaki",
-    "id": "yamazaki-gintama",
-    "portrait": "/portraits/yamazaki-gintama.jpg",
-    "series": "Gintama",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Sagaru Yamazaki",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Sagaru_Yamazaki"
     }
   },
   {
@@ -6795,66 +5624,13 @@
       "strength": 58,
       "speed": 72,
       "abilities": 54,
-      "iq": 50,
+      "iq": 32,
       "durability": 54
     },
     "sources": {
       "wikiPage": "Kamina",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Kamina",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Lordgenome",
-    "id": "lordgenome-gurren",
-    "portrait": "/portraits/lordgenome-gurren.jpg",
-    "series": "Gurren Lagann",
-    "stats": {
-      "strength": 100,
-      "speed": 88,
-      "abilities": 100,
-      "iq": 50,
-      "durability": 100
-    },
-    "sources": {
-      "wikiPage": "Lordgenome",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Lordgenome",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Nia",
-    "id": "nias-gurren",
-    "portrait": "/portraits/nias-gurren.jpg",
-    "series": "Gurren Lagann",
-    "stats": {
-      "strength": 100,
-      "speed": 88,
-      "abilities": 100,
-      "iq": 50,
-      "durability": 100
-    },
-    "sources": {
-      "wikiPage": "Nia Teppelin",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Nia_Teppelin",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Rossiu",
-    "id": "rossiu-gurren",
-    "portrait": "/portraits/rossiu-gurren.jpg",
-    "series": "Gurren Lagann",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Rossiu Adai",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Rossiu_Adai"
     }
   },
   {
@@ -6876,24 +5652,6 @@
     }
   },
   {
-    "displayName": "Viral",
-    "id": "viral-gurren",
-    "portrait": "/portraits/viral-gurren.jpg",
-    "series": "Gurren Lagann",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Viral",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Viral",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
     "displayName": "Yoko",
     "id": "yoko-gurren",
     "portrait": "/portraits/yoko-gurren.jpg",
@@ -6902,7 +5660,7 @@
       "strength": 100,
       "speed": 88,
       "abilities": 100,
-      "iq": 50,
+      "iq": 69,
       "durability": 100
     },
     "sources": {
@@ -6920,7 +5678,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 54,
       "durability": 50
     },
     "sources": {
@@ -6937,7 +5695,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 51,
       "durability": 50
     },
     "sources": {
@@ -6954,7 +5712,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 35,
       "durability": 50
     },
     "sources": {
@@ -6971,7 +5729,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 66,
       "durability": 50
     },
     "sources": {
@@ -7006,7 +5764,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
@@ -7023,29 +5781,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 43,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Yu Nishinoya",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Yu_Nishinoya"
-    }
-  },
-  {
-    "displayName": "Sugawara",
-    "id": "sugawara-haikyuu",
-    "portrait": "/portraits/sugawara-haikyuu.jpg",
-    "series": "Haikyuu!!",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Koshi Sugawara",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Koshi_Sugawara"
     }
   },
   {
@@ -7057,7 +5798,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 48,
       "durability": 50
     },
     "sources": {
@@ -7074,7 +5815,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 71,
       "durability": 50
     },
     "sources": {
@@ -7091,7 +5832,7 @@
       "strength": 32,
       "speed": 36,
       "abilities": 28,
-      "iq": 50,
+      "iq": 42,
       "durability": 28
     },
     "sources": {
@@ -7109,7 +5850,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 36,
       "durability": 50
     },
     "sources": {
@@ -7126,7 +5867,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 71,
       "durability": 50
     },
     "sources": {
@@ -7161,7 +5902,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 71,
       "durability": 50
     },
     "sources": {
@@ -7178,29 +5919,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 77,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Ichiro Miyata",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Ichiro_Miyata"
-    }
-  },
-  {
-    "displayName": "Sawamura",
-    "id": "sawamura-ippo",
-    "portrait": "/portraits/sawamura-ippo.png",
-    "series": "Hajime no Ippo",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Ryuichi Sawamura",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Ryuichi_Sawamura"
     }
   },
   {
@@ -7212,7 +5936,7 @@
       "strength": 28,
       "speed": 40,
       "abilities": 31,
-      "iq": 50,
+      "iq": 57,
       "durability": 28
     },
     "sources": {
@@ -7230,7 +5954,7 @@
       "strength": 32,
       "speed": 32,
       "abilities": 28,
-      "iq": 50,
+      "iq": 66,
       "durability": 28
     },
     "sources": {
@@ -7248,7 +5972,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 74,
       "durability": 50
     },
     "sources": {
@@ -7275,24 +5999,6 @@
     }
   },
   {
-    "displayName": "Alucard",
-    "id": "alucard-hellsing",
-    "portrait": "/portraits/alucard-hellsing.jpg",
-    "series": "Hellsing",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Alucard",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Alucard",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
     "displayName": "Anderson",
     "id": "anderson-hellsing",
     "portrait": "/portraits/anderson-hellsing.jpg",
@@ -7301,7 +6007,7 @@
       "strength": 90,
       "speed": 76,
       "abilities": 46,
-      "iq": 50,
+      "iq": 92,
       "durability": 46
     },
     "sources": {
@@ -7319,117 +6025,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 79,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Integra Hellsing",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Integra_Hellsing"
-    }
-  },
-  {
-    "displayName": "Major",
-    "id": "major-hellsing",
-    "portrait": "/portraits/major-hellsing.jpg",
-    "series": "Hellsing",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "The Major",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/The_Major"
-    }
-  },
-  {
-    "displayName": "Rip Van",
-    "id": "rip-van-hellsing",
-    "portrait": "/portraits/rip-van-hellsing.jpg",
-    "series": "Hellsing",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Rip Van Winkle",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Rip_Van_Winkle"
-    }
-  },
-  {
-    "displayName": "Schrödinger",
-    "id": "schrodinger-hellsing",
-    "portrait": "/portraits/schrodinger-hellsing.jpg",
-    "series": "Hellsing",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Schrödinger",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Schrödinger"
-    }
-  },
-  {
-    "displayName": "Seras",
-    "id": "seras-hellsing",
-    "portrait": "/portraits/seras-hellsing.jpg",
-    "series": "Hellsing",
-    "stats": {
-      "strength": 90,
-      "speed": 76,
-      "abilities": 46,
-      "iq": 50,
-      "durability": 46
-    },
-    "sources": {
-      "wikiPage": "Seras Victoria",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Seras_Victoria",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Tubalcain",
-    "id": "tubalcain-hellsing",
-    "portrait": "/portraits/tubalcain-hellsing.jpg",
-    "series": "Hellsing",
-    "stats": {
-      "strength": 58,
-      "speed": 76,
-      "abilities": 46,
-      "iq": 50,
-      "durability": 46
-    },
-    "sources": {
-      "wikiPage": "Tubalcain Alhambra",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Tubalcain_Alhambra",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Walter",
-    "id": "walter-hellsing",
-    "portrait": "/portraits/walter-hellsing.jpg",
-    "series": "Hellsing",
-    "stats": {
-      "strength": 90,
-      "speed": 76,
-      "abilities": 46,
-      "iq": 50,
-      "durability": 46
-    },
-    "sources": {
-      "wikiPage": "Walter C. Dornez",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Walter_C._Dornez",
-      "wikiStatKey": "peak (non-manga)"
     }
   },
   {
@@ -7441,7 +6042,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 74,
       "durability": 52
     },
     "sources": {
@@ -7459,7 +6060,7 @@
       "strength": 52,
       "speed": 72,
       "abilities": 52,
-      "iq": 50,
+      "iq": 86,
       "durability": 52
     },
     "sources": {
@@ -7477,7 +6078,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 65,
       "durability": 52
     },
     "sources": {
@@ -7495,7 +6096,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 62,
       "durability": 52
     },
     "sources": {
@@ -7513,7 +6114,7 @@
       "strength": 46,
       "speed": 48,
       "abilities": 66,
-      "iq": 50,
+      "iq": 72,
       "durability": 46
     },
     "sources": {
@@ -7567,7 +6168,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 79,
       "durability": 52
     },
     "sources": {
@@ -7604,7 +6205,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 76,
       "durability": 50
     },
     "sources": {
@@ -7621,7 +6222,7 @@
       "strength": 62,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 71,
       "durability": 62
     },
     "sources": {
@@ -7657,7 +6258,7 @@
       "strength": 40,
       "speed": 40,
       "abilities": 74,
-      "iq": 50,
+      "iq": 67,
       "durability": 40
     },
     "sources": {
@@ -7675,7 +6276,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 74,
       "durability": 52
     },
     "sources": {
@@ -7711,7 +6312,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 82,
       "durability": 54
     },
     "sources": {
@@ -7729,7 +6330,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 35,
       "durability": 50
     },
     "sources": {
@@ -7764,7 +6365,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 62,
       "durability": 52
     },
     "sources": {
@@ -7782,7 +6383,7 @@
       "strength": 46,
       "speed": 68,
       "abilities": 46,
-      "iq": 50,
+      "iq": 73,
       "durability": 46
     },
     "sources": {
@@ -7800,7 +6401,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 64,
       "durability": 52
     },
     "sources": {
@@ -7818,7 +6419,7 @@
       "strength": 58,
       "speed": 72,
       "abilities": 54,
-      "iq": 50,
+      "iq": 74,
       "durability": 100
     },
     "sources": {
@@ -7836,7 +6437,7 @@
       "strength": 46,
       "speed": 72,
       "abilities": 46,
-      "iq": 50,
+      "iq": 79,
       "durability": 46
     },
     "sources": {
@@ -7854,7 +6455,7 @@
       "strength": 50,
       "speed": 68,
       "abilities": 50,
-      "iq": 50,
+      "iq": 79,
       "durability": 50
     },
     "sources": {
@@ -7872,7 +6473,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 74,
       "durability": 52
     },
     "sources": {
@@ -7890,7 +6491,7 @@
       "strength": 52,
       "speed": 72,
       "abilities": 52,
-      "iq": 50,
+      "iq": 77,
       "durability": 52
     },
     "sources": {
@@ -7908,7 +6509,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 52,
-      "iq": 50,
+      "iq": 54,
       "durability": 52
     },
     "sources": {
@@ -7926,7 +6527,7 @@
       "strength": 38,
       "speed": 48,
       "abilities": 66,
-      "iq": 50,
+      "iq": 75,
       "durability": 38
     },
     "sources": {
@@ -7944,7 +6545,7 @@
       "strength": 58,
       "speed": 72,
       "abilities": 54,
-      "iq": 50,
+      "iq": 66,
       "durability": 54
     },
     "sources": {
@@ -7962,7 +6563,7 @@
       "strength": 52,
       "speed": 72,
       "abilities": 52,
-      "iq": 50,
+      "iq": 81,
       "durability": 52
     },
     "sources": {
@@ -7980,7 +6581,7 @@
       "strength": 28,
       "speed": 40,
       "abilities": 28,
-      "iq": 50,
+      "iq": 67,
       "durability": 28
     },
     "sources": {
@@ -7998,7 +6599,7 @@
       "strength": 38,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 31,
       "durability": 38
     },
     "sources": {
@@ -8016,7 +6617,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 23,
       "durability": 50
     },
     "sources": {
@@ -8033,7 +6634,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 68,
       "durability": 50
     },
     "sources": {
@@ -8050,7 +6651,7 @@
       "strength": 38,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 76,
       "durability": 38
     },
     "sources": {
@@ -8068,7 +6669,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 70,
       "durability": 50
     },
     "sources": {
@@ -8085,7 +6686,7 @@
       "strength": 38,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 77,
       "durability": 38
     },
     "sources": {
@@ -8103,7 +6704,7 @@
       "strength": 38,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 76,
       "durability": 38
     },
     "sources": {
@@ -8131,41 +6732,6 @@
     }
   },
   {
-    "displayName": "DIO",
-    "id": "dio-jojo",
-    "portrait": "/portraits/dio-jojo.jpg",
-    "series": "JoJo",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "DIO",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/DIO"
-    }
-  },
-  {
-    "displayName": "DIO",
-    "id": "dio-vampire-jojo",
-    "portrait": "/portraits/dio-vampire-jojo.jpg",
-    "series": "JoJo",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "DIO (Part 3)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/DIO_(Part_3)",
-      "wikiStatKey": "Part 3"
-    }
-  },
-  {
     "displayName": "Emporio",
     "id": "emporio-jojo",
     "portrait": "/portraits/emporio-jojo.webp",
@@ -8174,7 +6740,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 77,
       "durability": 50
     },
     "sources": {
@@ -8191,7 +6757,7 @@
       "strength": 40,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 46,
       "durability": 38
     },
     "sources": {
@@ -8209,7 +6775,7 @@
       "strength": 58,
       "speed": 88,
       "abilities": 42,
-      "iq": 50,
+      "iq": 72,
       "durability": 42
     },
     "sources": {
@@ -8227,7 +6793,7 @@
       "strength": 28,
       "speed": 40,
       "abilities": 28,
-      "iq": 50,
+      "iq": 78,
       "durability": 28
     },
     "sources": {
@@ -8245,7 +6811,7 @@
       "strength": 40,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 80,
       "durability": 38
     },
     "sources": {
@@ -8263,30 +6829,12 @@
       "strength": 40,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 68,
       "durability": 38
     },
     "sources": {
       "wikiPage": "Gyro Zeppeli",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Gyro_Zeppeli",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Hot Pants",
-    "id": "hot-pants-jojo",
-    "portrait": "/portraits/hot-pants-jojo.jpg",
-    "series": "JoJo",
-    "stats": {
-      "strength": 40,
-      "speed": 40,
-      "abilities": 12,
-      "iq": 50,
-      "durability": 12
-    },
-    "sources": {
-      "wikiPage": "Hot Pants",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Hot_Pants",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -8299,7 +6847,7 @@
       "strength": 38,
       "speed": 32,
       "abilities": 38,
-      "iq": 50,
+      "iq": 64,
       "durability": 97
     },
     "sources": {
@@ -8317,7 +6865,7 @@
       "strength": 40,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 65,
       "durability": 38
     },
     "sources": {
@@ -8335,7 +6883,7 @@
       "strength": 38,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 60,
       "durability": 38
     },
     "sources": {
@@ -8353,7 +6901,7 @@
       "strength": 48,
       "speed": 88,
       "abilities": 42,
-      "iq": 50,
+      "iq": 68,
       "durability": 42
     },
     "sources": {
@@ -8371,7 +6919,7 @@
       "strength": 46,
       "speed": 88,
       "abilities": 46,
-      "iq": 50,
+      "iq": 92,
       "durability": 42
     },
     "sources": {
@@ -8389,7 +6937,7 @@
       "strength": 42,
       "speed": 88,
       "abilities": 42,
-      "iq": 50,
+      "iq": 75,
       "durability": 42
     },
     "sources": {
@@ -8417,24 +6965,6 @@
     }
   },
   {
-    "displayName": "Jotaro",
-    "id": "jotaro-star-jojo",
-    "portrait": "/portraits/jotaro-star-jojo.jpg",
-    "series": "JoJo",
-    "stats": {
-      "strength": 58,
-      "speed": 88,
-      "abilities": 42,
-      "iq": 50,
-      "durability": 42
-    },
-    "sources": {
-      "wikiPage": "Jotaro Kujo",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Jotaro_Kujo",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Kakyoin",
     "id": "kakyoin-jojo",
     "portrait": "/portraits/kakyoin-jojo.jpg",
@@ -8443,7 +6973,7 @@
       "strength": 38,
       "speed": 82,
       "abilities": 82,
-      "iq": 50,
+      "iq": 76,
       "durability": 38
     },
     "sources": {
@@ -8461,7 +6991,7 @@
       "strength": 58,
       "speed": 88,
       "abilities": 50,
-      "iq": 50,
+      "iq": 86,
       "durability": 99
     },
     "sources": {
@@ -8479,7 +7009,7 @@
       "strength": 100,
       "speed": 82,
       "abilities": 38,
-      "iq": 50,
+      "iq": 79,
       "durability": 38
     },
     "sources": {
@@ -8497,7 +7027,7 @@
       "strength": 40,
       "speed": 82,
       "abilities": 38,
-      "iq": 50,
+      "iq": 73,
       "durability": 38
     },
     "sources": {
@@ -8515,30 +7045,13 @@
       "strength": 46,
       "speed": 88,
       "abilities": 46,
-      "iq": 50,
+      "iq": 77,
       "durability": 46
     },
     "sources": {
       "wikiPage": "Lisa Lisa",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Lisa_Lisa",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Lucy",
-    "id": "lucy-jojo",
-    "portrait": "/portraits/lucy-jojo.webp",
-    "series": "JoJo",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Lucy Steel",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Lucy_Steel"
     }
   },
   {
@@ -8550,7 +7063,7 @@
       "strength": 40,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 71,
       "durability": 38
     },
     "sources": {
@@ -8568,7 +7081,7 @@
       "strength": 38,
       "speed": 82,
       "abilities": 38,
-      "iq": 50,
+      "iq": 18,
       "durability": 38
     },
     "sources": {
@@ -8586,7 +7099,7 @@
       "strength": 40,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 60,
       "durability": 38
     },
     "sources": {
@@ -8604,30 +7117,13 @@
       "strength": 40,
       "speed": 88,
       "abilities": 96,
-      "iq": 50,
+      "iq": 87,
       "durability": 38
     },
     "sources": {
       "wikiPage": "Enrico Pucci",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Enrico_Pucci",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Reimi",
-    "id": "reimi-jojo",
-    "portrait": "/portraits/reimi-jojo.jpg",
-    "series": "JoJo",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Reimi Sugimoto",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Reimi_Sugimoto"
     }
   },
   {
@@ -8639,7 +7135,7 @@
       "strength": 18,
       "speed": 88,
       "abilities": 18,
-      "iq": 50,
+      "iq": 79,
       "durability": 38
     },
     "sources": {
@@ -8657,7 +7153,7 @@
       "strength": 38,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 62,
       "durability": 38
     },
     "sources": {
@@ -8675,7 +7171,7 @@
       "strength": 38,
       "speed": 88,
       "abilities": 58,
-      "iq": 50,
+      "iq": 84,
       "durability": 99
     },
     "sources": {
@@ -8693,7 +7189,7 @@
       "strength": 38,
       "speed": 88,
       "abilities": 38,
-      "iq": 50,
+      "iq": 51,
       "durability": 38
     },
     "sources": {
@@ -8711,7 +7207,7 @@
       "strength": 58,
       "speed": 88,
       "abilities": 42,
-      "iq": 50,
+      "iq": 70,
       "durability": 42
     },
     "sources": {
@@ -8729,31 +7225,13 @@
       "strength": 38,
       "speed": 88,
       "abilities": 66,
-      "iq": 50,
+      "iq": 65,
       "durability": 58
     },
     "sources": {
       "wikiPage": "Weather Report",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Weather_Report",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Yukako",
-    "id": "yukako-jojo",
-    "portrait": "/portraits/yukako-jojo.jpg",
-    "series": "JoJo",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Yukako Yamagishi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Yukako_Yamagishi",
-      "wikiStatKey": "fallback"
     }
   },
   {
@@ -8783,7 +7261,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 39,
       "durability": 50
     },
     "sources": {
@@ -8801,7 +7279,7 @@
       "strength": 58,
       "speed": 48,
       "abilities": 54,
-      "iq": 50,
+      "iq": 78,
       "durability": 54
     },
     "sources": {
@@ -8837,7 +7315,7 @@
       "strength": 46,
       "speed": 32,
       "abilities": 46,
-      "iq": 50,
+      "iq": 65,
       "durability": 46
     },
     "sources": {
@@ -8855,7 +7333,7 @@
       "strength": 54,
       "speed": 48,
       "abilities": 54,
-      "iq": 50,
+      "iq": 81,
       "durability": 54
     },
     "sources": {
@@ -8873,7 +7351,7 @@
       "strength": 58,
       "speed": 48,
       "abilities": 54,
-      "iq": 50,
+      "iq": 64,
       "durability": 54
     },
     "sources": {
@@ -8891,7 +7369,7 @@
       "strength": 58,
       "speed": 32,
       "abilities": 54,
-      "iq": 50,
+      "iq": 67,
       "durability": 46
     },
     "sources": {
@@ -8909,7 +7387,7 @@
       "strength": 58,
       "speed": 48,
       "abilities": 76,
-      "iq": 50,
+      "iq": 72,
       "durability": 54
     },
     "sources": {
@@ -8927,7 +7405,7 @@
       "strength": 58,
       "speed": 48,
       "abilities": 100,
-      "iq": 50,
+      "iq": 88,
       "durability": 54
     },
     "sources": {
@@ -8945,7 +7423,7 @@
       "strength": 46,
       "speed": 32,
       "abilities": 46,
-      "iq": 50,
+      "iq": 77,
       "durability": 46
     },
     "sources": {
@@ -8963,7 +7441,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 61,
       "durability": 50
     },
     "sources": {
@@ -8980,7 +7458,7 @@
       "strength": 58,
       "speed": 48,
       "abilities": 54,
-      "iq": 50,
+      "iq": 73,
       "durability": 54
     },
     "sources": {
@@ -8998,7 +7476,7 @@
       "strength": 54,
       "speed": 40,
       "abilities": 54,
-      "iq": 50,
+      "iq": 76,
       "durability": 54
     },
     "sources": {
@@ -9016,7 +7494,7 @@
       "strength": 46,
       "speed": 32,
       "abilities": 54,
-      "iq": 50,
+      "iq": 85,
       "durability": 46
     },
     "sources": {
@@ -9034,7 +7512,7 @@
       "strength": 46,
       "speed": 32,
       "abilities": 46,
-      "iq": 50,
+      "iq": 79,
       "durability": 100
     },
     "sources": {
@@ -9052,7 +7530,7 @@
       "strength": 58,
       "speed": 48,
       "abilities": 54,
-      "iq": 50,
+      "iq": 63,
       "durability": 54
     },
     "sources": {
@@ -9070,7 +7548,7 @@
       "strength": 46,
       "speed": 36,
       "abilities": 46,
-      "iq": 50,
+      "iq": 58,
       "durability": 28
     },
     "sources": {
@@ -9088,7 +7566,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 66,
       "durability": 50
     },
     "sources": {
@@ -9105,7 +7583,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
@@ -9140,7 +7618,7 @@
       "strength": 46,
       "speed": 32,
       "abilities": 46,
-      "iq": 50,
+      "iq": 78,
       "durability": 46
     },
     "sources": {
@@ -9158,7 +7636,7 @@
       "strength": 38,
       "speed": 32,
       "abilities": 46,
-      "iq": 50,
+      "iq": 66,
       "durability": 46
     },
     "sources": {
@@ -9176,30 +7654,12 @@
       "strength": 58,
       "speed": 48,
       "abilities": 54,
-      "iq": 50,
+      "iq": 79,
       "durability": 54
     },
     "sources": {
       "wikiPage": "Toji Fushiguro",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Toji_Fushiguro",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Uraume",
-    "id": "uraume-jjk",
-    "portrait": "/portraits/uraume-jjk.jpg",
-    "series": "Jujutsu Kaisen",
-    "stats": {
-      "strength": 54,
-      "speed": 48,
-      "abilities": 54,
-      "iq": 50,
-      "durability": 54
-    },
-    "sources": {
-      "wikiPage": "Uraume",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Uraume",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -9212,7 +7672,7 @@
       "strength": 58,
       "speed": 48,
       "abilities": 54,
-      "iq": 50,
+      "iq": 36,
       "durability": 54
     },
     "sources": {
@@ -9230,7 +7690,7 @@
       "strength": 58,
       "speed": 48,
       "abilities": 82,
-      "iq": 50,
+      "iq": 70,
       "durability": 54
     },
     "sources": {
@@ -9248,30 +7708,13 @@
       "strength": 58,
       "speed": 48,
       "abilities": 100,
-      "iq": 50,
+      "iq": 80,
       "durability": 54
     },
     "sources": {
       "wikiPage": "Yuta Okkotsu",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Yuta_Okkotsu",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Yuta",
-    "id": "yuta-rika-jjk",
-    "portrait": "/portraits/yuta-rika-jjk.webp",
-    "series": "Jujutsu Kaisen",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Yuta Okkotsu (Rika)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Yuta_Okkotsu_(Rika)"
     }
   },
   {
@@ -9283,7 +7726,7 @@
       "strength": 50,
       "speed": 72,
       "abilities": 50,
-      "iq": 50,
+      "iq": 78,
       "durability": 50
     },
     "sources": {
@@ -9301,7 +7744,7 @@
       "strength": 46,
       "speed": 48,
       "abilities": 48,
-      "iq": 50,
+      "iq": 73,
       "durability": 46
     },
     "sources": {
@@ -9319,7 +7762,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 57,
       "durability": 50
     },
     "sources": {
@@ -9337,7 +7780,7 @@
       "strength": 50,
       "speed": 48,
       "abilities": 50,
-      "iq": 50,
+      "iq": 70,
       "durability": 62
     },
     "sources": {
@@ -9355,7 +7798,7 @@
       "strength": 46,
       "speed": 32,
       "abilities": 46,
-      "iq": 50,
+      "iq": 75,
       "durability": 46
     },
     "sources": {
@@ -9373,7 +7816,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 68,
       "durability": 50
     },
     "sources": {
@@ -9408,7 +7851,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 71,
       "durability": 50
     },
     "sources": {
@@ -9425,7 +7868,7 @@
       "strength": 40,
       "speed": 36,
       "abilities": 22,
-      "iq": 50,
+      "iq": 86,
       "durability": 22
     },
     "sources": {
@@ -9453,24 +7896,6 @@
     }
   },
   {
-    "displayName": "Aomine",
-    "id": "aomine-kuroko",
-    "portrait": "/portraits/aomine-kuroko.jpg",
-    "series": "Kuroko's Basketball",
-    "stats": {
-      "strength": 40,
-      "speed": 36,
-      "abilities": 22,
-      "iq": 50,
-      "durability": 22
-    },
-    "sources": {
-      "wikiPage": "Daiki Aomine",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Daiki_Aomine",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Haizaki",
     "id": "haizaki-kuroko",
     "portrait": "/portraits/haizaki-kuroko.png",
@@ -9479,7 +7904,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 64,
       "durability": 50
     },
     "sources": {
@@ -9496,7 +7921,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 69,
       "durability": 50
     },
     "sources": {
@@ -9513,7 +7938,7 @@
       "strength": 40,
       "speed": 36,
       "abilities": 22,
-      "iq": 50,
+      "iq": 57,
       "durability": 22
     },
     "sources": {
@@ -9531,30 +7956,12 @@
       "strength": 36,
       "speed": 36,
       "abilities": 22,
-      "iq": 50,
+      "iq": 70,
       "durability": 22
     },
     "sources": {
       "wikiPage": "Ryota Kise",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Ryota_Kise",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Kuroko",
-    "id": "kuroko-tetsuya",
-    "portrait": "/portraits/kuroko-tetsuya.jpg",
-    "series": "Kuroko's Basketball",
-    "stats": {
-      "abilities": 16,
-      "durability": 14,
-      "iq": 75,
-      "speed": 20,
-      "strength": 14
-    },
-    "sources": {
-      "wikiPage": "Tetsuya Kuroko",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Tetsuya_Kuroko",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -9567,47 +7974,13 @@
       "strength": 40,
       "speed": 36,
       "abilities": 22,
-      "iq": 50,
+      "iq": 75,
       "durability": 22
     },
     "sources": {
       "wikiPage": "Tetsuya Kuroko",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Tetsuya_Kuroko",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Mayuzumi",
-    "id": "mayuzumi-kuroko",
-    "portrait": "/portraits/mayuzumi-kuroko.jpg",
-    "series": "Kuroko's Basketball",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Chihiro Mayuzumi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Chihiro_Mayuzumi"
-    }
-  },
-  {
-    "displayName": "Mibuchi",
-    "id": "mibuchi-kuroko",
-    "portrait": "/portraits/mibuchi-kuroko.jpg",
-    "series": "Kuroko's Basketball",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Reo Mibuchi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Reo_Mibuchi"
     }
   },
   {
@@ -9619,7 +7992,7 @@
       "strength": 40,
       "speed": 36,
       "abilities": 22,
-      "iq": 50,
+      "iq": 76,
       "durability": 22
     },
     "sources": {
@@ -9637,47 +8010,13 @@
       "strength": 40,
       "speed": 36,
       "abilities": 22,
-      "iq": 50,
+      "iq": 51,
       "durability": 22
     },
     "sources": {
       "wikiPage": "Atsushi Murasakibara",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Atsushi_Murasakibara",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Murashiki",
-    "id": "murakami-kuroko",
-    "portrait": "/portraits/murakami-kuroko.jpg",
-    "series": "Kuroko's Basketball",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Murashiki Juso",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Murashiki_Juso"
-    }
-  },
-  {
-    "displayName": "Nashida",
-    "id": "nashida-kuroko",
-    "portrait": "/portraits/nashida-kuroko.jpg",
-    "series": "Kuroko's Basketball",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Kazunari Takao",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kazunari_Takao"
     }
   },
   {
@@ -9706,7 +8045,7 @@
       "strength": 68,
       "speed": 58,
       "abilities": 68,
-      "iq": 50,
+      "iq": 35,
       "durability": 68
     },
     "sources": {
@@ -9724,7 +8063,7 @@
       "strength": 40,
       "speed": 40,
       "abilities": 68,
-      "iq": 50,
+      "iq": 55,
       "durability": 40
     },
     "sources": {
@@ -9742,7 +8081,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 81,
       "durability": 50
     },
     "sources": {
@@ -9759,31 +8098,13 @@
       "strength": 90,
       "speed": 32,
       "abilities": 70,
-      "iq": 50,
+      "iq": 68,
       "durability": 68
     },
     "sources": {
       "wikiPage": "Lance Crown",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Lance_Crown",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Mash",
-    "id": "mash-burnedead",
-    "portrait": "/portraits/mash-burnedead.webp",
-    "series": "Mashle",
-    "sources": {
-      "wikiPage": "Mash Burnedead",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Mash_Burnedead",
-      "wikiStatKey": "peak (non-manga)"
-    },
-    "stats": {
-      "abilities": 74,
-      "durability": 74,
-      "iq": 38,
-      "speed": 88,
-      "strength": 85
     }
   },
   {
@@ -9795,30 +8116,13 @@
       "strength": 85,
       "speed": 88,
       "abilities": 74,
-      "iq": 50,
+      "iq": 38,
       "durability": 74
     },
     "sources": {
       "wikiPage": "Mash Burnedead",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Mash_Burnedead",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Mash",
-    "id": "mash-demon-mashle",
-    "portrait": "/portraits/mash-demon-mashle.webp",
-    "series": "Mashle",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Mash Burnedead (Demon)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Mash_Burnedead_(Demon)"
     }
   },
   {
@@ -9830,7 +8134,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 78,
-      "iq": 50,
+      "iq": 82,
       "durability": 78
     },
     "sources": {
@@ -9865,65 +8169,13 @@
       "strength": 68,
       "speed": 76,
       "abilities": 66,
-      "iq": 50,
+      "iq": 69,
       "durability": 66
     },
     "sources": {
       "wikiPage": "Dimple",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Dimple",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Izumi",
-    "id": "izumi-mob",
-    "portrait": "/portraits/izumi-mob.jpg",
-    "series": "Mob Psycho 100",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Izumi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Izumi"
-    }
-  },
-  {
-    "displayName": "Minori",
-    "id": "minori-mob",
-    "portrait": "/portraits/minori-mob.jpg",
-    "series": "Mob Psycho 100",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Minori Asagiri",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Minori_Asagiri"
-    }
-  },
-  {
-    "displayName": "Mob",
-    "id": "mob-100-anime",
-    "portrait": "/portraits/mob-100-anime.jpg",
-    "series": "Mob Psycho 100",
-    "sources": {
-      "wikiPage": "Shigeo Kageyama",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Shigeo_Kageyama",
-      "wikiStatKey": "peak (non-manga)"
-    },
-    "stats": {
-      "abilities": 78,
-      "durability": 78,
-      "iq": 25,
-      "speed": 76,
-      "strength": 90
     }
   },
   {
@@ -9935,30 +8187,12 @@
       "strength": 90,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 25,
       "durability": 78
     },
     "sources": {
       "wikiPage": "Shigeo Kageyama",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Shigeo_Kageyama",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Mogami",
-    "id": "mogami-mob",
-    "portrait": "/portraits/mogami-mob.jpg",
-    "series": "Mob Psycho 100",
-    "stats": {
-      "strength": 90,
-      "speed": 76,
-      "abilities": 78,
-      "iq": 50,
-      "durability": 78
-    },
-    "sources": {
-      "wikiPage": "Keiji Mogami",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Keiji_Mogami",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -9971,7 +8205,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 75,
       "durability": 50
     },
     "sources": {
@@ -9988,7 +8222,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 74,
       "durability": 52
     },
     "sources": {
@@ -10006,7 +8240,7 @@
       "strength": 52,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 68,
       "durability": 52
     },
     "sources": {
@@ -10034,41 +8268,6 @@
     }
   },
   {
-    "displayName": "Toichiro",
-    "id": "toichiro-mob",
-    "portrait": "/portraits/toichiro-mob.jpg",
-    "series": "Mob Psycho 100",
-    "stats": {
-      "strength": 90,
-      "speed": 76,
-      "abilities": 78,
-      "iq": 50,
-      "durability": 78
-    },
-    "sources": {
-      "wikiPage": "Toichiro Suzuki",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Toichiro_Suzuki",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Udo",
-    "id": "claw-boss-mob",
-    "portrait": "/portraits/claw-boss-mob.png",
-    "series": "Mob Psycho 100",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Udo Daisuke",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Udo_Daisuke"
-    }
-  },
-  {
     "displayName": "Eris",
     "id": "eris-mushoku",
     "portrait": "/portraits/eris-mushoku.jpg",
@@ -10077,7 +8276,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 35,
       "durability": 50
     },
     "sources": {
@@ -10094,7 +8293,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 40,
       "durability": 50
     },
     "sources": {
@@ -10111,7 +8310,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 89,
       "durability": 50
     },
     "sources": {
@@ -10128,7 +8327,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 64,
       "durability": 50
     },
     "sources": {
@@ -10145,7 +8344,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 88,
       "durability": 50
     },
     "sources": {
@@ -10162,7 +8361,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 58,
       "durability": 50
     },
     "sources": {
@@ -10179,7 +8378,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 74,
       "durability": 50
     },
     "sources": {
@@ -10214,29 +8413,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 80,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Sylphiette",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Sylphiette"
-    }
-  },
-  {
-    "displayName": "Zenith",
-    "id": "zenith-mushoku",
-    "portrait": "/portraits/zenith-mushoku.jpg",
-    "series": "Mushoku Tensei",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Zenith Greyrat",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Zenith_Greyrat"
     }
   },
   {
@@ -10248,7 +8430,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 73,
       "durability": 50
     },
     "sources": {
@@ -10266,7 +8448,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 78,
-      "iq": 50,
+      "iq": 51,
       "durability": 74
     },
     "sources": {
@@ -10302,7 +8484,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 69,
       "durability": 50
     },
     "sources": {
@@ -10320,7 +8502,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 74,
       "durability": 50
     },
     "sources": {
@@ -10338,7 +8520,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 77,
       "durability": 50
     },
     "sources": {
@@ -10356,7 +8538,7 @@
       "strength": 74,
       "speed": 82,
       "abilities": 74,
-      "iq": 50,
+      "iq": 68,
       "durability": 74
     },
     "sources": {
@@ -10392,7 +8574,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 75,
       "durability": 50
     },
     "sources": {
@@ -10410,7 +8592,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 65,
       "durability": 50
     },
     "sources": {
@@ -10428,7 +8610,7 @@
       "strength": 58,
       "speed": 68,
       "abilities": 74,
-      "iq": 50,
+      "iq": 64,
       "durability": 74
     },
     "sources": {
@@ -10446,7 +8628,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 75,
       "durability": 50
     },
     "sources": {
@@ -10464,7 +8646,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 80,
       "durability": 50
     },
     "sources": {
@@ -10482,7 +8664,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 78,
       "durability": 50
     },
     "sources": {
@@ -10500,7 +8682,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 69,
       "durability": 50
     },
     "sources": {
@@ -10518,7 +8700,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 67,
       "durability": 50
     },
     "sources": {
@@ -10536,30 +8718,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 64,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Yuu Momonoki",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Yuu_Momonoki"
-    }
-  },
-  {
-    "displayName": "Nagant",
-    "id": "lady-nagant-mha",
-    "portrait": "/portraits/lady-nagant-mha.webp",
-    "series": "My Hero Academia",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Lady Nagant",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Lady_Nagant",
-      "wikiStatKey": "fallback"
     }
   },
   {
@@ -10571,30 +8735,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 65,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Nejire Hado",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Nejire_Hado",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
-    "displayName": "Nighteye",
-    "id": "nighteye-mha",
-    "portrait": "/portraits/nighteye-mha.jpg",
-    "series": "My Hero Academia",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Sir Nighteye",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Sir_Nighteye",
       "wikiStatKey": "fallback"
     }
   },
@@ -10607,7 +8753,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 76,
       "durability": 50
     },
     "sources": {
@@ -10625,30 +8771,13 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 70,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Hizashi Yamada",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Hizashi_Yamada",
       "wikiStatKey": "fallback"
-    }
-  },
-  {
-    "displayName": "Re-Destro",
-    "id": "re-destro-mha",
-    "portrait": "/portraits/re-destro-mha.jpg",
-    "series": "My Hero Academia",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Rikiya Yotsubashi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Rikiya_Yotsubashi"
     }
   },
   {
@@ -10660,30 +8789,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 71,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Tomura Shigaraki",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Tomura_Shigaraki",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
-    "displayName": "Star and Stripe",
-    "id": "star-and-stripe-mha",
-    "portrait": "/portraits/star-and-stripe-mha.webp",
-    "series": "My Hero Academia",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Star and Stripe",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Star_and_Stripe",
       "wikiStatKey": "fallback"
     }
   },
@@ -10696,7 +8807,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
@@ -10714,31 +8825,13 @@
       "strength": 50,
       "speed": 82,
       "abilities": 52,
-      "iq": 50,
+      "iq": 66,
       "durability": 52
     },
     "sources": {
       "wikiPage": "Himiko Toga",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Himiko_Toga",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Twice",
-    "id": "twice-mha",
-    "portrait": "/portraits/twice-mha.jpg",
-    "series": "My Hero Academia",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Twice",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Twice",
-      "wikiStatKey": "fallback"
     }
   },
   {
@@ -10750,7 +8843,7 @@
       "strength": 68,
       "speed": 82,
       "abilities": 70,
-      "iq": 50,
+      "iq": 69,
       "durability": 62
     },
     "sources": {
@@ -10768,7 +8861,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 80,
-      "iq": 50,
+      "iq": 75,
       "durability": 80
     },
     "sources": {
@@ -10786,7 +8879,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 80,
-      "iq": 50,
+      "iq": 61,
       "durability": 80
     },
     "sources": {
@@ -10804,7 +8897,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 78,
-      "iq": 50,
+      "iq": 73,
       "durability": 78
     },
     "sources": {
@@ -10822,7 +8915,7 @@
       "strength": 58,
       "speed": 82,
       "abilities": 58,
-      "iq": 50,
+      "iq": 33,
       "durability": 58
     },
     "sources": {
@@ -10840,29 +8933,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 65,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Hinata Hyuga",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Hinata_Hyuga"
-    }
-  },
-  {
-    "displayName": "Isshiki",
-    "id": "isshiki-naruto",
-    "portrait": "/portraits/isshiki-naruto.webp",
-    "series": "Naruto",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Isshiki Otsutsuki",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Isshiki_Otsutsuki"
     }
   },
   {
@@ -10874,31 +8950,13 @@
       "strength": 90,
       "speed": 88,
       "abilities": 70,
-      "iq": 50,
+      "iq": 90,
       "durability": 70
     },
     "sources": {
       "wikiPage": "Itachi Uchiha",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Itachi_Uchiha",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Jigen",
-    "id": "jigen-naruto",
-    "portrait": "/portraits/jigen-naruto.webp",
-    "series": "Naruto",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Jigen",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Jigen",
-      "wikiStatKey": "fallback"
     }
   },
   {
@@ -10910,7 +8968,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 79,
       "durability": 50
     },
     "sources": {
@@ -10928,7 +8986,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 49,
       "durability": 50
     },
     "sources": {
@@ -10945,7 +9003,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 80,
-      "iq": 50,
+      "iq": 82,
       "durability": 80
     },
     "sources": {
@@ -10963,7 +9021,7 @@
       "strength": 68,
       "speed": 82,
       "abilities": 58,
-      "iq": 50,
+      "iq": 68,
       "durability": 70
     },
     "sources": {
@@ -10981,7 +9039,7 @@
       "strength": 5,
       "speed": 5,
       "abilities": 5,
-      "iq": 50,
+      "iq": 64,
       "durability": 5
     },
     "sources": {
@@ -10999,7 +9057,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 70,
-      "iq": 50,
+      "iq": 71,
       "durability": 70
     },
     "sources": {
@@ -11017,7 +9075,7 @@
       "strength": 40,
       "speed": 82,
       "abilities": 40,
-      "iq": 50,
+      "iq": 78,
       "durability": 40
     },
     "sources": {
@@ -11053,30 +9111,13 @@
       "strength": 90,
       "speed": 88,
       "abilities": 78,
-      "iq": 50,
+      "iq": 84,
       "durability": 78
     },
     "sources": {
       "wikiPage": "Minato Namikaze",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Minato_Namikaze",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Momoshiki",
-    "id": "momoshiki-naruto",
-    "portrait": "/portraits/momoshiki-naruto.webp",
-    "series": "Naruto",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Momoshiki Otsutsuki",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Momoshiki_Otsutsuki"
     }
   },
   {
@@ -11106,7 +9147,7 @@
       "strength": 58,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 76,
       "durability": 52
     },
     "sources": {
@@ -11124,7 +9165,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 86,
       "durability": 50
     },
     "sources": {
@@ -11142,7 +9183,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 79,
       "durability": 50
     },
     "sources": {
@@ -11159,7 +9200,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 70,
-      "iq": 50,
+      "iq": 52,
       "durability": 70
     },
     "sources": {
@@ -11177,7 +9218,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 80,
-      "iq": 50,
+      "iq": 77,
       "durability": 80
     },
     "sources": {
@@ -11195,7 +9236,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 82,
       "durability": 50
     },
     "sources": {
@@ -11231,7 +9272,7 @@
       "strength": 85,
       "speed": 88,
       "abilities": 58,
-      "iq": 50,
+      "iq": 96,
       "durability": 58
     },
     "sources": {
@@ -11249,7 +9290,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 78,
-      "iq": 50,
+      "iq": 84,
       "durability": 78
     },
     "sources": {
@@ -11267,7 +9308,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 81,
       "durability": 50
     },
     "sources": {
@@ -11285,7 +9326,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 76,
-      "iq": 50,
+      "iq": 48,
       "durability": 97
     },
     "sources": {
@@ -11303,7 +9344,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 58,
       "durability": 50
     },
     "sources": {
@@ -11320,7 +9361,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 70,
       "durability": 50
     },
     "sources": {
@@ -11337,7 +9378,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 37,
       "durability": 50
     },
     "sources": {
@@ -11355,7 +9396,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 79,
       "durability": 50
     },
     "sources": {
@@ -11372,7 +9413,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 70,
-      "iq": 50,
+      "iq": 78,
       "durability": 76
     },
     "sources": {
@@ -11390,7 +9431,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 70,
-      "iq": 50,
+      "iq": 79,
       "durability": 70
     },
     "sources": {
@@ -11408,7 +9449,7 @@
       "strength": 68,
       "speed": 76,
       "abilities": 78,
-      "iq": 50,
+      "iq": 69,
       "durability": 54
     },
     "sources": {
@@ -11426,7 +9467,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 76,
       "durability": 50
     },
     "sources": {
@@ -11443,7 +9484,7 @@
       "strength": 88,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 66,
       "durability": 80
     },
     "sources": {
@@ -11461,7 +9502,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 76,
-      "iq": 50,
+      "iq": 68,
       "durability": 76
     },
     "sources": {
@@ -11479,7 +9520,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 55,
       "durability": 50
     },
     "sources": {
@@ -11497,7 +9538,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 70,
-      "iq": 50,
+      "iq": 77,
       "durability": 70
     },
     "sources": {
@@ -11515,7 +9556,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 48,
       "durability": 76
     },
     "sources": {
@@ -11533,7 +9574,7 @@
       "strength": 88,
       "speed": 82,
       "abilities": 88,
-      "iq": 50,
+      "iq": 63,
       "durability": 80
     },
     "sources": {
@@ -11551,7 +9592,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 74,
       "durability": 50
     },
     "sources": {
@@ -11568,7 +9609,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 81,
       "durability": 50
     },
     "sources": {
@@ -11585,7 +9626,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 76,
       "durability": 80
     },
     "sources": {
@@ -11622,7 +9663,7 @@
       "strength": 88,
       "speed": 82,
       "abilities": 76,
-      "iq": 50,
+      "iq": 76,
       "durability": 80
     },
     "sources": {
@@ -11640,7 +9681,7 @@
       "strength": 88,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 79,
       "durability": 80
     },
     "sources": {
@@ -11658,7 +9699,7 @@
       "strength": 88,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 79,
       "durability": 76
     },
     "sources": {
@@ -11676,7 +9717,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 76,
-      "iq": 50,
+      "iq": 83,
       "durability": 70
     },
     "sources": {
@@ -11694,7 +9735,7 @@
       "strength": 88,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 73,
       "durability": 80
     },
     "sources": {
@@ -11712,7 +9753,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 75,
       "durability": 50
     },
     "sources": {
@@ -11747,7 +9788,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 82,
       "durability": 80
     },
     "sources": {
@@ -11765,7 +9806,7 @@
       "strength": 88,
       "speed": 82,
       "abilities": 80,
-      "iq": 50,
+      "iq": 78,
       "durability": 80
     },
     "sources": {
@@ -11783,7 +9824,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 77,
       "durability": 50
     },
     "sources": {
@@ -11819,7 +9860,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 47,
       "durability": 50
     },
     "sources": {
@@ -11837,7 +9878,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
@@ -11855,7 +9896,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 67,
       "durability": 50
     },
     "sources": {
@@ -11873,7 +9914,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 59,
       "durability": 50
     },
     "sources": {
@@ -11891,7 +9932,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 84,
       "durability": 50
     },
     "sources": {
@@ -11909,7 +9950,7 @@
       "strength": 70,
       "speed": 76,
       "abilities": 70,
-      "iq": 50,
+      "iq": 81,
       "durability": 70
     },
     "sources": {
@@ -11927,7 +9968,7 @@
       "strength": 88,
       "speed": 88,
       "abilities": 74,
-      "iq": 50,
+      "iq": 73,
       "durability": 40
     },
     "sources": {
@@ -11945,7 +9986,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 67,
       "durability": 50
     },
     "sources": {
@@ -11980,7 +10021,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 68,
       "durability": 50
     },
     "sources": {
@@ -11998,7 +10039,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 85,
       "durability": 50
     },
     "sources": {
@@ -12016,7 +10057,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 63,
       "durability": 50
     },
     "sources": {
@@ -12034,7 +10075,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 83,
       "durability": 50
     },
     "sources": {
@@ -12069,7 +10110,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 69,
       "durability": 50
     },
     "sources": {
@@ -12097,23 +10138,6 @@
     }
   },
   {
-    "displayName": "Ainz",
-    "id": "ainz-overlord",
-    "portrait": "/portraits/ainz-overlord.webp",
-    "series": "Overlord",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Momonga",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Momonga"
-    }
-  },
-  {
     "displayName": "Albedo",
     "id": "albedo-overlord",
     "portrait": "/portraits/albedo-overlord.jpg",
@@ -12122,7 +10146,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 55,
       "durability": 50
     },
     "sources": {
@@ -12140,7 +10164,7 @@
       "strength": 52,
       "speed": 48,
       "abilities": 52,
-      "iq": 50,
+      "iq": 70,
       "durability": 52
     },
     "sources": {
@@ -12158,7 +10182,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 53,
       "durability": 50
     },
     "sources": {
@@ -12176,7 +10200,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 88,
       "durability": 50
     },
     "sources": {
@@ -12194,7 +10218,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 70,
       "durability": 50
     },
     "sources": {
@@ -12211,7 +10235,7 @@
       "strength": 52,
       "speed": 48,
       "abilities": 52,
-      "iq": 50,
+      "iq": 74,
       "durability": 52
     },
     "sources": {
@@ -12229,7 +10253,7 @@
       "strength": 52,
       "speed": 48,
       "abilities": 70,
-      "iq": 50,
+      "iq": 61,
       "durability": 52
     },
     "sources": {
@@ -12247,80 +10271,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 69,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Gotou",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Gotou"
-    }
-  },
-  {
-    "displayName": "Kana",
-    "id": "kana-parasyte",
-    "portrait": "/portraits/kana-parasyte.jpg",
-    "series": "Parasyte",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Kana Kimishima",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kana_Kimishima"
-    }
-  },
-  {
-    "displayName": "Migi",
-    "id": "migi-parasyte",
-    "portrait": "/portraits/migi-parasyte.jpg",
-    "series": "Parasyte",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Migi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Migi"
-    }
-  },
-  {
-    "displayName": "Nogami",
-    "id": "nogami-parasyte",
-    "portrait": "/portraits/nogami-parasyte.webp",
-    "series": "Parasyte",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Nogami",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Nogami"
-    }
-  },
-  {
-    "displayName": "Reiko",
-    "id": "reiko-parasyte",
-    "portrait": "/portraits/reiko-parasyte.png",
-    "series": "Parasyte",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Reiko Tamura",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Reiko_Tamura"
     }
   },
   {
@@ -12332,29 +10288,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 84,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Ryoko Tamura",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Ryoko_Tamura"
-    }
-  },
-  {
-    "displayName": "Satomi",
-    "id": "satomi-parasyte",
-    "portrait": "/portraits/satomi-parasyte.jpg",
-    "series": "Parasyte",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Satomi Murano",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Satomi_Murano"
     }
   },
   {
@@ -12372,42 +10311,6 @@
     "sources": {
       "wikiPage": "Conan Edogawa",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Conan_Edogawa",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Shinichi",
-    "id": "shinichi-parasyte",
-    "portrait": "/portraits/shinichi-parasyte.jpg",
-    "series": "Parasyte",
-    "stats": {
-      "strength": 36,
-      "speed": 36,
-      "abilities": 28,
-      "iq": 50,
-      "durability": 28
-    },
-    "sources": {
-      "wikiPage": "Shinichi Izumi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Shinichi_Izumi",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Uragami",
-    "id": "uragami-parasyte",
-    "portrait": "/portraits/uragami-parasyte.jpg",
-    "series": "Parasyte",
-    "stats": {
-      "strength": 40,
-      "speed": 36,
-      "abilities": 22,
-      "iq": 50,
-      "durability": 12
-    },
-    "sources": {
-      "wikiPage": "Uragami",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Uragami",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -12438,7 +10341,7 @@
       "strength": 66,
       "speed": 88,
       "abilities": 66,
-      "iq": 50,
+      "iq": 32,
       "durability": 66
     },
     "sources": {
@@ -12456,7 +10359,7 @@
       "strength": 94,
       "speed": 88,
       "abilities": 94,
-      "iq": 50,
+      "iq": 70,
       "durability": 94
     },
     "sources": {
@@ -12474,7 +10377,7 @@
       "strength": 85,
       "speed": 92,
       "abilities": 80,
-      "iq": 50,
+      "iq": 74,
       "durability": 80
     },
     "sources": {
@@ -12528,7 +10431,7 @@
       "strength": 66,
       "speed": 88,
       "abilities": 66,
-      "iq": 50,
+      "iq": 37,
       "durability": 66
     },
     "sources": {
@@ -12592,24 +10495,6 @@
     }
   },
   {
-    "displayName": "Groudon",
-    "id": "groudon-pokemon",
-    "portrait": "/portraits/groudon-pokemon.jpg",
-    "series": "Pokémon",
-    "stats": {
-      "strength": 85,
-      "speed": 88,
-      "abilities": 80,
-      "iq": 50,
-      "durability": 80
-    },
-    "sources": {
-      "wikiPage": "Groudon",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Groudon",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Ho-Oh",
     "id": "ho-oh-anime",
     "portrait": "/portraits/ho-oh-anime.webp",
@@ -12646,24 +10531,6 @@
     }
   },
   {
-    "displayName": "Kyogre",
-    "id": "kyogre-pokemon",
-    "portrait": "/portraits/kyogre-pokemon.jpg",
-    "series": "Pokémon",
-    "stats": {
-      "strength": 85,
-      "speed": 88,
-      "abilities": 80,
-      "iq": 50,
-      "durability": 80
-    },
-    "sources": {
-      "wikiPage": "Kyogre",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kyogre",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Kyurem",
     "id": "kyurem-pokemon",
     "portrait": "/portraits/kyurem-pokemon.jpg",
@@ -12672,7 +10539,7 @@
       "strength": 85,
       "speed": 88,
       "abilities": 40,
-      "iq": 50,
+      "iq": 38,
       "durability": 36
     },
     "sources": {
@@ -12690,7 +10557,7 @@
       "strength": 66,
       "speed": 88,
       "abilities": 66,
-      "iq": 50,
+      "iq": 68,
       "durability": 66
     },
     "sources": {
@@ -12726,7 +10593,7 @@
       "strength": 85,
       "speed": 88,
       "abilities": 40,
-      "iq": 50,
+      "iq": 32,
       "durability": 40
     },
     "sources": {
@@ -12762,7 +10629,7 @@
       "strength": 66,
       "speed": 88,
       "abilities": 66,
-      "iq": 50,
+      "iq": 52,
       "durability": 66
     },
     "sources": {
@@ -12790,23 +10657,6 @@
     }
   },
   {
-    "displayName": "Rayquaza",
-    "id": "rayquaza-mega-pokemon",
-    "portrait": "/portraits/rayquaza-mega-pokemon.png",
-    "series": "Pokémon",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Mega Rayquaza",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Mega_Rayquaza"
-    }
-  },
-  {
     "displayName": "Reshiram",
     "id": "reshiram-pokemon",
     "portrait": "/portraits/reshiram-pokemon.jpg",
@@ -12815,7 +10665,7 @@
       "strength": 85,
       "speed": 88,
       "abilities": 40,
-      "iq": 50,
+      "iq": 73,
       "durability": 40
     },
     "sources": {
@@ -12869,7 +10719,7 @@
       "strength": 85,
       "speed": 88,
       "abilities": 40,
-      "iq": 50,
+      "iq": 73,
       "durability": 40
     },
     "sources": {
@@ -12933,24 +10783,6 @@
     }
   },
   {
-    "displayName": "Buddha",
-    "id": "buddha-record-2",
-    "portrait": "/portraits/buddha-record-2.jpg",
-    "series": "Record of Ragnarok",
-    "stats": {
-      "strength": 62,
-      "speed": 82,
-      "abilities": 62,
-      "iq": 50,
-      "durability": 62
-    },
-    "sources": {
-      "wikiPage": "Buddha (Record of Ragnarok)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Buddha_(Record_of_Ragnarok)",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Hajun",
     "id": "hajun-record",
     "portrait": "/portraits/hajun-record.png",
@@ -12977,7 +10809,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 66,
       "durability": 50
     },
     "sources": {
@@ -12995,7 +10827,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 84,
       "durability": 50
     },
     "sources": {
@@ -13012,7 +10844,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 91,
       "durability": 50
     },
     "sources": {
@@ -13029,7 +10861,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 71,
       "durability": 50
     },
     "sources": {
@@ -13047,30 +10879,13 @@
       "strength": 62,
       "speed": 82,
       "abilities": 62,
-      "iq": 50,
+      "iq": 81,
       "durability": 62
     },
     "sources": {
       "wikiPage": "Loki (Record of Ragnarok)",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Loki_(Record_of_Ragnarok)",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Musashi",
-    "id": "sakata-record",
-    "portrait": "/portraits/sakata-record.jpg",
-    "series": "Record of Ragnarok",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Miyamoto Musashi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Miyamoto_Musashi"
     }
   },
   {
@@ -13082,7 +10897,7 @@
       "strength": 62,
       "speed": 88,
       "abilities": 62,
-      "iq": 50,
+      "iq": 54,
       "durability": 62
     },
     "sources": {
@@ -13100,7 +10915,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 74,
       "durability": 50
     },
     "sources": {
@@ -13117,7 +10932,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 94,
       "durability": 50
     },
     "sources": {
@@ -13152,7 +10967,7 @@
     "stats": {
       "abilities": 88,
       "durability": 88,
-      "iq": 50,
+      "iq": 72,
       "speed": 88,
       "strength": 90
     },
@@ -13181,23 +10996,6 @@
     }
   },
   {
-    "displayName": "Ban",
-    "id": "ban-sds",
-    "portrait": "/portraits/ban-sds.jpg",
-    "series": "Seven Deadly Sins",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Ban",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Ban"
-    }
-  },
-  {
     "displayName": "Derieri",
     "id": "derieri-sds",
     "portrait": "/portraits/derieri-sds.jpg",
@@ -13206,7 +11004,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 90,
-      "iq": 50,
+      "iq": 37,
       "durability": 90
     },
     "sources": {
@@ -13224,7 +11022,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 46,
       "durability": 50
     },
     "sources": {
@@ -13242,7 +11040,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 40,
-      "iq": 50,
+      "iq": 61,
       "durability": 100
     },
     "sources": {
@@ -13260,7 +11058,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 65,
       "durability": 50
     },
     "sources": {
@@ -13278,7 +11076,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 81,
       "durability": 50
     },
     "sources": {
@@ -13296,7 +11094,7 @@
       "strength": 88,
       "speed": 82,
       "abilities": 90,
-      "iq": 50,
+      "iq": 52,
       "durability": 66
     },
     "sources": {
@@ -13314,7 +11112,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 69,
       "durability": 50
     },
     "sources": {
@@ -13331,7 +11129,7 @@
       "strength": 90,
       "speed": 82,
       "abilities": 90,
-      "iq": 50,
+      "iq": 58,
       "durability": 90
     },
     "sources": {
@@ -13359,24 +11157,6 @@
     }
   },
   {
-    "displayName": "Meliodas",
-    "id": "meliodas-sds",
-    "portrait": "/portraits/meliodas-sds.jpg",
-    "series": "Seven Deadly Sins",
-    "stats": {
-      "strength": 90,
-      "speed": 88,
-      "abilities": 40,
-      "iq": 50,
-      "durability": 90
-    },
-    "sources": {
-      "wikiPage": "Meliodas",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Meliodas",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Merlin",
     "id": "merlin-sds",
     "portrait": "/portraits/merlin-sds.jpg",
@@ -13385,7 +11165,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 94,
       "durability": 50
     },
     "sources": {
@@ -13403,7 +11183,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 90,
-      "iq": 50,
+      "iq": 66,
       "durability": 90
     },
     "sources": {
@@ -13421,7 +11201,7 @@
       "strength": 90,
       "speed": 88,
       "abilities": 40,
-      "iq": 50,
+      "iq": 55,
       "durability": 90
     },
     "sources": {
@@ -13475,7 +11255,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 56,
       "durability": 50
     },
     "sources": {
@@ -13510,7 +11290,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 79,
       "durability": 50
     },
     "sources": {
@@ -13527,29 +11307,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 69,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Igris",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Igris"
-    }
-  },
-  {
-    "displayName": "Igris",
-    "id": "igris-commander-sl",
-    "portrait": "/portraits/igris-commander-sl.webp",
-    "series": "Solo Leveling",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Igris (Blood-Red)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Igris_(Blood-Red)"
     }
   },
   {
@@ -13561,7 +11324,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 15,
       "durability": 50
     },
     "sources": {
@@ -13578,7 +11341,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 68,
       "durability": 50
     },
     "sources": {
@@ -13595,30 +11358,13 @@
       "strength": 94,
       "speed": 88,
       "abilities": 94,
-      "iq": 50,
+      "iq": 56,
       "durability": 94
     },
     "sources": {
       "wikiPage": "Rakan",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Rakan",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Siddharth",
-    "id": "siddharth-sl",
-    "portrait": "/portraits/siddharth-sl.jpg",
-    "series": "Solo Leveling",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Siddharth",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Siddharth"
     }
   },
   {
@@ -13630,7 +11376,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 35,
       "durability": 50
     },
     "sources": {
@@ -13648,7 +11394,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 69,
       "durability": 50
     },
     "sources": {
@@ -13665,7 +11411,7 @@
       "strength": 58,
       "speed": 32,
       "abilities": 58,
-      "iq": 50,
+      "iq": 80,
       "durability": 58
     },
     "sources": {
@@ -13683,7 +11429,7 @@
       "strength": 46,
       "speed": 48,
       "abilities": 46,
-      "iq": 50,
+      "iq": 63,
       "durability": 46
     },
     "sources": {
@@ -13711,24 +11457,6 @@
     }
   },
   {
-    "displayName": "Alice",
-    "id": "alice-sao",
-    "portrait": "/portraits/alice-sao.jpg",
-    "series": "Sword Art Online",
-    "stats": {
-      "strength": 38,
-      "speed": 32,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Alice Zuberg",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Alice_Zuberg",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
     "displayName": "Bercouli",
     "id": "beter-sao",
     "portrait": "/portraits/beter-sao.jpg",
@@ -13737,7 +11465,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
@@ -13782,24 +11510,6 @@
     }
   },
   {
-    "displayName": "Kirito",
-    "id": "kirito-aw-sao",
-    "portrait": "/portraits/kirito-aw-sao.jpg",
-    "series": "Sword Art Online",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Kirito",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kirito",
-      "wikiStatKey": "fallback"
-    }
-  },
-  {
     "displayName": "Klein",
     "id": "klein-sao",
     "portrait": "/portraits/klein-sao.jpg",
@@ -13808,7 +11518,7 @@
       "strength": 46,
       "speed": 68,
       "abilities": 46,
-      "iq": 50,
+      "iq": 67,
       "durability": 46
     },
     "sources": {
@@ -13826,7 +11536,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 63,
       "durability": 50
     },
     "sources": {
@@ -13843,31 +11553,13 @@
       "strength": 46,
       "speed": 68,
       "abilities": 58,
-      "iq": 50,
+      "iq": 73,
       "durability": 46
     },
     "sources": {
       "wikiPage": "Sinon",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Sinon",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Yui",
-    "id": "yui-sao",
-    "portrait": "/portraits/yui-sao.jpg",
-    "series": "Sword Art Online",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Yui",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Yui",
-      "wikiStatKey": "fallback"
     }
   },
   {
@@ -13879,7 +11571,7 @@
       "strength": 97,
       "speed": 82,
       "abilities": 97,
-      "iq": 50,
+      "iq": 51,
       "durability": 97
     },
     "sources": {
@@ -13897,7 +11589,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 42,
       "durability": 50
     },
     "sources": {
@@ -13915,7 +11607,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 63,
       "durability": 50
     },
     "sources": {
@@ -13932,7 +11624,7 @@
       "strength": 97,
       "speed": 82,
       "abilities": 97,
-      "iq": 50,
+      "iq": 69,
       "durability": 97
     },
     "sources": {
@@ -13950,7 +11642,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 68,
       "durability": 50
     },
     "sources": {
@@ -13967,7 +11659,7 @@
       "strength": 97,
       "speed": 82,
       "abilities": 97,
-      "iq": 50,
+      "iq": 87,
       "durability": 97
     },
     "sources": {
@@ -14003,29 +11695,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 83,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Elmesia El-Lu Lieng",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Elmesia_El-Lu_Lieng"
-    }
-  },
-  {
-    "displayName": "Fool",
-    "id": "fool-slime",
-    "portrait": "/portraits/fool-slime.jpg",
-    "series": "That Time I Got Reincarnated as a Slime",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Fool",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Fool"
     }
   },
   {
@@ -14037,7 +11712,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 74,
       "durability": 50
     },
     "sources": {
@@ -14054,7 +11729,7 @@
       "strength": 97,
       "speed": 76,
       "abilities": 97,
-      "iq": 50,
+      "iq": 67,
       "durability": 97
     },
     "sources": {
@@ -14072,7 +11747,7 @@
       "strength": 97,
       "speed": 40,
       "abilities": 97,
-      "iq": 50,
+      "iq": 54,
       "durability": 97
     },
     "sources": {
@@ -14090,7 +11765,7 @@
       "strength": 97,
       "speed": 82,
       "abilities": 97,
-      "iq": 50,
+      "iq": 78,
       "durability": 97
     },
     "sources": {
@@ -14108,7 +11783,7 @@
       "strength": 74,
       "speed": 76,
       "abilities": 74,
-      "iq": 50,
+      "iq": 72,
       "durability": 70
     },
     "sources": {
@@ -14126,30 +11801,13 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 73,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Kurobe (That Time I Got Reincarnated as a Slime)",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Kurobe_(That_Time_I_Got_Reincarnated_as_a_Slime)",
       "wikiStatKey": "That Time I Got Reincarnated as a Slime"
-    }
-  },
-  {
-    "displayName": "Laplace",
-    "id": "laplace-slime",
-    "portrait": "/portraits/laplace-slime.jpg",
-    "series": "That Time I Got Reincarnated as a Slime",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Laplace",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Laplace"
     }
   },
   {
@@ -14161,7 +11819,7 @@
       "strength": 97,
       "speed": 88,
       "abilities": 97,
-      "iq": 50,
+      "iq": 74,
       "durability": 97
     },
     "sources": {
@@ -14179,7 +11837,7 @@
       "strength": 97,
       "speed": 88,
       "abilities": 97,
-      "iq": 50,
+      "iq": 34,
       "durability": 97
     },
     "sources": {
@@ -14197,7 +11855,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 74,
       "durability": 50
     },
     "sources": {
@@ -14214,7 +11872,7 @@
       "strength": 97,
       "speed": 82,
       "abilities": 97,
-      "iq": 50,
+      "iq": 54,
       "durability": 96
     },
     "sources": {
@@ -14232,7 +11890,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 66,
       "durability": 50
     },
     "sources": {
@@ -14268,7 +11926,7 @@
       "strength": 97,
       "speed": 82,
       "abilities": 97,
-      "iq": 50,
+      "iq": 36,
       "durability": 97
     },
     "sources": {
@@ -14286,7 +11944,7 @@
       "strength": 70,
       "speed": 76,
       "abilities": 97,
-      "iq": 50,
+      "iq": 74,
       "durability": 70
     },
     "sources": {
@@ -14304,7 +11962,7 @@
       "strength": 97,
       "speed": 76,
       "abilities": 97,
-      "iq": 50,
+      "iq": 83,
       "durability": 97
     },
     "sources": {
@@ -14322,7 +11980,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 88,
       "durability": 50
     },
     "sources": {
@@ -14340,7 +11998,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 51,
       "durability": 50
     },
     "sources": {
@@ -14358,48 +12016,12 @@
       "strength": 97,
       "speed": 82,
       "abilities": 97,
-      "iq": 50,
+      "iq": 38,
       "durability": 97
     },
     "sources": {
       "wikiPage": "Veldora Tempest (Light Novel)",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Veldora_Tempest_(Light_Novel)",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Velgrynd",
-    "id": "velgrynd-slime",
-    "portrait": "/portraits/velgrynd-slime.webp",
-    "series": "That Time I Got Reincarnated as a Slime",
-    "stats": {
-      "strength": 97,
-      "speed": 90,
-      "abilities": 97,
-      "iq": 50,
-      "durability": 97
-    },
-    "sources": {
-      "wikiPage": "Velgrynd (Light Novel)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Velgrynd_(Light_Novel)",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Velzard",
-    "id": "velzard-slime",
-    "portrait": "/portraits/velzard-slime.jpg",
-    "series": "That Time I Got Reincarnated as a Slime",
-    "stats": {
-      "strength": 96,
-      "speed": 88,
-      "abilities": 96,
-      "iq": 50,
-      "durability": 96
-    },
-    "sources": {
-      "wikiPage": "Velzard (Web Novel)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Velzard_(Web_Novel)",
       "wikiStatKey": "peak (non-manga)"
     }
   },
@@ -14412,7 +12034,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 44,
       "durability": 50
     },
     "sources": {
@@ -14430,80 +12052,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 55,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Reita Toriihara",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Reita_Toriihara"
-    }
-  },
-  {
-    "displayName": "Kaido",
-    "id": "kaido-saiki",
-    "portrait": "/portraits/kaido-saiki.jpg",
-    "series": "The Disastrous Life of Saiki K",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Shun Kaido",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Shun_Kaido"
-    }
-  },
-  {
-    "displayName": "Kunihisa",
-    "id": "kunihisa-saiki",
-    "portrait": "/portraits/kunihisa-saiki.png",
-    "series": "The Disastrous Life of Saiki K",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Kunihisa Baba",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kunihisa_Baba"
-    }
-  },
-  {
-    "displayName": "Maki",
-    "id": "maki-saiki",
-    "portrait": "/portraits/maki-saiki.png",
-    "series": "The Disastrous Life of Saiki K",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Maki Komuro",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Maki_Komuro"
-    }
-  },
-  {
-    "displayName": "Nendou",
-    "id": "nendou-saiki",
-    "portrait": "/portraits/nendou-saiki.jpg",
-    "series": "The Disastrous Life of Saiki K",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Riki Nendou",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Riki_Nendou"
     }
   },
   {
@@ -14525,58 +12079,6 @@
     }
   },
   {
-    "displayName": "Saiki",
-    "id": "saiki-saiki",
-    "portrait": "/portraits/saiki-saiki.webp",
-    "series": "The Disastrous Life of Saiki K",
-    "stats": {
-      "strength": 90,
-      "speed": 88,
-      "abilities": 80,
-      "iq": 50,
-      "durability": 82
-    },
-    "sources": {
-      "wikiPage": "Kusuo Saiki",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kusuo_Saiki",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Teruhashi",
-    "id": "teruhashi-saiki",
-    "portrait": "/portraits/teruhashi-saiki.jpg",
-    "series": "The Disastrous Life of Saiki K",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Kokomi Teruhashi",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kokomi_Teruhashi"
-    }
-  },
-  {
-    "displayName": "Toru",
-    "id": "toru-saiki",
-    "portrait": "/portraits/toru-saiki.png",
-    "series": "The Disastrous Life of Saiki K",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Toru",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Toru"
-    }
-  },
-  {
     "displayName": "Daewi",
     "id": "daewi-goh",
     "portrait": "/portraits/daewi-goh.jpg",
@@ -14585,7 +12087,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 77,
       "durability": 50
     },
     "sources": {
@@ -14602,29 +12104,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 78,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Il Pyo Park",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Il_Pyo_Park"
-    }
-  },
-  {
-    "displayName": "Mira",
-    "id": "mira-goh",
-    "portrait": "/portraits/mira-goh.jpg",
-    "series": "The God of High School",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Yoo Mira",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Yoo_Mira"
     }
   },
   {
@@ -14647,40 +12132,6 @@
     }
   },
   {
-    "displayName": "Mori",
-    "id": "mori-goh",
-    "portrait": "/portraits/mori-goh.jpg",
-    "series": "The God of High School",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Jin Mori",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Jin_Mori"
-    }
-  },
-  {
-    "displayName": "Odin",
-    "id": "odin-goh",
-    "portrait": "/portraits/odin-goh.jpg",
-    "series": "The God of High School",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Odin (God of High School)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Odin_(God_of_High_School)"
-    }
-  },
-  {
     "displayName": "Q",
     "id": "qigong-goh",
     "portrait": "/portraits/qigong-goh.jpg",
@@ -14689,47 +12140,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 66,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Q",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Q"
-    }
-  },
-  {
-    "displayName": "Taejin",
-    "id": "taejin-goh",
-    "portrait": "/portraits/taejin-goh.jpg",
-    "series": "The God of High School",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Taejin",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Taejin"
-    }
-  },
-  {
-    "displayName": "Anos",
-    "id": "anos-voldigoad",
-    "portrait": "/portraits/anos-voldigoad.webp",
-    "series": "The Misfit of Demon King Academy",
-    "sources": {
-      "wikiPage": "Anos Voldigoad",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Anos_Voldigoad",
-      "wikiStatKey": "peak (non-manga)"
-    },
-    "stats": {
-      "abilities": 94,
-      "durability": 99,
-      "iq": 85,
-      "speed": 88,
-      "strength": 94
     }
   },
   {
@@ -14741,7 +12157,7 @@
       "strength": 94,
       "speed": 88,
       "abilities": 94,
-      "iq": 50,
+      "iq": 85,
       "durability": 99
     },
     "sources": {
@@ -14882,7 +12298,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 77,
       "durability": 50
     },
     "sources": {
@@ -14899,7 +12315,7 @@
       "strength": 58,
       "speed": 82,
       "abilities": 54,
-      "iq": 50,
+      "iq": 66,
       "durability": 54
     },
     "sources": {
@@ -14935,65 +12351,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 77,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Kuzen Yoshimura",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Kuzen_Yoshimura"
-    }
-  },
-  {
-    "displayName": "Naki",
-    "id": "naki-tg",
-    "portrait": "/portraits/naki-tg.jpg",
-    "series": "Tokyo Ghoul",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Naki",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Naki"
-    }
-  },
-  {
-    "displayName": "Noro",
-    "id": "noro-tg",
-    "portrait": "/portraits/noro-tg.jpg",
-    "series": "Tokyo Ghoul",
-    "stats": {
-      "strength": 58,
-      "speed": 76,
-      "abilities": 52,
-      "iq": 50,
-      "durability": 52
-    },
-    "sources": {
-      "wikiPage": "Noro",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Noro",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Roma",
-    "id": "roma-tg",
-    "portrait": "/portraits/roma-tg.jpg",
-    "series": "Tokyo Ghoul",
-    "stats": {
-      "strength": 68,
-      "speed": 76,
-      "abilities": 52,
-      "iq": 50,
-      "durability": 52
-    },
-    "sources": {
-      "wikiPage": "Roma Hoito",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Roma_Hoito",
-      "wikiStatKey": "peak (non-manga)"
     }
   },
   {
@@ -15005,30 +12368,13 @@
       "strength": 58,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 69,
       "durability": 52
     },
     "sources": {
       "wikiPage": "Shuu Tsukiyama",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Shuu_Tsukiyama",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Takizawa",
-    "id": "takizawa-tg",
-    "portrait": "/portraits/takizawa-tg.jpg",
-    "series": "Tokyo Ghoul",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Kuki Takizawa",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kuki_Takizawa"
     }
   },
   {
@@ -15040,30 +12386,13 @@
       "strength": 58,
       "speed": 76,
       "abilities": 52,
-      "iq": 50,
+      "iq": 66,
       "durability": 52
     },
     "sources": {
       "wikiPage": "Touka Kirishima",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Touka_Kirishima",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Yoshimura",
-    "id": "yoshimura-tg",
-    "portrait": "/portraits/yoshimura-tg.jpg",
-    "series": "Tokyo Ghoul",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Yoshimura",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Yoshimura"
     }
   },
   {
@@ -15075,7 +12404,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 28,
-      "iq": 50,
+      "iq": 40,
       "durability": 28
     },
     "sources": {
@@ -15093,7 +12422,7 @@
       "strength": 40,
       "speed": 68,
       "abilities": 28,
-      "iq": 50,
+      "iq": 65,
       "durability": 28
     },
     "sources": {
@@ -15111,7 +12440,7 @@
       "strength": 52,
       "speed": 68,
       "abilities": 28,
-      "iq": 50,
+      "iq": 68,
       "durability": 28
     },
     "sources": {
@@ -15129,7 +12458,7 @@
       "strength": 28,
       "speed": 68,
       "abilities": 28,
-      "iq": 50,
+      "iq": 72,
       "durability": 28
     },
     "sources": {
@@ -15147,7 +12476,7 @@
       "strength": 40,
       "speed": 68,
       "abilities": 28,
-      "iq": 50,
+      "iq": 28,
       "durability": 28
     },
     "sources": {
@@ -15165,7 +12494,7 @@
       "strength": 40,
       "speed": 32,
       "abilities": 28,
-      "iq": 50,
+      "iq": 84,
       "durability": 28
     },
     "sources": {
@@ -15182,7 +12511,7 @@
     "stats": {
       "abilities": 28,
       "durability": 28,
-      "iq": 50,
+      "iq": 56,
       "speed": 68,
       "strength": 52
     },
@@ -15190,40 +12519,6 @@
       "wikiPage": "Manjiro Sano",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Manjiro_Sano",
       "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Senju",
-    "id": "senju-revengers",
-    "portrait": "/portraits/senju-revengers.png",
-    "series": "Tokyo Revengers",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Kawaragi Senju",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Kawaragi_Senju"
-    }
-  },
-  {
-    "displayName": "South",
-    "id": "south-revengers",
-    "portrait": "/portraits/south-revengers.png",
-    "series": "Tokyo Revengers",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Terano South",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Terano_South"
     }
   },
   {
@@ -15253,7 +12548,7 @@
       "strength": 40,
       "speed": 32,
       "abilities": 28,
-      "iq": 50,
+      "iq": 75,
       "durability": 28
     },
     "sources": {
@@ -15271,7 +12566,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 63,
       "durability": 50
     },
     "sources": {
@@ -15289,7 +12584,7 @@
       "strength": 22,
       "speed": 40,
       "abilities": 22,
-      "iq": 50,
+      "iq": 82,
       "durability": 22
     },
     "sources": {
@@ -15307,7 +12602,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 58,
       "durability": 50
     },
     "sources": {
@@ -15324,99 +12619,12 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 72,
       "durability": 50
     },
     "sources": {
       "wikiPage": "Floki",
       "wikiUrl": "https://vsbattles.fandom.com/wiki/Floki"
-    }
-  },
-  {
-    "displayName": "Gudrid",
-    "id": "gudrid-vinland",
-    "portrait": "/portraits/gudrid-vinland.jpg",
-    "series": "Vinland Saga",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Gudrid",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Gudrid"
-    }
-  },
-  {
-    "displayName": "Hild",
-    "id": "hild-vinland",
-    "portrait": "/portraits/hild-vinland.jpg",
-    "series": "Vinland Saga",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Hild",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Hild"
-    }
-  },
-  {
-    "displayName": "Ketil",
-    "id": "ketil-vinland",
-    "portrait": "/portraits/ketil-vinland.webp",
-    "series": "Vinland Saga",
-    "stats": {
-      "strength": 50,
-      "speed": 50,
-      "abilities": 50,
-      "iq": 50,
-      "durability": 50
-    },
-    "sources": {
-      "wikiPage": "Ketil",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Ketil"
-    }
-  },
-  {
-    "displayName": "Olaf",
-    "id": "olaf-vinland",
-    "portrait": "/portraits/olaf-vinland.jpg",
-    "series": "Vinland Saga",
-    "stats": {
-      "strength": 78,
-      "speed": 32,
-      "abilities": 78,
-      "iq": 50,
-      "durability": 78
-    },
-    "sources": {
-      "wikiPage": "Olaf",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Olaf",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Ragnar",
-    "id": "ragnar-vinland",
-    "portrait": "/portraits/ragnar-vinland.jpg",
-    "series": "Vinland Saga",
-    "stats": {
-      "strength": 28,
-      "speed": 36,
-      "abilities": 28,
-      "iq": 50,
-      "durability": 28
-    },
-    "sources": {
-      "wikiPage": "Ragnar",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Ragnar",
-      "wikiStatKey": "peak (non-manga)"
     }
   },
   {
@@ -15428,7 +12636,7 @@
       "strength": 50,
       "speed": 50,
       "abilities": 50,
-      "iq": 50,
+      "iq": 67,
       "durability": 50
     },
     "sources": {
@@ -15463,7 +12671,7 @@
       "strength": 38,
       "speed": 32,
       "abilities": 38,
-      "iq": 50,
+      "iq": 56,
       "durability": 38
     },
     "sources": {
@@ -15483,24 +12691,6 @@
       "iq": 64,
       "speed": 32,
       "strength": 28
-    },
-    "sources": {
-      "wikiPage": "Thors",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Thors",
-      "wikiStatKey": "peak (non-manga)"
-    }
-  },
-  {
-    "displayName": "Thors",
-    "id": "thors-vinland",
-    "portrait": "/portraits/thors-vinland.jpg",
-    "series": "Vinland Saga",
-    "stats": {
-      "strength": 28,
-      "speed": 32,
-      "abilities": 28,
-      "iq": 50,
-      "durability": 28
     },
     "sources": {
       "wikiPage": "Thors",

@@ -56,13 +56,6 @@
     "apSlug": "esidisi"
   },
   {
-    "id": "dio-vampire-jojo",
-    "displayName": "DIO",
-    "series": "JoJo",
-    "wikiPage": "DIO (Part 3)",
-    "apSlug": "dio-brando"
-  },
-  {
     "id": "kira-jojo",
     "displayName": "Kira",
     "series": "JoJo",
@@ -119,25 +112,11 @@
     "apSlug": "koichi-hirose"
   },
   {
-    "id": "yukako-jojo",
-    "displayName": "Yukako",
-    "series": "JoJo",
-    "wikiPage": "Yukako Yamagishi",
-    "apSlug": "yukako-yamagishi"
-  },
-  {
     "id": "angelo-jojo",
     "displayName": "Angelo",
     "series": "JoJo",
     "wikiPage": "Angelo",
     "apSlug": "angelo"
-  },
-  {
-    "id": "reimi-jojo",
-    "displayName": "Reimi",
-    "series": "JoJo",
-    "wikiPage": "Reimi Sugimoto",
-    "apSlug": "reimi-sugimoto"
   },
   {
     "id": "mista-jojo",
@@ -194,19 +173,5 @@
     "series": "JoJo",
     "wikiPage": "Diego Brando",
     "apSlug": "diego-brando"
-  },
-  {
-    "id": "hot-pants-jojo",
-    "displayName": "Hot Pants",
-    "series": "JoJo",
-    "wikiPage": "Hot Pants",
-    "apSlug": "hot-pants"
-  },
-  {
-    "id": "lucy-jojo",
-    "displayName": "Lucy",
-    "series": "JoJo",
-    "wikiPage": "Lucy Steel",
-    "apSlug": "lucy-steel"
   }
 ]

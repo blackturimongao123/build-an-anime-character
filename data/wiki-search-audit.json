@@ -30,21 +30,6 @@
     }
   },
   {
-    "id": "gluttony-fma",
-    "displayName": "Gluttony",
-    "currentWiki": "Gluttony (Fullmetal Alchemist)",
-    "searchHits": [
-      "Gluttony (Fullmetal Alchemist)"
-    ],
-    "probeStats": {
-      "strength": 28,
-      "speed": 48,
-      "abilities": 38,
-      "iq": 35,
-      "durability": 38
-    }
-  },
-  {
     "id": "greed-fma",
     "displayName": "Greed",
     "currentWiki": "Greed (Fullmetal Alchemist)",

@@ -11,7 +11,6 @@
     "alice-alicization": 55,
     "alphonse-elric": 71,
     "alucard": 85,
-    "anos-voldigoad": 85,
     "antares-sl": 66,
     "anti-spiral": 96,
     "arceus-anime": 90,
@@ -45,7 +44,6 @@
     "yamamoto": 68,
     "gilgamesh-fsn": 68,
     "giratina-anime": 58,
-    "gluttony-fma": 7,
     "goku-ssj2": 65,
     "gon-adult-anime": 69,
     "greed-fma": 54,
@@ -81,7 +79,6 @@
     "madara": 83,
     "makima": 87,
     "mikey-sano": 50,
-    "mash-burnedead": 38,
     "meliodas-assault": 37,
     "meruem-hxh": 95,
     "mewtwo-anime": 78,
@@ -110,7 +107,6 @@
     "sasuke-rinnegan": 72,
     "gojo-satoru": 70,
     "senku-ishigami": 97,
-    "mob-100-anime": 25,
     "shinichi-izumi": 69,
     "shinra-fire-force": 40,
     "sho-kusakabe": 48,
@@ -121,7 +117,6 @@
     "takemichi-hanagaki": 55,
     "tanjiro-sun-breathing": 40,
     "tatsumi-incursio": 65,
-    "kuroko-tetsuya": 75,
     "truth-fma": 96,
     "thor-record": 48,
     "thorfinn-anime": 60,
@@ -228,17 +223,6 @@
       "editedByUser": false,
       "pillars": null,
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
-    },
-    {
-      "id": "anos-voldigoad",
-      "displayName": "Anos Voldigoad",
-      "series": "The Misfit of Demon King Academy",
-      "baselineWas": 100,
-      "proposalFile": 88,
-      "finalIq": 85,
-      "editedByUser": true,
-      "pillars": "Knowledge + arrogance",
-      "rationale": "In-universe boast; cap under anti-omniscient tier for draft"
     },
     {
       "id": "antares-sl",
@@ -602,17 +586,6 @@
       "editedByUser": false,
       "pillars": "—",
       "rationale": "Same"
-    },
-    {
-      "id": "gluttony-fma",
-      "displayName": "Gluttony",
-      "series": "Fullmetal Alchemist",
-      "baselineWas": 26,
-      "proposalFile": 26,
-      "finalIq": 7,
-      "editedByUser": true,
-      "pillars": null,
-      "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
       "id": "goku-ssj2",
@@ -1000,17 +973,6 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "mash-burnedead",
-      "displayName": "Mash Burnedead",
-      "series": "Mashle",
-      "baselineWas": 20,
-      "proposalFile": 20,
-      "finalIq": 38,
-      "editedByUser": true,
-      "pillars": null,
-      "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
-    },
-    {
       "id": "meliodas-assault",
       "displayName": "Meliodas",
       "series": "Seven Deadly Sins",
@@ -1319,17 +1281,6 @@
       "rationale": "Rebuilds civilizations from stone (Knowledge ~98); blunt socially, not a detective duelist or fight-IQ monster — average of pillars, not peak pillar"
     },
     {
-      "id": "mob-100-anime",
-      "displayName": "Shigeo Kageyama",
-      "series": "Mob Psycho 100",
-      "baselineWas": 58,
-      "proposalFile": 58,
-      "finalIq": 25,
-      "editedByUser": true,
-      "pillars": "Esper % battle IQ",
-      "rationale": "Limiter control + burst timing; weak social scheme"
-    },
-    {
       "id": "shinichi-izumi",
       "displayName": "Shinichi Izumi",
       "series": "Parasyte",
@@ -1438,17 +1389,6 @@
       "editedByUser": true,
       "pillars": null,
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
-    },
-    {
-      "id": "kuroko-tetsuya",
-      "displayName": "Tetsuya Kuroko",
-      "series": "Kuroko's Basketball",
-      "baselineWas": 34,
-      "proposalFile": 52,
-      "finalIq": 75,
-      "editedByUser": true,
-      "pillars": "Court vision / team IQ",
-      "rationale": "Mis-set low; phantom pass spatial IQ"
     },
     {
       "id": "truth-fma",

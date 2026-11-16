@@ -86,21 +86,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Acnologia (Human)",
-      "expected": null,
-      "id": "acnologia-human-fairy-tail",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 62,
@@ -203,21 +188,6 @@
         "strength": 52
       },
       "wiki_page": "Ainz Ooal Gown"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Momonga",
-      "expected": null,
-      "id": "ainz-overlord",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -442,27 +412,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 55,
-        "speed": 32,
-        "strength": 38
-      },
-      "id": "alice-sao",
-      "ok": true,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 32,
-        "strength": 38
-      },
-      "wiki_page": "Alice Zuberg"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 78,
         "durability": 74,
         "iq": 85,
@@ -542,27 +491,6 @@
         "strength": 90
       },
       "wiki_page": "Alucard (Hellsing)"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "alucard-hellsing",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Alucard"
     },
     {
       "delta": null,
@@ -712,27 +640,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 94,
-        "durability": 99,
-        "iq": 100,
-        "speed": 88,
-        "strength": 94
-      },
-      "id": "anos-voldigoad",
-      "ok": true,
-      "stored": {
-        "abilities": 94,
-        "durability": 99,
-        "iq": 85,
-        "speed": 88,
-        "strength": 94
-      },
-      "wiki_page": "Anos Voldigoad"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 70,
         "durability": 70,
         "iq": 72,
@@ -844,27 +751,6 @@
         "abilities": 22,
         "durability": 22,
         "iq": 66,
-        "speed": 36,
-        "strength": 40
-      },
-      "wiki_page": "Daiki Aomine"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 22,
-        "durability": 22,
-        "iq": 35,
-        "speed": 36,
-        "strength": 40
-      },
-      "id": "aomine-kuroko",
-      "ok": true,
-      "stored": {
-        "abilities": 22,
-        "durability": 22,
-        "iq": 50,
         "speed": 36,
         "strength": 40
       },
@@ -1370,21 +1256,6 @@
         "strength": 78
       },
       "wiki_page": "Bambietta Basterbine"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Ban",
-      "expected": null,
-      "id": "ban-sds",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -1936,27 +1807,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 62,
-        "durability": 62,
-        "iq": 55,
-        "speed": 82,
-        "strength": 62
-      },
-      "id": "buddha-record-2",
-      "ok": true,
-      "stored": {
-        "abilities": 62,
-        "durability": 62,
-        "iq": 50,
-        "speed": 82,
-        "strength": 62
-      },
-      "wiki_page": "Buddha (Record of Ragnarok)"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 54,
         "durability": 54,
         "iq": 40,
@@ -2423,21 +2273,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Udo Daisuke",
-      "expected": null,
-      "id": "claw-boss-mob",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": "No parse content for Clayman",
       "expected": null,
       "id": "clayman-slime",
@@ -2882,21 +2717,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Denji",
-      "expected": null,
-      "id": "denji-chainsaw-csm",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 80,
@@ -3122,21 +2942,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for DIO",
-      "expected": null,
-      "id": "dio-jojo",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 38,
@@ -3155,21 +2960,6 @@
         "strength": 58
       },
       "wiki_page": "Dio Brando"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for DIO (Part 3)",
-      "expected": null,
-      "id": "dio-vampire-jojo",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -3356,27 +3146,6 @@
     },
     {
       "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 38,
-        "durability": 52,
-        "iq": 85,
-        "speed": 48,
-        "strength": 58
-      },
-      "id": "edward-fma",
-      "ok": true,
-      "stored": {
-        "abilities": 38,
-        "durability": 52,
-        "iq": 50,
-        "speed": 48,
-        "strength": 58
-      },
-      "wiki_page": "Edward Elric"
-    },
-    {
-      "delta": null,
       "error": "No parse content for Einar",
       "expected": null,
       "id": "einar-vinland",
@@ -3529,27 +3298,6 @@
         "abilities": 38,
         "durability": 38,
         "iq": 55,
-        "speed": 48,
-        "strength": 44
-      },
-      "wiki_page": "Envy"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 38,
-        "durability": 38,
-        "iq": 55,
-        "speed": 48,
-        "strength": 44
-      },
-      "id": "envy-fma-catalog",
-      "ok": true,
-      "stored": {
-        "abilities": 38,
-        "durability": 38,
-        "iq": 50,
         "speed": 48,
         "strength": 44
       },
@@ -3799,27 +3547,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 62,
-        "durability": 50,
-        "iq": 85,
-        "speed": 48,
-        "strength": 100
-      },
-      "id": "euclid-geass",
-      "ok": true,
-      "stored": {
-        "abilities": 62,
-        "durability": 50,
-        "iq": 50,
-        "speed": 48,
-        "strength": 100
-      },
-      "wiki_page": "Lelouch vi Britannia"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 58,
         "durability": 58,
         "iq": 55,
@@ -3910,27 +3637,6 @@
         "abilities": 86,
         "durability": 86,
         "iq": 88,
-        "speed": 48,
-        "strength": 86
-      },
-      "wiki_page": "Father (Fullmetal Alchemist)"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 86,
-        "durability": 86,
-        "iq": 85,
-        "speed": 48,
-        "strength": 86
-      },
-      "id": "father-god-fma",
-      "ok": true,
-      "stored": {
-        "abilities": 86,
-        "durability": 86,
-        "iq": 50,
         "speed": 48,
         "strength": 86
       },
@@ -4046,21 +3752,6 @@
       "error": "No parse content for Floki",
       "expected": null,
       "id": "floki-vinland",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Fool",
-      "expected": null,
-      "id": "fool-slime",
       "ok": false,
       "stored": {
         "abilities": 50,
@@ -4643,21 +4334,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Gilgamesh (Fate)",
-      "expected": null,
-      "id": "gilgamesh-ea-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 97,
@@ -4697,27 +4373,6 @@
         "strength": 78
       },
       "wiki_page": "Gin Ichimaru"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 58,
-        "durability": 58,
-        "iq": 85,
-        "speed": 68,
-        "strength": 58
-      },
-      "id": "gintoki-gintama",
-      "ok": true,
-      "stored": {
-        "abilities": 58,
-        "durability": 58,
-        "iq": 50,
-        "speed": 68,
-        "strength": 58
-      },
-      "wiki_page": "Gintoki Sakata"
     },
     {
       "delta": null,
@@ -4802,27 +4457,6 @@
         "strength": 52
       },
       "wiki_page": "Giyu Tomioka"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 38,
-        "durability": 38,
-        "iq": 35,
-        "speed": 48,
-        "strength": 38
-      },
-      "id": "gluttony-fma",
-      "ok": true,
-      "stored": {
-        "abilities": 38,
-        "durability": 38,
-        "iq": 7,
-        "speed": 48,
-        "strength": 38
-      },
-      "wiki_page": "Gluttony (Fullmetal Alchemist)"
     },
     {
       "delta": null,
@@ -4994,21 +4628,6 @@
         "strength": 94
       },
       "wiki_page": "Son Goku (DBS Anime)"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Son Goku (Ultra Instinct)",
-      "expected": null,
-      "id": "goku-ui-dragon-ball",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -5258,42 +4877,6 @@
         "strength": 78
       },
       "wiki_page": "Grimmjow Jaegerjaquez"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 80,
-        "durability": 80,
-        "iq": 72,
-        "speed": 88,
-        "strength": 85
-      },
-      "id": "groudon-pokemon",
-      "ok": true,
-      "stored": {
-        "abilities": 80,
-        "durability": 80,
-        "iq": 50,
-        "speed": 88,
-        "strength": 85
-      },
-      "wiki_page": "Groudon"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Gudrid",
-      "expected": null,
-      "id": "gudrid-vinland",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -5816,21 +5399,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Hild",
-      "expected": null,
-      "id": "hild-vinland",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 42,
@@ -6065,27 +5633,6 @@
       "error": null,
       "expected": {
         "abilities": 52,
-        "durability": 38,
-        "iq": 72,
-        "speed": 48,
-        "strength": 38
-      },
-      "id": "hohe-brother-fma",
-      "ok": true,
-      "stored": {
-        "abilities": 52,
-        "durability": 38,
-        "iq": 50,
-        "speed": 48,
-        "strength": 38
-      },
-      "wiki_page": "Alphonse Elric"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 52,
         "durability": 42,
         "iq": 85,
         "speed": 48,
@@ -6101,27 +5648,6 @@
         "strength": 38
       },
       "wiki_page": "Van Hohenheim"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 12,
-        "durability": 12,
-        "iq": 72,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "hot-pants-jojo",
-      "ok": true,
-      "stored": {
-        "abilities": 12,
-        "durability": 12,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Hot Pants"
     },
     {
       "delta": null,
@@ -6263,21 +5789,6 @@
         "strength": 96
       },
       "wiki_page": "Ignia"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Igris (Blood-Red)",
-      "expected": null,
-      "id": "igris-commander-sl",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -6425,21 +5936,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Irene Belserion (Dragon)",
-      "expected": null,
-      "id": "irene-dragon-fairy-tail",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 82,
@@ -6536,21 +6032,6 @@
       "error": "No parse content for Iskandar (King of Conquerors)",
       "expected": null,
       "id": "iskandar-king-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Isshiki Otsutsuki",
-      "expected": null,
-      "id": "isshiki-naruto",
       "ok": false,
       "stored": {
         "abilities": 50,
@@ -6689,21 +6170,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Izumi",
-      "expected": null,
-      "id": "izumi-mob",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 52,
@@ -6758,27 +6224,6 @@
         "strength": 50
       },
       "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 55,
-        "speed": 82,
-        "strength": 90
-      },
-      "id": "jacob-fairy-tail",
-      "ok": true,
-      "stored": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 50,
-        "speed": 82,
-        "strength": 90
-      },
-      "wiki_page": "Jacob Lessio"
     },
     {
       "delta": null,
@@ -6908,27 +6353,6 @@
         "strength": 58
       },
       "wiki_page": "Jeremiah Gottwald"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "jigen-naruto",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Jigen"
     },
     {
       "delta": null,
@@ -7165,27 +6589,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 42,
-        "durability": 42,
-        "iq": 72,
-        "speed": 88,
-        "strength": 58
-      },
-      "id": "jotaro-star-jojo",
-      "ok": true,
-      "stored": {
-        "abilities": 42,
-        "durability": 42,
-        "iq": 50,
-        "speed": 88,
-        "strength": 58
-      },
-      "wiki_page": "Jotaro Kujo"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 78,
         "durability": 78,
         "iq": 72,
@@ -7283,27 +6686,6 @@
     },
     {
       "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "kagura-gintama",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Kagura"
-    },
-    {
-      "delta": null,
       "error": "No parse content for Kaguya Otsutsuki",
       "expected": null,
       "id": "kaguya-naruto",
@@ -7337,21 +6719,6 @@
         "strength": 40
       },
       "wiki_page": "Kaido (One Piece)"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Shun Kaido",
-      "expected": null,
-      "id": "kaido-saiki",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -7493,42 +6860,6 @@
       "error": "No parse content for Genji Kamogawa",
       "expected": null,
       "id": "kamogawa-ippo",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "kamui-gintama",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Kamui"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Kana Kimishima",
-      "expected": null,
-      "id": "kana-parasyte",
       "ok": false,
       "stored": {
         "abilities": 50,
@@ -7739,21 +7070,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Kotaro Katsura",
-      "expected": null,
-      "id": "katsura-gintama",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 28,
@@ -7856,21 +7172,6 @@
         "strength": 78
       },
       "wiki_page": "Kensei Muguruma"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Ketil",
-      "expected": null,
-      "id": "ketil-vinland",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -8074,27 +7375,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 68,
-        "durability": 68,
-        "iq": 85,
-        "speed": 88,
-        "strength": 68
-      },
-      "id": "kirei-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 68,
-        "durability": 68,
-        "iq": 50,
-        "speed": 88,
-        "strength": 68
-      },
-      "wiki_page": "Kirei Kotomine"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 92,
         "durability": 92,
         "iq": 85,
@@ -8111,27 +7391,6 @@
         "strength": 92
       },
       "wiki_page": "Kirio Hikifune"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "kirito-aw-sao",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Kirito"
     },
     {
       "delta": null,
@@ -8447,36 +7706,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Isao Kondo",
-      "expected": null,
-      "id": "kondo-gintama",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Konro Sagamihara",
-      "expected": null,
-      "id": "konro-fire-force",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 100,
@@ -8516,21 +7745,6 @@
         "strength": 40
       },
       "wiki_page": "Krillin"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Kunihisa Baba",
-      "expected": null,
-      "id": "kunihisa-saiki",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -8629,27 +7843,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 22,
-        "durability": 22,
-        "iq": 72,
-        "speed": 36,
-        "strength": 40
-      },
-      "id": "kuroko-tetsuya",
-      "ok": true,
-      "stored": {
-        "abilities": 22,
-        "durability": 22,
-        "iq": 75,
-        "speed": 36,
-        "strength": 40
-      },
-      "wiki_page": "Tetsuya Kuroko"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 80,
         "durability": 82,
         "iq": 85,
@@ -8681,27 +7874,6 @@
         "strength": 50
       },
       "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 80,
-        "durability": 80,
-        "iq": 72,
-        "speed": 88,
-        "strength": 85
-      },
-      "id": "kyogre-pokemon",
-      "ok": true,
-      "stored": {
-        "abilities": 80,
-        "durability": 80,
-        "iq": 50,
-        "speed": 88,
-        "strength": 85
-      },
-      "wiki_page": "Kyogre"
     },
     {
       "delta": null,
@@ -8765,27 +7937,6 @@
         "strength": 40
       },
       "wiki_page": "Ladros"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "lady-nagant-mha",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Lady Nagant"
     },
     {
       "delta": null,
@@ -8870,21 +8021,6 @@
         "strength": 40
       },
       "wiki_page": "Langris Vaude"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Laplace",
-      "expected": null,
-      "id": "laplace-slime",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -9103,27 +8239,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 46,
-        "durability": 38,
-        "iq": 72,
-        "speed": 48,
-        "strength": 38
-      },
-      "id": "levi-anime-aot",
-      "ok": true,
-      "stored": {
-        "abilities": 46,
-        "durability": 38,
-        "iq": 50,
-        "speed": 48,
-        "strength": 38
-      },
-      "wiki_page": "Levi Ackerman"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 74,
         "durability": 70,
         "iq": 85,
@@ -9140,21 +8255,6 @@
         "strength": 70
       },
       "wiki_page": "Licht"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Yuu",
-      "expected": null,
-      "id": "licht-fire-force",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -9337,27 +8437,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 100,
-        "durability": 100,
-        "iq": 85,
-        "speed": 88,
-        "strength": 100
-      },
-      "id": "lordgenome-gurren",
-      "ok": true,
-      "stored": {
-        "abilities": 100,
-        "durability": 100,
-        "iq": 50,
-        "speed": 88,
-        "strength": 100
-      },
-      "wiki_page": "Lordgenome"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 78,
         "durability": 78,
         "iq": 40,
@@ -9497,21 +8576,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Lucy Steel",
-      "expected": null,
-      "id": "lucy-jojo",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 80,
@@ -9568,27 +8632,6 @@
         "abilities": 38,
         "durability": 38,
         "iq": 55,
-        "speed": 48,
-        "strength": 38
-      },
-      "wiki_page": "Lust"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 38,
-        "durability": 38,
-        "iq": 55,
-        "speed": 48,
-        "strength": 38
-      },
-      "id": "lust-human-fma",
-      "ok": true,
-      "stored": {
-        "abilities": 38,
-        "durability": 38,
-        "iq": 50,
         "speed": 48,
         "strength": 38
       },
@@ -9731,21 +8774,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for The Major",
-      "expected": null,
-      "id": "major-hellsing",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 78,
@@ -9809,21 +8837,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Maki Komuro",
-      "expected": null,
-      "id": "maki-saiki",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 54,
@@ -9838,27 +8851,6 @@
         "abilities": 54,
         "durability": 50,
         "iq": 87,
-        "speed": 76,
-        "strength": 58
-      },
-      "wiki_page": "Makima"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 54,
-        "durability": 50,
-        "iq": 40,
-        "speed": 76,
-        "strength": 58
-      },
-      "id": "makima-csm",
-      "ok": true,
-      "stored": {
-        "abilities": 54,
-        "durability": 50,
-        "iq": 50,
         "speed": 76,
         "strength": 58
       },
@@ -9902,21 +8894,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Marianne vi Britannia",
-      "expected": null,
-      "id": "marianne-geass",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 40,
@@ -9935,42 +8912,6 @@
         "strength": 40
       },
       "wiki_page": "Mars"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 74,
-        "durability": 74,
-        "iq": 40,
-        "speed": 88,
-        "strength": 85
-      },
-      "id": "mash-burnedead",
-      "ok": true,
-      "stored": {
-        "abilities": 74,
-        "durability": 74,
-        "iq": 38,
-        "speed": 88,
-        "strength": 85
-      },
-      "wiki_page": "Mash Burnedead"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Mash Burnedead (Demon)",
-      "expected": null,
-      "id": "mash-demon-mashle",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -10052,21 +8993,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Heiji Matsudaira",
-      "expected": null,
-      "id": "matsudaira-gintama",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 96,
@@ -10106,21 +9032,6 @@
         "strength": 78
       },
       "wiki_page": "Mayuri Kurotsuchi"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Chihiro Mayuzumi",
-      "expected": null,
-      "id": "mayuzumi-kuroko",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -10246,27 +9157,6 @@
         "abilities": 90,
         "durability": 90,
         "iq": 37,
-        "speed": 88,
-        "strength": 90
-      },
-      "wiki_page": "Meliodas"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 90,
-        "iq": 85,
-        "speed": 88,
-        "strength": 90
-      },
-      "id": "meliodas-sds",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 90,
-        "iq": 50,
         "speed": 88,
         "strength": 90
       },
@@ -10463,21 +9353,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Reo Mibuchi",
-      "expected": null,
-      "id": "mibuchi-kuroko",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 40,
@@ -10523,21 +9398,6 @@
       "error": "No parse content for Izuku Midoriya (100%)",
       "expected": null,
       "id": "midoriya-100-mha",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Migi",
-      "expected": null,
-      "id": "migi-parasyte",
       "ok": false,
       "stored": {
         "abilities": 50,
@@ -10673,36 +9533,6 @@
         "strength": 58
       },
       "wiki_page": "Mine"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Minori Asagiri",
-      "expected": null,
-      "id": "minori-mob",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Yoo Mira",
-      "expected": null,
-      "id": "mira-goh",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -10855,27 +9685,6 @@
         "speed": 76,
         "strength": 90
       },
-      "id": "mob-100-anime",
-      "ok": true,
-      "stored": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 25,
-        "speed": 76,
-        "strength": 90
-      },
-      "wiki_page": "Shigeo Kageyama"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 55,
-        "speed": 76,
-        "strength": 90
-      },
       "id": "mob-100-mob",
       "ok": true,
       "stored": {
@@ -10886,57 +9695,6 @@
         "strength": 90
       },
       "wiki_page": "Shigeo Kageyama"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 85,
-        "speed": 76,
-        "strength": 90
-      },
-      "id": "mogami-mob",
-      "ok": true,
-      "stored": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 50,
-        "speed": 76,
-        "strength": 90
-      },
-      "wiki_page": "Keiji Mogami"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Momoshiki Otsutsuki",
-      "expected": null,
-      "id": "momoshiki-naruto",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Monica Krushevsky",
-      "expected": null,
-      "id": "monica-geass",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -10997,36 +9755,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Jin Mori",
-      "expected": null,
-      "id": "mori-goh",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Morris",
-      "expected": null,
-      "id": "morris-black-clover",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": "No parse content for Yuu Momonoki",
       "expected": null,
       "id": "mount-lady-mha",
@@ -11060,21 +9788,6 @@
         "strength": 52
       },
       "wiki_page": "Muichiro Tokito"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Murashiki Juso",
-      "expected": null,
-      "id": "murakami-kuroko",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -11195,42 +9908,6 @@
         "strength": 58
       },
       "wiki_page": "Najenda"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Naki",
-      "expected": null,
-      "id": "naki-tg",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 52,
-        "durability": 52,
-        "iq": 35,
-        "speed": 76,
-        "strength": 52
-      },
-      "id": "nakime-demon-slayer",
-      "ok": true,
-      "stored": {
-        "abilities": 52,
-        "durability": 52,
-        "iq": 50,
-        "speed": 76,
-        "strength": 52
-      },
-      "wiki_page": "Nakime"
     },
     {
       "delta": null,
@@ -11381,21 +10058,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Kazunari Takao",
-      "expected": null,
-      "id": "nashida-kuroko",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 68,
@@ -11414,21 +10076,6 @@
         "strength": 68
       },
       "wiki_page": "Natsu Dragneel (X784 to X791)"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Natsu Dragneel (Dragon Force)",
-      "expected": null,
-      "id": "natsu-ignia-fairy-tail",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -11471,27 +10118,6 @@
         "strength": 85
       },
       "wiki_page": "Necrozma"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 55,
-        "speed": 82,
-        "strength": 78
-      },
-      "id": "neinhart-fairy-tail",
-      "ok": true,
-      "stored": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 50,
-        "speed": 82,
-        "strength": 78
-      },
-      "wiki_page": "Neinhart"
     },
     {
       "delta": null,
@@ -11558,21 +10184,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Riki Nendou",
-      "expected": null,
-      "id": "nendou-saiki",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": "No parse content for Neon Nostrade",
       "expected": null,
       "id": "neon-hxh",
@@ -11627,48 +10238,6 @@
         "strength": 52
       },
       "wiki_page": "Nezuko Kamado"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 100,
-        "durability": 100,
-        "iq": 85,
-        "speed": 88,
-        "strength": 100
-      },
-      "id": "nias-gurren",
-      "ok": true,
-      "stored": {
-        "abilities": 100,
-        "durability": 100,
-        "iq": 50,
-        "speed": 88,
-        "strength": 100
-      },
-      "wiki_page": "Nia Teppelin"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "nighteye-mha",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Sir Nighteye"
     },
     {
       "delta": null,
@@ -11771,21 +10340,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Shigeshige Tokugawa",
-      "expected": null,
-      "id": "nobunobu-gintama",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 80,
@@ -11804,42 +10358,6 @@
         "strength": 80
       },
       "wiki_page": "Noelle Holiday"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Nogami",
-      "expected": null,
-      "id": "nogami-parasyte",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 52,
-        "durability": 52,
-        "iq": 12,
-        "speed": 76,
-        "strength": 58
-      },
-      "id": "noro-tg",
-      "ok": true,
-      "stored": {
-        "abilities": 52,
-        "durability": 52,
-        "iq": 50,
-        "speed": 76,
-        "strength": 58
-      },
-      "wiki_page": "Noro"
     },
     {
       "delta": null,
@@ -11921,21 +10439,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Odin (God of High School)",
-      "expected": null,
-      "id": "odin-goh",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 40,
@@ -11996,27 +10499,6 @@
         "strength": 38
       },
       "wiki_page": "Okuyasu Nijimura"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 94,
-        "durability": 94,
-        "iq": 55,
-        "speed": 32,
-        "strength": 94
-      },
-      "id": "olaf-vinland",
-      "ok": true,
-      "stored": {
-        "abilities": 94,
-        "durability": 94,
-        "iq": 50,
-        "speed": 32,
-        "strength": 94
-      },
-      "wiki_page": "Olaf"
     },
     {
       "delta": null,
@@ -12122,21 +10604,6 @@
       "error": "No parse content for Orsted",
       "expected": null,
       "id": "orsted-mushoku",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Otae Shimura",
-      "expected": null,
-      "id": "otae-gintama",
       "ok": false,
       "stored": {
         "abilities": 50,
@@ -12700,27 +11167,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 85,
-        "speed": 76,
-        "strength": 58
-      },
-      "id": "quanxi-csm",
-      "ok": true,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 76,
-        "strength": 58
-      },
-      "wiki_page": "Quanxi"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 78,
         "durability": 78,
         "iq": 72,
@@ -12758,27 +11204,6 @@
         "strength": 80
       },
       "wiki_page": "Raditz"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 28,
-        "durability": 28,
-        "iq": 35,
-        "speed": 36,
-        "strength": 28
-      },
-      "id": "ragnar-vinland",
-      "ok": true,
-      "stored": {
-        "abilities": 28,
-        "durability": 28,
-        "iq": 50,
-        "speed": 36,
-        "strength": 28
-      },
-      "wiki_page": "Ragnar"
     },
     {
       "delta": null,
@@ -12917,66 +11342,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Mega Rayquaza",
-      "expected": null,
-      "id": "rayquaza-mega-pokemon",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Rikiya Yotsubashi",
-      "expected": null,
-      "id": "re-destro-mha",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Rebecca Scarlet",
-      "expected": null,
-      "id": "rebecca-black-clover",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Red Guts",
-      "expected": null,
-      "id": "red-guts-ac",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": "No parse content for Reggie Star",
       "expected": null,
       "id": "reggie-jjk",
@@ -12995,36 +11360,6 @@
       "error": "No parse content for Arataka Reigen",
       "expected": null,
       "id": "reigen-mob",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Reiko Tamura",
-      "expected": null,
-      "id": "reiko-parasyte",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Reimi Sugimoto",
-      "expected": null,
-      "id": "reimi-jojo",
       "ok": false,
       "stored": {
         "abilities": 50,
@@ -13220,36 +11555,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Rio Nakamura",
-      "expected": null,
-      "id": "rio-ac",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Rip Van Winkle",
-      "expected": null,
-      "id": "rip-van-hellsing",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 52,
@@ -13376,45 +11681,9 @@
     },
     {
       "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 52,
-        "durability": 52,
-        "iq": 55,
-        "speed": 76,
-        "strength": 68
-      },
-      "id": "roma-tg",
-      "ok": true,
-      "stored": {
-        "abilities": 52,
-        "durability": 52,
-        "iq": 50,
-        "speed": 76,
-        "strength": 68
-      },
-      "wiki_page": "Roma Hoito"
-    },
-    {
-      "delta": null,
       "error": "No parse content for Rojuro Otoribashi",
       "expected": null,
       "id": "rose-bleach",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Rossiu Adai",
-      "expected": null,
-      "id": "rossiu-gurren",
       "ok": false,
       "stored": {
         "abilities": 50,
@@ -13541,21 +11810,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Ryusui Nanami",
-      "expected": null,
-      "id": "ryusui-stone",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 97,
@@ -13589,27 +11843,6 @@
         "strength": 50
       },
       "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 80,
-        "durability": 82,
-        "iq": 85,
-        "speed": 88,
-        "strength": 90
-      },
-      "id": "saiki-saiki",
-      "ok": true,
-      "stored": {
-        "abilities": 80,
-        "durability": 82,
-        "iq": 50,
-        "speed": 88,
-        "strength": 90
-      },
-      "wiki_page": "Kusuo Saiki"
     },
     {
       "delta": null,
@@ -13655,21 +11888,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Miyamoto Musashi",
-      "expected": null,
-      "id": "sakata-record",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 80,
@@ -13688,21 +11906,6 @@
         "strength": 90
       },
       "wiki_page": "Sakura Haruno"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Sally",
-      "expected": null,
-      "id": "sally-black-clover",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -13745,21 +11948,6 @@
         "strength": 90
       },
       "wiki_page": "Sanji (Post-Timeskip)"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Sasha Braus",
-      "expected": null,
-      "id": "sasha-aot",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -13847,36 +12035,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Satomi Murano",
-      "expected": null,
-      "id": "satomi-parasyte",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Ryuichi Sawamura",
-      "expected": null,
-      "id": "sawamura-ippo",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 40,
@@ -13949,21 +12107,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Schrödinger",
-      "expected": null,
-      "id": "schrodinger-hellsing",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 52,
@@ -13982,27 +12125,6 @@
         "strength": 52
       },
       "wiki_page": "Sebas Tian"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "selene-fairy-tail",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Selene"
     },
     {
       "delta": null,
@@ -14045,21 +12167,6 @@
         "strength": 90
       },
       "wiki_page": "Sengoku (One Piece)"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Kawaragi Senju",
-      "expected": null,
-      "id": "senju-revengers",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -14117,27 +12224,6 @@
         "strength": 50
       },
       "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 46,
-        "durability": 46,
-        "iq": 35,
-        "speed": 76,
-        "strength": 90
-      },
-      "id": "seras-hellsing",
-      "ok": true,
-      "stored": {
-        "abilities": 46,
-        "durability": 46,
-        "iq": 50,
-        "speed": 76,
-        "strength": 90
-      },
-      "wiki_page": "Seras Victoria"
     },
     {
       "delta": null,
@@ -14347,48 +12433,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 28,
-        "durability": 28,
-        "iq": 55,
-        "speed": 36,
-        "strength": 36
-      },
-      "id": "shinichi-parasyte",
-      "ok": true,
-      "stored": {
-        "abilities": 28,
-        "durability": 28,
-        "iq": 50,
-        "speed": 36,
-        "strength": 36
-      },
-      "wiki_page": "Shinichi Izumi"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 55,
-        "speed": 36,
-        "strength": 40
-      },
-      "id": "shinigami-dn",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 36,
-        "strength": 40
-      },
-      "wiki_page": "Ryuk"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 78,
         "durability": 78,
         "iq": 72,
@@ -14426,21 +12470,6 @@
         "strength": 52
       },
       "wiki_page": "Shinobu Kocho"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Shinpachi Shimura",
-      "expected": null,
-      "id": "shinpachi-gintama",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -14483,48 +12512,6 @@
         "strength": 97
       },
       "wiki_page": "Shion (Light Novel)"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "shiro-ac",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Shiro"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 70,
-        "durability": 97,
-        "iq": 72,
-        "speed": 88,
-        "strength": 70
-      },
-      "id": "shirou-fate",
-      "ok": true,
-      "stored": {
-        "abilities": 70,
-        "durability": 97,
-        "iq": 50,
-        "speed": 88,
-        "strength": 70
-      },
-      "wiki_page": "Shirou Emiya"
     },
     {
       "delta": null,
@@ -14642,39 +12629,9 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Siddharth",
-      "expected": null,
-      "id": "siddharth-sl",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": "No parse content for Sidoh",
       "expected": null,
       "id": "sidoh-dn",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Sig Curtis",
-      "expected": null,
-      "id": "sig-fma",
       "ok": false,
       "stored": {
         "abilities": 50,
@@ -14786,27 +12743,6 @@
     },
     {
       "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 58,
-        "durability": 58,
-        "iq": 55,
-        "speed": 68,
-        "strength": 58
-      },
-      "id": "sogo-gintama",
-      "ok": true,
-      "stored": {
-        "abilities": 58,
-        "durability": 58,
-        "iq": 50,
-        "speed": 68,
-        "strength": 58
-      },
-      "wiki_page": "Sougo Okita"
-    },
-    {
-      "delta": null,
       "error": "No parse content for Soi Fon",
       "expected": null,
       "id": "soi-fon-bleach",
@@ -14900,78 +12836,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Terano South",
-      "expected": null,
-      "id": "south-revengers",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 38,
-        "durability": 38,
-        "iq": 35,
-        "speed": 32,
-        "strength": 38
-      },
-      "id": "spec-baki",
-      "ok": true,
-      "stored": {
-        "abilities": 38,
-        "durability": 38,
-        "iq": 50,
-        "speed": 32,
-        "strength": 38
-      },
-      "wiki_page": "Spec"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Stanley Snyder",
-      "expected": null,
-      "id": "stanley-stone",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "star-and-stripe-mha",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Star and Stripe"
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 78,
@@ -15014,21 +12878,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Koshi Sugawara",
-      "expected": null,
-      "id": "sugawara-haikyuu",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 58,
@@ -15047,27 +12896,6 @@
         "strength": 54
       },
       "wiki_page": "Ryomen Sukuna"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 28,
-        "durability": 28,
-        "iq": 35,
-        "speed": 32,
-        "strength": 52
-      },
-      "id": "sukune-baki",
-      "ok": true,
-      "stored": {
-        "abilities": 28,
-        "durability": 28,
-        "iq": 50,
-        "speed": 32,
-        "strength": 52
-      },
-      "wiki_page": "Nomi no Sukune"
     },
     {
       "delta": null,
@@ -15164,21 +12992,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Taejin",
-      "expected": null,
-      "id": "taejin-goh",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": "No parse content for Taiju Oki",
       "expected": null,
       "id": "taiju-stone",
@@ -15217,27 +13030,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 58,
-        "durability": 58,
-        "iq": 85,
-        "speed": 68,
-        "strength": 58
-      },
-      "id": "takasugi-gintama",
-      "ok": true,
-      "stored": {
-        "abilities": 58,
-        "durability": 58,
-        "iq": 50,
-        "speed": 68,
-        "strength": 58
-      },
-      "wiki_page": "Shinsuke Takasugi"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 28,
         "durability": 28,
         "iq": 35,
@@ -15254,21 +13046,6 @@
         "strength": 52
       },
       "wiki_page": "Takemichi Hanagaki"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Kuki Takizawa",
-      "expected": null,
-      "id": "takizawa-tg",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -15296,21 +13073,6 @@
       "error": "No parse content for Tamamo-no-Mae",
       "expected": null,
       "id": "tamamo-fate",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Tamayo",
-      "expected": null,
-      "id": "tamayo-demon-slayer",
       "ok": false,
       "stored": {
         "abilities": 50,
@@ -15509,21 +13271,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Kokomi Teruhashi",
-      "expected": null,
-      "id": "teruhashi-saiki",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": "No parse content for Testarossa (Light Novel)",
       "expected": null,
       "id": "testarossa-slime",
@@ -15631,27 +13378,6 @@
         "abilities": 28,
         "durability": 28,
         "iq": 64,
-        "speed": 32,
-        "strength": 28
-      },
-      "wiki_page": "Thors"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 28,
-        "durability": 28,
-        "iq": 55,
-        "speed": 32,
-        "strength": 28
-      },
-      "id": "thors-vinland",
-      "ok": true,
-      "stored": {
-        "abilities": 28,
-        "durability": 28,
-        "iq": 50,
         "speed": 32,
         "strength": 28
       },
@@ -15814,27 +13540,6 @@
         "speed": 76,
         "strength": 90
       },
-      "id": "toichiro-mob",
-      "ok": true,
-      "stored": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 50,
-        "speed": 76,
-        "strength": 90
-      },
-      "wiki_page": "Toichiro Suzuki"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 55,
-        "speed": 76,
-        "strength": 90
-      },
       "id": "toichiro-suzuki",
       "ok": true,
       "stored": {
@@ -15887,36 +13592,6 @@
         "strength": 38
       },
       "wiki_page": "Tokiomi Tohsaka"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Toru",
-      "expected": null,
-      "id": "toru-fire-force",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Toru",
-      "expected": null,
-      "id": "toru-saiki",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -16078,27 +13753,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 58,
-        "durability": 58,
-        "iq": 35,
-        "speed": 68,
-        "strength": 58
-      },
-      "id": "tsukuyo-gintama",
-      "ok": true,
-      "stored": {
-        "abilities": 58,
-        "durability": 58,
-        "iq": 50,
-        "speed": 68,
-        "strength": 58
-      },
-      "wiki_page": "Tsukuyo"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 40,
         "durability": 40,
         "iq": 40,
@@ -16130,48 +13784,6 @@
         "strength": 50
       },
       "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 46,
-        "durability": 46,
-        "iq": 55,
-        "speed": 76,
-        "strength": 58
-      },
-      "id": "tubalcain-hellsing",
-      "ok": true,
-      "stored": {
-        "abilities": 46,
-        "durability": 46,
-        "iq": 50,
-        "speed": 76,
-        "strength": 58
-      },
-      "wiki_page": "Tubalcain Alhambra"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "twice-mha",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Twice"
     },
     {
       "delta": null,
@@ -16285,27 +13897,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 22,
-        "durability": 12,
-        "iq": 35,
-        "speed": 36,
-        "strength": 40
-      },
-      "id": "uragami-parasyte",
-      "ok": true,
-      "stored": {
-        "abilities": 22,
-        "durability": 12,
-        "iq": 50,
-        "speed": 36,
-        "strength": 40
-      },
-      "wiki_page": "Uragami"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 78,
         "durability": 78,
         "iq": 85,
@@ -16322,27 +13913,6 @@
         "strength": 78
       },
       "wiki_page": "Kisuke Urahara"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 54,
-        "durability": 54,
-        "iq": 55,
-        "speed": 48,
-        "strength": 54
-      },
-      "id": "uraume-jjk",
-      "ok": true,
-      "stored": {
-        "abilities": 54,
-        "durability": 54,
-        "iq": 50,
-        "speed": 48,
-        "strength": 54
-      },
-      "wiki_page": "Uraume"
     },
     {
       "delta": null,
@@ -16447,27 +14017,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 35,
-        "speed": 82,
-        "strength": 78
-      },
-      "id": "vanica-black-clover",
-      "ok": true,
-      "stored": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 50,
-        "speed": 82,
-        "strength": 78
-      },
-      "wiki_page": "Vanica Zogratis"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 38,
         "durability": 38,
         "iq": 35,
@@ -16505,21 +14054,6 @@
         "strength": 94
       },
       "wiki_page": "Vegeta (DBS Anime)"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Vegeta (Super Saiyan Blue Evolved)",
-      "expected": null,
-      "id": "vegeta-ssb-evolved-dragon-ball",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -16565,69 +14099,6 @@
     },
     {
       "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 97,
-        "durability": 97,
-        "iq": 85,
-        "speed": 90,
-        "strength": 97
-      },
-      "id": "velgrynd-slime",
-      "ok": true,
-      "stored": {
-        "abilities": 97,
-        "durability": 97,
-        "iq": 50,
-        "speed": 90,
-        "strength": 97
-      },
-      "wiki_page": "Velgrynd (Light Novel)"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 96,
-        "durability": 96,
-        "iq": 55,
-        "speed": 88,
-        "strength": 96
-      },
-      "id": "velzard-slime",
-      "ok": true,
-      "stored": {
-        "abilities": 96,
-        "durability": 96,
-        "iq": 50,
-        "speed": 88,
-        "strength": 96
-      },
-      "wiki_page": "Velzard (Web Novel)"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "viral-gurren",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Viral"
-    },
-    {
-      "delta": null,
       "error": "No parse content for Wally Volg",
       "expected": null,
       "id": "volg-ippo",
@@ -16640,63 +14111,6 @@
         "strength": 50
       },
       "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for V.V.",
-      "expected": null,
-      "id": "vv-geass",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 72,
-        "speed": 82,
-        "strength": 90
-      },
-      "id": "wall-echtena-fairy-tail",
-      "ok": true,
-      "stored": {
-        "abilities": 78,
-        "durability": 78,
-        "iq": 50,
-        "speed": 82,
-        "strength": 90
-      },
-      "wiki_page": "Wall Eehto"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 46,
-        "durability": 46,
-        "iq": 72,
-        "speed": 76,
-        "strength": 90
-      },
-      "id": "walter-hellsing",
-      "ok": true,
-      "stored": {
-        "abilities": 46,
-        "durability": 46,
-        "iq": 50,
-        "speed": 76,
-        "strength": 90
-      },
-      "wiki_page": "Walter C. Dornez"
     },
     {
       "delta": null,
@@ -16718,27 +14132,6 @@
         "strength": 58
       },
       "wiki_page": "Wamuu"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 46,
-        "durability": 46,
-        "iq": 40,
-        "speed": 32,
-        "strength": 46
-      },
-      "id": "warhammer-aot",
-      "ok": true,
-      "stored": {
-        "abilities": 46,
-        "durability": 46,
-        "iq": 50,
-        "speed": 32,
-        "strength": 46
-      },
-      "wiki_page": "Lara Tybur"
     },
     {
       "delta": null,
@@ -16820,21 +14213,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Whyman",
-      "expected": null,
-      "id": "whyman-stone",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 66,
@@ -16874,21 +14252,6 @@
         "strength": 62
       },
       "wiki_page": "Wrath (Web Novel)"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Xeno Houston Wingfield",
-      "expected": null,
-      "id": "xeno-stone",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -16946,21 +14309,6 @@
         "strength": 78
       },
       "wiki_page": "Shigekuni Yamamoto Genryusai"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Sagaru Yamazaki",
-      "expected": null,
-      "id": "yamazaki-gintama",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -17024,42 +14372,6 @@
         "strength": 94
       },
       "wiki_page": "Yhwach"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 54,
-        "durability": 46,
-        "iq": 40,
-        "speed": 48,
-        "strength": 46
-      },
-      "id": "ymir-aot",
-      "ok": true,
-      "stored": {
-        "abilities": 54,
-        "durability": 46,
-        "iq": 50,
-        "speed": 48,
-        "strength": 46
-      },
-      "wiki_page": "Ymir Fritz"
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Reiner Braun (Armored Titan)",
-      "expected": null,
-      "id": "ymir-armored-aot",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
     },
     {
       "delta": null,
@@ -17180,21 +14492,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Yoru",
-      "expected": null,
-      "id": "yoru-csm",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 78,
@@ -17216,21 +14513,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Yoshimura",
-      "expected": null,
-      "id": "yoshimura-tg",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 54,
@@ -17249,27 +14531,6 @@
         "strength": 58
       },
       "wiki_page": "Menthuthuyoupi"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 40,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "yui-sao",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Yui"
     },
     {
       "delta": null,
@@ -17317,27 +14578,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 35,
-        "speed": 40,
-        "strength": 40
-      },
-      "id": "yukako-jojo",
-      "ok": true,
-      "stored": {
-        "abilities": 40,
-        "durability": 40,
-        "iq": 50,
-        "speed": 40,
-        "strength": 40
-      },
-      "wiki_page": "Yukako Yamagishi"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 82,
         "durability": 54,
         "iq": 72,
@@ -17380,27 +14620,6 @@
       "delta": null,
       "error": null,
       "expected": {
-        "abilities": 38,
-        "durability": 38,
-        "iq": 40,
-        "speed": 32,
-        "strength": 38
-      },
-      "id": "yushiro-demon-slayer",
-      "ok": true,
-      "stored": {
-        "abilities": 38,
-        "durability": 38,
-        "iq": 50,
-        "speed": 32,
-        "strength": 38
-      },
-      "wiki_page": "Yushiro"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
         "abilities": 100,
         "durability": 54,
         "iq": 72,
@@ -17420,39 +14639,9 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Yuta Okkotsu (Rika)",
-      "expected": null,
-      "id": "yuta-rika-jjk",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": "No parse content for Yuuki Konno",
       "expected": null,
       "id": "yuuki-sao",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
-      "error": "No parse content for Yuzuriha Ogawa",
-      "expected": null,
-      "id": "yuzuriha-stone",
       "ok": false,
       "stored": {
         "abilities": 50,
@@ -17585,21 +14774,6 @@
     },
     {
       "delta": null,
-      "error": "No parse content for Zenith Greyrat",
-      "expected": null,
-      "id": "zenith-mushoku",
-      "ok": false,
-      "stored": {
-        "abilities": 50,
-        "durability": 50,
-        "iq": 50,
-        "speed": 50,
-        "strength": 50
-      },
-      "wiki_page": null
-    },
-    {
-      "delta": null,
       "error": null,
       "expected": {
         "abilities": 52,
@@ -17692,27 +14866,6 @@
         "abilities": 96,
         "durability": 96,
         "iq": 80,
-        "speed": 88,
-        "strength": 96
-      },
-      "wiki_page": "Zeref Dragneel"
-    },
-    {
-      "delta": null,
-      "error": null,
-      "expected": {
-        "abilities": 96,
-        "durability": 96,
-        "iq": 85,
-        "speed": 88,
-        "strength": 96
-      },
-      "id": "zeref-fairy-tail",
-      "ok": true,
-      "stored": {
-        "abilities": 96,
-        "durability": 96,
-        "iq": 50,
         "speed": 88,
         "strength": 96
       },

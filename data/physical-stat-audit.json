@@ -11,39 +11,6 @@
   },
   "rows": [
     {
-      "id": "yuta-rika-jjk",
-      "display_name": "Yuta",
-      "series": "Jujutsu Kaisen",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Yuta Okkotsu (Rika)"
-      ]
-    },
-    {
       "id": "ace-one-piece",
       "display_name": "Ace",
       "series": "One Piece",
@@ -114,39 +81,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "acnologia-human-fairy-tail",
-      "display_name": "Acnologia",
-      "series": "Fairy Tail",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Acnologia (Human)"
-      ]
     },
     {
       "id": "adam-record",
@@ -327,39 +261,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "ainz-overlord",
-      "display_name": "Ainz",
-      "series": "Overlord",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Momonga"
-      ]
     },
     {
       "id": "aizawa-mha",
@@ -754,42 +655,6 @@
       "notes": []
     },
     {
-      "id": "alice-sao",
-      "display_name": "Alice",
-      "series": "Sword Art Online",
-      "wiki_page": "Alice Zuberg",
-      "game": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_peak": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 50,
-        "durability": 50
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "all-for-one-mha",
       "display_name": "All For One",
       "series": "My Hero Academia",
@@ -944,42 +809,6 @@
       "status": [
         "wiki_path_mismatch",
         "curated"
-      ],
-      "notes": []
-    },
-    {
-      "id": "alucard-hellsing",
-      "display_name": "Alucard",
-      "series": "Hellsing",
-      "wiki_page": "Alucard",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
       ],
       "notes": []
     },
@@ -1159,42 +988,6 @@
     },
     {
       "id": "anos-misfit",
-      "display_name": "Anos",
-      "series": "The Misfit of Demon King Academy",
-      "wiki_page": "Anos Voldigoad",
-      "game": {
-        "strength": 94,
-        "speed": 88,
-        "abilities": 94,
-        "durability": 99
-      },
-      "wiki_path": {
-        "strength": 94,
-        "speed": 88,
-        "abilities": 94,
-        "durability": 99
-      },
-      "wiki_peak": {
-        "strength": 94,
-        "speed": 88,
-        "abilities": 94,
-        "durability": 99
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "anos-voldigoad",
       "display_name": "Anos",
       "series": "The Misfit of Demon King Academy",
       "wiki_page": "Anos Voldigoad",
@@ -1461,42 +1254,6 @@
       "status": [
         "wiki_path_mismatch",
         "curated"
-      ],
-      "notes": []
-    },
-    {
-      "id": "aomine-kuroko",
-      "display_name": "Aomine",
-      "series": "Kuroko's Basketball",
-      "wiki_page": "Daiki Aomine",
-      "game": {
-        "strength": 40,
-        "speed": 36,
-        "abilities": 22,
-        "durability": 22
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 36,
-        "abilities": 22,
-        "durability": 22
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 36,
-        "abilities": 22,
-        "durability": 22
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
       ],
       "notes": []
     },
@@ -2310,39 +2067,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "ban-sds",
-      "display_name": "Ban",
-      "series": "Seven Deadly Sins",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Ban"
-      ]
     },
     {
       "id": "ban-snatch",
@@ -3296,42 +3020,6 @@
       "notes": []
     },
     {
-      "id": "buddha-record-2",
-      "display_name": "Buddha",
-      "series": "Record of Ragnarok",
-      "wiki_page": "Buddha (Record of Ragnarok)",
-      "game": {
-        "strength": 62,
-        "speed": 82,
-        "abilities": 62,
-        "durability": 62
-      },
-      "wiki_path": {
-        "strength": 62,
-        "speed": 82,
-        "abilities": 62,
-        "durability": 62
-      },
-      "wiki_peak": {
-        "strength": 62,
-        "speed": 82,
-        "abilities": 62,
-        "durability": 62
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "bulat-aga",
       "display_name": "Bulat",
       "series": "Akame ga Kill",
@@ -4083,39 +3771,6 @@
       ],
       "notes": [
         "No parse content for Chrome"
-      ]
-    },
-    {
-      "id": "claw-boss-mob",
-      "display_name": "Udo",
-      "series": "Mob Psycho 100",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Udo Daisuke"
       ]
     },
     {
@@ -4893,39 +4548,6 @@
       "notes": []
     },
     {
-      "id": "denji-chainsaw-csm",
-      "display_name": "Denji",
-      "series": "Chainsaw Man",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Denji"
-      ]
-    },
-    {
       "id": "deoxys-pokemon",
       "display_name": "Deoxys",
       "series": "Pokémon",
@@ -5283,39 +4905,6 @@
       "notes": []
     },
     {
-      "id": "dio-jojo",
-      "display_name": "DIO",
-      "series": "JoJo",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for DIO"
-      ]
-    },
-    {
       "id": "dio-part-3",
       "display_name": "DIO",
       "series": "JoJo",
@@ -5645,42 +5234,6 @@
       "notes": []
     },
     {
-      "id": "edward-fma",
-      "display_name": "Edward",
-      "series": "Fullmetal Alchemist",
-      "wiki_page": "Edward Elric",
-      "game": {
-        "strength": 58,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 52
-      },
-      "wiki_path": {
-        "strength": 58,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 52
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 52
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "einar-vinland",
       "display_name": "Einar",
       "series": "Vinland Saga",
@@ -5889,42 +5442,6 @@
     },
     {
       "id": "envy-fma",
-      "display_name": "Envy",
-      "series": "Fullmetal Alchemist",
-      "wiki_page": "Envy",
-      "game": {
-        "strength": 44,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 38
-      },
-      "wiki_path": {
-        "strength": 44,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 38
-      },
-      "wiki_peak": {
-        "strength": 44,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 38
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "envy-fma-catalog",
       "display_name": "Envy",
       "series": "Fullmetal Alchemist",
       "wiki_page": "Envy",
@@ -6318,44 +5835,6 @@
       "notes": []
     },
     {
-      "id": "euclid-geass",
-      "display_name": "Lelouch",
-      "series": "Code Geass",
-      "wiki_page": "Lelouch vi Britannia",
-      "game": {
-        "strength": 100,
-        "speed": 48,
-        "abilities": 62,
-        "durability": 46
-      },
-      "wiki_path": {
-        "strength": 100,
-        "speed": 48,
-        "abilities": 62,
-        "durability": 50
-      },
-      "wiki_peak": {
-        "strength": 100,
-        "speed": 48,
-        "abilities": 62,
-        "durability": 50
-      },
-      "delta_path": {
-        "durability": 4
-      },
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 4
-      },
-      "curated": null,
-      "status": [
-        "wiki_path_mismatch"
-      ],
-      "notes": []
-    },
-    {
       "id": "eugeo-alicization",
       "display_name": "Eugeo",
       "series": "Sword Art Online",
@@ -6498,45 +5977,6 @@
     },
     {
       "id": "father-fma",
-      "display_name": "Father",
-      "series": "Fullmetal Alchemist",
-      "wiki_page": "Father (Fullmetal Alchemist)",
-      "game": {
-        "strength": 86,
-        "speed": 40,
-        "abilities": 86,
-        "durability": 86
-      },
-      "wiki_path": {
-        "strength": 86,
-        "speed": 48,
-        "abilities": 86,
-        "durability": 86
-      },
-      "wiki_peak": {
-        "strength": 86,
-        "speed": 48,
-        "abilities": 86,
-        "durability": 86
-      },
-      "delta_path": {
-        "speed": 8
-      },
-      "peak_gap": {
-        "strength": 0,
-        "speed": 8,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "wiki_path_mismatch",
-        "wiki_peak_above_game"
-      ],
-      "notes": []
-    },
-    {
-      "id": "father-god-fma",
       "display_name": "Father",
       "series": "Fullmetal Alchemist",
       "wiki_page": "Father (Fullmetal Alchemist)",
@@ -6785,39 +6225,6 @@
       ],
       "notes": [
         "No parse content for Floki"
-      ]
-    },
-    {
-      "id": "fool-slime",
-      "display_name": "Fool",
-      "series": "That Time I Got Reincarnated as a Slime",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Fool"
       ]
     },
     {
@@ -7770,39 +7177,6 @@
       "notes": []
     },
     {
-      "id": "gilgamesh-ea-fate",
-      "display_name": "Gilgamesh",
-      "series": "Fate",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Gilgamesh (Fate)"
-      ]
-    },
-    {
       "id": "gilgamesh-fsn",
       "display_name": "Gilgamesh",
       "series": "Fate",
@@ -7860,42 +7234,6 @@
         "speed": 82,
         "abilities": 78,
         "durability": 78
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "gintoki-gintama",
-      "display_name": "Gintoki",
-      "series": "Gintama",
-      "wiki_page": "Gintoki Sakata",
-      "game": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
-      },
-      "wiki_path": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
       },
       "delta_path": null,
       "peak_gap": {
@@ -8004,42 +7342,6 @@
         "speed": 76,
         "abilities": 52,
         "durability": 52
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "gluttony-fma",
-      "display_name": "Gluttony",
-      "series": "Fullmetal Alchemist",
-      "wiki_page": "Gluttony (Fullmetal Alchemist)",
-      "game": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 38
-      },
-      "wiki_path": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 38
-      },
-      "wiki_peak": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 38
       },
       "delta_path": null,
       "peak_gap": {
@@ -8338,39 +7640,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "goku-ui-dragon-ball",
-      "display_name": "Goku",
-      "series": "Dragon Ball",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Son Goku (Ultra Instinct)"
-      ]
     },
     {
       "id": "gon-adult-anime",
@@ -8866,75 +8135,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "groudon-pokemon",
-      "display_name": "Groudon",
-      "series": "Pokémon",
-      "wiki_page": "Groudon",
-      "game": {
-        "strength": 85,
-        "speed": 88,
-        "abilities": 80,
-        "durability": 80
-      },
-      "wiki_path": {
-        "strength": 85,
-        "speed": 88,
-        "abilities": 80,
-        "durability": 80
-      },
-      "wiki_peak": {
-        "strength": 85,
-        "speed": 88,
-        "abilities": 80,
-        "durability": 80
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "gudrid-vinland",
-      "display_name": "Gudrid",
-      "series": "Vinland Saga",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Gudrid"
-      ]
     },
     {
       "id": "guy-naruto",
@@ -9747,39 +8947,6 @@
       "notes": []
     },
     {
-      "id": "hild-vinland",
-      "display_name": "Hild",
-      "series": "Vinland Saga",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Hild"
-      ]
-    },
-    {
       "id": "himeno-csm",
       "display_name": "Himeno",
       "series": "Chainsaw Man",
@@ -10140,42 +9307,6 @@
       "notes": []
     },
     {
-      "id": "hohe-brother-fma",
-      "display_name": "Alphonse",
-      "series": "Fullmetal Alchemist",
-      "wiki_page": "Alphonse Elric",
-      "game": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 52,
-        "durability": 38
-      },
-      "wiki_path": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 52,
-        "durability": 38
-      },
-      "wiki_peak": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 52,
-        "durability": 38
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "hohenheim-fma",
       "display_name": "Hohenheim",
       "series": "Fullmetal Alchemist",
@@ -10364,39 +9495,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "igris-commander-sl",
-      "display_name": "Igris",
-      "series": "Solo Leveling",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Igris (Blood-Red)"
-      ]
     },
     {
       "id": "igris-sl",
@@ -10675,39 +9773,6 @@
       "notes": []
     },
     {
-      "id": "irene-dragon-fairy-tail",
-      "display_name": "Irene",
-      "series": "Fairy Tail",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Irene Belserion (Dragon)"
-      ]
-    },
-    {
       "id": "irene-fairy-tail",
       "display_name": "Irene",
       "series": "Fairy Tail",
@@ -10912,39 +9977,6 @@
       ],
       "notes": [
         "No parse content for Iskandar (King of Conquerors)"
-      ]
-    },
-    {
-      "id": "isshiki-naruto",
-      "display_name": "Isshiki",
-      "series": "Naruto",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Isshiki Otsutsuki"
       ]
     },
     {
@@ -11164,39 +10196,6 @@
       "notes": []
     },
     {
-      "id": "izumi-mob",
-      "display_name": "Izumi",
-      "series": "Mob Psycho 100",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Izumi"
-      ]
-    },
-    {
       "id": "jack-baki",
       "display_name": "Jack",
       "series": "Baki",
@@ -11300,42 +10299,6 @@
       "notes": [
         "No parse content for Jack the Ripper (Record of Ragnarok)"
       ]
-    },
-    {
-      "id": "jacob-fairy-tail",
-      "display_name": "Jacob",
-      "series": "Fairy Tail",
-      "wiki_page": "Jacob Lessio",
-      "game": {
-        "strength": 90,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_path": {
-        "strength": 90,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_peak": {
-        "strength": 90,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
     },
     {
       "id": "jaldabaoth-overlord",
@@ -11570,42 +10533,6 @@
         "speed": 48,
         "abilities": 50,
         "durability": 50
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "jigen-naruto",
-      "display_name": "Jigen",
-      "series": "Naruto",
-      "wiki_page": "Jigen",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
       },
       "delta_path": null,
       "peak_gap": {
@@ -11983,42 +10910,6 @@
       "notes": []
     },
     {
-      "id": "jotaro-star-jojo",
-      "display_name": "Jotaro",
-      "series": "JoJo",
-      "wiki_page": "Jotaro Kujo",
-      "game": {
-        "strength": 58,
-        "speed": 88,
-        "abilities": 42,
-        "durability": 42
-      },
-      "wiki_path": {
-        "strength": 58,
-        "speed": 88,
-        "abilities": 42,
-        "durability": 42
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 88,
-        "abilities": 42,
-        "durability": 42
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "julius-black-clover",
       "display_name": "Julius",
       "series": "Black Clover",
@@ -12162,42 +11053,6 @@
       ]
     },
     {
-      "id": "kagura-gintama",
-      "display_name": "Kagura",
-      "series": "Gintama",
-      "wiki_page": "Kagura",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "kaguya-naruto",
       "display_name": "Kaguya",
       "series": "Naruto",
@@ -12265,39 +11120,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "kaido-saiki",
-      "display_name": "Kaido",
-      "series": "The Disastrous Life of Saiki K",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Shun Kaido"
-      ]
     },
     {
       "id": "kaigaku-demon-slayer",
@@ -12578,75 +11400,6 @@
       ],
       "notes": [
         "No parse content for Genji Kamogawa"
-      ]
-    },
-    {
-      "id": "kamui-gintama",
-      "display_name": "Kamui",
-      "series": "Gintama",
-      "wiki_page": "Kamui",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "kana-parasyte",
-      "display_name": "Kana",
-      "series": "Parasyte",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Kana Kimishima"
       ]
     },
     {
@@ -12973,39 +11726,6 @@
       "notes": []
     },
     {
-      "id": "katsura-gintama",
-      "display_name": "Katsura",
-      "series": "Gintama",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Kotaro Katsura"
-      ]
-    },
-    {
       "id": "kazutora-revengers",
       "display_name": "Kazutora",
       "series": "Tokyo Revengers",
@@ -13153,39 +11873,6 @@
         "wiki_path_mismatch"
       ],
       "notes": []
-    },
-    {
-      "id": "ketil-vinland",
-      "display_name": "Ketil",
-      "series": "Vinland Saga",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Ketil"
-      ]
     },
     {
       "id": "kid-one-piece",
@@ -13468,78 +12155,6 @@
       "notes": [
         "No parse content for Kinro"
       ]
-    },
-    {
-      "id": "kirei-fate",
-      "display_name": "Kirei",
-      "series": "Fate",
-      "wiki_page": "Kirei Kotomine",
-      "game": {
-        "strength": 68,
-        "speed": 88,
-        "abilities": 68,
-        "durability": 68
-      },
-      "wiki_path": {
-        "strength": 68,
-        "speed": 88,
-        "abilities": 68,
-        "durability": 68
-      },
-      "wiki_peak": {
-        "strength": 68,
-        "speed": 88,
-        "abilities": 68,
-        "durability": 68
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "kirito-aw-sao",
-      "display_name": "Kirito",
-      "series": "Sword Art Online",
-      "wiki_page": "Kirito",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
     },
     {
       "id": "kirito-stacia",
@@ -14037,72 +12652,6 @@
       "notes": []
     },
     {
-      "id": "kondo-gintama",
-      "display_name": "Kondo",
-      "series": "Gintama",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Isao Kondo"
-      ]
-    },
-    {
-      "id": "konro-fire-force",
-      "display_name": "Konro",
-      "series": "Fire Force",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Konro Sagamihara"
-      ]
-    },
-    {
       "id": "koro-sensei",
       "display_name": "Korosensei",
       "series": "Assassination Classroom",
@@ -14177,39 +12726,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "kunihisa-saiki",
-      "display_name": "Kunihisa",
-      "series": "The Disastrous Life of Saiki K",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Kunihisa Baba"
-      ]
     },
     {
       "id": "kurapika-emperor",
@@ -14353,54 +12869,6 @@
       "notes": []
     },
     {
-      "id": "kuroko-tetsuya",
-      "display_name": "Kuroko",
-      "series": "Kuroko's Basketball",
-      "wiki_page": "Tetsuya Kuroko",
-      "game": {
-        "strength": 14,
-        "speed": 20,
-        "abilities": 16,
-        "durability": 14
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 36,
-        "abilities": 22,
-        "durability": 22
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 36,
-        "abilities": 22,
-        "durability": 22
-      },
-      "delta_path": {
-        "durability": 8,
-        "strength": 26,
-        "speed": 16,
-        "abilities": 6
-      },
-      "peak_gap": {
-        "strength": 26,
-        "speed": 16,
-        "abilities": 6,
-        "durability": 8
-      },
-      "curated": {
-        "strength": 14,
-        "speed": 20,
-        "abilities": 16,
-        "durability": 14
-      },
-      "status": [
-        "wiki_path_mismatch",
-        "curated",
-        "wiki_peak_above_game"
-      ],
-      "notes": []
-    },
-    {
       "id": "kusuo-saiki",
       "display_name": "Saiki",
       "series": "The Disastrous Life of Saiki K",
@@ -14470,42 +12938,6 @@
       "notes": [
         "No parse content for Kuzen Yoshimura"
       ]
-    },
-    {
-      "id": "kyogre-pokemon",
-      "display_name": "Kyogre",
-      "series": "Pokémon",
-      "wiki_page": "Kyogre",
-      "game": {
-        "strength": 85,
-        "speed": 88,
-        "abilities": 80,
-        "durability": 80
-      },
-      "wiki_path": {
-        "strength": 85,
-        "speed": 88,
-        "abilities": 80,
-        "durability": 80
-      },
-      "wiki_peak": {
-        "strength": 85,
-        "speed": 88,
-        "abilities": 80,
-        "durability": 80
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
     },
     {
       "id": "kyurem-pokemon",
@@ -14613,42 +13045,6 @@
         "speed": 82,
         "abilities": 66,
         "durability": 66
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "lady-nagant-mha",
-      "display_name": "Nagant",
-      "series": "My Hero Academia",
-      "wiki_page": "Lady Nagant",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
       },
       "delta_path": null,
       "peak_gap": {
@@ -14806,39 +13202,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "laplace-slime",
-      "display_name": "Laplace",
-      "series": "That Time I Got Reincarnated as a Slime",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Laplace"
-      ]
     },
     {
       "id": "law-one-piece",
@@ -15207,42 +13570,6 @@
       "notes": []
     },
     {
-      "id": "levi-anime-aot",
-      "display_name": "Levi",
-      "series": "Attack on Titan",
-      "wiki_page": "Levi Ackerman",
-      "game": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 46,
-        "durability": 38
-      },
-      "wiki_path": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 46,
-        "durability": 38
-      },
-      "wiki_peak": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 46,
-        "durability": 38
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "licht-black-clover",
       "display_name": "Licht",
       "series": "Black Clover",
@@ -15277,39 +13604,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "licht-fire-force",
-      "display_name": "Licht",
-      "series": "Fire Force",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Yuu"
-      ]
     },
     {
       "id": "light-dn",
@@ -15483,42 +13777,6 @@
         "speed": 82,
         "abilities": 62,
         "durability": 62
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "lordgenome-gurren",
-      "display_name": "Lordgenome",
-      "series": "Gurren Lagann",
-      "wiki_page": "Lordgenome",
-      "game": {
-        "strength": 100,
-        "speed": 88,
-        "abilities": 100,
-        "durability": 100
-      },
-      "wiki_path": {
-        "strength": 100,
-        "speed": 88,
-        "abilities": 100,
-        "durability": 100
-      },
-      "wiki_peak": {
-        "strength": 100,
-        "speed": 88,
-        "abilities": 100,
-        "durability": 100
       },
       "delta_path": null,
       "peak_gap": {
@@ -15857,42 +14115,6 @@
       "notes": []
     },
     {
-      "id": "lust-human-fma",
-      "display_name": "Lust",
-      "series": "Fullmetal Alchemist",
-      "wiki_page": "Lust",
-      "game": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 38
-      },
-      "wiki_path": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 38
-      },
-      "wiki_peak": {
-        "strength": 38,
-        "speed": 48,
-        "abilities": 38,
-        "durability": 38
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "machi-hxh",
       "display_name": "Machi",
       "series": "Hunter x Hunter",
@@ -16139,39 +14361,6 @@
       ]
     },
     {
-      "id": "major-hellsing",
-      "display_name": "Major",
-      "series": "Hellsing",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for The Major"
-      ]
-    },
-    {
       "id": "makarov-fairy-tail",
       "display_name": "Makarov",
       "series": "Fairy Tail",
@@ -16283,76 +14472,7 @@
       "notes": []
     },
     {
-      "id": "maki-saiki",
-      "display_name": "Maki",
-      "series": "The Disastrous Life of Saiki K",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Maki Komuro"
-      ]
-    },
-    {
       "id": "makima",
-      "display_name": "Makima",
-      "series": "Chainsaw Man",
-      "wiki_page": "Makima",
-      "game": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 54,
-        "durability": 50
-      },
-      "wiki_path": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 54,
-        "durability": 50
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 54,
-        "durability": 50
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "makima-csm",
       "display_name": "Makima",
       "series": "Chainsaw Man",
       "wiki_page": "Makima",
@@ -16457,39 +14577,6 @@
       ]
     },
     {
-      "id": "marianne-geass",
-      "display_name": "Marianne",
-      "series": "Code Geass",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Marianne vi Britannia"
-      ]
-    },
-    {
       "id": "mars-black-clover",
       "display_name": "Mars",
       "series": "Black Clover",
@@ -16524,75 +14611,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "mash-burnedead",
-      "display_name": "Mash",
-      "series": "Mashle",
-      "wiki_page": "Mash Burnedead",
-      "game": {
-        "strength": 85,
-        "speed": 88,
-        "abilities": 74,
-        "durability": 74
-      },
-      "wiki_path": {
-        "strength": 85,
-        "speed": 88,
-        "abilities": 74,
-        "durability": 74
-      },
-      "wiki_peak": {
-        "strength": 85,
-        "speed": 88,
-        "abilities": 74,
-        "durability": 74
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "mash-demon-mashle",
-      "display_name": "Mash",
-      "series": "Mashle",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Mash Burnedead (Demon)"
-      ]
     },
     {
       "id": "mash-fate",
@@ -16667,39 +14685,6 @@
       "notes": []
     },
     {
-      "id": "matsudaira-gintama",
-      "display_name": "Matsudaira",
-      "series": "Gintama",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Heiji Matsudaira"
-      ]
-    },
-    {
       "id": "mavis-fairy-tail",
       "display_name": "Mavis",
       "series": "Fairy Tail",
@@ -16770,39 +14755,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "mayuzumi-kuroko",
-      "display_name": "Mayuzumi",
-      "series": "Kuroko's Basketball",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Chihiro Mayuzumi"
-      ]
     },
     {
       "id": "medea-fate",
@@ -17048,42 +15000,6 @@
       "curated": null,
       "status": [
         "wiki_path_mismatch"
-      ],
-      "notes": []
-    },
-    {
-      "id": "meliodas-sds",
-      "display_name": "Meliodas",
-      "series": "Seven Deadly Sins",
-      "wiki_page": "Meliodas",
-      "game": {
-        "strength": 90,
-        "speed": 88,
-        "abilities": 40,
-        "durability": 90
-      },
-      "wiki_path": {
-        "strength": 90,
-        "speed": 88,
-        "abilities": 40,
-        "durability": 90
-      },
-      "wiki_peak": {
-        "strength": 90,
-        "speed": 88,
-        "abilities": 40,
-        "durability": 90
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
       ],
       "notes": []
     },
@@ -17380,39 +15296,6 @@
       "notes": []
     },
     {
-      "id": "mibuchi-kuroko",
-      "display_name": "Mibuchi",
-      "series": "Kuroko's Basketball",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Reo Mibuchi"
-      ]
-    },
-    {
       "id": "midnight-mha",
       "display_name": "Midnight",
       "series": "My Hero Academia",
@@ -17515,39 +15398,6 @@
       ],
       "notes": [
         "No parse content for Izuku Midoriya (100%)"
-      ]
-    },
-    {
-      "id": "migi-parasyte",
-      "display_name": "Migi",
-      "series": "Parasyte",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Migi"
       ]
     },
     {
@@ -17762,72 +15612,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "minori-mob",
-      "display_name": "Minori",
-      "series": "Mob Psycho 100",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Minori Asagiri"
-      ]
-    },
-    {
-      "id": "mira-goh",
-      "display_name": "Mira",
-      "series": "The God of High School",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Yoo Mira"
-      ]
     },
     {
       "id": "mirajane-fairy-tail",
@@ -18046,42 +15830,6 @@
       ]
     },
     {
-      "id": "mob-100-anime",
-      "display_name": "Mob",
-      "series": "Mob Psycho 100",
-      "wiki_page": "Shigeo Kageyama",
-      "game": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_path": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_peak": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 78,
-        "durability": 78
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "mob-100-mob",
       "display_name": "Mob",
       "series": "Mob Psycho 100",
@@ -18116,108 +15864,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "mogami-mob",
-      "display_name": "Mogami",
-      "series": "Mob Psycho 100",
-      "wiki_page": "Keiji Mogami",
-      "game": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_path": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_peak": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 78,
-        "durability": 78
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "momoshiki-naruto",
-      "display_name": "Momoshiki",
-      "series": "Naruto",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Momoshiki Otsutsuki"
-      ]
-    },
-    {
-      "id": "monica-geass",
-      "display_name": "Monica",
-      "series": "Code Geass",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Monica Krushevsky"
-      ]
     },
     {
       "id": "monspeet-sds",
@@ -18325,72 +15971,6 @@
       "notes": []
     },
     {
-      "id": "mori-goh",
-      "display_name": "Mori",
-      "series": "The God of High School",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Jin Mori"
-      ]
-    },
-    {
-      "id": "morris-black-clover",
-      "display_name": "Morris",
-      "series": "Black Clover",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Morris"
-      ]
-    },
-    {
       "id": "mount-lady-mha",
       "display_name": "Mount Lady",
       "series": "My Hero Academia",
@@ -18458,39 +16038,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "murakami-kuroko",
-      "display_name": "Murashiki",
-      "series": "Kuroko's Basketball",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Murashiki Juso"
-      ]
     },
     {
       "id": "murasakibara-kuroko",
@@ -18706,75 +16253,6 @@
       "notes": []
     },
     {
-      "id": "naki-tg",
-      "display_name": "Naki",
-      "series": "Tokyo Ghoul",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Naki"
-      ]
-    },
-    {
-      "id": "nakime-demon-slayer",
-      "display_name": "Nakime",
-      "series": "Demon Slayer",
-      "wiki_page": "Nakime",
-      "game": {
-        "strength": 52,
-        "speed": 76,
-        "abilities": 52,
-        "durability": 52
-      },
-      "wiki_path": {
-        "strength": 52,
-        "speed": 76,
-        "abilities": 52,
-        "durability": 52
-      },
-      "wiki_peak": {
-        "strength": 52,
-        "speed": 76,
-        "abilities": 52,
-        "durability": 52
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "nami-one-piece",
       "display_name": "Nami",
       "series": "One Piece",
@@ -18955,39 +16433,6 @@
       "notes": []
     },
     {
-      "id": "nashida-kuroko",
-      "display_name": "Nashida",
-      "series": "Kuroko's Basketball",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Kazunari Takao"
-      ]
-    },
-    {
       "id": "natsu-dragon-force",
       "display_name": "Natsu",
       "series": "Fairy Tail",
@@ -19022,39 +16467,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "natsu-ignia-fairy-tail",
-      "display_name": "Natsu",
-      "series": "Fairy Tail",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Natsu Dragneel (Dragon Force)"
-      ]
     },
     {
       "id": "near-dn",
@@ -19114,42 +16526,6 @@
         "speed": 88,
         "abilities": 40,
         "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "neinhart-fairy-tail",
-      "display_name": "Neinhart",
-      "series": "Fairy Tail",
-      "wiki_page": "Neinhart",
-      "game": {
-        "strength": 78,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_path": {
-        "strength": 78,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_peak": {
-        "strength": 78,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
       },
       "delta_path": null,
       "peak_gap": {
@@ -19237,39 +16613,6 @@
         "wiki_path_mismatch"
       ],
       "notes": []
-    },
-    {
-      "id": "nendou-saiki",
-      "display_name": "Nendou",
-      "series": "The Disastrous Life of Saiki K",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Riki Nendou"
-      ]
     },
     {
       "id": "neon-hxh",
@@ -19362,78 +16705,6 @@
         "speed": 76,
         "abilities": 52,
         "durability": 52
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "nias-gurren",
-      "display_name": "Nia",
-      "series": "Gurren Lagann",
-      "wiki_page": "Nia Teppelin",
-      "game": {
-        "strength": 100,
-        "speed": 88,
-        "abilities": 100,
-        "durability": 100
-      },
-      "wiki_path": {
-        "strength": 100,
-        "speed": 88,
-        "abilities": 100,
-        "durability": 100
-      },
-      "wiki_peak": {
-        "strength": 100,
-        "speed": 88,
-        "abilities": 100,
-        "durability": 100
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "nighteye-mha",
-      "display_name": "Nighteye",
-      "series": "My Hero Academia",
-      "wiki_page": "Sir Nighteye",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
       },
       "delta_path": null,
       "peak_gap": {
@@ -19628,39 +16899,6 @@
       "notes": []
     },
     {
-      "id": "nobunobu-gintama",
-      "display_name": "Nobunobu",
-      "series": "Gintama",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Shigeshige Tokugawa"
-      ]
-    },
-    {
       "id": "noelle-valkyrie",
       "display_name": "Noelle",
       "series": "Black Clover",
@@ -19682,75 +16920,6 @@
         "speed": 88,
         "abilities": 80,
         "durability": 80
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "nogami-parasyte",
-      "display_name": "Nogami",
-      "series": "Parasyte",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Nogami"
-      ]
-    },
-    {
-      "id": "noro-tg",
-      "display_name": "Noro",
-      "series": "Tokyo Ghoul",
-      "wiki_page": "Noro",
-      "game": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 52,
-        "durability": 52
-      },
-      "wiki_path": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 52,
-        "durability": 52
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 52,
-        "durability": 52
       },
       "delta_path": null,
       "peak_gap": {
@@ -19907,39 +17076,6 @@
       "notes": []
     },
     {
-      "id": "odin-goh",
-      "display_name": "Odin",
-      "series": "The God of High School",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Odin (God of High School)"
-      ]
-    },
-    {
       "id": "ohma-tokita",
       "display_name": "Ohma",
       "series": "Kengan Ashura",
@@ -19997,42 +17133,6 @@
         "speed": 82,
         "abilities": 38,
         "durability": 38
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "olaf-vinland",
-      "display_name": "Olaf",
-      "series": "Vinland Saga",
-      "wiki_page": "Olaf",
-      "game": {
-        "strength": 94,
-        "speed": 32,
-        "abilities": 94,
-        "durability": 94
-      },
-      "wiki_path": {
-        "strength": 94,
-        "speed": 32,
-        "abilities": 94,
-        "durability": 94
-      },
-      "wiki_peak": {
-        "strength": 94,
-        "speed": 32,
-        "abilities": 94,
-        "durability": 94
       },
       "delta_path": null,
       "peak_gap": {
@@ -20222,39 +17322,6 @@
       ],
       "notes": [
         "No parse content for Orsted"
-      ]
-    },
-    {
-      "id": "otae-gintama",
-      "display_name": "Otae",
-      "series": "Gintama",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Otae Shimura"
       ]
     },
     {
@@ -21167,42 +18234,6 @@
       ]
     },
     {
-      "id": "quanxi-csm",
-      "display_name": "Quanxi",
-      "series": "Chainsaw Man",
-      "wiki_page": "Quanxi",
-      "game": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 50,
-        "durability": 50
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "raditz-dragon-ball",
       "display_name": "Raditz",
       "series": "Dragon Ball",
@@ -21224,42 +18255,6 @@
         "speed": 82,
         "abilities": 80,
         "durability": 80
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "ragnar-vinland",
-      "display_name": "Ragnar",
-      "series": "Vinland Saga",
-      "wiki_page": "Ragnar",
-      "game": {
-        "strength": 28,
-        "speed": 36,
-        "abilities": 28,
-        "durability": 28
-      },
-      "wiki_path": {
-        "strength": 28,
-        "speed": 36,
-        "abilities": 28,
-        "durability": 28
-      },
-      "wiki_peak": {
-        "strength": 28,
-        "speed": 36,
-        "abilities": 28,
-        "durability": 28
       },
       "delta_path": null,
       "peak_gap": {
@@ -21449,138 +18444,6 @@
       "notes": []
     },
     {
-      "id": "rayquaza-mega-pokemon",
-      "display_name": "Rayquaza",
-      "series": "Pokémon",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Mega Rayquaza"
-      ]
-    },
-    {
-      "id": "re-destro-mha",
-      "display_name": "Re-Destro",
-      "series": "My Hero Academia",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Rikiya Yotsubashi"
-      ]
-    },
-    {
-      "id": "rebecca-black-clover",
-      "display_name": "Rebecca",
-      "series": "Black Clover",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Rebecca Scarlet"
-      ]
-    },
-    {
-      "id": "red-guts-ac",
-      "display_name": "Red Guts",
-      "series": "Assassination Classroom",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Red Guts"
-      ]
-    },
-    {
       "id": "reggie-jjk",
       "display_name": "Reggie",
       "series": "Jujutsu Kaisen",
@@ -21644,39 +18507,6 @@
       ],
       "notes": [
         "No parse content for Arataka Reigen"
-      ]
-    },
-    {
-      "id": "reiko-parasyte",
-      "display_name": "Reiko",
-      "series": "Parasyte",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Reiko Tamura"
       ]
     },
     {
@@ -22007,72 +18837,6 @@
       "notes": []
     },
     {
-      "id": "rio-ac",
-      "display_name": "Rio",
-      "series": "Assassination Classroom",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Rio Nakamura"
-      ]
-    },
-    {
-      "id": "rip-van-hellsing",
-      "display_name": "Rip Van",
-      "series": "Hellsing",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Rip Van Winkle"
-      ]
-    },
-    {
       "id": "ritsu-mob",
       "display_name": "Ritsu",
       "series": "Mob Psycho 100",
@@ -22251,75 +19015,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "roma-tg",
-      "display_name": "Roma",
-      "series": "Tokyo Ghoul",
-      "wiki_page": "Roma Hoito",
-      "game": {
-        "strength": 68,
-        "speed": 76,
-        "abilities": 52,
-        "durability": 52
-      },
-      "wiki_path": {
-        "strength": 68,
-        "speed": 76,
-        "abilities": 52,
-        "durability": 52
-      },
-      "wiki_peak": {
-        "strength": 68,
-        "speed": 76,
-        "abilities": 52,
-        "durability": 52
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "rossiu-gurren",
-      "display_name": "Rossiu",
-      "series": "Gurren Lagann",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Rossiu Adai"
-      ]
     },
     {
       "id": "roxy-mushoku",
@@ -22556,39 +19251,6 @@
       "notes": []
     },
     {
-      "id": "ryusui-stone",
-      "display_name": "Ryusui",
-      "series": "Dr. Stone",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Ryusui Nanami"
-      ]
-    },
-    {
       "id": "saber-fsn",
       "display_name": "Saber",
       "series": "Fate",
@@ -22658,44 +19320,6 @@
       "notes": [
         "No parse content for Sabo (One Piece)"
       ]
-    },
-    {
-      "id": "saiki-saiki",
-      "display_name": "Saiki",
-      "series": "The Disastrous Life of Saiki K",
-      "wiki_page": "Kusuo Saiki",
-      "game": {
-        "strength": 90,
-        "speed": 88,
-        "abilities": 80,
-        "durability": 80
-      },
-      "wiki_path": {
-        "strength": 90,
-        "speed": 88,
-        "abilities": 80,
-        "durability": 82
-      },
-      "wiki_peak": {
-        "strength": 90,
-        "speed": 88,
-        "abilities": 80,
-        "durability": 82
-      },
-      "delta_path": {
-        "durability": 2
-      },
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 2
-      },
-      "curated": null,
-      "status": [
-        "wiki_path_mismatch"
-      ],
-      "notes": []
     },
     {
       "id": "saitama",
@@ -22770,39 +19394,6 @@
       "notes": []
     },
     {
-      "id": "sakata-record",
-      "display_name": "Musashi",
-      "series": "Record of Ragnarok",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Miyamoto Musashi"
-      ]
-    },
-    {
       "id": "sakura-naruto",
       "display_name": "Sakura",
       "series": "Naruto",
@@ -22837,39 +19428,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "sally-black-clover",
-      "display_name": "Sally",
-      "series": "Black Clover",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Sally"
-      ]
     },
     {
       "id": "sanemi-demon-slayer",
@@ -22942,39 +19500,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "sasha-aot",
-      "display_name": "Sasha",
-      "series": "Attack on Titan",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Sasha Braus"
-      ]
     },
     {
       "id": "sasha-misfit",
@@ -23124,72 +19649,6 @@
       "notes": []
     },
     {
-      "id": "satomi-parasyte",
-      "display_name": "Satomi",
-      "series": "Parasyte",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Satomi Murano"
-      ]
-    },
-    {
-      "id": "sawamura-ippo",
-      "display_name": "Sawamura",
-      "series": "Hajime no Ippo",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Ryuichi Sawamura"
-      ]
-    },
-    {
       "id": "scar-fma",
       "display_name": "Scar",
       "series": "Fullmetal Alchemist",
@@ -23328,39 +19787,6 @@
       ]
     },
     {
-      "id": "schrodinger-hellsing",
-      "display_name": "Schrödinger",
-      "series": "Hellsing",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Schrödinger"
-      ]
-    },
-    {
       "id": "sebas-overlord",
       "display_name": "Sebas",
       "series": "Overlord",
@@ -23382,42 +19808,6 @@
         "speed": 48,
         "abilities": 52,
         "durability": 52
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "selene-fairy-tail",
-      "display_name": "Selene",
-      "series": "Fairy Tail",
-      "wiki_page": "Selene",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
       },
       "delta_path": null,
       "peak_gap": {
@@ -23509,39 +19899,6 @@
       "notes": []
     },
     {
-      "id": "senju-revengers",
-      "display_name": "Senju",
-      "series": "Tokyo Revengers",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Kawaragi Senju"
-      ]
-    },
-    {
       "id": "senku-ishigami",
       "display_name": "Senku",
       "series": "Dr. Stone",
@@ -23621,42 +19978,6 @@
       "notes": [
         "No parse content for Seraphy"
       ]
-    },
-    {
-      "id": "seras-hellsing",
-      "display_name": "Seras",
-      "series": "Hellsing",
-      "wiki_page": "Seras Victoria",
-      "game": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 46,
-        "durability": 46
-      },
-      "wiki_path": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 46,
-        "durability": 46
-      },
-      "wiki_peak": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 46,
-        "durability": 46
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
     },
     {
       "id": "shadow-monarch-sl",
@@ -24019,78 +20340,6 @@
       "notes": []
     },
     {
-      "id": "shinichi-parasyte",
-      "display_name": "Shinichi",
-      "series": "Parasyte",
-      "wiki_page": "Shinichi Izumi",
-      "game": {
-        "strength": 36,
-        "speed": 36,
-        "abilities": 28,
-        "durability": 28
-      },
-      "wiki_path": {
-        "strength": 36,
-        "speed": 36,
-        "abilities": 28,
-        "durability": 28
-      },
-      "wiki_peak": {
-        "strength": 36,
-        "speed": 36,
-        "abilities": 28,
-        "durability": 28
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "shinigami-dn",
-      "display_name": "Ryuk",
-      "series": "Death Note",
-      "wiki_page": "Ryuk",
-      "game": {
-        "strength": 40,
-        "speed": 36,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 36,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 36,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "shinobu-demon-slayer",
       "display_name": "Shinobu",
       "series": "Demon Slayer",
@@ -24125,39 +20374,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "shinpachi-gintama",
-      "display_name": "Shinpachi",
-      "series": "Gintama",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Shinpachi Shimura"
-      ]
     },
     {
       "id": "shinra-fire-force",
@@ -24228,80 +20444,6 @@
       "curated": null,
       "status": [
         "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "shiro-ac",
-      "display_name": "Shiro",
-      "series": "Assassination Classroom",
-      "wiki_page": "Shiro",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "shirou-fate",
-      "display_name": "Shirou",
-      "series": "Fate",
-      "wiki_page": "Shirou Emiya",
-      "game": {
-        "strength": 68,
-        "speed": 88,
-        "abilities": 70,
-        "durability": 97
-      },
-      "wiki_path": {
-        "strength": 70,
-        "speed": 88,
-        "abilities": 70,
-        "durability": 97
-      },
-      "wiki_peak": {
-        "strength": 70,
-        "speed": 88,
-        "abilities": 70,
-        "durability": 97
-      },
-      "delta_path": {
-        "strength": 2
-      },
-      "peak_gap": {
-        "strength": 2,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "wiki_path_mismatch"
       ],
       "notes": []
     },
@@ -24513,39 +20655,6 @@
       "notes": []
     },
     {
-      "id": "siddharth-sl",
-      "display_name": "Siddharth",
-      "series": "Solo Leveling",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Siddharth"
-      ]
-    },
-    {
       "id": "sidoh-dn",
       "display_name": "Sidoh",
       "series": "Death Note",
@@ -24576,39 +20685,6 @@
       ],
       "notes": [
         "No parse content for Sidoh"
-      ]
-    },
-    {
-      "id": "sig-fma",
-      "display_name": "Sig",
-      "series": "Fullmetal Alchemist",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Sig Curtis"
       ]
     },
     {
@@ -24793,42 +20869,6 @@
       ]
     },
     {
-      "id": "sogo-gintama",
-      "display_name": "Sougo",
-      "series": "Gintama",
-      "wiki_page": "Sougo Okita",
-      "game": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
-      },
-      "wiki_path": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "soi-fon-bleach",
       "display_name": "Soi Fon",
       "series": "Bleach",
@@ -24931,144 +20971,6 @@
       "notes": []
     },
     {
-      "id": "south-revengers",
-      "display_name": "South",
-      "series": "Tokyo Revengers",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Terano South"
-      ]
-    },
-    {
-      "id": "spec-baki",
-      "display_name": "Spec",
-      "series": "Baki",
-      "wiki_page": "Spec",
-      "game": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 38,
-        "durability": 38
-      },
-      "wiki_path": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 38,
-        "durability": 38
-      },
-      "wiki_peak": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 38,
-        "durability": 38
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "stanley-stone",
-      "display_name": "Stanley",
-      "series": "Dr. Stone",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Stanley Snyder"
-      ]
-    },
-    {
-      "id": "star-and-stripe-mha",
-      "display_name": "Star and Stripe",
-      "series": "My Hero Academia",
-      "wiki_page": "Star and Stripe",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "starrk-bleach",
       "display_name": "Starrk",
       "series": "Bleach",
@@ -25103,39 +21005,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "sugawara-haikyuu",
-      "display_name": "Sugawara",
-      "series": "Haikyuu!!",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Koshi Sugawara"
-      ]
     },
     {
       "id": "sukuna",
@@ -25173,42 +21042,6 @@
       "curated": null,
       "status": [
         "wiki_path_mismatch"
-      ],
-      "notes": []
-    },
-    {
-      "id": "sukune-baki",
-      "display_name": "Sukune",
-      "series": "Baki",
-      "wiki_page": "Nomi no Sukune",
-      "game": {
-        "strength": 52,
-        "speed": 32,
-        "abilities": 28,
-        "durability": 28
-      },
-      "wiki_path": {
-        "strength": 52,
-        "speed": 32,
-        "abilities": 28,
-        "durability": 28
-      },
-      "wiki_peak": {
-        "strength": 52,
-        "speed": 32,
-        "abilities": 28,
-        "durability": 28
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
       ],
       "notes": []
     },
@@ -25354,39 +21187,6 @@
       ]
     },
     {
-      "id": "taejin-goh",
-      "display_name": "Taejin",
-      "series": "The God of High School",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Taejin"
-      ]
-    },
-    {
       "id": "taiju-stone",
       "display_name": "Taiju",
       "series": "Dr. Stone",
@@ -25456,42 +21256,6 @@
       "notes": []
     },
     {
-      "id": "takasugi-gintama",
-      "display_name": "Takasugi",
-      "series": "Gintama",
-      "wiki_page": "Shinsuke Takasugi",
-      "game": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
-      },
-      "wiki_path": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "takemichi-hanagaki",
       "display_name": "Takemichi",
       "series": "Tokyo Revengers",
@@ -25526,39 +21290,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "takizawa-tg",
-      "display_name": "Takizawa",
-      "series": "Tokyo Ghoul",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Kuki Takizawa"
-      ]
     },
     {
       "id": "tamaki-fire-force",
@@ -25627,39 +21358,6 @@
       ],
       "notes": [
         "No parse content for Tamamo-no-Mae"
-      ]
-    },
-    {
-      "id": "tamayo-demon-slayer",
-      "display_name": "Tamayo",
-      "series": "Demon Slayer",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Tamayo"
       ]
     },
     {
@@ -25981,39 +21679,6 @@
       "notes": []
     },
     {
-      "id": "teruhashi-saiki",
-      "display_name": "Teruhashi",
-      "series": "The Disastrous Life of Saiki K",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Kokomi Teruhashi"
-      ]
-    },
-    {
       "id": "thomas-sl",
       "display_name": "Thomas Andre",
       "series": "Solo Leveling",
@@ -26173,42 +21838,6 @@
     },
     {
       "id": "thors-snake",
-      "display_name": "Thors",
-      "series": "Vinland Saga",
-      "wiki_page": "Thors",
-      "game": {
-        "strength": 28,
-        "speed": 32,
-        "abilities": 28,
-        "durability": 28
-      },
-      "wiki_path": {
-        "strength": 28,
-        "speed": 32,
-        "abilities": 28,
-        "durability": 28
-      },
-      "wiki_peak": {
-        "strength": 28,
-        "speed": 32,
-        "abilities": 28,
-        "durability": 28
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "thors-vinland",
       "display_name": "Thors",
       "series": "Vinland Saga",
       "wiki_page": "Thors",
@@ -26460,42 +22089,6 @@
       "notes": []
     },
     {
-      "id": "toichiro-mob",
-      "display_name": "Toichiro",
-      "series": "Mob Psycho 100",
-      "wiki_page": "Toichiro Suzuki",
-      "game": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_path": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_peak": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 78,
-        "durability": 78
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "toichiro-suzuki",
       "display_name": "Toichiro",
       "series": "Mob Psycho 100",
@@ -26602,72 +22195,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "toru-fire-force",
-      "display_name": "Toru",
-      "series": "Fire Force",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Toru"
-      ]
-    },
-    {
-      "id": "toru-saiki",
-      "display_name": "Toru",
-      "series": "The Disastrous Life of Saiki K",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Toru"
-      ]
     },
     {
       "id": "toshiro-bleach",
@@ -26891,42 +22418,6 @@
       ]
     },
     {
-      "id": "tsukuyo-gintama",
-      "display_name": "Tsukuyo",
-      "series": "Gintama",
-      "wiki_page": "Tsukuyo",
-      "game": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
-      },
-      "wiki_path": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 68,
-        "abilities": 58,
-        "durability": 58
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "tsunade-naruto",
       "display_name": "Tsunade",
       "series": "Naruto",
@@ -26994,78 +22485,6 @@
       "notes": [
         "No parse content for Tengen Toppa Gurren Lagann"
       ]
-    },
-    {
-      "id": "tubalcain-hellsing",
-      "display_name": "Tubalcain",
-      "series": "Hellsing",
-      "wiki_page": "Tubalcain Alhambra",
-      "game": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 46,
-        "durability": 46
-      },
-      "wiki_path": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 46,
-        "durability": 46
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 76,
-        "abilities": 46,
-        "durability": 46
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "twice-mha",
-      "display_name": "Twice",
-      "series": "My Hero Academia",
-      "wiki_page": "Twice",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
     },
     {
       "id": "uesugi-goh",
@@ -27209,42 +22628,6 @@
       "notes": []
     },
     {
-      "id": "uragami-parasyte",
-      "display_name": "Uragami",
-      "series": "Parasyte",
-      "wiki_page": "Uragami",
-      "game": {
-        "strength": 40,
-        "speed": 36,
-        "abilities": 22,
-        "durability": 12
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 36,
-        "abilities": 22,
-        "durability": 12
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 36,
-        "abilities": 22,
-        "durability": 12
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "urahara-bleach",
       "display_name": "Urahara",
       "series": "Bleach",
@@ -27266,42 +22649,6 @@
         "speed": 82,
         "abilities": 78,
         "durability": 78
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "uraume-jjk",
-      "display_name": "Uraume",
-      "series": "Jujutsu Kaisen",
-      "wiki_page": "Uraume",
-      "game": {
-        "strength": 54,
-        "speed": 48,
-        "abilities": 54,
-        "durability": 54
-      },
-      "wiki_path": {
-        "strength": 54,
-        "speed": 48,
-        "abilities": 54,
-        "durability": 54
-      },
-      "wiki_peak": {
-        "strength": 54,
-        "speed": 48,
-        "abilities": 54,
-        "durability": 54
       },
       "delta_path": null,
       "peak_gap": {
@@ -27458,42 +22805,6 @@
       "notes": []
     },
     {
-      "id": "vanica-black-clover",
-      "display_name": "Vanica",
-      "series": "Black Clover",
-      "wiki_page": "Vanica Zogratis",
-      "game": {
-        "strength": 78,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_path": {
-        "strength": 78,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_peak": {
-        "strength": 78,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "vegeta-ssb",
       "display_name": "Vegeta",
       "series": "Dragon Ball",
@@ -27528,39 +22839,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "vegeta-ssb-evolved-dragon-ball",
-      "display_name": "Vegeta",
-      "series": "Dragon Ball",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Vegeta (Super Saiyan Blue Evolved)"
-      ]
     },
     {
       "id": "vegito-dragon-ball",
@@ -27632,75 +22910,6 @@
       ]
     },
     {
-      "id": "velgrynd-slime",
-      "display_name": "Velgrynd",
-      "series": "That Time I Got Reincarnated as a Slime",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Velgrynd"
-      ]
-    },
-    {
-      "id": "viral-gurren",
-      "display_name": "Viral",
-      "series": "Gurren Lagann",
-      "wiki_page": "Viral",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "volg-ippo",
       "display_name": "Volg",
       "series": "Hajime no Ippo",
@@ -27732,150 +22941,6 @@
       "notes": [
         "No parse content for Wally Volg"
       ]
-    },
-    {
-      "id": "vv-geass",
-      "display_name": "V.V.",
-      "series": "Code Geass",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for V.V."
-      ]
-    },
-    {
-      "id": "wall-echtena-fairy-tail",
-      "display_name": "Wall",
-      "series": "Fairy Tail",
-      "wiki_page": "Wall Eehto",
-      "game": {
-        "strength": 90,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_path": {
-        "strength": 90,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
-      },
-      "wiki_peak": {
-        "strength": 90,
-        "speed": 82,
-        "abilities": 78,
-        "durability": 78
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "walter-hellsing",
-      "display_name": "Walter",
-      "series": "Hellsing",
-      "wiki_page": "Walter C. Dornez",
-      "game": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 46,
-        "durability": 46
-      },
-      "wiki_path": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 46,
-        "durability": 46
-      },
-      "wiki_peak": {
-        "strength": 90,
-        "speed": 76,
-        "abilities": 46,
-        "durability": 46
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "warhammer-aot",
-      "display_name": "Warhammer",
-      "series": "Attack on Titan",
-      "wiki_page": "Lara Tybur",
-      "game": {
-        "strength": 58,
-        "speed": 32,
-        "abilities": 46,
-        "durability": 46
-      },
-      "wiki_path": {
-        "strength": 46,
-        "speed": 32,
-        "abilities": 46,
-        "durability": 46
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 40,
-        "abilities": 46,
-        "durability": 46
-      },
-      "delta_path": {
-        "strength": -12
-      },
-      "peak_gap": {
-        "strength": 0,
-        "speed": 8,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "wiki_path_mismatch",
-        "wiki_peak_above_game"
-      ],
-      "notes": []
     },
     {
       "id": "watari-dn",
@@ -27983,39 +23048,6 @@
       "notes": []
     },
     {
-      "id": "whyman-stone",
-      "display_name": "Whyman",
-      "series": "Dr. Stone",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Whyman"
-      ]
-    },
-    {
       "id": "wing-hxh",
       "display_name": "Wing",
       "series": "Hunter x Hunter",
@@ -28086,39 +23118,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "xeno-stone",
-      "display_name": "Xeno",
-      "series": "Dr. Stone",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Xeno Houston Wingfield"
-      ]
     },
     {
       "id": "xerneas-anime",
@@ -28200,39 +23199,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "yamazaki-gintama",
-      "display_name": "Yamazaki",
-      "series": "Gintama",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Sagaru Yamazaki"
-      ]
     },
     {
       "id": "yami-black-clover",
@@ -28342,77 +23308,6 @@
         "aligned_wiki_path"
       ],
       "notes": []
-    },
-    {
-      "id": "ymir-aot",
-      "display_name": "Ymir",
-      "series": "Attack on Titan",
-      "wiki_page": "Ymir Fritz",
-      "game": {
-        "strength": 58,
-        "speed": 48,
-        "abilities": 54,
-        "durability": 46
-      },
-      "wiki_path": {
-        "strength": 46,
-        "speed": 48,
-        "abilities": 54,
-        "durability": 46
-      },
-      "wiki_peak": {
-        "strength": 58,
-        "speed": 48,
-        "abilities": 54,
-        "durability": 46
-      },
-      "delta_path": {
-        "strength": -12
-      },
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "wiki_path_mismatch"
-      ],
-      "notes": []
-    },
-    {
-      "id": "ymir-armored-aot",
-      "display_name": "Armored",
-      "series": "Attack on Titan",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Reiner Braun (Armored Titan)"
-      ]
     },
     {
       "id": "ymir-attack-aot",
@@ -28652,39 +23547,6 @@
       "notes": []
     },
     {
-      "id": "yoru-csm",
-      "display_name": "Yoru",
-      "series": "Chainsaw Man",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Yoru"
-      ]
-    },
-    {
       "id": "yoruichi-bleach",
       "display_name": "Yoruichi",
       "series": "Bleach",
@@ -28721,39 +23583,6 @@
       "notes": []
     },
     {
-      "id": "yoshimura-tg",
-      "display_name": "Yoshimura",
-      "series": "Tokyo Ghoul",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Yoshimura"
-      ]
-    },
-    {
       "id": "youpi-hxh",
       "display_name": "Youpi",
       "series": "Hunter x Hunter",
@@ -28775,42 +23604,6 @@
         "speed": 72,
         "abilities": 54,
         "durability": 54
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "yui-sao",
-      "display_name": "Yui",
-      "series": "Sword Art Online",
-      "wiki_page": "Yui",
-      "game": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_path": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
-      },
-      "wiki_peak": {
-        "strength": 40,
-        "speed": 40,
-        "abilities": 40,
-        "durability": 40
       },
       "delta_path": null,
       "peak_gap": {
@@ -28970,42 +23763,6 @@
       "notes": []
     },
     {
-      "id": "yushiro-demon-slayer",
-      "display_name": "Yushiro",
-      "series": "Demon Slayer",
-      "wiki_page": "Yushiro",
-      "game": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 38,
-        "durability": 38
-      },
-      "wiki_path": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 38,
-        "durability": 38
-      },
-      "wiki_peak": {
-        "strength": 38,
-        "speed": 32,
-        "abilities": 38,
-        "durability": 38
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
       "id": "yuta-jjk",
       "display_name": "Yuta",
       "series": "Jujutsu Kaisen",
@@ -29072,39 +23829,6 @@
       ],
       "notes": [
         "No parse content for Yuuki Konno"
-      ]
-    },
-    {
-      "id": "yuzuriha-stone",
-      "display_name": "Yuzuriha",
-      "series": "Dr. Stone",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Yuzuriha Ogawa"
       ]
     },
     {
@@ -29331,39 +24055,6 @@
       "notes": []
     },
     {
-      "id": "zenith-mushoku",
-      "display_name": "Zenith",
-      "series": "Mushoku Tensei",
-      "wiki_page": null,
-      "game": {
-        "strength": 50,
-        "speed": 50,
-        "abilities": 50,
-        "durability": 50
-      },
-      "wiki_path": null,
-      "wiki_peak": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": -50,
-        "speed": -50,
-        "abilities": -50,
-        "durability": -50
-      },
-      "curated": null,
-      "status": [
-        "error"
-      ],
-      "notes": [
-        "No parse content for Zenith Greyrat"
-      ]
-    },
-    {
       "id": "zenitsu-godspeed",
       "display_name": "Zenitsu",
       "series": "Demon Slayer",
@@ -29506,42 +24197,6 @@
     },
     {
       "id": "zeref-anime",
-      "display_name": "Zeref",
-      "series": "Fairy Tail",
-      "wiki_page": "Zeref Dragneel",
-      "game": {
-        "strength": 96,
-        "speed": 88,
-        "abilities": 96,
-        "durability": 96
-      },
-      "wiki_path": {
-        "strength": 96,
-        "speed": 88,
-        "abilities": 96,
-        "durability": 96
-      },
-      "wiki_peak": {
-        "strength": 96,
-        "speed": 88,
-        "abilities": 96,
-        "durability": 96
-      },
-      "delta_path": null,
-      "peak_gap": {
-        "strength": 0,
-        "speed": 0,
-        "abilities": 0,
-        "durability": 0
-      },
-      "curated": null,
-      "status": [
-        "aligned_wiki_path"
-      ],
-      "notes": []
-    },
-    {
-      "id": "zeref-fairy-tail",
       "display_name": "Zeref",
       "series": "Fairy Tail",
       "wiki_page": "Zeref Dragneel",
