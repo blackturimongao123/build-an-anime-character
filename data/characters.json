@@ -4686,11 +4686,11 @@
     "portrait": "/portraits/bradley-fma.jpg",
     "series": "Fullmetal Alchemist",
     "stats": {
-      "strength": 28,
+      "strength": 30,
       "speed": 44,
-      "abilities": 28,
+      "abilities": 30,
       "iq": 65,
-      "durability": 28
+      "durability": 30
     },
     "sources": {
       "wikiPage": "King Bradley",
@@ -4965,24 +4965,6 @@
       "iq": 96,
       "speed": 88,
       "strength": 98
-    }
-  },
-  {
-    "displayName": "Wrath",
-    "id": "wrath-fma",
-    "portrait": "/portraits/wrath-fma.png",
-    "series": "Fullmetal Alchemist",
-    "stats": {
-      "abilities": 30,
-      "durability": 30,
-      "iq": 65,
-      "speed": 42,
-      "strength": 30
-    },
-    "sources": {
-      "wikiPage": "Wrath (Web Novel)",
-      "wikiUrl": "https://vsbattles.fandom.com/wiki/Wrath_(Web_Novel)",
-      "wikiStatKey": "peak (non-manga)"
     }
   },
   {
@@ -10493,7 +10475,7 @@
     }
   },
   {
-    "displayName": "Fairy King",
+    "displayName": "King",
     "id": "king-sds",
     "portrait": "/portraits/king-sds.jpg",
     "series": "Seven Deadly Sins",

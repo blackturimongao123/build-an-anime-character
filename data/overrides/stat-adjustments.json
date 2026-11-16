@@ -1041,15 +1041,6 @@
     },
     "reason": "no usable VS Battles stats: Gaea Foundation disguise assassin"
   },
-  "wrath-fma": {
-    "set": {
-      "strength": 30,
-      "speed": 42,
-      "abilities": 30,
-      "durability": 30
-    },
-    "reason": "no usable VS Battles stats: duplicate of King Bradley (Ultimate Eye swordsmanship)"
-  },
   "king-one-piece": {
     "set": {
       "strength": 64,
@@ -1080,5 +1071,14 @@
   "yuji-jjk": {
     "spd_min": 38,
     "reason": "SPD: cursed-energy reinforcement and Divergent Fist; keeps pace with Mahito and Todo in the aired Shibuya arc"
+  },
+  "bradley-fma": {
+    "set": {
+      "strength": 30,
+      "speed": 44,
+      "abilities": 30,
+      "durability": 30
+    },
+    "reason": "Wrath and King Bradley are the same person; Wrath entry merged in, keeping the higher value of each stat"
   }
 }

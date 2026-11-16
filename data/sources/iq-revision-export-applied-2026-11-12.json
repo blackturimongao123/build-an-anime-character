@@ -125,7 +125,6 @@
     "ohma-kengan": 75,
     "all-might-mha": 46,
     "vegeta-dragon-ball": 64,
-    "wrath-fma": 65,
     "xerneas-pokemon": 55,
     "yami-black-clover": 60,
     "yuno-black-clover": 58,
@@ -1477,17 +1476,6 @@
       "editedByUser": false,
       "pillars": "Fighting tactics",
       "rationale": "Saiyan battle growth"
-    },
-    {
-      "id": "wrath-fma",
-      "displayName": "Wrath",
-      "series": "Fullmetal Alchemist",
-      "baselineWas": 55,
-      "proposalFile": 55,
-      "finalIq": 65,
-      "editedByUser": true,
-      "pillars": null,
-      "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
       "id": "xerneas-pokemon",

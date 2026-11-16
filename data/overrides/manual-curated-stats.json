@@ -1659,10 +1659,10 @@
     "durability": 30
   },
   "bradley-fma": {
-    "strength": 28,
+    "strength": 30,
     "speed": 44,
-    "abilities": 28,
-    "durability": 28
+    "abilities": 30,
+    "durability": 30
   },
   "buccaneer-fma": {
     "strength": 28,
@@ -1741,12 +1741,6 @@
     "speed": 40,
     "abilities": 28,
     "durability": 28
-  },
-  "wrath-fma": {
-    "strength": 30,
-    "speed": 42,
-    "abilities": 30,
-    "durability": 30
   },
   "gintoki-gintama": {
     "strength": 48,
