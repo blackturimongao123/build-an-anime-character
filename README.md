@@ -25,7 +25,7 @@ npm run dev:local
 | WebSocket (direct, local) | `ws://127.0.0.1:8781` |
 | WebSocket (via Vite) | `ws://localhost:5173/game-ws` (used automatically in dev) |
 
-Windows quick start (frees stuck ports): `powershell -File scripts/start-local.ps1`
+Windows quick start (frees stuck ports): `powershell -File scripts/dev/start-local.ps1`
 
 `dev:local` builds `shared/`, then runs the server and Vite together. Stop with `Ctrl+C` (both processes exit).
 
@@ -56,13 +56,14 @@ Render’s free tier may sleep; the first connection after idle can take ~30 sec
 
 ## Character data
 
-- Roster: `data/characters.json` (one strongest form per character; plain `displayName`, no parentheses)
-- Manual fixes: `data/manual-overrides.json`
+- Roster: `data/characters.json` (one entry per character, the strongest version; plain `displayName`, no parentheses)
+- Hand-edited values: `data/overrides/` (IQ, curated stats, manual fixes, display names, form policy). Apply them with `npm run data:apply`.
 - Validate allowlist, stats and portraits (missing files and duplicate placeholder images fail): `npm run data:validate`
-- Refresh wiki stats (cached under `data/raw-wiki/`): `npm run data:scrape`
-- Fetch portraits into `public-shared/portraits/` (Rust, parallel Anime-Planet CDN): `npm run data:portraits` — pass `-- --force` to replace files; TypeScript fallback: `npm run portraits:ts --workspace=scripts`
+- Refresh wiki stats (cached under `data/raw-wiki/`): `npm run wiki:scrape-stats`
+- Fetch portraits into `public-shared/portraits/` (Rust, parallel Anime-Planet CDN): `npm run portraits:fetch` (pass `-- --force` to replace files). TypeScript fallbacks: `npm run portraits:fetch-ts`, or `npm run portraits:fetch-ids -- <id> …` for specific characters.
+- IQ review page: `npm run iq:review` writes `data/generated/iq-revision-review.html`. Import its export with `npm run iq:import`.
 
-Allowed series are listed in [`scripts/validate-characters.ts`](scripts/validate-characters.ts) (`ALLOWED_SERIES`). Add new entries in [`data/roster-expansion.json`](data/roster-expansion.json), then `npm run data:merge-roster` and `npm run data:validate`.
+Allowed series are listed in [`scripts/validate/validate-characters.ts`](scripts/validate/validate-characters.ts) (`ALLOWED_SERIES`). Add new entries in [`data/sources/roster-expansion.json`](data/sources/roster-expansion.json), then `npm run roster:merge-expansion` and `npm run data:validate`.
 
 ## How to play
 
@@ -80,10 +81,45 @@ Sounds (roll ticks, clicks, punches) are synthesized in the browser; use the �
 ## Project structure
 
 ```
-client/           React UI
-server/           Authoritative multiplayer
-shared/           Game rules + protocol
-scripts/          Wiki scrape, validation, portraits
-data/             Character database
-public-shared/    Portrait assets copied into client build
+client/                React UI
+server/                Authoritative multiplayer
+shared/                Game rules + protocol
+public-shared/         Portrait assets copied into the client build
+data/
+  characters.json      The roster (server, client build and validator read it)
+  overrides/           Hand-edited values: IQ, curated stats, display names, form policy
+  sources/             Inputs for scraping, portraits and roster batches
+  generated/           Reports, logs, review page (gitignored, regenerable)
+  wiki-db/             Local VS Battles scrape cache (gitignored)
+scripts/
+  scrape/              VS Battles + wiki scraping, shards, wiki apply
+  curate/              Apply overrides, IQ review, roster batches, display names
+  portraits/           Portrait fetch / import / dedupe
+  validate/            Validator and audits
+  dev/                 Local helpers
+  lib/                 Shared script helpers
+tools/                 Rust crates: portraits-fetch, stats-check, wiki-db
+docs/                  Gameplay, data notes (docs/data), reviews and change records (docs/reviews)
 ```
+
+### npm script names (renamed 2026-11-16)
+
+Commands follow `<area>:<action>`. Old names:
+
+| Old | New |
+|-----|-----|
+| `data:iq-apply` / `data:curated-apply` | `data:apply-iq` / `data:apply-stats` (both: `data:apply`) |
+| `data:assets` | `data:refresh-assets` |
+| `data:scrape` / `data:stats` | `wiki:scrape-legacy` / `wiki:scrape-stats` |
+| `data:wiki-shards`, `data:wiki-scrape`, `data:wiki-scrape-shard` | `wiki:shards`, `wiki:scrape`, `wiki:scrape-shard` |
+| `data:wiki-db`, `data:wiki-db-import`, `data:wiki-db-merge` | `wiki:db`, `wiki:db-import`, `wiki:db-merge` |
+| `data:wiki-stat-keys`, `data:wiki-apply` | `wiki:stat-keys`, `wiki:apply` |
+| `data:needs-wiki-scrape`, `data:needs-wiki-scrape-8` | `wiki:needs-scrape`, `wiki:needs-scrape-8` |
+| `data:iq-sync-roster`, `data:iq-review-html`, `data:iq-website` | `iq:sync`, `iq:review-page`, `iq:review` |
+| `data:iq-import-export`, `data:iq-merge-proposal` | `iq:import`, `iq:merge-proposal` |
+| `data:merge-roster`, `data:restore-characters`, `data:display-names`, `data:form-policy` | `roster:merge-expansion`, `roster:restore`, `roster:display-names`, `roster:form-policy` |
+| `data:roster-batch-build`, `-apply`, `-onboard`, `-scrape-8` | `roster:batch-build`, `-apply`, `-onboard`, `-scrape-8` |
+| `data:portraits`, `data:portraits-manual` | `portraits:fetch`, `portraits:import-manual` |
+| `data:roster-readiness`, `data:roster-batch-stats-audit`, `data:physical-audit` | `audit:readiness`, `audit:batch-stats`, `audit:physical` |
+
+`data:validate`, `data:stats-check`, `data:stats-check-apply` and all `dev`/`build` commands are unchanged. Every command is defined in the root `package.json`.

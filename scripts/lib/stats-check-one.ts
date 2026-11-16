@@ -104,9 +104,9 @@ export async function checkOne(
   root: string,
 ): Promise<CheckResult> {
   const charactersPath = resolve(root, "data", "characters.json");
-  const hintsPath = resolve(root, "data", "wiki-hints.json");
-  const statKeysPath = resolve(root, "data", "wiki-stat-keys.json");
-  const profileHintsPath = resolve(root, "data", "wiki-profile-hints.json");
+  const hintsPath = resolve(root, "data", "sources", "wiki-hints.json");
+  const statKeysPath = resolve(root, "data", "sources", "wiki-stat-keys.json");
+  const profileHintsPath = resolve(root, "data", "sources", "wiki-profile-hints.json");
 
   const chars = JSON.parse(readFileSync(charactersPath, "utf-8")) as Character[];
   const c = chars.find((x) => x.id === id);

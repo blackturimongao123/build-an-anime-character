@@ -1,6 +1,5 @@
 node_modules/
-portraits-fetch/target/
-stats-check/target/
+tools/*/target/
 dist/
 client/dist/
 shared/dist/
@@ -19,12 +18,14 @@ data/_*
 scripts/_*
 data/portrait-samples/
 
-# Scraped wiki HTML cache (regenerable with npm run data:scrape)
+# Scraped wiki HTML cache (regenerable with npm run wiki:scrape-legacy)
 data/raw-wiki/
 
 # Local wiki scrape database (JSON shards + SQLite), regenerable
 data/wiki-db/
-wiki-db/target/
+
+# Reports, logs and the IQ review page (regenerable by the scripts that write them)
+data/generated/
 
 # Screenshots of the original Roblox game, for local reference only
 reference UI/

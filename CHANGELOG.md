@@ -1,5 +1,34 @@
 # Changelog
 
+## 2026-11-16: Roster cleanup and project reorganization
+
+### 10. Roster
+
+| Change | Details |
+|--------|---------|
+| IQ revision export | 557 IQ values applied from `iq-revision-export-2026-11-16.json`. The 116 characters left at IQ 50 were removed. |
+| Duplicates | 45 second copies removed. Rule: always keep the strongest version (documented in `docs/data/FRANCHISE_NOTES.md`). Edward and Lelouch took their stronger copy's stats; the placeholder Annie copy was removed. |
+| Fate | Trimmed to Gilgamesh, Iskandar and Saber. Saber was restored; Iskandar's portrait (previously an eagle) was replaced. |
+| Record | Every removal is listed in `docs/reviews/DELETED_2026-11-16.md`. Roster: 875 → 694. |
+
+### 11. Project structure
+
+| Area | Change |
+|------|--------|
+| `data/` | Only `characters.json` stays at the top. `overrides/` holds hand-edited values, `sources/` holds scrape, portrait and batch inputs, and `generated/` holds reports, logs and the IQ review page (now gitignored and regenerable). |
+| `scripts/` | Grouped into `scrape/`, `curate/`, `portraits/`, `validate/`, `dev/` and `lib/`. Paths inside every script were updated. |
+| `tools/` | The Rust crates `portraits-fetch`, `stats-check` and `wiki-db` moved here; their default `--root` is now `../..`. |
+| `docs/` | Notes moved to `docs/data/`; reviews and change records to `docs/reviews/`. The cleanup plan is in `docs/CLEANUP_PLAN.md`. |
+| npm scripts | Renamed to `<area>:<action>` (`data:`, `iq:`, `roster:`, `wiki:`, `portraits:`, `audit:`). They're all defined in the root `package.json`, and the README has an old → new table. |
+| Removed | 7 unused scripts, 2 PowerShell copies of TS/MJS scripts, and 4 stale logs and notes. |
+
+Tested:
+- Every script bundles, so all its imports resolve.
+- The 3 Rust crates build.
+- `data:validate`, `data:apply`, `iq:review`, `audit:*`, `wiki:stat-keys`, `wiki:needs-scrape` and `wiki:shards` run; the long-running commands start and parse their arguments.
+- Every PowerShell script parses.
+- The client builds and typechecks.
+
 ## 2026-11-13: Lighter client and smoother roll reel
 
 ### 9. Performance
@@ -43,12 +72,12 @@ Not done yet: smaller portrait files. The originals average about 40 KB at about
 | Area | Change |
 |------|--------|
 | **Portraits** (`public-shared/portraits/`) | 115 of the 136 portraits were the same image: the last Anime-Planet fetch had saved one generic picture (Kakashi) for every character. Those 115 files were replaced with each character's earlier portrait. File names are unchanged, so `data/characters.json` needed no edits. The 21 portraits that fetched correctly were kept. `client/public/portraits/` is refreshed from `public-shared` automatically on the next dev run or build. |
-| `portraits-fetch/src/main.rs` | **Guard:** if the same image comes back for more than one character, none of those copies are saved, and each is logged as `FAIL … likely a site placeholder`. The log now records the source URL of each saved image. **Compile fix:** a moved `ext` in the "skip existing" branch stopped the crate from building. |
-| `scripts/validate-characters.ts` | `npm run data:validate` now fails if a portrait file is missing or if two characters share the same image bytes. |
+| `tools/portraits-fetch/src/main.rs` | **Guard:** if the same image comes back for more than one character, none of those copies are saved, and each is logged as `FAIL … likely a site placeholder`. The log now records the source URL of each saved image. **Compile fix:** a moved `ext` in the "skip existing" branch stopped the crate from building. |
+| `scripts/validate/validate-characters.ts` | `npm run data:validate` now fails if a portrait file is missing or if two characters share the same image bytes. |
 | `server/render.yaml`, `README.md` | The Render build was `npm install` only. The server imports the `shared` workspace package, whose compiled `dist/` isn't committed, so the deploy would succeed and then crash on start (`ERR_MODULE_NOT_FOUND`). The build is now `npm install && npm run build --workspace=@build-character/shared`. Tested from the `server` folder on a clean copy: `/health` returns ok. |
 | `.github/workflows/deploy-pages.yml` | Copies `index.html` to `404.html`, so deep links and refreshes on `/room/CODE` load the app instead of GitHub's 404 page. |
 | `.gitignore` | Now ignores generated `client/public/portraits/` (Vite copies it from `public-shared`), local debug files (`data/_*`, `scripts/_*`, `data/portrait-samples/`), the 12 MB `data/raw-wiki/` scrape cache, and `reference UI/`, which holds screenshots of the original Roblox game. |
-| `stats-check/src/worker.rs` | Removed a hard-coded `C:\Users\Me\…\node.exe` path. It now uses `NODE_BIN` or `node` from PATH. |
+| `tools/stats-check/src/worker.rs` | Removed a hard-coded `C:\Users\Me\…\node.exe` path. It now uses `NODE_BIN` or `node` from PATH. |
 | `client/src/components/SoundToggle.css` | On phones, the mute button moves to the bottom-right so it no longer covers the title. |
 | `README.md` | Updated the showdown description and added notes on sounds/mute and on the new portrait checks. |
 
