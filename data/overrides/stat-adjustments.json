@@ -195,8 +195,13 @@
     "reason": "Destruction magic that destroys concepts and fate, Venuzdonoa (destroys destruction itself)"
   },
   "rimuru-slime": {
-    "abl_min": 96,
-    "reason": "Beelzebuth (absorb and analyse anything), Raphael/Ciel analysis, Void God Azathoth"
+    "set": {
+      "strength": 72,
+      "speed": 76,
+      "abilities": 90,
+      "durability": 80
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): True Demon Lord: Megiddo, Beelzebuth absorption, Raphael analysis; regenerating slime body"
   },
   "gilgamesh-fate": {
     "abl_min": 96,
@@ -692,30 +697,30 @@
   },
   "testarossa-slime": {
     "set": {
-      "strength": 90,
-      "speed": 87,
-      "abilities": 94,
-      "durability": 90
+      "strength": 64,
+      "speed": 70,
+      "abilities": 80,
+      "durability": 70
     },
-    "reason": "no usable VS Battles stats: Primordial demon (White), Rimuru's diplomat; death magic"
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): Primordial demon (White); death magic"
   },
   "ultima-slime": {
     "set": {
-      "strength": 90,
-      "speed": 87,
-      "abilities": 94,
-      "durability": 88
+      "strength": 66,
+      "speed": 70,
+      "abilities": 76,
+      "durability": 68
     },
-    "reason": "no usable VS Battles stats: Primordial demon (Violet); pain-based magic"
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): Primordial demon (Violet); pain-based magic"
   },
   "rigurd-slime": {
     "set": {
-      "strength": 40,
-      "speed": 36,
-      "abilities": 38,
-      "durability": 40
+      "strength": 32,
+      "speed": 30,
+      "abilities": 28,
+      "durability": 34
     },
-    "reason": "no usable VS Battles stats: hobgoblin leader"
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): hobgoblin village leader"
   },
   "kurobe-slime": {
     "set": {
@@ -728,12 +733,12 @@
   },
   "elmesia-slime": {
     "set": {
-      "strength": 40,
-      "speed": 40,
-      "abilities": 80,
-      "durability": 50
+      "strength": 30,
+      "speed": 36,
+      "abilities": 60,
+      "durability": 36
     },
-    "reason": "no usable VS Battles stats: elven emperor with vast magic and political power"
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): elven emperor; politics and magic, little combat shown"
   },
   "igris-sl": {
     "set": {
@@ -1080,5 +1085,176 @@
       "durability": 30
     },
     "reason": "Wrath and King Bradley are the same person; Wrath entry merged in, keeping the higher value of each stat"
+  },
+  "guy-slime": {
+    "set": {
+      "strength": 78,
+      "speed": 82,
+      "abilities": 86,
+      "durability": 80
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): strongest demon lord; froze a continent; top of the anime ladder"
+  },
+  "milim-slime": {
+    "set": {
+      "strength": 80,
+      "speed": 80,
+      "abilities": 78,
+      "durability": 80
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): Drago Nova razed Eurazania's capital; strongest raw power shown"
+  },
+  "veldora-slime": {
+    "set": {
+      "strength": 76,
+      "speed": 74,
+      "abilities": 82,
+      "durability": 82
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): Storm Dragon, a catastrophe-class true dragon"
+  },
+  "leon-slime": {
+    "set": {
+      "strength": 70,
+      "speed": 72,
+      "abilities": 78,
+      "durability": 72
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): veteran demon lord, light and spatial magic"
+  },
+  "dagruel-slime": {
+    "set": {
+      "strength": 72,
+      "speed": 62,
+      "abilities": 72,
+      "durability": 78
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): giant demon lord, gatekeeper of the western lands"
+  },
+  "deeno-slime": {
+    "set": {
+      "strength": 62,
+      "speed": 66,
+      "abilities": 62,
+      "durability": 62
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): fallen-angel demon lord, rarely fights on screen"
+  },
+  "carrion-slime": {
+    "set": {
+      "strength": 64,
+      "speed": 64,
+      "abilities": 58,
+      "durability": 62
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): beast-king demon lord; lost to Milim"
+  },
+  "frey-slime": {
+    "set": {
+      "strength": 56,
+      "speed": 68,
+      "abilities": 58,
+      "durability": 54
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): harpy-queen demon lord, aerial speed"
+  },
+  "clayman-slime": {
+    "set": {
+      "strength": 56,
+      "speed": 54,
+      "abilities": 64,
+      "durability": 56
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): awakened demon lord easily beaten by Rimuru's side; puppet and mind control"
+  },
+  "ramiris-slime": {
+    "set": {
+      "strength": 20,
+      "speed": 48,
+      "abilities": 70,
+      "durability": 34
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): fairy demon lord: weak body, labyrinth creation"
+  },
+  "diablo-slime": {
+    "set": {
+      "strength": 66,
+      "speed": 72,
+      "abilities": 82,
+      "durability": 72
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): Primordial demon; wiped out Falmuth's army, Temptation World mind hax"
+  },
+  "benimaru-slime": {
+    "set": {
+      "strength": 64,
+      "speed": 70,
+      "abilities": 68,
+      "durability": 64
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): Oni general; Hell Flare and black flames"
+  },
+  "shion-slime": {
+    "set": {
+      "strength": 66,
+      "speed": 62,
+      "abilities": 60,
+      "durability": 66
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): Oni; strongest physical blows among the subordinates"
+  },
+  "ranga-slime": {
+    "set": {
+      "strength": 56,
+      "speed": 66,
+      "abilities": 56,
+      "durability": 54
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): Tempest Star Wolf; black lightning"
+  },
+  "souei-slime": {
+    "set": {
+      "strength": 52,
+      "speed": 68,
+      "abilities": 60,
+      "durability": 50
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): Oni spy and assassin; shadow movement, sticky steel thread"
+  },
+  "hakurou-slime": {
+    "set": {
+      "strength": 54,
+      "speed": 66,
+      "abilities": 60,
+      "durability": 48
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): Oni swordmaster; blitzed Orc Disaster Geld"
+  },
+  "geld-slime": {
+    "set": {
+      "strength": 48,
+      "speed": 44,
+      "abilities": 54,
+      "durability": 56
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): about city level (owner); Gluttony, Protect; shield of the army"
+  },
+  "gobta-slime": {
+    "set": {
+      "strength": 42,
+      "speed": 48,
+      "abilities": 42,
+      "durability": 40
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): hobgoblin rider captain, below Geld"
+  },
+  "shuna-slime": {
+    "set": {
+      "strength": 28,
+      "speed": 40,
+      "abilities": 60,
+      "durability": 34
+    },
+    "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): support: Analyst, holy barrier, creation; aired skills only"
   }
 }

@@ -10939,11 +10939,11 @@
     "portrait": "/portraits/benimaru-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 90,
-      "speed": 69,
-      "abilities": 96,
+      "strength": 64,
+      "speed": 70,
+      "abilities": 68,
       "iq": 51,
-      "durability": 92
+      "durability": 64
     },
     "sources": {
       "wikiPage": "Benimaru (Light Novel)",
@@ -10957,11 +10957,11 @@
     "portrait": "/portraits/carrion-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 90,
-      "speed": 55,
-      "abilities": 96,
+      "strength": 64,
+      "speed": 64,
+      "abilities": 58,
       "iq": 42,
-      "durability": 91
+      "durability": 62
     },
     "sources": {
       "wikiPage": "Carrion",
@@ -10975,11 +10975,11 @@
     "portrait": "/portraits/clayman-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 90,
-      "speed": 55,
-      "abilities": 96,
+      "strength": 56,
+      "speed": 54,
+      "abilities": 64,
       "iq": 63,
-      "durability": 93
+      "durability": 56
     },
     "sources": {
       "wikiPage": "Clayman",
@@ -10992,11 +10992,11 @@
     "portrait": "/portraits/dagruel-slime.webp",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 97,
-      "speed": 82,
-      "abilities": 97,
+      "strength": 72,
+      "speed": 62,
+      "abilities": 72,
       "iq": 69,
-      "durability": 97
+      "durability": 78
     },
     "sources": {
       "wikiPage": "Dagruel (Light Novel)",
@@ -11010,11 +11010,11 @@
     "portrait": "/portraits/deeno-slime.webp",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 92,
-      "speed": 82,
-      "abilities": 92,
+      "strength": 62,
+      "speed": 66,
+      "abilities": 62,
       "iq": 68,
-      "durability": 92
+      "durability": 62
     },
     "sources": {
       "wikiPage": "Deeno",
@@ -11027,11 +11027,11 @@
     "portrait": "/portraits/diablo-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 90,
-      "speed": 71,
-      "abilities": 97,
+      "strength": 66,
+      "speed": 72,
+      "abilities": 82,
       "iq": 87,
-      "durability": 97
+      "durability": 72
     },
     "sources": {
       "wikiPage": "Diablo (Light Novel)",
@@ -11045,11 +11045,11 @@
     "portrait": "/portraits/elmesia-slime.webp",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 40,
-      "speed": 40,
-      "abilities": 80,
+      "strength": 30,
+      "speed": 36,
+      "abilities": 60,
       "iq": 83,
-      "durability": 50
+      "durability": 36
     },
     "sources": {
       "wikiPage": "Elmesia El-Lu Lieng",
@@ -11062,11 +11062,11 @@
     "portrait": "/portraits/frey-slime.webp",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 88,
-      "speed": 80,
-      "abilities": 86,
+      "strength": 56,
+      "speed": 68,
+      "abilities": 58,
       "iq": 74,
-      "durability": 86
+      "durability": 54
     },
     "sources": {
       "wikiPage": "Frey",
@@ -11079,11 +11079,11 @@
     "portrait": "/portraits/geld-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 90,
-      "speed": 55,
-      "abilities": 96,
+      "strength": 48,
+      "speed": 44,
+      "abilities": 54,
       "iq": 67,
-      "durability": 92
+      "durability": 56
     },
     "sources": {
       "wikiPage": "Geld (Light Novel)",
@@ -11097,11 +11097,11 @@
     "portrait": "/portraits/gobta-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 90,
-      "speed": 69,
-      "abilities": 96,
+      "strength": 42,
+      "speed": 48,
+      "abilities": 42,
       "iq": 54,
-      "durability": 91
+      "durability": 40
     },
     "sources": {
       "wikiPage": "Gobta (Light Novel)",
@@ -11115,11 +11115,11 @@
     "portrait": "/portraits/guy-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
-      "speed": 97,
-      "abilities": 97,
+      "strength": 78,
+      "speed": 82,
+      "abilities": 86,
       "iq": 78,
-      "durability": 96
+      "durability": 80
     },
     "sources": {
       "wikiPage": "Guy Crimson (Light Novel)",
@@ -11133,11 +11133,11 @@
     "portrait": "/portraits/hakurou-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 61,
-      "speed": 58,
-      "abilities": 75,
+      "strength": 54,
+      "speed": 66,
+      "abilities": 60,
       "iq": 72,
-      "durability": 66
+      "durability": 48
     },
     "sources": {
       "wikiPage": "Hakurou (Light Novel)",
@@ -11169,11 +11169,11 @@
     "portrait": "/portraits/leon-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
-      "speed": 71,
-      "abilities": 97,
+      "strength": 70,
+      "speed": 72,
+      "abilities": 78,
       "iq": 74,
-      "durability": 97
+      "durability": 72
     },
     "sources": {
       "wikiPage": "Leon Cromwell (Light Novel)",
@@ -11187,11 +11187,11 @@
     "portrait": "/portraits/milim-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
-      "speed": 97,
-      "abilities": 97,
+      "strength": 80,
+      "speed": 80,
+      "abilities": 78,
       "iq": 34,
-      "durability": 99
+      "durability": 80
     },
     "sources": {
       "wikiPage": "Milim Nava (Light Novel)",
@@ -11205,11 +11205,11 @@
     "portrait": "/portraits/ramiris-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
-      "speed": 97,
-      "abilities": 97,
+      "strength": 20,
+      "speed": 48,
+      "abilities": 70,
       "iq": 74,
-      "durability": 98
+      "durability": 34
     },
     "sources": {
       "wikiPage": "Ramiris",
@@ -11222,11 +11222,11 @@
     "portrait": "/portraits/ranga-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 90,
-      "speed": 69,
-      "abilities": 96,
+      "strength": 56,
+      "speed": 66,
+      "abilities": 56,
       "iq": 54,
-      "durability": 92
+      "durability": 54
     },
     "sources": {
       "wikiPage": "Ranga (Light Novel)",
@@ -11240,11 +11240,11 @@
     "portrait": "/portraits/rigurd-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 40,
-      "speed": 36,
-      "abilities": 38,
+      "strength": 32,
+      "speed": 30,
+      "abilities": 28,
       "iq": 66,
-      "durability": 40
+      "durability": 34
     },
     "sources": {
       "wikiPage": "Rigurd",
@@ -11263,11 +11263,11 @@
       "wikiFragment": "Post-Demon_Lord"
     },
     "stats": {
-      "abilities": 97,
-      "durability": 97,
+      "abilities": 90,
+      "durability": 80,
       "iq": 75,
-      "speed": 88,
-      "strength": 95
+      "speed": 76,
+      "strength": 72
     }
   },
   {
@@ -11276,11 +11276,11 @@
     "portrait": "/portraits/shion-slime.webp",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 90,
-      "speed": 69,
-      "abilities": 96,
+      "strength": 66,
+      "speed": 62,
+      "abilities": 60,
       "iq": 36,
-      "durability": 94
+      "durability": 66
     },
     "sources": {
       "wikiPage": "Shion (Light Novel)",
@@ -11294,11 +11294,11 @@
     "portrait": "/portraits/shuna-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 61,
-      "speed": 71,
-      "abilities": 97,
+      "strength": 28,
+      "speed": 40,
+      "abilities": 60,
       "iq": 74,
-      "durability": 66
+      "durability": 34
     },
     "sources": {
       "wikiPage": "Shuna (Light Novel)",
@@ -11312,11 +11312,11 @@
     "portrait": "/portraits/souei-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 90,
-      "speed": 55,
-      "abilities": 96,
+      "strength": 52,
+      "speed": 68,
+      "abilities": 60,
       "iq": 83,
-      "durability": 92
+      "durability": 50
     },
     "sources": {
       "wikiPage": "Souei (Light Novel)",
@@ -11330,11 +11330,11 @@
     "portrait": "/portraits/testarossa-slime.webp",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 90,
-      "speed": 87,
-      "abilities": 94,
+      "strength": 64,
+      "speed": 70,
+      "abilities": 80,
       "iq": 88,
-      "durability": 90
+      "durability": 70
     },
     "sources": {
       "wikiPage": "Testarossa (That Time I Got Reincarnated as a Slime)",
@@ -11348,11 +11348,11 @@
     "portrait": "/portraits/ultima-slime.webp",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 90,
-      "speed": 87,
-      "abilities": 94,
+      "strength": 66,
+      "speed": 70,
+      "abilities": 76,
       "iq": 51,
-      "durability": 88
+      "durability": 68
     },
     "sources": {
       "wikiPage": "Ultima (That Time I Got Reincarnated as a Slime)",
@@ -11366,11 +11366,11 @@
     "portrait": "/portraits/veldora-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
-      "speed": 97,
-      "abilities": 97,
+      "strength": 76,
+      "speed": 74,
+      "abilities": 82,
       "iq": 38,
-      "durability": 99
+      "durability": 82
     },
     "sources": {
       "wikiPage": "Veldora Tempest (Light Novel)",

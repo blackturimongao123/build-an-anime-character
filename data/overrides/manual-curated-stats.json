@@ -3705,76 +3705,76 @@
     "durability": 30
   },
   "benimaru-slime": {
-    "strength": 90,
-    "speed": 69,
-    "abilities": 96,
-    "durability": 92
+    "strength": 64,
+    "speed": 70,
+    "abilities": 68,
+    "durability": 64
   },
   "carrion-slime": {
-    "strength": 90,
-    "speed": 55,
-    "abilities": 96,
-    "durability": 91
+    "strength": 64,
+    "speed": 64,
+    "abilities": 58,
+    "durability": 62
   },
   "clayman-slime": {
-    "strength": 90,
-    "speed": 55,
-    "abilities": 96,
-    "durability": 93
+    "strength": 56,
+    "speed": 54,
+    "abilities": 64,
+    "durability": 56
   },
   "dagruel-slime": {
-    "strength": 97,
-    "speed": 82,
-    "abilities": 97,
-    "durability": 97
+    "strength": 72,
+    "speed": 62,
+    "abilities": 72,
+    "durability": 78
   },
   "deeno-slime": {
-    "strength": 92,
-    "speed": 82,
-    "abilities": 92,
-    "durability": 92
+    "strength": 62,
+    "speed": 66,
+    "abilities": 62,
+    "durability": 62
   },
   "diablo-slime": {
-    "strength": 90,
-    "speed": 71,
-    "abilities": 97,
-    "durability": 97
+    "strength": 66,
+    "speed": 72,
+    "abilities": 82,
+    "durability": 72
   },
   "elmesia-slime": {
-    "strength": 40,
-    "speed": 40,
-    "abilities": 80,
-    "durability": 50
+    "strength": 30,
+    "speed": 36,
+    "abilities": 60,
+    "durability": 36
   },
   "frey-slime": {
-    "strength": 88,
-    "speed": 80,
-    "abilities": 86,
-    "durability": 86
+    "strength": 56,
+    "speed": 68,
+    "abilities": 58,
+    "durability": 54
   },
   "geld-slime": {
-    "strength": 90,
-    "speed": 55,
-    "abilities": 96,
-    "durability": 92
+    "strength": 48,
+    "speed": 44,
+    "abilities": 54,
+    "durability": 56
   },
   "gobta-slime": {
-    "strength": 90,
-    "speed": 69,
-    "abilities": 96,
-    "durability": 91
+    "strength": 42,
+    "speed": 48,
+    "abilities": 42,
+    "durability": 40
   },
   "guy-slime": {
-    "strength": 95,
-    "speed": 97,
-    "abilities": 97,
-    "durability": 96
+    "strength": 78,
+    "speed": 82,
+    "abilities": 86,
+    "durability": 80
   },
   "hakurou-slime": {
-    "strength": 61,
-    "speed": 58,
-    "abilities": 75,
-    "durability": 66
+    "strength": 54,
+    "speed": 66,
+    "abilities": 60,
+    "durability": 48
   },
   "kurobe-slime": {
     "strength": 30,
@@ -3783,76 +3783,76 @@
     "durability": 30
   },
   "leon-slime": {
-    "strength": 95,
-    "speed": 71,
-    "abilities": 97,
-    "durability": 97
+    "strength": 70,
+    "speed": 72,
+    "abilities": 78,
+    "durability": 72
   },
   "milim-slime": {
-    "strength": 95,
-    "speed": 97,
-    "abilities": 97,
-    "durability": 99
+    "strength": 80,
+    "speed": 80,
+    "abilities": 78,
+    "durability": 80
   },
   "ramiris-slime": {
-    "strength": 95,
-    "speed": 97,
-    "abilities": 97,
-    "durability": 98
+    "strength": 20,
+    "speed": 48,
+    "abilities": 70,
+    "durability": 34
   },
   "ranga-slime": {
-    "strength": 90,
-    "speed": 69,
-    "abilities": 96,
-    "durability": 92
+    "strength": 56,
+    "speed": 66,
+    "abilities": 56,
+    "durability": 54
   },
   "rigurd-slime": {
-    "strength": 40,
-    "speed": 36,
-    "abilities": 38,
-    "durability": 40
+    "strength": 32,
+    "speed": 30,
+    "abilities": 28,
+    "durability": 34
   },
   "rimuru-slime": {
-    "strength": 95,
-    "speed": 88,
-    "abilities": 97,
-    "durability": 97
+    "strength": 72,
+    "speed": 76,
+    "abilities": 90,
+    "durability": 80
   },
   "shion-slime": {
-    "strength": 90,
-    "speed": 69,
-    "abilities": 96,
-    "durability": 94
-  },
-  "shuna-slime": {
-    "strength": 61,
-    "speed": 71,
-    "abilities": 97,
+    "strength": 66,
+    "speed": 62,
+    "abilities": 60,
     "durability": 66
   },
+  "shuna-slime": {
+    "strength": 28,
+    "speed": 40,
+    "abilities": 60,
+    "durability": 34
+  },
   "souei-slime": {
-    "strength": 90,
-    "speed": 55,
-    "abilities": 96,
-    "durability": 92
+    "strength": 52,
+    "speed": 68,
+    "abilities": 60,
+    "durability": 50
   },
   "testarossa-slime": {
-    "strength": 90,
-    "speed": 87,
-    "abilities": 94,
-    "durability": 90
+    "strength": 64,
+    "speed": 70,
+    "abilities": 80,
+    "durability": 70
   },
   "ultima-slime": {
-    "strength": 90,
-    "speed": 87,
-    "abilities": 94,
-    "durability": 88
+    "strength": 66,
+    "speed": 70,
+    "abilities": 76,
+    "durability": 68
   },
   "veldora-slime": {
-    "strength": 95,
-    "speed": 97,
-    "abilities": 97,
-    "durability": 99
+    "strength": 76,
+    "speed": 74,
+    "abilities": 82,
+    "durability": 82
   },
   "chiyo-saiki": {
     "strength": 6,
