@@ -786,11 +786,11 @@
     "portrait": "/portraits/finral-black-clover.jpg",
     "series": "Black Clover",
     "stats": {
-      "strength": 20,
-      "speed": 60,
-      "abilities": 48,
+      "strength": 26,
+      "speed": 62,
+      "abilities": 58,
       "iq": 68,
-      "durability": 30
+      "durability": 50
     },
     "sources": {
       "wikiPage": "Finral Roulacase",
@@ -858,11 +858,11 @@
     "portrait": "/portraits/grey-black-clover.jpg",
     "series": "Black Clover",
     "stats": {
-      "strength": 22,
-      "speed": 58,
-      "abilities": 50,
+      "strength": 26,
+      "speed": 66,
+      "abilities": 56,
       "iq": 58,
-      "durability": 36
+      "durability": 52
     },
     "sources": {
       "wikiPage": "Grey",
@@ -912,10 +912,10 @@
     "series": "Black Clover",
     "stats": {
       "strength": 26,
-      "speed": 60,
-      "abilities": 44,
+      "speed": 66,
+      "abilities": 57,
       "iq": 68,
-      "durability": 40
+      "durability": 55
     },
     "sources": {
       "wikiPage": "Kirsch Vermillion",
@@ -946,11 +946,11 @@
     "portrait": "/portraits/langris-black-clover.jpg",
     "series": "Black Clover",
     "stats": {
-      "strength": 28,
-      "speed": 66,
-      "abilities": 58,
+      "strength": 44,
+      "speed": 69,
+      "abilities": 64,
       "iq": 67,
-      "durability": 36
+      "durability": 58
     },
     "sources": {
       "wikiPage": "Langris Vaude",
@@ -1465,11 +1465,11 @@
     "portrait": "/portraits/hinamori-bleach.jpg",
     "series": "Bleach",
     "stats": {
-      "strength": 34,
-      "speed": 50,
-      "abilities": 40,
+      "strength": 59,
+      "speed": 55,
+      "abilities": 62,
       "iq": 56,
-      "durability": 36
+      "durability": 59
     },
     "sources": {
       "wikiPage": "Momo Hinamori",
@@ -1517,11 +1517,11 @@
     "portrait": "/portraits/iba-bleach.jpg",
     "series": "Bleach",
     "stats": {
-      "strength": 36,
-      "speed": 50,
-      "abilities": 36,
+      "strength": 59,
+      "speed": 55,
+      "abilities": 58,
       "iq": 43,
-      "durability": 36
+      "durability": 59
     },
     "sources": {
       "wikiPage": "Tetsuzaemon Iba",
@@ -1965,11 +1965,11 @@
     "portrait": "/portraits/omaeda-bleach.jpg",
     "series": "Bleach",
     "stats": {
-      "strength": 34,
-      "speed": 48,
-      "abilities": 32,
+      "strength": 57,
+      "speed": 52,
+      "abilities": 56,
       "iq": 34,
-      "durability": 36
+      "durability": 60
     },
     "sources": {
       "wikiPage": "Marechiyo Omaeda",
@@ -2107,11 +2107,11 @@
     "portrait": "/portraits/rose-bleach.png",
     "series": "Bleach",
     "stats": {
-      "strength": 40,
-      "speed": 56,
-      "abilities": 50,
+      "strength": 65,
+      "speed": 59,
+      "abilities": 70,
       "iq": 67,
-      "durability": 40
+      "durability": 65
     },
     "sources": {
       "wikiPage": "Rojuro Otoribashi",
@@ -2406,11 +2406,11 @@
     "portrait": "/portraits/yachiru-bleach.webp",
     "series": "Bleach",
     "stats": {
-      "strength": 40,
-      "speed": 58,
-      "abilities": 40,
+      "strength": 63,
+      "speed": 60,
+      "abilities": 62,
       "iq": 44,
-      "durability": 40
+      "durability": 62
     },
     "sources": {
       "wikiPage": "Yachiru Kusajishi",
@@ -4273,11 +4273,11 @@
     "portrait": "/portraits/lucy-fairy-tail.jpg",
     "series": "Fairy Tail",
     "stats": {
-      "strength": 34,
-      "speed": 50,
-      "abilities": 52,
+      "strength": 57,
+      "speed": 62,
+      "abilities": 64,
       "iq": 56,
-      "durability": 36
+      "durability": 57
     },
     "sources": {
       "wikiPage": "Lucy Heartfilia",
@@ -7467,7 +7467,7 @@
     "series": "Mashle",
     "stats": {
       "strength": 74,
-      "speed": 50,
+      "speed": 70,
       "abilities": 90,
       "iq": 81,
       "durability": 80
@@ -7870,11 +7870,11 @@
     "portrait": "/portraits/best-jeanist-mha.webp",
     "series": "My Hero Academia",
     "stats": {
-      "strength": 34,
-      "speed": 36,
-      "abilities": 46,
+      "strength": 44,
+      "speed": 52,
+      "abilities": 58,
       "iq": 74,
-      "durability": 34
+      "durability": 44
     },
     "sources": {
       "wikiPage": "Tsunagu Hakamata",
@@ -8086,11 +8086,11 @@
     "portrait": "/portraits/mount-lady-mha.webp",
     "series": "My Hero Academia",
     "stats": {
-      "strength": 48,
-      "speed": 28,
-      "abilities": 20,
+      "strength": 52,
+      "speed": 33,
+      "abilities": 30,
       "iq": 64,
-      "durability": 46
+      "durability": 52
     },
     "sources": {
       "wikiPage": "Yuu Momonoki",
@@ -8515,11 +8515,11 @@
     "portrait": "/portraits/obito-naruto.png",
     "series": "Naruto",
     "stats": {
-      "strength": 62,
-      "speed": 74,
-      "abilities": 82,
+      "strength": 70,
+      "speed": 78,
+      "abilities": 86,
       "iq": 76,
-      "durability": 70
+      "durability": 78
     },
     "sources": {
       "wikiPage": "Obito Uchiha",
@@ -8942,11 +8942,11 @@
     "portrait": "/portraits/king-one-piece.jpg",
     "series": "One Piece",
     "stats": {
-      "strength": 64,
-      "speed": 62,
-      "abilities": 62,
+      "strength": 69,
+      "speed": 74,
+      "abilities": 68,
       "iq": 63,
-      "durability": 70
+      "durability": 74
     },
     "sources": {
       "wikiPage": "King (One Piece)",
@@ -10480,11 +10480,11 @@
     "portrait": "/portraits/king-sds.jpg",
     "series": "Seven Deadly Sins",
     "stats": {
-      "strength": 72,
-      "speed": 66,
+      "strength": 80,
+      "speed": 74,
       "abilities": 86,
       "iq": 69,
-      "durability": 70
+      "durability": 80
     },
     "sources": {
       "wikiPage": "King (Seven Deadly Sins)",
@@ -10592,11 +10592,11 @@
       "wikiStatKey": "peak (non-manga)"
     },
     "stats": {
-      "abilities": 68,
-      "durability": 65,
+      "abilities": 90,
+      "durability": 90,
       "iq": 66,
-      "speed": 71,
-      "strength": 59
+      "speed": 86,
+      "strength": 92
     }
   },
   {
@@ -10610,11 +10610,11 @@
       "wikiStatKey": "peak (non-manga)"
     },
     "stats": {
-      "abilities": 69,
-      "durability": 65,
+      "abilities": 95,
+      "durability": 92,
       "iq": 72,
-      "speed": 71,
-      "strength": 59
+      "speed": 88,
+      "strength": 90
     }
   },
   {
@@ -10623,11 +10623,11 @@
     "portrait": "/portraits/baran-sl.jpg",
     "series": "Solo Leveling",
     "stats": {
-      "strength": 54,
-      "speed": 56,
-      "abilities": 58,
+      "strength": 70,
+      "speed": 70,
+      "abilities": 72,
       "iq": 56,
-      "durability": 56
+      "durability": 70
     },
     "sources": {
       "wikiPage": "Baran",
@@ -10645,11 +10645,11 @@
       "wikiStatKey": "peak (non-manga)"
     },
     "stats": {
-      "abilities": 52,
-      "durability": 52,
+      "abilities": 72,
+      "durability": 76,
       "iq": 35,
-      "speed": 68,
-      "strength": 58
+      "speed": 84,
+      "strength": 78
     }
   },
   {
@@ -10658,11 +10658,11 @@
     "portrait": "/portraits/go-gunhee-sl.webp",
     "series": "Solo Leveling",
     "stats": {
-      "strength": 44,
-      "speed": 46,
-      "abilities": 44,
+      "strength": 66,
+      "speed": 64,
+      "abilities": 60,
       "iq": 79,
-      "durability": 46
+      "durability": 64
     },
     "sources": {
       "wikiPage": "Go Gunhee",
@@ -10675,11 +10675,11 @@
     "portrait": "/portraits/igris-sl.webp",
     "series": "Solo Leveling",
     "stats": {
-      "strength": 50,
-      "speed": 62,
-      "abilities": 48,
+      "strength": 70,
+      "speed": 74,
+      "abilities": 62,
       "iq": 69,
-      "durability": 50
+      "durability": 70
     },
     "sources": {
       "wikiPage": "Igris",
@@ -10692,11 +10692,11 @@
     "portrait": "/portraits/kaisel-sl.jpg",
     "series": "Solo Leveling",
     "stats": {
-      "strength": 46,
-      "speed": 66,
-      "abilities": 30,
+      "strength": 56,
+      "speed": 80,
+      "abilities": 42,
       "iq": 15,
-      "durability": 44
+      "durability": 58
     },
     "sources": {
       "wikiPage": "Kaisel",
@@ -10709,11 +10709,11 @@
     "portrait": "/portraits/liu-zhigang-sl.jpg",
     "series": "Solo Leveling",
     "stats": {
-      "strength": 48,
-      "speed": 58,
-      "abilities": 50,
+      "strength": 76,
+      "speed": 84,
+      "abilities": 72,
       "iq": 68,
-      "durability": 46
+      "durability": 74
     },
     "sources": {
       "wikiPage": "Liu Zhigang",
@@ -10726,11 +10726,11 @@
     "portrait": "/portraits/rakan-sl.png",
     "series": "Solo Leveling",
     "stats": {
-      "strength": 54,
-      "speed": 64,
-      "abilities": 50,
+      "strength": 82,
+      "speed": 86,
+      "abilities": 72,
       "iq": 56,
-      "durability": 52
+      "durability": 80
     },
     "sources": {
       "wikiPage": "Rakan",
@@ -10744,11 +10744,11 @@
     "portrait": "/portraits/tank-sl.png",
     "series": "Solo Leveling",
     "stats": {
-      "strength": 52,
-      "speed": 48,
-      "abilities": 30,
+      "strength": 66,
+      "speed": 60,
+      "abilities": 50,
       "iq": 35,
-      "durability": 56
+      "durability": 72
     },
     "sources": {
       "wikiPage": "Tank",
@@ -10762,11 +10762,11 @@
     "portrait": "/portraits/thomas-andre-sl.jpg",
     "series": "Solo Leveling",
     "stats": {
-      "strength": 52,
-      "speed": 50,
-      "abilities": 40,
+      "strength": 80,
+      "speed": 74,
+      "abilities": 70,
       "iq": 69,
-      "durability": 60
+      "durability": 84
     },
     "sources": {
       "wikiPage": "Thomas Andre",
@@ -11454,11 +11454,11 @@
     "portrait": "/portraits/il-pyo-goh.jpg",
     "series": "The God of High School",
     "stats": {
-      "strength": 30,
-      "speed": 40,
-      "abilities": 50,
+      "strength": 40,
+      "speed": 44,
+      "abilities": 52,
       "iq": 78,
-      "durability": 28
+      "durability": 38
     },
     "sources": {
       "wikiPage": "Il Pyo Park",

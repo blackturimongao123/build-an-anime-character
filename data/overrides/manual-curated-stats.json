@@ -75,16 +75,16 @@
     "durability": 89
   },
   "antares-sl": {
-    "strength": 59,
-    "speed": 71,
-    "abilities": 68,
-    "durability": 65
+    "strength": 92,
+    "speed": 86,
+    "abilities": 90,
+    "durability": 90
   },
   "ashborn-sl": {
-    "strength": 59,
-    "speed": 71,
-    "abilities": 69,
-    "durability": 65
+    "strength": 90,
+    "speed": 88,
+    "abilities": 95,
+    "durability": 92
   },
   "cc-geass": {
     "strength": 38,
@@ -381,10 +381,10 @@
     "durability": 67
   },
   "finral-black-clover": {
-    "strength": 20,
-    "speed": 60,
-    "abilities": 48,
-    "durability": 30
+    "strength": 26,
+    "speed": 62,
+    "abilities": 58,
+    "durability": 50
   },
   "fuegoleon-black-clover": {
     "strength": 55,
@@ -405,10 +405,10 @@
     "durability": 53
   },
   "grey-black-clover": {
-    "strength": 22,
-    "speed": 58,
-    "abilities": 50,
-    "durability": 36
+    "strength": 26,
+    "speed": 66,
+    "abilities": 56,
+    "durability": 52
   },
   "jack-black-clover": {
     "strength": 67,
@@ -424,9 +424,9 @@
   },
   "kirsch-black-clover": {
     "strength": 26,
-    "speed": 60,
-    "abilities": 44,
-    "durability": 40
+    "speed": 66,
+    "abilities": 57,
+    "durability": 55
   },
   "ladros-black-clover": {
     "strength": 26,
@@ -435,10 +435,10 @@
     "durability": 55
   },
   "langris-black-clover": {
-    "strength": 28,
-    "speed": 66,
-    "abilities": 58,
-    "durability": 36
+    "strength": 44,
+    "speed": 69,
+    "abilities": 64,
+    "durability": 58
   },
   "licht-black-clover": {
     "strength": 61,
@@ -609,10 +609,10 @@
     "durability": 65
   },
   "hinamori-bleach": {
-    "strength": 34,
-    "speed": 50,
-    "abilities": 40,
-    "durability": 36
+    "strength": 59,
+    "speed": 55,
+    "abilities": 62,
+    "durability": 59
   },
   "hisagi-bleach": {
     "strength": 61,
@@ -627,10 +627,10 @@
     "durability": 61
   },
   "iba-bleach": {
-    "strength": 36,
-    "speed": 50,
-    "abilities": 36,
-    "durability": 36
+    "strength": 59,
+    "speed": 55,
+    "abilities": 58,
+    "durability": 59
   },
   "ichibe-bleach": {
     "strength": 86,
@@ -771,10 +771,10 @@
     "durability": 86
   },
   "omaeda-bleach": {
-    "strength": 34,
-    "speed": 48,
-    "abilities": 32,
-    "durability": 36
+    "strength": 57,
+    "speed": 52,
+    "abilities": 56,
+    "durability": 60
   },
   "orihime-bleach": {
     "strength": 48,
@@ -819,10 +819,10 @@
     "durability": 67
   },
   "rose-bleach": {
-    "strength": 40,
-    "speed": 56,
-    "abilities": 50,
-    "durability": 40
+    "strength": 65,
+    "speed": 59,
+    "abilities": 70,
+    "durability": 65
   },
   "rukia-bleach": {
     "strength": 67,
@@ -921,10 +921,10 @@
     "durability": 61
   },
   "yachiru-bleach": {
-    "strength": 40,
-    "speed": 58,
-    "abilities": 40,
-    "durability": 40
+    "strength": 63,
+    "speed": 60,
+    "abilities": 62,
+    "durability": 62
   },
   "yamamoto-bleach": {
     "strength": 67,
@@ -1521,10 +1521,10 @@
     "durability": 75
   },
   "lucy-fairy-tail": {
-    "strength": 34,
-    "speed": 50,
-    "abilities": 52,
-    "durability": 36
+    "strength": 57,
+    "speed": 62,
+    "abilities": 64,
+    "durability": 57
   },
   "makarov-fairy-tail": {
     "strength": 67,
@@ -2566,7 +2566,7 @@
   },
   "innocent-zero-mashle": {
     "strength": 74,
-    "speed": 50,
+    "speed": 70,
     "abilities": 90,
     "durability": 80
   },
@@ -2703,10 +2703,10 @@
     "durability": 64
   },
   "best-jeanist-mha": {
-    "strength": 34,
-    "speed": 36,
-    "abilities": 46,
-    "durability": 34
+    "strength": 44,
+    "speed": 52,
+    "abilities": 58,
+    "durability": 44
   },
   "compress-mha": {
     "strength": 37,
@@ -2775,10 +2775,10 @@
     "durability": 67
   },
   "mount-lady-mha": {
-    "strength": 48,
-    "speed": 28,
-    "abilities": 20,
-    "durability": 46
+    "strength": 52,
+    "speed": 33,
+    "abilities": 30,
+    "durability": 52
   },
   "nejire-mha": {
     "strength": 63,
@@ -2919,10 +2919,10 @@
     "durability": 85
   },
   "obito-naruto": {
-    "strength": 62,
-    "speed": 74,
-    "abilities": 82,
-    "durability": 70
+    "strength": 70,
+    "speed": 78,
+    "abilities": 86,
+    "durability": 78
   },
   "orochimaru-naruto": {
     "strength": 61,
@@ -3063,10 +3063,10 @@
     "durability": 69
   },
   "king-one-piece": {
-    "strength": 64,
-    "speed": 62,
-    "abilities": 62,
-    "durability": 70
+    "strength": 69,
+    "speed": 74,
+    "abilities": 68,
+    "durability": 74
   },
   "kizaru-one-piece": {
     "strength": 71,
@@ -3561,10 +3561,10 @@
     "durability": 55
   },
   "king-sds": {
-    "strength": 72,
-    "speed": 66,
+    "strength": 80,
+    "speed": 74,
     "abilities": 86,
-    "durability": 70
+    "durability": 80
   },
   "melascula-sds": {
     "strength": 83,
@@ -3597,58 +3597,58 @@
     "durability": 83
   },
   "baran-sl": {
-    "strength": 54,
-    "speed": 56,
-    "abilities": 58,
-    "durability": 56
+    "strength": 70,
+    "speed": 70,
+    "abilities": 72,
+    "durability": 70
   },
   "beru-sl": {
-    "strength": 58,
-    "speed": 68,
-    "abilities": 52,
-    "durability": 52
+    "strength": 78,
+    "speed": 84,
+    "abilities": 72,
+    "durability": 76
   },
   "go-gunhee-sl": {
-    "strength": 44,
-    "speed": 46,
-    "abilities": 44,
-    "durability": 46
+    "strength": 66,
+    "speed": 64,
+    "abilities": 60,
+    "durability": 64
   },
   "igris-sl": {
-    "strength": 50,
-    "speed": 62,
-    "abilities": 48,
-    "durability": 50
+    "strength": 70,
+    "speed": 74,
+    "abilities": 62,
+    "durability": 70
   },
   "kaisel-sl": {
-    "strength": 46,
-    "speed": 66,
-    "abilities": 30,
-    "durability": 44
+    "strength": 56,
+    "speed": 80,
+    "abilities": 42,
+    "durability": 58
   },
   "liu-zhigang-sl": {
-    "strength": 48,
-    "speed": 58,
-    "abilities": 50,
-    "durability": 46
+    "strength": 76,
+    "speed": 84,
+    "abilities": 72,
+    "durability": 74
   },
   "rakan-sl": {
-    "strength": 54,
-    "speed": 64,
-    "abilities": 50,
-    "durability": 52
+    "strength": 82,
+    "speed": 86,
+    "abilities": 72,
+    "durability": 80
   },
   "tank-sl": {
-    "strength": 52,
-    "speed": 48,
-    "abilities": 30,
-    "durability": 56
+    "strength": 66,
+    "speed": 60,
+    "abilities": 50,
+    "durability": 72
   },
   "thomas-andre-sl": {
-    "strength": 52,
-    "speed": 50,
-    "abilities": 40,
-    "durability": 60
+    "strength": 80,
+    "speed": 74,
+    "abilities": 70,
+    "durability": 84
   },
   "administrator-sao": {
     "strength": 37,
@@ -3879,10 +3879,10 @@
     "durability": 40
   },
   "il-pyo-goh": {
-    "strength": 30,
-    "speed": 40,
-    "abilities": 50,
-    "durability": 28
+    "strength": 40,
+    "speed": 44,
+    "abilities": 52,
+    "durability": 38
   },
   "mori-goh": {
     "strength": 33,

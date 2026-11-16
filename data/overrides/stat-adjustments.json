@@ -97,15 +97,13 @@
     "reason": "Tsukuyomi/Izanami (fate-loop illusion), Amaterasu, Susanoo with Totsuka Blade (sealing)"
   },
   "obito-naruto": {
-    "abl_min": 82,
-    "dur_min": 70,
-    "reason": "Kamui intangibility and dimension sealing, Izanagi, Ten-Tails jinchuriki; no usable VS Battles stats: Kamui intangibility, Izanagi, Ten-Tails jinchuriki; below Madara 68/74/88/82",
     "set": {
-      "strength": 62,
-      "speed": 74,
-      "abilities": 82,
-      "durability": 70
-    }
+      "strength": 70,
+      "speed": 78,
+      "abilities": 86,
+      "durability": 78
+    },
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: Ten-Tails jinchuriki; Kamui intangibility and dimension sealing, near Madara"
   },
   "kakashi-naruto": {
     "abl": 3,
@@ -580,93 +578,93 @@
   },
   "hinamori-bleach": {
     "set": {
-      "strength": 34,
-      "speed": 50,
-      "abilities": 40,
-      "durability": 36
+      "strength": 59,
+      "speed": 55,
+      "abilities": 62,
+      "durability": 59
     },
-    "reason": "no usable VS Battles stats: lieutenant with Tobiume; Kido specialist"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: lieutenant and kido expert (Tobiume)"
   },
   "iba-bleach": {
     "set": {
-      "strength": 36,
-      "speed": 50,
-      "abilities": 36,
-      "durability": 36
+      "strength": 59,
+      "speed": 55,
+      "abilities": 58,
+      "durability": 59
     },
-    "reason": "no usable VS Battles stats: lieutenant of the 7th division"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: lieutenant of the 7th division"
   },
   "omaeda-bleach": {
     "set": {
-      "strength": 34,
-      "speed": 48,
-      "abilities": 32,
-      "durability": 36
+      "strength": 57,
+      "speed": 52,
+      "abilities": 56,
+      "durability": 60
     },
-    "reason": "no usable VS Battles stats: lieutenant with Gegetsuburi"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: lieutenant of the 2nd division (Gegetsuburi)"
   },
   "rose-bleach": {
     "set": {
-      "strength": 40,
-      "speed": 56,
-      "abilities": 50,
-      "durability": 40
+      "strength": 65,
+      "speed": 59,
+      "abilities": 70,
+      "durability": 65
     },
-    "reason": "no usable VS Battles stats: captain; Kinshara Bankai (sound-based illusions)"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: captain; Kinshara Butodan bankai (music hax)"
   },
   "yachiru-bleach": {
     "set": {
-      "strength": 40,
-      "speed": 58,
-      "abilities": 40,
-      "durability": 40
+      "strength": 63,
+      "speed": 60,
+      "abilities": 62,
+      "durability": 62
     },
-    "reason": "no usable VS Battles stats: lieutenant; Sanpo Kenjū"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: lieutenant; Sanpo Kenju shikai shown in the TYBW anime"
   },
   "kirsch-black-clover": {
     "set": {
       "strength": 26,
-      "speed": 60,
-      "abilities": 44,
-      "durability": 40
+      "speed": 66,
+      "abilities": 57,
+      "durability": 55
     },
-    "reason": "no usable VS Battles stats: Mirror magic captain, like Gordon 26/69/53/53"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: Silver Eagle vice-captain; mirror magic"
   },
   "grey-black-clover": {
     "set": {
-      "strength": 22,
-      "speed": 58,
-      "abilities": 50,
-      "durability": 36
+      "strength": 26,
+      "speed": 66,
+      "abilities": 56,
+      "durability": 52
     },
-    "reason": "no usable VS Battles stats: Transformation magic (can transform others and spells)"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: transformation magic, near the Black Bull mages"
   },
   "finral-black-clover": {
     "set": {
-      "strength": 20,
-      "speed": 60,
-      "abilities": 48,
-      "durability": 30
+      "strength": 26,
+      "speed": 62,
+      "abilities": 58,
+      "durability": 50
     },
-    "reason": "no usable VS Battles stats: Spatial magic portals"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: spatial magic support (portals do not count toward SPD)"
   },
   "langris-black-clover": {
     "set": {
-      "strength": 28,
-      "speed": 66,
-      "abilities": 58,
-      "durability": 36
+      "strength": 44,
+      "speed": 69,
+      "abilities": 64,
+      "durability": 58
     },
-    "reason": "no usable VS Battles stats: Spatial magic that deletes what it touches"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: Golden Dawn vice-captain; spatial erasure magic"
   },
   "lucy-fairy-tail": {
     "set": {
-      "strength": 34,
-      "speed": 50,
-      "abilities": 52,
-      "durability": 36
+      "strength": 57,
+      "speed": 62,
+      "abilities": 64,
+      "durability": 57
     },
-    "reason": "no usable VS Battles stats: Celestial Spirit mage (Star Dress, Urano Metria), like Ultear 57/69/57/57 but weaker"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: Star Dress forms and Urano Metria, near Ultear"
   },
   "iris-fire-force": {
     "set": {
@@ -688,12 +686,12 @@
   },
   "king-sds": {
     "set": {
-      "strength": 72,
-      "speed": 66,
+      "strength": 80,
+      "speed": 74,
       "abilities": 86,
-      "durability": 70
+      "durability": 80
     },
-    "reason": "no usable VS Battles stats: Fairy King: Chastiefol (multi-form Sacred Treasure), Disaster"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: awakened Fairy King with Chastiefol, near the other Sins"
   },
   "testarossa-slime": {
     "set": {
@@ -742,84 +740,84 @@
   },
   "igris-sl": {
     "set": {
-      "strength": 50,
-      "speed": 62,
-      "abilities": 48,
-      "durability": 50
+      "strength": 70,
+      "speed": 74,
+      "abilities": 62,
+      "durability": 70
     },
-    "reason": "no usable VS Battles stats: Shadow knight commander, like Antares-tier scale 59/71/68/65"
+    "reason": "Solo Leveling common sense (manhwa counts; national-level hunters outclass a country's military incl. nukes): Blood-Red Commander, marshal-grade shadow knight"
   },
   "kaisel-sl": {
     "set": {
-      "strength": 46,
-      "speed": 66,
-      "abilities": 30,
-      "durability": 44
+      "strength": 56,
+      "speed": 80,
+      "abilities": 42,
+      "durability": 58
     },
-    "reason": "no usable VS Battles stats: Shadow wyvern mount"
+    "reason": "Solo Leveling common sense (manhwa counts; national-level hunters outclass a country's military incl. nukes): shadow wyvern mount, very fast flyer"
   },
   "tank-sl": {
     "set": {
-      "strength": 52,
-      "speed": 48,
-      "abilities": 30,
-      "durability": 56
+      "strength": 66,
+      "speed": 60,
+      "abilities": 50,
+      "durability": 72
     },
-    "reason": "no usable VS Battles stats: Shadow bear"
+    "reason": "Solo Leveling common sense (manhwa counts; national-level hunters outclass a country's military incl. nukes): elite shadow ice bear, a tank"
   },
   "thomas-andre-sl": {
     "set": {
-      "strength": 52,
-      "speed": 50,
-      "abilities": 40,
-      "durability": 60
+      "strength": 80,
+      "speed": 74,
+      "abilities": 70,
+      "durability": 84
     },
-    "reason": "no usable VS Battles stats: National-level hunter (Goliath)"
+    "reason": "Solo Leveling common sense (manhwa counts; national-level hunters outclass a country's military incl. nukes): national-level hunter (Goliath), a tank: highest STR and DUR of the nationals"
   },
   "liu-zhigang-sl": {
     "set": {
-      "strength": 48,
-      "speed": 58,
-      "abilities": 50,
-      "durability": 46
+      "strength": 76,
+      "speed": 84,
+      "abilities": 72,
+      "durability": 74
     },
-    "reason": "no usable VS Battles stats: National-level hunter, wind-cutting"
+    "reason": "Solo Leveling common sense (manhwa counts; national-level hunters outclass a country's military incl. nukes): national-level hunter, the fastest of them"
   },
   "baran-sl": {
     "set": {
-      "strength": 54,
-      "speed": 56,
-      "abilities": 58,
-      "durability": 56
+      "strength": 70,
+      "speed": 70,
+      "abilities": 72,
+      "durability": 70
     },
-    "reason": "no usable VS Battles stats: Demon King of the Demon Castle"
+    "reason": "Solo Leveling common sense (manhwa counts; national-level hunters outclass a country's military incl. nukes): Demon King of White Flames; above S-rank hunters"
   },
   "go-gunhee-sl": {
     "set": {
-      "strength": 44,
-      "speed": 46,
-      "abilities": 44,
-      "durability": 46
+      "strength": 66,
+      "speed": 64,
+      "abilities": 60,
+      "durability": 64
     },
-    "reason": "no usable VS Battles stats: S-rank chairman"
+    "reason": "Solo Leveling common sense (manhwa counts; national-level hunters outclass a country's military incl. nukes): S-rank, Korea's strongest before Jinwoo; below the nationals"
   },
   "rakan-sl": {
     "set": {
-      "strength": 54,
-      "speed": 64,
-      "abilities": 50,
-      "durability": 52
+      "strength": 82,
+      "speed": 86,
+      "abilities": 72,
+      "durability": 80
     },
-    "reason": "no usable VS Battles stats: Beast Monarch, below Antares"
+    "reason": "Solo Leveling common sense (manhwa counts; national-level hunters outclass a country's military incl. nukes): Beast Monarch; a Monarch outclasses national-level hunters"
   },
   "innocent-zero-mashle": {
     "set": {
       "strength": 74,
-      "speed": 50,
+      "speed": 70,
       "abilities": 90,
       "durability": 80
     },
-    "reason": "no usable VS Battles stats: time magic and gathered magic, final antagonist"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: time magic; keeps pace with the top Divine Visionaries"
   },
   "finn-mashle": {
     "set": {
@@ -859,21 +857,21 @@
   },
   "mount-lady-mha": {
     "set": {
-      "strength": 48,
-      "speed": 28,
-      "abilities": 20,
-      "durability": 46
+      "strength": 52,
+      "speed": 33,
+      "abilities": 30,
+      "durability": 52
     },
-    "reason": "no usable VS Battles stats: Gigantification, like Midnight 37/33/37/37"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: Gigantification; giant-size strength and bulk"
   },
   "best-jeanist-mha": {
     "set": {
-      "strength": 34,
-      "speed": 36,
-      "abilities": 46,
-      "durability": 34
+      "strength": 44,
+      "speed": 52,
+      "abilities": 58,
+      "durability": 44
     },
-    "reason": "no usable VS Battles stats: Fiber Master (controls fibres)"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: former No. 3 hero; Fiber Master restrains whole crowds"
   },
   "hide-tg": {
     "set": {
@@ -886,12 +884,12 @@
   },
   "il-pyo-goh": {
     "set": {
-      "strength": 30,
-      "speed": 40,
-      "abilities": 50,
-      "durability": 28
+      "strength": 40,
+      "speed": 44,
+      "abilities": 52,
+      "durability": 38
     },
-    "reason": "no usable VS Battles stats: Kurayami borrowed-power fighter"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: borrowed-power fighter near Daewi in the National Competition"
   },
   "hairo-saiki": {
     "set": {
@@ -1048,12 +1046,12 @@
   },
   "king-one-piece": {
     "set": {
-      "strength": 64,
-      "speed": 62,
-      "abilities": 62,
-      "durability": 70
+      "strength": 69,
+      "speed": 74,
+      "abilities": 68,
+      "durability": 74
     },
-    "reason": "no usable VS Battles stats: Lunarian All-Star (flames, durability), like Luffy 62/69/72/65"
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: Kaido's right hand, Lunarian; near Katakuri and the Yonko commanders"
   },
   "haizaki-kuroko": {
     "set": {
@@ -1256,5 +1254,41 @@
       "durability": 34
     },
     "reason": "Slime anime scale (wiki Low 2-C/1-C rests on light-novel scaling): support: Analyst, holy barrier, creation; aired skills only"
+  },
+  "ashborn-sl": {
+    "set": {
+      "strength": 90,
+      "speed": 88,
+      "abilities": 95,
+      "durability": 92
+    },
+    "reason": "Solo Leveling common sense (manhwa counts; national-level hunters outclass a country's military incl. nukes): Shadow Monarch, strongest of the Monarchs; shadow extraction and an undying army (wiki novel page rates far below his feats)"
+  },
+  "antares-sl": {
+    "set": {
+      "strength": 92,
+      "speed": 86,
+      "abilities": 90,
+      "durability": 90
+    },
+    "reason": "Solo Leveling common sense (manhwa counts; national-level hunters outclass a country's military incl. nukes): Monarch of Destruction, King of Dragons; dragon fear and world-razing flames (wiki novel page rates far below his feats)"
+  },
+  "beru-sl": {
+    "set": {
+      "strength": 78,
+      "speed": 84,
+      "abilities": 72,
+      "durability": 76
+    },
+    "reason": "Solo Leveling common sense (manhwa counts; national-level hunters outclass a country's military incl. nukes): Ant King turned shadow marshal; national-level power"
+  },
+  "aldoron-fairy-tail": {
+    "set": {
+      "strength": 90,
+      "speed": 77,
+      "abilities": 90,
+      "durability": 90
+    },
+    "reason": "no usable VS Battles stats, placed against the series' wiki-rated peers: Wood God Dragon, one of the Five Dragon Gods; same tier as Ignia"
   }
 }
