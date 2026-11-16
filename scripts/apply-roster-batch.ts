@@ -6,7 +6,6 @@ import { existsSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import type { Character, CharacterStats } from "@build-character/shared";
-import { expandTitanDisplayName } from "./lib/roster-display-name.js";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const charsPath = resolve(root, "data", "characters.json");
@@ -62,15 +61,10 @@ function main() {
   for (const row of batch) {
     if (byId.has(row.id)) continue;
     const wikiPage = row.wikiPage ?? row.displayName;
-    const displayName = expandTitanDisplayName(
-      row.id,
-      row.displayName,
-      wikiPage,
-    );
     const slug = wikiPage.replace(/ /g, "_");
     const wikiStatKey = formStatKeyFromWikiPage(wikiPage);
     const entry: Character = {
-      displayName,
+      displayName: row.displayName,
       id: row.id,
       portrait: `/portraits/${row.id}.jpg`,
       series: row.series,
@@ -84,7 +78,7 @@ function main() {
     byId.set(row.id, entry);
     if (!wikiHints[row.id]) wikiHints[row.id] = wikiPage;
     if (row.apSlug) apHints[row.id] = row.apSlug;
-    if (!famous[row.id]) famous[row.id] = displayName;
+    if (!famous[row.id]) famous[row.id] = row.displayName;
     added.push(row.id);
   }
 

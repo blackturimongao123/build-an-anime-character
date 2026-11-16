@@ -152,8 +152,6 @@ Only rows that **change** are listed. Unlisted ids keep current `manual-iq-overr
 
 Open **`data/iq-revision-review.html`** in a browser (double-click; no server needed). Regenerate with **`npm run data:iq-website`** so the full roster from **`characters.json`** is listed with **current in-game IQ** plus proposal rows from this file. Use **− / number / +** editors and **Download export** (JSON with `overrides` ready for `manual-iq-overrides.json`).
 
-To merge an exported session after roster trims/dedupes, copy the file to `data/` and run **`npm run data:iq-import-mapped`** (remaps old ids, skips removed characters — see `data/iq-import-unresolved-ids.txt`), then **`node scripts/build-iq-review-html.mjs`**. The page seeds **localStorage v4** from `manual-iq-overrides.json` on first load.
-
 Regenerate after editing this proposal:
 
 ```bash

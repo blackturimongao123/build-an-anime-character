@@ -15,7 +15,6 @@ import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import type { Character } from "@build-character/shared";
 import { animePlanetPortraitUrl } from "./lib/anime-planet.js";
-import { rosterFormIdentity } from "./lib/roster-identity.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, "..");
@@ -108,13 +107,9 @@ const SEARCH_OVERRIDES: Record<string, string[]> = {
   "ash-greninja-anime": ["Ash-Greninja", "Greninja"],
   "palkia-anime": ["Palkia"],
   "zygarde-complete-anime": ["Zygarde Complete", "Zygarde"],
-  "barragan-bleach": ["Barragan Louisenbairn", "Baraggan Louisenbairn"],
-  "tenjiro-bleach": ["Tenjirou Kirinji", "Tenjiro Kirinji", "Kirinji Hikifune"],
-  "gyomei-demon-slayer": [
-    "Gyoumei Himejima",
-    "Gyomei Himejima",
-    "Gyomei Demon Slayer",
-  ],
+  "barragan-bleach": ["Barragan Louisenbairn", "Barragan Bleach"],
+  "tenjiro-bleach": ["Tenjiro Kirinji", "Kirinji Tenjiro"],
+  "gyomei-demon-slayer": ["Gyomei Himejima", "Gyomei Demon Slayer"],
   "gogeta-dragon-ball": ["Gogeta", "Gogeta Dragon Ball Super"],
   "gotenks-dragon-ball": ["Gotenks"],
   "vegito-dragon-ball": ["Vegito", "Vegetto"],
@@ -129,13 +124,6 @@ const SEARCH_OVERRIDES: Record<string, string[]> = {
   "kaoru-baki": ["Kaoru Hanayama"],
   "rin-baki": ["Rin Hanayama", "Rin Baki"],
   "ymir-attack-aot": ["Attack Titan", "Eren Yeager Attack Titan"],
-  "ymir-fritz-aot": ["Founding Titan", "Eren Yeager Founding Titan"],
-  "ymir-beast-aot": ["Beast Titan", "Zeke Yeager Beast Titan"],
-  "ymir-armored-aot": ["Armored Titan", "Reiner Braun Armored Titan"],
-  "ymir-colossal-aot": ["Colossal Titan", "Armin Arlert Colossal Titan", "Bertolt Hoover Colossal Titan"],
-  "ymir-jaw-aot": ["Jaw Titan", "Porco Galliard Jaw Titan"],
-  "annie-aot": ["Female Titan", "Annie Leonhart Female Titan"],
-  "warhammer-aot": ["Warhammer Titan", "Lara Tybur Warhammer Titan"],
   "midoriya-100-mha": ["Izuku Midoriya 100%", "Deku Full Cowl 100"],
   "deku-gearshift-mha": ["Izuku Midoriya Gearshift", "Deku Gearshift"],
   "sho-mob": ["Sho Suzuki", "Mob Psycho Sho"],
@@ -144,22 +132,11 @@ const SEARCH_OVERRIDES: Record<string, string[]> = {
   "uesugi-goh": ["Yoo Mira", "God of High School Mira"],
   "furuta-tg": ["Nimura Furuta", "Furuta Tokyo Ghoul"],
   "utsumi-tg": ["Kanae von Rosewald", "Utsumi Tokyo Ghoul"],
-  "cart-aot": ["Cart Titan", "Pieck Finger Cart Titan"],
+  "cart-aot": ["Pieck Finger", "Cart Titan"],
+  "pieck-aot": ["Pieck Finger"],
   "asnodt-bleach": ["Äs Nödt", "As Nodt Bleach"],
-  "buu-dragon-ball": ["Fat Buu", "Good Buu", "Majin Buu"],
-  "evil-buu-dragon-ball": ["Kid Buu", "Super Buu", "Evil Buu"],
-  "ainz-ooal-gown": ["Momonga", "Ainz Ooal Gown", "Suzuki Satoru"],
-  "joey-ygo": ["Katsuya Jonouchi", "Joey Wheeler"],
-  "tea-ygo": ["Anzu Mazaki", "Téa Gardner", "Tea Gardner"],
-  "tristan-ygo": ["Hiroto Honda", "Tristan Taylor"],
-  "mai-ygo": ["Mai Kujaku", "Mai Valentine"],
-  "pegasus-ygo": ["Pegasus J. Crawford", "Maximillion Pegasus"],
-  "weevil-ygo": ["Insector Haga", "Weevil Underwood"],
-  "rex-ygo": ["Dinosaur Ryuzaki", "Rex Raptor"],
-  "mokuba-ygo": ["Mokuba Kaiba", "Mokuba KAIBA"],
-  "kaiba-ygo": ["Seto Kaiba", "Seto KAIBA"],
-  "exodia-ygo": ["Exodia the Forbidden One", "Exodia"],
-  "blue-eyes-ultimate-ygo": ["Blue-Eyes Ultimate Dragon"],
+  "porco-aot": ["Porco Galliard"],
+  "ymir-jaw-aot": ["Jaw Titan", "Porco Galliard Jaw"],
 };
 
 function simplifyName(displayName: string): string {
@@ -270,32 +247,19 @@ async function main() {
     ];
 
     const anilistOnly = process.argv.includes("--anilist-only");
-    const rejectPlaceholder = (url: string) =>
-      /kakashi-hatake/i.test(url) || url.includes("characters/primary/default");
+  const rejectPlaceholder = (url: string) =>
+    /kakashi-hatake/i.test(url) || url.includes("characters/primary/default");
 
     let imageUrl: string | null = null;
     if (!anilistOnly) {
-      const apSlug = apSlugHints[id];
-      if (apSlug) {
-        imageUrl = await animePlanetPortraitUrl(c.displayName, {
-          characterSlug: apSlug,
-          series: seriesLabel,
-          extraQueries: SEARCH_OVERRIDES[id],
-          animeSlugs: animeCastSlugs[c.series] ?? [],
-        });
-        await new Promise((r) => setTimeout(r, 220));
-        if (imageUrl && rejectPlaceholder(imageUrl)) imageUrl = null;
-      }
-      if (!imageUrl) {
-        imageUrl = await animePlanetPortraitUrl(c.displayName, {
-          series: seriesLabel,
-          extraQueries: SEARCH_OVERRIDES[id],
-          characterSlug: apSlug,
-          animeSlugs: animeCastSlugs[c.series] ?? [],
-        });
-        await new Promise((r) => setTimeout(r, 260));
-        if (imageUrl && rejectPlaceholder(imageUrl)) imageUrl = null;
-      }
+      imageUrl = await animePlanetPortraitUrl(c.displayName, {
+        series: seriesLabel,
+        extraQueries: SEARCH_OVERRIDES[id],
+        characterSlug: apSlugHints[id],
+        animeSlugs: animeCastSlugs[c.series] ?? [],
+      });
+      await new Promise((r) => setTimeout(r, 260));
+      if (imageUrl && rejectPlaceholder(imageUrl)) imageUrl = null;
     }
     if (!imageUrl) {
       for (const q of queries) {
@@ -322,13 +286,6 @@ async function main() {
     await new Promise((r) => setTimeout(r, 200));
   }
 
-  function portraitMissing(id: string): boolean {
-    for (const ext of [".webp", ".jpg", ".jpeg", ".png"]) {
-      if (existsSync(resolve(outDir, `${id}${ext}`))) return false;
-    }
-    return true;
-  }
-
   const byHash = new Map<string, string[]>();
   for (const [id, { bytes }] of pending) {
     const h = createHash("sha1").update(bytes).digest("hex");
@@ -336,27 +293,16 @@ async function main() {
   }
   const dupIds = new Set<string>();
   for (const ids of byHash.values()) {
-    if (ids.length < 2) continue;
-    const identityGroups = new Set(
-      ids.map((id) => {
-        const c = byId.get(id)!;
-        return `${c.series}\0${rosterFormIdentity(c)}`;
-      }),
-    );
-    if (identityGroups.size === 1) continue;
-    ids.forEach((id) => dupIds.add(id));
+    if (ids.length > 1) ids.forEach((id) => dupIds.add(id));
   }
 
   let changed = false;
   for (const [id, { url, bytes, ext }] of pending) {
-    if (dupIds.has(id) && !portraitMissing(id)) {
+    if (dupIds.has(id)) {
       console.warn(
         `REJECT ${id}: same image as other character(s); likely placeholder (${url})`,
       );
       continue;
-    }
-    if (dupIds.has(id) && portraitMissing(id)) {
-      console.warn(`DUP-OK ${id}: sharing art with related form (${url})`);
     }
     const filename = `${id}${ext}`;
     removePortraitFiles(id);
