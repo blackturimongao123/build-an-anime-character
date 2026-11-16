@@ -48,5 +48,150 @@
     "Tokyo Ghoul": "tg",
     "Tokyo Revengers": "tokyo-revengers",
     "Vinland Saga": "vinland"
+  },
+  "_aboutWikiTitles": "VS Battles franchise page / category names per series (first = preferred, e.g. Toei = Dragon Ball anime). Empty = not on the wiki.",
+  "wikiTitles": {
+    "Akame ga Kill": [
+      "Akame ga Kill!"
+    ],
+    "Assassination Classroom": [
+      "Assassination Classroom"
+    ],
+    "Attack on Titan": [
+      "Attack on Titan"
+    ],
+    "Baki": [
+      "Grappler Baki"
+    ],
+    "Black Clover": [
+      "Black Clover"
+    ],
+    "Bleach": [
+      "Bleach"
+    ],
+    "Chainsaw Man": [
+      "Chainsaw Man"
+    ],
+    "Code Geass": [
+      "Code Geass"
+    ],
+    "Death Note": [
+      "Death Note (Verse)"
+    ],
+    "Demon Slayer": [
+      "Demon Slayer: Kimetsu No Yaiba"
+    ],
+    "Dr. Stone": [
+      "Dr. Stone"
+    ],
+    "Dragon Ball": [
+      "Dragon Ball (Toei)",
+      "Dragon Ball"
+    ],
+    "Fairy Tail": [
+      "Fairy Tail"
+    ],
+    "Fate": [
+      "Fate/stay night",
+      "Fate/Zero",
+      "Fate/Grand Order"
+    ],
+    "Fire Force": [
+      "Ohkubo Verse"
+    ],
+    "Fullmetal Alchemist": [
+      "Fullmetal Alchemist"
+    ],
+    "Gintama": [
+      "Gintama"
+    ],
+    "Gurren Lagann": [
+      "Gurren Lagann"
+    ],
+    "Haikyuu!!": [],
+    "Hajime no Ippo": [
+      "Hajime no Ippo"
+    ],
+    "Hellsing": [
+      "Hellsing"
+    ],
+    "Hunter x Hunter": [
+      "Hunter X Hunter"
+    ],
+    "JoJo": [
+      "JoJo's Bizarre Adventure"
+    ],
+    "Jujutsu Kaisen": [
+      "Jujutsu Kaisen"
+    ],
+    "Kengan Ashura": [
+      "Kenganverse"
+    ],
+    "Kuroko's Basketball": [
+      "Kuroko No Basuke"
+    ],
+    "Mashle": [
+      "Mashle: Magic and Muscles"
+    ],
+    "Mob Psycho 100": [
+      "Mob Psycho 100"
+    ],
+    "Mushoku Tensei": [
+      "Mushoku Tensei ～Isekai Ittara Honki Dasu～"
+    ],
+    "My Hero Academia": [
+      "My Hero Academia"
+    ],
+    "Naruto": [
+      "Naruto (Verse)"
+    ],
+    "One Piece": [
+      "One Piece"
+    ],
+    "One Punch Man": [
+      "One-Punch Man"
+    ],
+    "Overlord": [
+      "Overlord (Verse)"
+    ],
+    "Parasyte": [
+      "Parasyte"
+    ],
+    "Pokémon": [
+      "Pokémon"
+    ],
+    "Record of Ragnarok": [
+      "Record of Ragnarok"
+    ],
+    "Seven Deadly Sins": [
+      "Nanatsu no Taizai"
+    ],
+    "Solo Leveling": [
+      "Solo Leveling"
+    ],
+    "Sword Art Online": [
+      "Sword Art Online"
+    ],
+    "That Time I Got Reincarnated as a Slime": [
+      "Tensei Shitara Slime Datta Ken"
+    ],
+    "The Disastrous Life of Saiki K": [
+      "Saiki Kusuo no Psi Nan"
+    ],
+    "The God of High School": [
+      "The God of High School"
+    ],
+    "The Misfit of Demon King Academy": [
+      "Maou Gakuin no Futekigousha"
+    ],
+    "Tokyo Ghoul": [
+      "Tokyo Ghoul"
+    ],
+    "Tokyo Revengers": [
+      "Tokyo Revengers"
+    ],
+    "Vinland Saga": [
+      "Vinland Saga"
+    ]
   }
 }
