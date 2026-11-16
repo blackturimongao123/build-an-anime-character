@@ -1113,7 +1113,7 @@
     {
         "id":  "arceus-anime",
         "displayName":  "Arceus",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  90,
                       "speed":  85,
@@ -1126,7 +1126,7 @@
     {
         "id":  "mewtwo-anime",
         "displayName":  "Mewtwo",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  72,
                       "speed":  75,
@@ -1139,7 +1139,7 @@
     {
         "id":  "rayquaza-anime",
         "displayName":  "Rayquaza",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  78,
                       "speed":  80,
@@ -1152,7 +1152,7 @@
     {
         "id":  "dialga-anime",
         "displayName":  "Dialga",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  75,
                       "speed":  70,
@@ -1165,7 +1165,7 @@
     {
         "id":  "palkia-anime",
         "displayName":  "Palkia",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  74,
                       "speed":  72,
@@ -1178,7 +1178,7 @@
     {
         "id":  "giratina-anime",
         "displayName":  "Giratina",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  76,
                       "speed":  68,
@@ -1191,7 +1191,7 @@
     {
         "id":  "primal-kyogre-anime",
         "displayName":  "Kyogre",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  78,
                       "speed":  65,
@@ -1204,7 +1204,7 @@
     {
         "id":  "primal-groudon-anime",
         "displayName":  "Groudon",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  82,
                       "speed":  58,
@@ -1217,7 +1217,7 @@
     {
         "id":  "zygarde-complete-anime",
         "displayName":  "Zygarde",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  75,
                       "speed":  70,
@@ -1230,7 +1230,7 @@
     {
         "id":  "eternatus-anime",
         "displayName":  "Eternatus",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  80,
                       "speed":  72,
@@ -1243,7 +1243,7 @@
     {
         "id":  "ash-greninja-anime",
         "displayName":  "Greninja",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  55,
                       "speed":  72,
@@ -1256,7 +1256,7 @@
     {
         "id":  "xerneas-anime",
         "displayName":  "Xerneas",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  72,
                       "speed":  68,
@@ -1269,7 +1269,7 @@
     {
         "id":  "yveltal-anime",
         "displayName":  "Yveltal",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  74,
                       "speed":  70,
@@ -1282,7 +1282,7 @@
     {
         "id":  "ho-oh-anime",
         "displayName":  "Ho-Oh",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  70,
                       "speed":  72,
@@ -1295,7 +1295,7 @@
     {
         "id":  "lugia-anime",
         "displayName":  "Lugia",
-        "series":  "PokÃ©mon",
+        "series":  "PokÃƒÂ©mon",
         "stats":  {
                       "strength":  72,
                       "speed":  75,

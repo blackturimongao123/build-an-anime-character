@@ -1,19 +1,19 @@
 # Roster readiness
 
-Generated: 2026-11-13T17:49:46.712Z
+Generated: 2026-11-13T22:34:42.546Z
 
 ## Summary
 
 | Metric | Count |
 | --- | ---: |
-| total | 926 |
-| missing_portrait | 46 |
-| placeholder_50 | 382 |
+| total | 865 |
+| missing_portrait | 2 |
+| placeholder_50 | 350 |
 | uniform_40 | 0 |
-| applied | 544 |
+| applied | 515 |
 | no_scrape | 0 |
-| scrape_empty | 274 |
-| scrape_ok | 652 |
+| scrape_empty | 251 |
+| scrape_ok | 614 |
 
 ## Commands
 
@@ -23,51 +23,7 @@ Generated: 2026-11-13T17:49:46.712Z
 - `npm run data:form-policy` — refresh multi-form allowlist for validate
 - `npx tsx scripts/fetch-portraits-ids.ts <id>…` — portrait gaps
 
-## Missing portraits (46)
+## Missing portraits (2)
 
-- `cart-aot`
-- `ymir-jaw-aot`
-- `pieck-aot`
-- `porco-aot`
-- `barragan-bleach`
-- `tenjiro-bleach`
-- `l-lawliet`
-- `light-dn`
-- `gyomei-demon-slayer`
-- `gogeta-dragon-ball`
-- `gotenks-dragon-ball`
-- `vegito-dragon-ball`
-- `cu-chulainn-fate`
-- `diarmuid-fate`
-- `saber-fsn`
-- `artoria-fate`
-- `artoria-alter-fate`
-- `greed-fma`
-- `greeling-fma`
-- `mustang-fma`
-- `roy-mustang`
-- `scar-fma`
-- `lagann-gurren`
-- `ttgl-gurren`
-- `stroheim-jojo`
-- `mahoraga-jjk`
-- `kuro-kengan`
-- `kuroki-gensai`
-- `scar-mob`
-- `sho-mob`
-- `suzuki-mob`
-- `midoriya-100-mha`
-- `deku-gearshift-mha`
-- `jaldabaoth-overlord`
 - `mew-pokemon`
 - `mewtwo-anime`
-- `sung-jinwoo-monarch`
-- `shadow-monarch-sl`
-- `asuna-alicization`
-- `asuna-sao`
-- `yuuki-sao`
-- `satan-goh`
-- `uesugi-goh`
-- `gavel-misfit`
-- `furuta-tg`
-- `utsumi-tg`

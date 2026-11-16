@@ -5,6 +5,8 @@ export type WikiSliceProfile = {
   tabFragments?: string[];
   statColumnIndex?: number;
   statKey?: string;
+  /** Match any label; pool = union of slices (for per-stat peak across forms). */
+  statKeyUnion?: string[];
 };
 
 function uniformPhysical(s: CharacterStats): number | null {
@@ -219,6 +221,19 @@ function narrowSlicePool(
         (tabs.length === 0 || pathMatches(s.tabPath, tabs)),
     );
     if (!pool.length) return slices;
+  }
+
+  if (profile?.statKeyUnion?.length) {
+    const union: WikiDbTabSlice[] = [];
+    for (const s of pool) {
+      const hit = profile.statKeyUnion.some(
+        (phrase) =>
+          labelMatches(s.columnLabel, phrase) ||
+          s.tabPath.some((p) => labelMatches(p, phrase)),
+      );
+      if (hit) union.push(s);
+    }
+    if (union.length) return union;
   }
 
   const statKey =

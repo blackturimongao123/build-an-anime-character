@@ -7,6 +7,10 @@ import {
   plainCharacterName,
   rosterFormIdentity,
 } from "./lib/roster-identity.js";
+import {
+  expandTitanDisplayName,
+  titanTitleFromWikiPage,
+} from "./lib/roster-display-name.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, "..");
@@ -60,6 +64,7 @@ const ALLOWED_SERIES = new Set([
   "Record of Ragnarok",
   "Parasyte",
   "The Disastrous Life of Saiki K",
+  "Yu-Gi-Oh",
 ]);
 
 const ARC_PATTERN =

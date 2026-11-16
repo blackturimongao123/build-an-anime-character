@@ -13,3 +13,11 @@ Re-normalize after bulk edits: `node ../node_modules/tsx/dist/cli.mjs normalize-
 **Solo Leveling is the only roster allowed to use full manhwa / novel feats** (not limited to the anime adaptation). VS Battles pages are typically labeled `(Novel)` but reflect the complete comic series.
 
 Other franchises remain **anime-only** forms unless noted in `wiki-hints.json`.
+
+**Kengan Ashura** is exempt from anime-only roster cuts (tournament cast is treated like Solo Leveling for sourcing).
+
+Confirmed characters who never appear in the anime (e.g. manga-only) are listed in `data/non-anime-roster-removals.json`. Apply with:
+
+`node node_modules/tsx/dist/cli.mjs scripts/apply-non-anime-removals.mjs`
+
+Do not auto-prune from Anime-Planet cast alone — slug maps and AP lists are incomplete for multi-part shows.

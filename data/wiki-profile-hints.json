@@ -31,7 +31,10 @@
   },
   "luffy-gear-4": {
     "fragment": "Gear_4th",
-    "tabFragments": ["Rooftop", "Gear_2nd_-_Gear_4th:_Boundman"],
+    "tabFragments": [
+      "Rooftop",
+      "Gear_2nd_-_Gear_4th:_Boundman"
+    ],
     "statKey": "Gear 4th: Boundman"
   },
   "kirito-stacia": {
@@ -61,7 +64,9 @@
   "killua-godspeed": {
     "statColumnIndex": 4,
     "statKey": "Chimera Ant Arc and Election Arc",
-    "tabFragments": ["Godspeed_-_Kanmuru_Form"]
+    "tabFragments": [
+      "Godspeed_-_Kanmuru_Form"
+    ]
   },
   "kurapika-emperor": {
     "statColumnIndex": 1,
@@ -80,10 +85,26 @@
     "statKey": "Stardust Crusaders"
   },
   "jin-mori-anime": {
-    "tabFragments": ["World_Competition_Arc"]
+    "tabFragments": [
+      "World_Competition_Arc"
+    ]
   },
   "rimuru-demon-lord": {
     "fragment": "Demon-Lord_outfit",
-    "tabFragments": ["Post-Demon_Lord"]
+    "tabFragments": [
+      "Post-Demon_Lord"
+    ]
+  },
+  "buu-dragon-ball": {
+    "statKey": "Fat Buu"
+  },
+  "evil-buu-dragon-ball": {
+    "statKeyUnion": [
+      "Evil Buu",
+      "Super Buu",
+      "Kid Buu",
+      "Ultra Buu",
+      "Pure Majin"
+    ]
   }
 }

@@ -96,26 +96,71 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 12px;
-      padding: 1rem 1.1rem;
+      padding: 1rem 1.15rem;
       margin-bottom: 0.65rem;
-      display: grid;
-      grid-template-columns: 1fr auto;
-      gap: 0.75rem 1rem;
-      align-items: start;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
     }
     .card.hidden { display: none; }
     .card.changed { border-left: 3px solid var(--accent); }
+    .card-lead {
+      display: grid;
+      grid-template-columns: minmax(88px, 104px) 1fr minmax(11rem, auto);
+      gap: 1rem 1.25rem;
+      align-items: center;
+    }
+    .portrait-wrap {
+      align-self: stretch;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 104px;
+    }
+    .avatar {
+      width: 100%;
+      height: 100%;
+      min-height: 104px;
+      max-height: 132px;
+      border-radius: 10px;
+      object-fit: cover;
+      object-position: top center;
+      flex-shrink: 0;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+    }
+    .avatar-missing {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+    }
+    .meta {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      min-width: 0;
+    }
     .meta h2 {
       margin: 0;
-      font-size: 1.05rem;
-      font-weight: 600;
+      font-size: 1.4rem;
+      font-weight: 650;
+      line-height: 1.2;
     }
     .meta .id {
-      font-size: 0.78rem;
+      font-size: 0.92rem;
       color: var(--muted);
       font-family: ui-monospace, monospace;
+      margin-top: 0.2rem;
     }
-    .meta .series { font-size: 0.82rem; color: var(--muted); margin-top: 0.15rem; }
+    .meta .series {
+      font-size: 1rem;
+      color: var(--muted);
+      margin-top: 0.25rem;
+    }
     .pillars {
       display: inline-block;
       margin-top: 0.35rem;
@@ -145,16 +190,41 @@
       border-color: var(--border);
       background: var(--surface2);
     }
+    .physical-stats {
+      margin-top: 0.4rem;
+      font-size: 0.8rem;
+      color: var(--muted);
+      line-height: 1.35;
+    }
+    .physical-stats .phys-label {
+      font-weight: 600;
+      color: var(--text);
+      margin-right: 0.15rem;
+    }
+    .physical-stats .phys-val {
+      font-variant-numeric: tabular-nums;
+      font-family: ui-monospace, monospace;
+      color: var(--text);
+    }
+    .physical-stats .phys-ph {
+      font-style: italic;
+      color: #d97706;
+    }
     .card.has-placeholder { border-left: 3px solid #b45309; }
     .why {
-      grid-column: 1 / -1;
       font-size: 0.9rem;
       color: var(--muted);
       margin: 0;
+      padding-top: 0.15rem;
+      border-top: 1px solid var(--border);
     }
     .iq-col {
       text-align: right;
       min-width: 11rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-self: center;
     }
     .iq-row {
       display: flex;
@@ -213,8 +283,17 @@
     }
     .step:hover { border-color: var(--accent); }
     @media (max-width: 640px) {
-      .card { grid-template-columns: 1fr; }
-      .iq-col { text-align: left; }
+      .card-lead {
+        grid-template-columns: 80px 1fr;
+        grid-template-rows: auto auto;
+      }
+      .portrait-wrap { min-height: 96px; }
+      .avatar { min-height: 96px; max-height: 112px; }
+      .iq-col {
+        grid-column: 1 / -1;
+        text-align: left;
+        align-self: stretch;
+      }
       .iq-row, .iq-editor { justify-content: flex-start; }
     }
   </style>
@@ -252,7 +331,8 @@
   </main>
   <script>
     const ROSTER = /*ROSTER_JSON*/;
-    const STORAGE_KEY = "iq-revision-review-edits-v2";
+    const SEED_EDITS = /*SEED_EDITS_JSON*/;
+    const STORAGE_KEY = "iq-revision-review-edits-v4";
     const frameworkText = /*FRAMEWORK_JSON*/;
 
     document.getElementById("frameworkText").textContent = frameworkText;
@@ -262,6 +342,9 @@
     try {
       edits = JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
     } catch { edits = {}; }
+    for (const [id, v] of Object.entries(SEED_EDITS)) {
+      if (edits[id] === undefined) edits[id] = v;
+    }
 
     function clamp(n) {
       return Math.min(100, Math.max(0, Math.round(Number(n)) || 0));
@@ -278,6 +361,35 @@
 
     function delta(char) {
       return getIq(char) - char.current;
+    }
+
+    const PHYS_LABELS = [
+      ["strength", "S"],
+      ["speed", "Sp"],
+      ["abilities", "A"],
+      ["durability", "D"],
+    ];
+
+    function physicalStatsHtml(char) {
+      const parts = PHYS_LABELS.map(([key, label]) => {
+        const placeholder = char.physicalPlaceholders?.[key];
+        const val = char.physical?.[key];
+        const inner = placeholder
+          ? '<span class="phys-ph">placeholder</span>'
+          : '<span class="phys-val">' + escapeHtml(String(val ?? "—")) + "</span>";
+        return (
+          '<span class="phys-pair"><span class="phys-label">' +
+          label +
+          "</span>" +
+          inner +
+          "</span>"
+        );
+      });
+      return (
+        '<div class="physical-stats" title="Strength / speed / abilities / durability (review display; 40 and 50 shown as placeholder)">' +
+        parts.join('<span aria-hidden="true"> · </span>') +
+        "</div>"
+      );
     }
 
     const listEl = document.getElementById("list");
@@ -310,19 +422,41 @@
         tagBits.push('<span class="tag tag-iq" title="Default IQ 50; not in curated export or proposal">Placeholder IQ</span>');
       }
       if (char.statsPlaceholder) {
-        tagBits.push('<span class="tag tag-stats" title="Strength/speed/abilities/durability still at default 50">Placeholder stats</span>');
+        tagBits.push(
+          '<span class="tag tag-stats" title="All four physical stats still at default block (uniform 40 or 50)">Placeholder stats</span>',
+        );
       }
       const tags = tagBits.length
         ? '<div class="tags">' + tagBits.join("") + "</div>"
         : "";
 
+      const initials = escapeHtml(
+        String(char.name || "?")
+          .trim()
+          .split(/\s+/)
+          .map((w) => w[0])
+          .join("")
+          .slice(0, 2) || "?",
+      );
+      const portrait =
+        char.portraitSrc
+          ? '<img class="avatar" src="' +
+            escapeHtml(char.portraitSrc) +
+            '" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.replaceWith(Object.assign(document.createElement(\'div\'),{className:\'avatar avatar-missing\',title:\'Portrait failed\',textContent:\'' +
+            initials +
+            '\'}))" />'
+          : '<div class="avatar avatar-missing" title="No portrait">' + initials + "</div>";
+
       card.innerHTML =
+        '<div class="card-lead">' +
+        '<div class="portrait-wrap">' + portrait + "</div>" +
         '<div class="meta">' +
         "<h2>" + escapeHtml(char.name) + "</h2>" +
         '<div class="id">' + escapeHtml(char.id) + "</div>" +
         (char.series ? '<div class="series">' + escapeHtml(char.series) + "</div>" : "") +
         pillars +
         tags +
+        physicalStatsHtml(char) +
         "</div>" +
         '<div class="iq-col">' +
         '<div class="iq-row">Current (in-game): <span class="val">' + char.current + "</span></div>" +
@@ -335,7 +469,7 @@
         '<button type="button" class="step" data-step="1" aria-label="Increase">+</button>' +
         "</div>" +
         '<div class="delta ' + deltaClass + '">Change vs baseline: ' + deltaSign + d + "</div>" +
-        "</div>" +
+        "</div></div>" +
         '<p class="why">' + escapeHtml(char.why) + "</p>";
 
       const input = card.querySelector('input[type="number"]');

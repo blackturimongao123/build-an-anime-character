@@ -1,0 +1,698 @@
+{
+  "abbacchio-jojo": {
+    "strength": false,
+    "speed": true,
+    "abilities": false,
+    "durability": false
+  },
+  "agito-kengan": {
+    "strength": true,
+    "speed": false,
+    "abilities": true,
+    "durability": true
+  },
+  "aizawa-mha": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "akaashi-haikyuu": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "akainu-one-piece": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "akashi-kuroko": {
+    "strength": true,
+    "speed": false,
+    "abilities": false,
+    "durability": false
+  },
+  "albedo-overlord": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "alice-alicization": {
+    "strength": false,
+    "speed": false,
+    "abilities": true,
+    "durability": true
+  },
+  "android-17-dragon-ball": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "android-18-dragon-ball": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "angelo-jojo": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "aokiji-one-piece": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "arrow-fire-force": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "arthur-boyle": {
+    "strength": false,
+    "speed": false,
+    "abilities": true,
+    "durability": false
+  },
+  "artoria-fate": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "asahi-haikyuu": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "asakura-csm": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "askeladd-vinland": {
+    "strength": true,
+    "speed": false,
+    "abilities": false,
+    "durability": false
+  },
+  "askin-bleach": {
+    "strength": false,
+    "speed": false,
+    "abilities": true,
+    "durability": false
+  },
+  "atomic-opm": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "avdol-jojo": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "bakugo-mha": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "bambietta-bleach": {
+    "strength": false,
+    "speed": false,
+    "abilities": true,
+    "durability": false
+  },
+  "bang-opm": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "baran-sl": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "beerus-dragon-ball": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "best-jeanist-mha": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "beter-sao": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "big-mom-one-piece": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "bismarck-geass": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "bjorn-vinland": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "blackbeard-one-piece": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "bokuto-haikyuu": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "bom-opm": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "boros-opm": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "broly-dragon-ball": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "bryan-ippo": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "buu-dragon-ball": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "caesar-jojo": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "canute-vinland": {
+    "strength": false,
+    "speed": true,
+    "abilities": false,
+    "durability": false
+  },
+  "carrion-slime": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "cell-dragon-ball": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "charles-geass": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "charon-fire-force": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "chelsea-aga": {
+    "strength": true,
+    "speed": false,
+    "abilities": true,
+    "durability": true
+  },
+  "chifuyu-revengers": {
+    "strength": true,
+    "speed": false,
+    "abilities": false,
+    "durability": false
+  },
+  "child-emperor-opm": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "chojiro-bleach": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "chrome-stone": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "clayman-slime": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "cocytus-overlord": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "compress-mha": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "connie-aot": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "cornelia-geass": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "daewi-goh": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "dagon-jjk": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "daichi-haikyuu": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "date-ippo": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "deeno-slime": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "demiurge-overlord": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "dende-dragon-ball": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "denji-chainsaw": {
+    "strength": true,
+    "speed": false,
+    "abilities": true,
+    "durability": true
+  },
+  "diane-sds": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "dino-slime": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "einar-vinland": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "elmesia-slime": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "emiya-fate": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "emporio-jojo": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "endeavor-mha": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "eris-mushoku": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "ermes-jojo": {
+    "strength": true,
+    "speed": false,
+    "abilities": false,
+    "durability": false
+  },
+  "erwin-aot": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "escanor-sds": {
+    "strength": false,
+    "speed": false,
+    "abilities": true,
+    "durability": false
+  },
+  "estarossa-sds": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "falcon-kengan": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "fami-csm": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "fei-kengan": {
+    "strength": true,
+    "speed": false,
+    "abilities": true,
+    "durability": false
+  },
+  "finn-mashle": {
+    "strength": true,
+    "speed": true,
+    "abilities": false,
+    "durability": true
+  },
+  "finral-black-clover": {
+    "strength": true,
+    "speed": false,
+    "abilities": true,
+    "durability": true
+  },
+  "flash-opm": {
+    "strength": false,
+    "speed": false,
+    "abilities": false,
+    "durability": true
+  },
+  "floki-vinland": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "frey-slime": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "frieza-dragon-ball": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "fu-fma": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "fubuki-opm": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "fugo-jojo": {
+    "strength": false,
+    "speed": true,
+    "abilities": false,
+    "durability": false
+  },
+  "fujitora-one-piece": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "gabi-aot": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "gauche-black-clover": {
+    "strength": true,
+    "speed": false,
+    "abilities": false,
+    "durability": false
+  },
+  "gen-stone": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "genos-opm": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "genshin-stone": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "gentle-mha": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "ghislaine-mushoku": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "giorno-jojo": {
+    "strength": true,
+    "speed": false,
+    "abilities": false,
+    "durability": false
+  },
+  "gluttony-fma-catalog": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "gobta-slime": {
+    "strength": false,
+    "speed": true,
+    "abilities": false,
+    "durability": false
+  },
+  "gohan-dragon-ball": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "gordon-black-clover": {
+    "strength": true,
+    "speed": false,
+    "abilities": false,
+    "durability": false
+  },
+  "goto-sl": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "gowther-sds": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "gran-torino-mha": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "hassan-fate": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "heracles-fate": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "koro-sensei": {
+    "strength": true,
+    "speed": false,
+    "abilities": false,
+    "durability": false
+  },
+  "kurapika-emperor": {
+    "strength": true,
+    "speed": false,
+    "abilities": true,
+    "durability": true
+  },
+  "kuroko-kuroko": {
+    "strength": true,
+    "speed": false,
+    "abilities": false,
+    "durability": false
+  },
+  "makima": {
+    "strength": false,
+    "speed": false,
+    "abilities": false,
+    "durability": true
+  },
+  "medea-fate": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "meliodas-assault": {
+    "strength": false,
+    "speed": false,
+    "abilities": true,
+    "durability": false
+  },
+  "ohma-tokita": {
+    "strength": false,
+    "speed": false,
+    "abilities": false,
+    "durability": true
+  },
+  "shinichi-izumi": {
+    "strength": true,
+    "speed": false,
+    "abilities": false,
+    "durability": false
+  },
+  "sho-kusakabe": {
+    "strength": true,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "ymir-beast-aot": {
+    "strength": false,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  },
+  "ymir-colossal-aot": {
+    "strength": false,
+    "speed": true,
+    "abilities": false,
+    "durability": false
+  },
+  "ymir-fritz-aot": {
+    "strength": false,
+    "speed": true,
+    "abilities": true,
+    "durability": true
+  }
+}

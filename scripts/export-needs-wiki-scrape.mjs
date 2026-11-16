@@ -22,7 +22,9 @@ for (const c of chars) {
     c.stats.durability,
   ];
   const placeholder = p.every((v) => v === 50);
-  const junkUniform = p.every((v) => v === 40);
+  const junkUniform40 = p.every((v) => v === 40);
+  /** Matches wiki-apply skip + pick-wiki-slice degenerateSlice(70). */
+  const junkUniform70 = p.every((v) => v === 70);
   const sp = join(scrapeDir, `${c.id}.json`);
   if (!existsSync(sp)) {
     ids.add(c.id);
@@ -30,7 +32,7 @@ for (const c of chars) {
   }
   const sc = JSON.parse(readFileSync(sp, "utf8"));
   if (!sc.slices?.length) ids.add(c.id);
-  else if (placeholder || junkUniform) ids.add(c.id);
+  else if (placeholder || junkUniform40 || junkUniform70) ids.add(c.id);
 }
 
 writeFileSync(out, [...ids].sort().join("\n") + "\n", "utf8");

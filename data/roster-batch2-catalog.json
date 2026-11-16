@@ -1,52 +1,10 @@
 {
   "One Piece": [
     [
-      "nami-one-piece",
-      "Nami",
-      "Nami (One Piece)",
-      "nami"
-    ],
-    [
-      "robin-one-piece",
-      "Robin",
-      "Nico Robin",
-      "nico-robin"
-    ],
-    [
-      "law-one-piece",
-      "Law",
-      "Trafalgar Law (One Piece)",
-      "trafalgar-law"
-    ],
-    [
-      "kid-one-piece",
-      "Kid",
-      "Eustass Kid",
-      "eustass-kid"
-    ],
-    [
-      "shanks-one-piece",
-      "Shanks",
-      "Shanks",
-      "shanks"
-    ],
-    [
-      "whitebeard-one-piece",
-      "Whitebeard",
-      "Edward Newgate",
-      "whitebeard"
-    ],
-    [
       "blackbeard-one-piece",
       "Blackbeard",
       "Marshall D. Teach",
       "blackbeard"
-    ],
-    [
-      "kaido-one-piece",
-      "Kaido",
-      "Kaido (One Piece)",
-      "kaido"
     ],
     [
       "big-mom-one-piece",
@@ -61,46 +19,16 @@
       "donquixote-doflamingo"
     ],
     [
-      "mihawk-one-piece",
-      "Mihawk",
-      "Dracule Mihawk",
-      "dracule-mihawk"
-    ],
-    [
-      "marco-one-piece",
-      "Marco",
-      "Marco (One Piece)",
-      "marco"
-    ],
-    [
       "ace-one-piece",
       "Ace",
       "Portgas D. Ace",
       "portgas-d-ace"
     ],
     [
-      "sabo-one-piece",
-      "Sabo",
-      "Sabo (One Piece)",
-      "sabo"
-    ],
-    [
-      "roger-one-piece",
-      "Roger",
-      "Gol D. Roger",
-      "gol-d-roger"
-    ],
-    [
       "garp-one-piece",
       "Garp",
       "Monkey D. Garp",
       "monkey-d-garp"
-    ],
-    [
-      "sengoku-one-piece",
-      "Sengoku",
-      "Sengoku (One Piece)",
-      "sengoku"
     ],
     [
       "akainu-one-piece",
@@ -115,22 +43,10 @@
       "aokiji"
     ],
     [
-      "kizaru-one-piece",
-      "Kizaru",
-      "Kizaru",
-      "kizaru"
-    ],
-    [
       "fujitora-one-piece",
       "Fujitora",
       "Issho",
       "fujitora"
-    ],
-    [
-      "hancock-one-piece",
-      "Hancock",
-      "Boa Hancock",
-      "boa-hancock"
     ],
     [
       "crocodile-one-piece",
@@ -143,24 +59,6 @@
       "Enel",
       "Enel",
       "enel"
-    ],
-    [
-      "lucci-one-piece",
-      "Lucci",
-      "Rob Lucci",
-      "rob-lucci"
-    ],
-    [
-      "katakuri-one-piece",
-      "Katakuri",
-      "Charlotte Katakuri",
-      "charlotte-katakuri"
-    ],
-    [
-      "king-one-piece",
-      "King",
-      "King (One Piece)",
-      "king"
     ],
     [
       "queen-one-piece",
@@ -225,94 +123,10 @@
       "byakuya-kuchiki"
     ],
     [
-      "renji-bleach",
-      "Renji",
-      "Renji Abarai",
-      "renji-abarai"
-    ],
-    [
-      "rukia-bleach",
-      "Rukia",
-      "Rukia Kuchiki",
-      "rukia-kuchiki"
-    ],
-    [
-      "kenpachi-bleach",
-      "Kenpachi",
-      "Kenpachi Zaraki",
-      "kenpachi-zaraki"
-    ],
-    [
-      "toshiro-bleach",
-      "Toshiro",
-      "Toshiro Hitsugaya",
-      "toshiro-hitsugaya"
-    ],
-    [
-      "unohana-bleach",
-      "Unohana",
-      "Retsu Unohana",
-      "retsu-unohana"
-    ],
-    [
-      "urahara-bleach",
-      "Urahara",
-      "Kisuke Urahara",
-      "kisuke-urahara"
-    ],
-    [
-      "yoruichi-bleach",
-      "Yoruichi",
-      "Yoruichi Shihoin",
-      "yoruichi-shihoin"
-    ],
-    [
-      "ulquiorra-bleach",
-      "Ulquiorra",
-      "Ulquiorra Cifer",
-      "ulquiorra-cifer"
-    ],
-    [
-      "grimmjow-bleach",
-      "Grimmjow",
-      "Grimmjow Jaegerjaquez",
-      "grimmjow-jaegerjaquez"
-    ],
-    [
       "gin-bleach",
       "Gin",
       "Gin Ichimaru",
       "gin-ichimaru"
-    ],
-    [
-      "mayuri-bleach",
-      "Mayuri",
-      "Mayuri Kurotsuchi",
-      "mayuri-kurotsuchi"
-    ],
-    [
-      "soi-fon-bleach",
-      "Soi Fon",
-      "Soi Fon",
-      "soi-fon"
-    ],
-    [
-      "shunsui-bleach",
-      "Shunsui",
-      "Shunsui Kyoraku",
-      "shunsui-kyoraku"
-    ],
-    [
-      "ikkaku-bleach",
-      "Ikkaku",
-      "Ikkaku Madarame",
-      "ikkaku-madarame"
-    ],
-    [
-      "starrk-bleach",
-      "Starrk",
-      "Coyote Starrk",
-      "coyote-starrk"
     ],
     [
       "barragan-bleach",
@@ -321,52 +135,10 @@
       "barragan-louisenbairn"
     ],
     [
-      "nnoitra-bleach",
-      "Nnoitra",
-      "Nnoitra Gilga",
-      "nnoitra-gilga"
-    ],
-    [
-      "yammy-bleach",
-      "Yammy",
-      "Yammy Llargo",
-      "yammy-llargo"
-    ],
-    [
-      "nelliel-bleach",
-      "Nelliel",
-      "Nelliel Tu Odelschwanck",
-      "nelliel-tu-odelschwanck"
-    ],
-    [
-      "uryu-bleach",
-      "Uryu",
-      "Uryu Ishida",
-      "uryu-ishida"
-    ],
-    [
       "chad-bleach",
       "Chad",
       "Yasutora Sado",
       "yasutora-sado"
-    ],
-    [
-      "orihime-bleach",
-      "Orihime",
-      "Orihime Inoue",
-      "orihime-inoue"
-    ],
-    [
-      "isshin-bleach",
-      "Isshin",
-      "Isshin Kurosaki",
-      "isshin-kurosaki"
-    ],
-    [
-      "yhwach-bleach",
-      "Yhwach",
-      "Yhwach",
-      "yhwach"
     ],
     [
       "bambietta-bleach",
@@ -381,355 +153,67 @@
       "bazz-b"
     ],
     [
-      "jugram-bleach",
-      "Jugram",
-      "Jugram Haschwalth",
-      "jugram-haschwalth"
-    ],
-    [
-      "quilge-bleach",
-      "Quilge",
-      "Quilge Opie",
-      "quilge-opie"
-    ],
-    [
       "asnodt-bleach",
       "Äs",
       "Äs Nodt",
       "as-nodt"
     ],
     [
-      "tier-bleach",
-      "Tier",
-      "Tier Harribel",
-      "tier-harribel"
+      "aaroniero-bleach",
+      "Aaroniero",
+      "Aaroniero Arruruerie",
+      "aaroniero-arruruerie"
     ],
     [
-      "zommari-bleach",
-      "Zommari",
-      "Zommari Rureaux",
-      "zommari-rureaux"
+      "chojiro-bleach",
+      "Chojiro",
+      "Chojiro Sasakibe",
+      "chojiro-sasakibe"
     ],
     [
-      "szayelaporro-bleach",
-      "Szayelaporro",
-      "Szayelaporro Grantz",
-      "szayelaporro-grantz"
+      "askin-bleach",
+      "Askin",
+      "Askin Nakk Le Vaar",
+      "askin-nakk-le-vaar"
     ],
-  [
-    "aaroniero-bleach",
-    "Aaroniero",
-    "Aaroniero Arruruerie",
-    "aaroniero-arruruerie"
-  ],
-  [
-    "komamura-bleach",
-    "Komamura",
-    "Sajin Komamura",
-    "sajin-komamura"
-  ],
-  [
-    "ukitake-bleach",
-    "Ukitake",
-    "Jushiro Ukitake",
-    "jushiro-ukitake"
-  ],
-  [
-    "tosen-bleach",
-    "Tosen",
-    "Kaname Tosen",
-    "kaname-tosen"
-  ],
-  [
-    "shinji-bleach",
-    "Shinji",
-    "Shinji Hirako",
-    "shinji-hirako"
-  ],
-  [
-    "rose-bleach",
-    "Rose",
-    "Rojuro Otoribashi",
-    "rojuro-otoribashi"
-  ],
-  [
-    "hisagi-bleach",
-    "Hisagi",
-    "Shuhei Hisagi",
-    "shuhei-hisagi"
-  ],
-  [
-    "rangiku-bleach",
-    "Rangiku",
-    "Rangiku Matsumoto",
-    "rangiku-matsumoto"
-  ],
-  [
-    "omaeda-bleach",
-    "Omaeda",
-    "Marechiyo Omaeda",
-    "marechiyo-omaeda"
-  ],
-  [
-    "kira-bleach",
-    "Kira",
-    "Izuru Kira",
-    "izuru-kira"
-  ],
-  [
-    "nanao-bleach",
-    "Nanao",
-    "Nanao Ise",
-    "nanao-ise"
-  ],
-  [
-    "chojiro-bleach",
-    "Chojiro",
-    "Chojiro Sasakibe",
-    "chojiro-sasakibe"
-  ],
-  [
-    "iba-bleach",
-    "Iba",
-    "Tetsuzaemon Iba",
-    "tetsuzaemon-iba"
-  ],
-  [
-    "nemu-bleach",
-    "Nemu",
-    "Nemu Kurotsuchi",
-    "nemu-kurotsuchi"
-  ],
-  [
-    "hinamori-bleach",
-    "Hinamori",
-    "Momo Hinamori",
-    "momo-hinamori"
-  ],
-  [
-    "yachiru-bleach",
-    "Yachiru",
-    "Yachiru Kusajishi",
-    "yachiru-kusajishi"
-  ],
-  [
-    "hiyori-bleach",
-    "Hiyori",
-    "Hiyori Sarugaki",
-    "hiyori-sarugaki"
-  ],
-  [
-    "love-bleach",
-    "Love",
-    "Love Aikawa",
-    "love-aikawa"
-  ],
-  [
-    "kensei-bleach",
-    "Kensei",
-    "Kensei Muguruma",
-    "kensei-muguruma"
-  ],
-  [
-    "mashiro-bleach",
-    "Mashiro",
-    "Mashiro Kuna",
-    "mashiro-kuna"
-  ],
-  [
-    "hachigen-bleach",
-    "Hachigen",
-    "Hachigen Ushoda",
-    "hachigen-ushoda"
-  ],
-  [
-    "lisa-bleach",
-    "Lisa",
-    "Lisa Yadomaru",
-    "lisa-yadomaru"
-  ],
-  [
-    "pernida-bleach",
-    "Pernida",
-    "Pernida Parnkgjas",
-    "pernida-parnkgjas"
-  ],
-  [
-    "askin-bleach",
-    "Askin",
-    "Askin Nakk Le Vaar",
-    "askin-nakk-le-vaar"
-  ],
-  [
-    "lille-bleach",
-    "Lille",
-    "Lille Barro",
-    "lille-barro"
-  ],
-  [
-    "gerard-bleach",
-    "Gerard",
-    "Gerard Valkyrie",
-    "gerard-valkyrie"
-  ],
-  [
-    "candice-bleach",
-    "Candice",
-    "Candice Catnipp",
-    "candice-catnipp"
-  ],
-  [
-    "liltotto-bleach",
-    "Liltotto",
-    "Liltotto Lamperd",
-    "liltotto-lamperd"
-  ],
-  [
-    "meninas-bleach",
-    "Meninas",
-    "Meninas McAllon",
-    "meninas-mcallon"
-  ],
-  [
-    "giselle-bleach",
-    "Giselle",
-    "Giselle Gewelle",
-    "giselle-gewelle"
-  ],
-  [
-    "robert-bleach",
-    "Robert",
-    "Robert Accutrone",
-    "robert-accutrone"
-  ],
-  [
-    "bg9-bleach",
-    "BG9",
-    "BG9",
-    "bg9"
-  ],
-  [
-    "driscoll-bleach",
-    "Driscoll",
-    "Driscoll Berci",
-    "driscoll-berci"
-  ],
-  [
-    "mask-bleach",
-    "Mask",
-    "Mask De Masculine",
-    "mask-de-masculine"
-  ],
-  [
-    "pepe-bleach",
-    "Pepe",
-    "Pepe Waccabrada",
-    "pepe-waccabrada"
-  ],
-  [
-    "nanana-bleach",
-    "NaNaNa",
-    "NaNaNa Najahkoop",
-    "nanana-najahkoop"
-  ],
-  [
-    "soul-king-bleach",
-    "Soul King",
-    "Soul King",
-    "soul-king"
-  ],
-  [
-    "ichibe-bleach",
-    "Ichibe",
-    "Ichibe Hyosube",
-    "ichibe-hyosube"
-  ],
-  [
-    "oetsu-bleach",
-    "Oetsu",
-    "Oetsu Nimaiya",
-    "oetsu-nimaiya"
-  ],
-  [
-    "senjumaru-bleach",
-    "Senjumaru",
-    "Senjumaru Shutara",
-    "senjumaru-shutara"
-  ],
-  [
-    "tenjiro-bleach",
-    "Tenjiro",
-    "Tenjiro Kirinji",
-    "tenjiro-kirinji"
-  ],
-  [
-    "kirio-bleach",
-    "Kirio",
-    "Kirio Hikifune",
-    "kirio-hikifune"
-  ]
+    [
+      "gerard-bleach",
+      "Gerard",
+      "Gerard Valkyrie",
+      "gerard-valkyrie"
+    ],
+    [
+      "candice-bleach",
+      "Candice",
+      "Candice Catnipp",
+      "candice-catnipp"
+    ],
+    [
+      "giselle-bleach",
+      "Giselle",
+      "Giselle Gewelle",
+      "giselle-gewelle"
+    ],
+    [
+      "bg9-bleach",
+      "BG9",
+      "BG9",
+      "bg9"
+    ],
+    [
+      "driscoll-bleach",
+      "Driscoll",
+      "Driscoll Berci",
+      "driscoll-berci"
+    ],
+    [
+      "tenjiro-bleach",
+      "Tenjiro",
+      "Tenjiro Kirinji",
+      "tenjiro-kirinji"
+    ]
   ],
   "Naruto": [
-    [
-      "kakashi-naruto",
-      "Kakashi",
-      "Kakashi Hatake",
-      "kakashi-hatake"
-    ],
-    [
-      "itachi-naruto",
-      "Itachi",
-      "Itachi Uchiha",
-      "itachi-uchiha"
-    ],
-    [
-      "obito-naruto",
-      "Obito",
-      "Obito Uchiha",
-      "obito-uchiha"
-    ],
-    [
-      "pain-naruto",
-      "Pain",
-      "Nagato",
-      "nagato"
-    ],
-    [
-      "minato-naruto",
-      "Minato",
-      "Minato Namikaze",
-      "minato-namikaze"
-    ],
-    [
-      "hashirama-naruto",
-      "Hashirama",
-      "Hashirama Senju",
-      "hashirama-senju"
-    ],
-    [
-      "tobirama-naruto",
-      "Tobirama",
-      "Tobirama Senju",
-      "tobirama-senju"
-    ],
-    [
-      "orochimaru-naruto",
-      "Orochimaru",
-      "Orochimaru",
-      "orochimaru"
-    ],
-    [
-      "jiraiya-naruto",
-      "Jiraiya",
-      "Jiraiya",
-      "jiraiya"
-    ],
-    [
-      "tsunade-naruto",
-      "Tsunade",
-      "Tsunade",
-      "tsunade"
-    ],
     [
       "gaara-naruto",
       "Gaara",
@@ -737,100 +221,10 @@
       "gaara"
     ],
     [
-      "rock-lee-naruto",
-      "Rock Lee",
-      "Rock Lee",
-      "rock-lee"
-    ],
-    [
-      "guy-naruto",
-      "Guy",
-      "Might Guy",
-      "might-guy"
-    ],
-    [
-      "kisame-naruto",
-      "Kisame",
-      "Kisame Hoshigaki",
-      "kisame-hoshigaki"
-    ],
-    [
       "deidara-naruto",
       "Deidara",
       "Deidara",
       "deidara"
-    ],
-    [
-      "sasori-naruto",
-      "Sasori",
-      "Sasori",
-      "sasori"
-    ],
-    [
-      "hidan-naruto",
-      "Hidan",
-      "Hidan",
-      "hidan"
-    ],
-    [
-      "kakuzu-naruto",
-      "Kakuzu",
-      "Kakuzu",
-      "kakuzu"
-    ],
-    [
-      "konan-naruto",
-      "Konan",
-      "Konan",
-      "konan"
-    ],
-    [
-      "kaguya-naruto",
-      "Kaguya",
-      "Kaguya Otsutsuki",
-      "kaguya-otsutsuki"
-    ],
-    [
-      "momoshiki-naruto",
-      "Momoshiki",
-      "Momoshiki Otsutsuki",
-      "momoshiki-otsutsuki"
-    ],
-    [
-      "isshiki-naruto",
-      "Isshiki",
-      "Isshiki Otsutsuki",
-      "isshiki-otsutsuki"
-    ],
-    [
-      "shikamaru-naruto",
-      "Shikamaru",
-      "Shikamaru Nara",
-      "shikamaru-nara"
-    ],
-    [
-      "hinata-naruto",
-      "Hinata",
-      "Hinata Hyuga",
-      "hinata-hyuga"
-    ],
-    [
-      "sakura-naruto",
-      "Sakura",
-      "Sakura Haruno",
-      "sakura-haruno"
-    ],
-    [
-      "killer-bee-naruto",
-      "Killer Bee",
-      "Killer Bee",
-      "killer-bee"
-    ],
-    [
-      "jigen-naruto",
-      "Jigen",
-      "Jigen",
-      "jigen"
     ],
     [
       "hamura-naruto",
@@ -865,18 +259,6 @@
       "son-gohan"
     ],
     [
-      "trunks-dragon-ball",
-      "Trunks",
-      "Future Trunks",
-      "future-trunks"
-    ],
-    [
-      "piccolo-dragon-ball",
-      "Piccolo",
-      "Piccolo",
-      "piccolo"
-    ],
-    [
       "frieza-dragon-ball",
       "Frieza",
       "Frieza",
@@ -895,28 +277,22 @@
       "majin-buu"
     ],
     [
+      "evil-buu-dragon-ball",
+      "Evil Buu",
+      "Majin Buu",
+      "kid-buu"
+    ],
+    [
       "broly-dragon-ball",
       "Broly",
       "Broly (Dragon Ball Super)",
       "broly"
     ],
     [
-      "jiren-dragon-ball",
-      "Jiren",
-      "Jiren",
-      "jiren"
-    ],
-    [
       "beerus-dragon-ball",
       "Beerus",
       "Beerus",
       "beerus"
-    ],
-    [
-      "whis-dragon-ball",
-      "Whis",
-      "Whis",
-      "whis"
     ],
     [
       "goku-ui-dragon-ball",
@@ -935,30 +311,6 @@
       "Goku Black",
       "Goku Black",
       "goku-black"
-    ],
-    [
-      "zamasu-dragon-ball",
-      "Zamasu",
-      "Zamasu",
-      "zamasu"
-    ],
-    [
-      "hit-dragon-ball",
-      "Hit",
-      "Hit",
-      "hit"
-    ],
-    [
-      "tien-dragon-ball",
-      "Tien",
-      "Tien Shinhan",
-      "tien-shinhan"
-    ],
-    [
-      "krillin-dragon-ball",
-      "Krillin",
-      "Krillin",
-      "krillin"
     ],
     [
       "android-17-dragon-ball",
@@ -991,40 +343,16 @@
       "gogeta"
     ],
     [
-      "shenron-dragon-ball",
-      "Shenron",
-      "Shenron",
-      "shenron"
-    ],
-    [
       "dende-dragon-ball",
       "Dende",
       "Dende",
       "dende"
     ],
     [
-      "raditz-dragon-ball",
-      "Raditz",
-      "Raditz",
-      "raditz"
-    ],
-    [
-      "nappa-dragon-ball",
-      "Nappa",
-      "Nappa",
-      "nappa"
-    ],
-    [
       "cooler-dragon-ball",
       "Cooler",
       "Cooler",
       "cooler"
-    ],
-    [
-      "janemba-dragon-ball",
-      "Janemba",
-      "Janemba",
-      "janemba"
     ],
     [
       "moro-dragon-ball",
@@ -1047,64 +375,10 @@
   ],
   "Jujutsu Kaisen": [
     [
-      "yuji-jjk",
-      "Yuji",
-      "Yuji Itadori",
-      "yuji-itadori"
-    ],
-    [
-      "megumi-jjk",
-      "Megumi",
-      "Megumi Fushiguro",
-      "megumi-fushiguro"
-    ],
-    [
-      "nobara-jjk",
-      "Nobara",
-      "Nobara Kugisaki",
-      "nobara-kugisaki"
-    ],
-    [
-      "yuta-jjk",
-      "Yuta",
-      "Yuta Okkotsu",
-      "yuta-okkotsu"
-    ],
-    [
-      "toji-jjk",
-      "Toji",
-      "Toji Fushiguro",
-      "toji-fushiguro"
-    ],
-    [
-      "mahito-jjk",
-      "Mahito",
-      "Mahito",
-      "mahito"
-    ],
-    [
-      "jogo-jjk",
-      "Jogo",
-      "Jogo",
-      "jogo"
-    ],
-    [
-      "hanami-jjk",
-      "Hanami",
-      "Hanami",
-      "hanami"
-    ],
-    [
       "dagon-jjk",
       "Dagon",
       "Dagon",
       "dagon"
-    ],
-    [
-      "kenjaku-jjk",
-      "Kenjaku",
-      "Kenjaku",
-      "kenjaku"
     ],
     [
       "geto-jjk",
@@ -1113,94 +387,10 @@
       "suguru-geto"
     ],
     [
-      "nanami-jjk",
-      "Nanami",
-      "Kento Nanami",
-      "kento-nanami"
-    ],
-    [
-      "todo-jjk",
-      "Todo",
-      "Aoi Todo",
-      "aoi-todo"
-    ],
-    [
-      "panda-jjk",
-      "Panda",
-      "Panda",
-      "panda"
-    ],
-    [
-      "toge-jjk",
-      "Toge",
-      "Toge Inumaki",
-      "toge-inumaki"
-    ],
-    [
-      "mei-mei-jjk",
-      "Mei Mei",
-      "Mei Mei",
-      "mei-mei"
-    ],
-    [
       "mahoraga-jjk",
       "Mahoraga",
       "Mahoraga",
       "mahoraga"
-    ],
-    [
-      "kashimo-jjk",
-      "Kashimo",
-      "Hajime Kashimo",
-      "hajime-kashimo"
-    ],
-    [
-      "uraume-jjk",
-      "Uraume",
-      "Uraume",
-      "uraume"
-    ],
-    [
-      "yuki-jjk",
-      "Yuki",
-      "Yuki Tsukumo",
-      "yuki-tsukumo"
-    ],
-    [
-      "higuruma-jjk",
-      "Higuruma",
-      "Hiromi Higuruma",
-      "hiromi-higuruma"
-    ],
-    [
-      "reggie-jjk",
-      "Reggie",
-      "Reggie Star",
-      "reggie-star"
-    ],
-    [
-      "ishi-jjk",
-      "Ishigori",
-      "Ryu Ishigori",
-      "ryu-ishigori"
-    ],
-    [
-      "naoya-jjk",
-      "Naoya",
-      "Naoya Zenin",
-      "naoya-zenin"
-    ],
-    [
-      "maki-jjk",
-      "Maki",
-      "Maki Zenin",
-      "maki-zenin"
-    ],
-    [
-      "mai-jjk",
-      "Mai",
-      "Mai Zenin",
-      "mai-zenin"
     ],
     [
       "yuta-rika-jjk",
@@ -1223,46 +413,10 @@
       "gyomei-himejima"
     ],
     [
-      "sanemi-demon-slayer",
-      "Sanemi",
-      "Sanemi Shinazugawa",
-      "sanemi-shinazugawa"
-    ],
-    [
       "giyu-demon-slayer",
       "Giyu",
       "Giyu Tomioka",
       "giyu-tomioka"
-    ],
-    [
-      "shinobu-demon-slayer",
-      "Shinobu",
-      "Shinobu Kocho",
-      "shinobu-kocho"
-    ],
-    [
-      "mitsuri-demon-slayer",
-      "Mitsuri",
-      "Mitsuri Kanroji",
-      "mitsuri-kanroji"
-    ],
-    [
-      "obanai-demon-slayer",
-      "Obanai",
-      "Obanai Iguro",
-      "obanai-iguro"
-    ],
-    [
-      "muichiro-demon-slayer",
-      "Muichiro",
-      "Muichiro Tokito",
-      "muichiro-tokito"
-    ],
-    [
-      "tengen-demon-slayer",
-      "Tengen",
-      "Tengen Uzui",
-      "tengen-uzui"
     ],
     [
       "doma-demon-slayer",
@@ -1271,52 +425,10 @@
       "doma"
     ],
     [
-      "gyutaro-demon-slayer",
-      "Gyutaro",
-      "Gyutaro",
-      "gyutaro"
-    ],
-    [
       "daki-demon-slayer",
       "Daki",
       "Daki",
       "daki"
-    ],
-    [
-      "nakime-demon-slayer",
-      "Nakime",
-      "Nakime",
-      "nakime"
-    ],
-    [
-      "hantengu-demon-slayer",
-      "Hantengu",
-      "Hantengu",
-      "hantengu"
-    ],
-    [
-      "gyokko-demon-slayer",
-      "Gyokko",
-      "Gyokko",
-      "gyokko"
-    ],
-    [
-      "yoriichi-demon-slayer",
-      "Yoriichi",
-      "Yoriichi Tsugikuni",
-      "yoriichi-tsugikuni"
-    ],
-    [
-      "tamayo-demon-slayer",
-      "Tamayo",
-      "Tamayo",
-      "tamayo"
-    ],
-    [
-      "yushiro-demon-slayer",
-      "Yushiro",
-      "Yushiro",
-      "yushiro"
     ],
     [
       "genya-demon-slayer",
@@ -1325,28 +437,10 @@
       "genya-shinazugawa"
     ],
     [
-      "kaigaku-demon-slayer",
-      "Kaigaku",
-      "Kaigaku",
-      "kaigaku"
-    ],
-    [
-      "rui-demon-slayer",
-      "Rui",
-      "Rui",
-      "rui"
-    ],
-    [
       "enmu-demon-slayer",
       "Enmu",
       "Enmu",
       "enmu"
-    ],
-    [
-      "kanao-demon-slayer",
-      "Kanao",
-      "Kanao Tsuyuri",
-      "kanao-tsuyuri"
     ],
     [
       "susamaru-demon-slayer",
@@ -1369,40 +463,10 @@
       "katsuki-bakugo"
     ],
     [
-      "todoroki-mha",
-      "Todoroki",
-      "Shoto Todoroki",
-      "shoto-todoroki"
-    ],
-    [
-      "hawks-mha",
-      "Hawks",
-      "Keigo Takami",
-      "hawks"
-    ],
-    [
       "endeavor-mha",
       "Endeavor",
       "Enji Todoroki",
       "enji-todoroki"
-    ],
-    [
-      "mirko-mha",
-      "Mirko",
-      "Rumi Usagiyama",
-      "mirko"
-    ],
-    [
-      "all-for-one-mha",
-      "All For One",
-      "All For One",
-      "all-for-one"
-    ],
-    [
-      "shigaraki-mha",
-      "Shigaraki",
-      "Tomura Shigaraki",
-      "tomura-shigaraki"
     ],
     [
       "dabi-mha",
@@ -1411,28 +475,10 @@
       "dabi"
     ],
     [
-      "twice-mha",
-      "Twice",
-      "Twice",
-      "twice"
-    ],
-    [
       "compress-mha",
       "Compress",
       "Atsuhiro Sako",
       "compress"
-    ],
-    [
-      "toga-mha",
-      "Toga",
-      "Himiko Toga",
-      "himiko-toga"
-    ],
-    [
-      "midnight-mha",
-      "Midnight",
-      "Nemuri Kayama",
-      "midnight"
     ],
     [
       "aizawa-mha",
@@ -1441,34 +487,10 @@
       "shota-aizawa"
     ],
     [
-      "present-mic-mha",
-      "Present Mic",
-      "Hizashi Yamada",
-      "present-mic"
-    ],
-    [
-      "mount-lady-mha",
-      "Mount Lady",
-      "Yuu Momonoki",
-      "mount-lady"
-    ],
-    [
       "midoriya-100-mha",
       "Deku",
       "Izuku Midoriya (100%)",
       "izuku-midoriya"
-    ],
-    [
-      "lady-nagant-mha",
-      "Nagant",
-      "Lady Nagant",
-      "lady-nagant"
-    ],
-    [
-      "star-and-stripe-mha",
-      "Star and Stripe",
-      "Star and Stripe",
-      "star-and-stripe"
     ],
     [
       "deku-gearshift-mha",
@@ -1483,34 +505,10 @@
       "geten"
     ],
     [
-      "re-destro-mha",
-      "Re-Destro",
-      "Rikiya Yotsubashi",
-      "re-destro"
-    ],
-    [
-      "overhaul-mha",
-      "Overhaul",
-      "Kai Chisaki",
-      "overhaul"
-    ],
-    [
       "gentle-mha",
       "Gentle",
       "Danjuro Tobita",
       "gentle-criminal"
-    ],
-    [
-      "lemillion-mha",
-      "Lemillion",
-      "Mirio Togata",
-      "mirio-togata"
-    ],
-    [
-      "nighteye-mha",
-      "Nighteye",
-      "Sir Nighteye",
-      "sir-nighteye"
     ],
     [
       "gran-torino-mha",
@@ -1523,12 +521,6 @@
       "Best Jeanist",
       "Tsunagu Hakamata",
       "best-jeanist"
-    ],
-    [
-      "nejire-mha",
-      "Nejire",
-      "Nejire Hado",
-      "nejire-hado"
     ],
     [
       "gang-orca-mha",
@@ -1551,12 +543,6 @@
   ],
   "Hunter x Hunter": [
     [
-      "illumi-hxh",
-      "Illumi",
-      "Illumi Zoldyck",
-      "illumi-zoldyck"
-    ],
-    [
       "chrollo-hxh",
       "Chrollo",
       "Chrollo Lucilfer",
@@ -1569,76 +555,10 @@
       "feitan-portor"
     ],
     [
-      "uvogin-hxh",
-      "Uvogin",
-      "Uvogin",
-      "uvogin"
-    ],
-    [
-      "pitou-hxh",
-      "Pitou",
-      "Neferpitou",
-      "neferpitou"
-    ],
-    [
-      "youpi-hxh",
-      "Youpi",
-      "Menthuthuyoupi",
-      "menthuthuyoupi"
-    ],
-    [
-      "pouf-hxh",
-      "Pouf",
-      "Shaiapouf",
-      "shaiapouf"
-    ],
-    [
-      "morel-hxh",
-      "Morel",
-      "Morel Mackernasey",
-      "morel-mackernasey"
-    ],
-    [
-      "knuckle-hxh",
-      "Knuckle",
-      "Knuckle Bine",
-      "knuckle-bine"
-    ],
-    [
-      "shoot-hxh",
-      "Shoot",
-      "Shoot McMahon",
-      "shoot-mcmahon"
-    ],
-    [
-      "leorio-hxh",
-      "Leorio",
-      "Leorio Paradinight",
-      "leorio-paradinight"
-    ],
-    [
-      "wing-hxh",
-      "Wing",
-      "Wing",
-      "wing"
-    ],
-    [
       "biscuit-hxh",
       "Biscuit",
       "Biscuit Krueger",
       "biscuit-krueger"
-    ],
-    [
-      "silva-hxh",
-      "Silva",
-      "Silva Zoldyck",
-      "silva-zoldyck"
-    ],
-    [
-      "zeno-hxh",
-      "Zeno",
-      "Zeno Zoldyck",
-      "zeno-zoldyck"
     ],
     [
       "genthru-hxh",
@@ -1647,52 +567,10 @@
       "genthru"
     ],
     [
-      "neon-hxh",
-      "Neon",
-      "Neon Nostrade",
-      "neon-nostrade"
-    ],
-    [
-      "pakunoda-hxh",
-      "Pakunoda",
-      "Pakunoda",
-      "pakunoda"
-    ],
-    [
-      "nobunaga-hxh",
-      "Nobunaga",
-      "Nobunaga Hazama",
-      "nobunaga-hazama"
-    ],
-    [
-      "phinks-hxh",
-      "Phinks",
-      "Phinks Magcub",
-      "phinks-magcub"
-    ],
-    [
-      "shalnark-hxh",
-      "Shalnark",
-      "Shalnark",
-      "shalnark"
-    ],
-    [
       "franklin-hxh",
       "Franklin",
       "Franklin Bordeau",
       "franklin-bordeau"
-    ],
-    [
-      "machi-hxh",
-      "Machi",
-      "Machi Komacine",
-      "machi-komacine"
-    ],
-    [
-      "kite-hxh",
-      "Kite",
-      "Kite",
-      "kite"
     ],
     [
       "ging-hxh",
@@ -1727,52 +605,10 @@
   ],
   "Fairy Tail": [
     [
-      "gray-fairy-tail",
-      "Gray",
-      "Gray Fullbuster",
-      "gray-fullbuster"
-    ],
-    [
-      "lucy-fairy-tail",
-      "Lucy",
-      "Lucy Heartfilia",
-      "lucy-heartfilia"
-    ],
-    [
       "gildarts-fairy-tail",
       "Gildarts",
       "Gildarts Clive",
       "gildarts-clive"
-    ],
-    [
-      "laxus-fairy-tail",
-      "Laxus",
-      "Laxus Dreyar",
-      "laxus-dreyar"
-    ],
-    [
-      "mirajane-fairy-tail",
-      "Mirajane",
-      "Mirajane Strauss",
-      "mirajane-strauss"
-    ],
-    [
-      "jellal-fairy-tail",
-      "Jellal",
-      "Jellal Fernandes",
-      "jellal-fernandes"
-    ],
-    [
-      "ultear-fairy-tail",
-      "Ultear",
-      "Ultear Milkovich",
-      "ultear-milkovich"
-    ],
-    [
-      "irene-fairy-tail",
-      "Irene",
-      "Irene Belserion",
-      "irene-belserion"
     ],
     [
       "august-fairy-tail",
@@ -1787,46 +623,10 @@
       "acnologia"
     ],
     [
-      "ignia-fairy-tail",
-      "Ignia",
-      "Ignia",
-      "ignia"
-    ],
-    [
-      "selene-fairy-tail",
-      "Selene",
-      "Selene",
-      "selene"
-    ],
-    [
-      "aldo-fairy-tail",
-      "Aldoron",
-      "Aldoron",
-      "aldoron"
-    ],
-    [
-      "igneel-fairy-tail",
-      "Igneel",
-      "Igneel",
-      "igneel"
-    ],
-    [
       "zeref-fairy-tail",
       "Zeref",
       "Zeref Dragneel",
       "zeref-dragneel"
-    ],
-    [
-      "mavis-fairy-tail",
-      "Mavis",
-      "Mavis Vermillion",
-      "mavis-vermillion"
-    ],
-    [
-      "makarov-fairy-tail",
-      "Makarov",
-      "Makarov Dreyar",
-      "makarov-dreyar"
     ],
     [
       "brandish-fairy-tail",
@@ -1839,30 +639,6 @@
       "Dimaria",
       "Dimaria Yesta",
       "dimaria-yesta"
-    ],
-    [
-      "wall-echtena-fairy-tail",
-      "Wall",
-      "Wall Eehto",
-      "wall-eehto"
-    ],
-    [
-      "jacob-fairy-tail",
-      "Jacob",
-      "Jacob Lessio",
-      "jacob-lessio"
-    ],
-    [
-      "neinhart-fairy-tail",
-      "Neinhart",
-      "Neinhart",
-      "neinhart"
-    ],
-    [
-      "aokiji-fairy-tail",
-      "Invel",
-      "Invel Yura",
-      "invel-yura"
     ],
     [
       "god-serena-fairy-tail",
@@ -1915,22 +691,10 @@
   ],
   "Black Clover": [
     [
-      "mereoleona-black-clover",
-      "Mereoleona",
-      "Mereoleona Vermillion",
-      "mereoleona-vermillion"
-    ],
-    [
       "fuegoleon-black-clover",
       "Fuegoleon",
       "Fuegoleon Vermillion",
       "fuegoleon-vermillion"
-    ],
-    [
-      "nozel-black-clover",
-      "Nozel",
-      "Nozel Silva",
-      "nozel-silva"
     ],
     [
       "dante-black-clover",
@@ -1939,88 +703,16 @@
       "dante-zogratis"
     ],
     [
-      "vanica-black-clover",
-      "Vanica",
-      "Vanica Zogratis",
-      "vanica-zogratis"
-    ],
-    [
-      "zenon-black-clover",
-      "Zenon",
-      "Zenon Zogratis",
-      "zenon-zogratis"
-    ],
-    [
-      "morris-black-clover",
-      "Morris",
-      "Morris",
-      "morris"
-    ],
-    [
-      "zagred-black-clover",
-      "Zagred",
-      "Zagred",
-      "zagred"
-    ],
-    [
-      "licht-black-clover",
-      "Licht",
-      "Licht",
-      "licht"
-    ],
-    [
-      "patri-black-clover",
-      "Patri",
-      "Patri",
-      "patri"
-    ],
-    [
-      "vangeance-black-clover",
-      "Vangeance",
-      "William Vangeance",
-      "william-vangeance"
-    ],
-    [
       "finral-black-clover",
       "Finral",
       "Finral Roulacase",
       "finral-roulacase"
     ],
     [
-      "langris-black-clover",
-      "Langris",
-      "Langris Vaude",
-      "langris-vaude"
-    ],
-    [
-      "jack-black-clover",
-      "Jack",
-      "Jack the Ripper",
-      "jack-the-ripper"
-    ],
-    [
-      "magna-black-clover",
-      "Magna",
-      "Magna Swing",
-      "magna-swing"
-    ],
-    [
-      "luck-black-clover",
-      "Luck",
-      "Luck Voltia",
-      "luck-voltia"
-    ],
-    [
       "gauche-black-clover",
       "Gauche",
       "Gauche Adlai",
       "gauche-adlai"
-    ],
-    [
-      "grey-black-clover",
-      "Grey",
-      "Grey",
-      "grey"
     ],
     [
       "charmy-black-clover",
@@ -2033,36 +725,6 @@
       "Gordon",
       "Gordon Agrippa",
       "gordon-agrippa"
-    ],
-    [
-      "rebecca-black-clover",
-      "Rebecca",
-      "Rebecca Scarlet",
-      "rebecca-scarlet"
-    ],
-    [
-      "kirsch-black-clover",
-      "Kirsch",
-      "Kirsch Vermillion",
-      "kirsch-vermillion"
-    ],
-    [
-      "mars-black-clover",
-      "Mars",
-      "Mars",
-      "mars"
-    ],
-    [
-      "ladros-black-clover",
-      "Ladros",
-      "Ladros",
-      "ladros"
-    ],
-    [
-      "sally-black-clover",
-      "Sally",
-      "Sally",
-      "sally"
     ],
     [
       "veto-black-clover",
@@ -2109,58 +771,10 @@
       "archer"
     ],
     [
-      "rin-fate",
-      "Rin",
-      "Rin Tohsaka",
-      "rin-tohsaka"
-    ],
-    [
-      "shirou-fate",
-      "Shirou",
-      "Shirou Emiya",
-      "shirou-emiya"
-    ],
-    [
-      "kirei-fate",
-      "Kirei",
-      "Kirei Kotomine",
-      "kirei-kotomine"
-    ],
-    [
-      "tokiomi-fate",
-      "Tokiomi",
-      "Tokiomi Tohsaka",
-      "tokiomi-tohsaka"
-    ],
-    [
-      "cu-chulainn-fate",
-      "Lancer",
-      "Cu Chulainn (Fate)",
-      "cu-chulainn"
-    ],
-    [
-      "iskandar-fate",
-      "Rider",
-      "Iskandar",
-      "iskandar"
-    ],
-    [
       "artoria-fate",
       "Saber",
       "Artoria Pendragon",
       "saber"
-    ],
-    [
-      "diarmuid-fate",
-      "Lancer",
-      "Diarmuid Ua Duibhne",
-      "diarmuid-ua-duibhne"
-    ],
-    [
-      "hassan-fate",
-      "Assassin",
-      "Hassan-i-Sabbah",
-      "hassan-i-sabbah"
     ],
     [
       "medea-fate",
@@ -2169,156 +783,30 @@
       "medea"
     ],
     [
+      "hassan-fate",
+      "Assassin",
+      "Hassan-i-Sabbah",
+      "hassan-i-sabbah"
+    ],
+    [
       "heracles-fate",
       "Berserker",
       "Heracles",
       "heracles"
     ],
     [
-      "karna-fate",
-      "Karna",
-      "Karna",
-      "karna"
-    ],
-    [
-      "jeanne-fate",
-      "Jeanne",
-      "Jeanne d'Arc",
-      "jeanne-darc"
-    ],
-    [
-      "iskandar-king-fate",
-      "Iskandar",
-      "Iskandar (King of Conquerors)",
-      "iskandar"
-    ],
-    [
-      "gilgamesh-ea-fate",
+      "gilgamesh-fsn",
       "Gilgamesh",
-      "Gilgamesh (Fate)",
+      "Gilgamesh (Archer)",
       "gilgamesh"
-    ],
-    [
-      "enkidu-fate",
-      "Enkidu",
-      "Enkidu",
-      "enkidu"
-    ],
-    [
-      "merlin-fate",
-      "Merlin",
-      "Merlin (Fate)",
-      "merlin"
-    ],
-    [
-      "mordred-fate",
-      "Mordred",
-      "Mordred",
-      "mordred"
-    ],
-    [
-      "artoria-alter-fate",
-      "Saber Alter",
-      "Saber Alter",
-      "saber-alter"
-    ],
-    [
-      "jeanne-alter-fate",
-      "Jeanne Alter",
-      "Jeanne d'Arc Alter",
-      "jeanne-darc-alter"
-    ],
-    [
-      "tamamo-fate",
-      "Tamamo",
-      "Tamamo-no-Mae",
-      "tamamo-no-mae"
-    ],
-    [
-      "scathach-fate",
-      "Scathach",
-      "Scathach",
-      "scathach"
-    ],
-    [
-      "mash-fate",
-      "Mash",
-      "Mash Kyrielight",
-      "mash-kyrielight"
-    ],
-    [
-      "solomon-fate",
-      "Solomon",
-      "Solomon",
-      "solomon"
-    ],
-    [
-      "goetia-fate",
-      "Goetia",
-      "Goetia",
-      "goetia"
-    ],
-    [
-      "ishtar-fate",
-      "Ishtar",
-      "Ishtar",
-      "ishtar"
-    ],
-    [
-      "ereshkigal-fate",
-      "Ereshkigal",
-      "Ereshkigal",
-      "ereshkigal"
-    ],
-    [
-      "king-hassan-fate",
-      "King Hassan",
-      "King Hassan",
-      "king-hassan"
-    ],
-    [
-      "waver-fate",
-      "Waver",
-      "Waver Velvet",
-      "waver-velvet"
-    ],
-    [
-      "rider-medusa-fate",
-      "Rider",
-      "Medusa (Fate)",
-      "medusa"
-    ],
-    [
-      "bb-fate",
-      "BB",
-      "BB",
-      "bb"
     ]
   ],
   "Attack on Titan": [
     [
       "annie-aot",
-      "Annie",
-      "Annie Leonhart",
-      "annie-leonhart"
-    ],
-    [
-      "bertolt-aot",
-      "Bertolt",
-      "Bertolt Hoover",
-      "bertolt-hoover"
-    ],
-    [
-      "pieck-aot",
-      "Pieck",
-      "Pieck Finger",
-      "pieck-finger"
-    ],
-    [
-      "porco-aot",
-      "Porco",
-      "Porco Galliard",
-      "porco-galliard"
+      "Female Titan",
+      "Annie Leonhart (Female Titan)",
+      "female-titan"
     ],
     [
       "falco-aot",
@@ -2333,58 +821,10 @@
       "gabi-braun"
     ],
     [
-      "zeke-aot",
-      "Zeke",
-      "Zeke Yeager",
-      "zeke-yeager"
-    ],
-    [
-      "ymir-aot",
-      "Ymir",
-      "Ymir Fritz",
-      "ymir-fritz"
-    ],
-    [
-      "historia-aot",
-      "Historia",
-      "Historia Reiss",
-      "historia-reiss"
-    ],
-    [
       "erwin-aot",
       "Erwin",
       "Erwin Smith",
       "erwin-smith"
-    ],
-    [
-      "hange-aot",
-      "Hange",
-      "Hange Zoe",
-      "hange-zoe"
-    ],
-    [
-      "annie-crystal-aot",
-      "Annie",
-      "Annie Leonhart (Crystal)",
-      "annie-leonhart"
-    ],
-    [
-      "kenny-aot",
-      "Kenny",
-      "Kenny Ackerman",
-      "kenny-ackerman"
-    ],
-    [
-      "levi-anime-aot",
-      "Levi",
-      "Levi Ackerman",
-      "levi-ackerman"
-    ],
-    [
-      "sasha-aot",
-      "Sasha",
-      "Sasha Braus",
-      "sasha-braus"
     ],
     [
       "connie-aot",
@@ -2393,68 +833,50 @@
       "connie-springer"
     ],
     [
-      "jean-aot",
-      "Jean",
-      "Jean Kirstein",
-      "jean-kirstein"
-    ],
-    [
       "ymir-fritz-aot",
-      "Founding",
+      "Founding Titan",
       "Eren Yeager (Founding Titan)",
       "eren-yeager"
     ],
     [
-      "warhammer-aot",
-      "Warhammer",
-      "Lara Tybur",
-      "lara-tybur"
-    ],
-    [
       "cart-aot",
-      "Cart",
+      "Cart Titan",
       "Pieck Finger (Cart Titan)",
       "pieck-finger"
     ],
     [
       "ymir-jaw-aot",
-      "Jaw",
+      "Jaw Titan",
       "Porco Galliard (Jaw Titan)",
       "porco-galliard"
     ],
     [
       "ymir-beast-aot",
-      "Beast",
+      "Beast Titan",
       "Zeke Yeager (Beast Titan)",
       "zeke-yeager"
     ],
     [
-      "ymir-armored-aot",
-      "Armored",
-      "Reiner Braun (Armored Titan)",
-      "reiner-braun"
-    ],
-    [
       "ymir-colossal-aot",
-      "Colossal",
+      "Colossal Titan",
       "Armin Arlert (Colossal Titan)",
       "armin-arlert"
     ],
     [
       "ymir-attack-aot",
-      "Attack",
+      "Attack Titan",
       "Eren Yeager (Attack Titan)",
       "eren-yeager"
     ],
     [
       "ymir-female-aot",
-      "Female",
+      "Female Titan",
       "Annie Leonhart (Female Titan)",
       "annie-leonhart"
     ],
     [
       "ymir-warhammer-aot",
-      "Warhammer",
+      "Warhammer Titan",
       "Lara Tybur (Warhammer Titan)",
       "lara-tybur"
     ],
@@ -2491,12 +913,6 @@
       "charizard"
     ],
     [
-      "pikachu-pokemon",
-      "Pikachu",
-      "Pikachu",
-      "pikachu"
-    ],
-    [
       "greninja-pokemon",
       "Greninja",
       "Greninja",
@@ -2507,12 +923,6 @@
       "Mew",
       "Mew",
       "mew"
-    ],
-    [
-      "lucario-pokemon",
-      "Lucario",
-      "Lucario",
-      "lucario"
     ],
     [
       "garchomp-pokemon",
@@ -2549,30 +959,6 @@
       "Darkrai",
       "Darkrai",
       "darkrai"
-    ],
-    [
-      "reshiram-pokemon",
-      "Reshiram",
-      "Reshiram",
-      "reshiram"
-    ],
-    [
-      "zekrom-pokemon",
-      "Zekrom",
-      "Zekrom",
-      "zekrom"
-    ],
-    [
-      "kyurem-pokemon",
-      "Kyurem",
-      "Kyurem",
-      "kyurem"
-    ],
-    [
-      "necrozma-pokemon",
-      "Necrozma",
-      "Necrozma",
-      "necrozma"
     ],
     [
       "zacian-pokemon",
@@ -2637,46 +1023,10 @@
       "roy-mustang"
     ],
     [
-      "hohenheim-fma",
-      "Hohenheim",
-      "Van Hohenheim",
-      "van-hohenheim"
-    ],
-    [
-      "izumi-fma",
-      "Izumi",
-      "Izumi Curtis",
-      "izumi-curtis"
-    ],
-    [
-      "sig-fma",
-      "Sig",
-      "Sig Curtis",
-      "sig-curtis"
-    ],
-    [
-      "lan-fan-fma",
-      "Lan Fan",
-      "Lan Fan",
-      "lan-fan"
-    ],
-    [
       "fu-fma",
       "Fu",
       "Fu",
       "fu"
-    ],
-    [
-      "olivier-fma",
-      "Olivier",
-      "Olivier Mira Armstrong",
-      "olivier-mira-armstrong"
-    ],
-    [
-      "kimblee-fma",
-      "Kimblee",
-      "Solf J. Kimblee",
-      "solf-j-kimblee"
     ],
     [
       "buccaneer-fma",
@@ -2731,39 +1081,9 @@
       "Sloth",
       "Sloth",
       "sloth"
-    ],
-    [
-      "wrath-fma-catalog",
-      "Wrath",
-      "Wrath",
-      "wrath"
     ]
   ],
   "JoJo": [
-    [
-      "joseph-jojo",
-      "Joseph",
-      "Joseph Joestar",
-      "joseph-joestar"
-    ],
-    [
-      "jonathan-jojo",
-      "Jonathan",
-      "Jonathan Joestar",
-      "jonathan-joestar"
-    ],
-    [
-      "kakyoin-jojo",
-      "Kakyoin",
-      "Noriaki Kakyoin",
-      "noriaki-kakyoin"
-    ],
-    [
-      "polnareff-jojo",
-      "Polnareff",
-      "Jean Pierre Polnareff",
-      "jean-pierre-polnareff"
-    ],
     [
       "dio-jojo",
       "DIO",
@@ -2775,24 +1095,6 @@
       "Jotaro",
       "Jotaro Kujo",
       "jotaro-kujo"
-    ],
-    [
-      "josuke-jojo",
-      "Josuke",
-      "Josuke Higashikata",
-      "josuke-higashikata"
-    ],
-    [
-      "okuyasu-jojo",
-      "Okuyasu",
-      "Okuyasu Nijimura",
-      "okuyasu-nijimura"
-    ],
-    [
-      "rohan-jojo",
-      "Rohan",
-      "Rohan Kishibe",
-      "rohan-kishibe"
     ],
     [
       "giorno-jojo",
@@ -2813,54 +1115,6 @@
       "diavolo"
     ],
     [
-      "johnny-jojo",
-      "Johnny",
-      "Johnny Joestar",
-      "johnny-joestar"
-    ],
-    [
-      "gyro-jojo",
-      "Gyro",
-      "Gyro Zeppeli",
-      "gyro-zeppeli"
-    ],
-    [
-      "valentine-jojo",
-      "Valentine",
-      "Funny Valentine",
-      "funny-valentine"
-    ],
-    [
-      "weather-jojo",
-      "Weather",
-      "Weather Report",
-      "weather-report"
-    ],
-    [
-      "pucci-jojo",
-      "Pucci",
-      "Enrico Pucci",
-      "enrico-pucci"
-    ],
-    [
-      "jolyne-jojo",
-      "Jolyne",
-      "Jolyne Cujoh",
-      "jolyne-cujoh"
-    ],
-    [
-      "kars-jojo",
-      "Kars",
-      "Kars",
-      "kars"
-    ],
-    [
-      "wamuu-jojo",
-      "Wamuu",
-      "Wamuu",
-      "wamuu"
-    ],
-    [
       "esidisi-jojo",
       "Esidisi",
       "Esidisi",
@@ -2873,22 +1127,10 @@
       "dio-brando"
     ],
     [
-      "kira-jojo",
-      "Kira",
-      "Yoshikage Kira",
-      "yoshikage-kira"
-    ],
-    [
       "caesar-jojo",
       "Caesar",
       "Caesar Zeppeli",
       "caesar-zeppeli"
-    ],
-    [
-      "lisa-lisa-jojo",
-      "Lisa Lisa",
-      "Lisa Lisa",
-      "lisa-lisa"
     ],
     [
       "stroheim-jojo",
@@ -2903,58 +1145,16 @@
       "mohammed-avdol"
     ],
     [
-      "iggie-jojo",
-      "Iggy",
-      "Iggy",
-      "iggie"
-    ],
-    [
-      "vanilla-ice-jojo",
-      "Vanilla Ice",
-      "Vanilla Ice",
-      "vanilla-ice"
-    ],
-    [
-      "koichi-jojo",
-      "Koichi",
-      "Koichi Hirose",
-      "koichi-hirose"
-    ],
-    [
-      "yukako-jojo",
-      "Yukako",
-      "Yukako Yamagishi",
-      "yukako-yamagishi"
-    ],
-    [
       "angelo-jojo",
       "Angelo",
       "Angelo",
       "angelo"
     ],
     [
-      "reimi-jojo",
-      "Reimi",
-      "Reimi Sugimoto",
-      "reimi-sugimoto"
-    ],
-    [
-      "mista-jojo",
-      "Mista",
-      "Guido Mista",
-      "guido-mista"
-    ],
-    [
       "abbacchio-jojo",
       "Abbacchio",
       "Leone Abbacchio",
       "leone-abbacchio"
-    ],
-    [
-      "trish-jojo",
-      "Trish",
-      "Trish Una",
-      "trish-una"
     ],
     [
       "fugo-jojo",
@@ -2985,62 +1185,14 @@
       "Diego",
       "Diego Brando",
       "diego-brando"
-    ],
-    [
-      "hot-pants-jojo",
-      "Hot Pants",
-      "Hot Pants",
-      "hot-pants"
-    ],
-    [
-      "lucy-jojo",
-      "Lucy",
-      "Lucy Steel",
-      "lucy-steel"
     ]
   ],
   "Chainsaw Man": [
-    [
-      "power-csm",
-      "Power",
-      "Power",
-      "power"
-    ],
     [
       "aki-csm",
       "Aki",
       "Aki Hayakawa",
       "aki-hayakawa"
-    ],
-    [
-      "kobeni-csm",
-      "Kobeni",
-      "Kobeni Higashiyama",
-      "kobeni-higashiyama"
-    ],
-    [
-      "himeno-csm",
-      "Himeno",
-      "Himeno",
-      "himeno"
-    ],
-    [
-      "reze-csm",
-      "Reze",
-      "Reze",
-      "reze"
-    ],
-    [
-      "quanxi-csm",
-      "Quanxi",
-      "Quanxi",
-      "quanxi"
-    ],
-    [
-      "kishibe-csm",
-      "Kishibe",
-      "Kishibe",
-      "kishibe"
     ],
     [
       "denji-chainsaw-csm",
@@ -3059,12 +1211,6 @@
       "Beam",
       "Beam",
       "beam"
-    ],
-    [
-      "yoru-csm",
-      "Yoru",
-      "Yoru",
-      "yoru"
     ],
     [
       "asakura-csm",
@@ -3117,12 +1263,6 @@
       "genos"
     ],
     [
-      "tatsumaki-opm",
-      "Tatsumaki",
-      "Tatsumaki",
-      "tatsumaki"
-    ],
-    [
       "fubuki-opm",
       "Fubuki",
       "Fubuki",
@@ -3159,34 +1299,16 @@
       "child-emperor"
     ],
     [
-      "metal-knight-opm",
-      "Metal Knight",
-      "Metal Knight",
-      "metal-knight"
-    ],
-    [
       "drive-knight-opm",
       "Drive Knight",
       "Drive Knight",
       "drive-knight"
     ],
     [
-      "orochi-opm",
-      "Orochi",
-      "Orochi",
-      "orochi"
-    ],
-    [
       "boros-opm",
       "Boros",
       "Boros",
       "boros"
-    ],
-    [
-      "psycho-opm",
-      "Psykos",
-      "Psykos",
-      "psykos"
     ],
     [
       "black-sperm-opm",
@@ -3233,12 +1355,6 @@
       "ban"
     ],
     [
-      "king-sds",
-      "King",
-      "King (Seven Deadly Sins)",
-      "king"
-    ],
-    [
       "diane-sds",
       "Diane",
       "Diane",
@@ -3249,12 +1365,6 @@
       "Escanor",
       "Escanor",
       "escanor"
-    ],
-    [
-      "merlin-sds",
-      "Merlin",
-      "Merlin",
-      "merlin"
     ],
     [
       "gowther-sds",
@@ -3269,34 +1379,10 @@
       "estarossa"
     ],
     [
-      "zeldris-sds",
-      "Zeldris",
-      "Zeldris",
-      "zeldris"
-    ],
-    [
-      "melascula-sds",
-      "Melascula",
-      "Melascula",
-      "melascula"
-    ],
-    [
-      "grayroad-sds",
-      "Grayroad",
-      "Grayroad",
-      "grayroad"
-    ],
-    [
       "derieri-sds",
       "Derieri",
       "Derieri",
       "derieri"
-    ],
-    [
-      "monspeet-sds",
-      "Monspeet",
-      "Monspeet",
-      "monspeet"
     ],
     [
       "galand-sds",
@@ -3331,40 +1417,16 @@
   ],
   "Sword Art Online": [
     [
-      "klein-sao",
-      "Klein",
-      "Klein",
-      "klein"
-    ],
-    [
       "agil-sao",
       "Agil",
       "Agil",
       "agil"
     ],
     [
-      "sinon-sao",
-      "Sinon",
-      "Sinon",
-      "sinon"
-    ],
-    [
       "yuuki-sao",
       "Yuuki",
       "Yuuki Konno",
       "yuuki-konno"
-    ],
-    [
-      "leafa-sao",
-      "Leafa",
-      "Suguha Kirigaya",
-      "suguha-kirigaya"
-    ],
-    [
-      "yui-sao",
-      "Yui",
-      "Yui",
-      "yui"
     ],
     [
       "beter-sao",
@@ -3441,76 +1503,16 @@
   ],
   "Tokyo Ghoul": [
     [
-      "touka-tg",
-      "Touka",
-      "Touka Kirishima",
-      "touka-kirishima"
-    ],
-    [
-      "hide-tg",
-      "Hide",
-      "Hideyoshi Nagachika",
-      "hideyoshi-nagachika"
-    ],
-    [
-      "juuzou-tg",
-      "Juuzou",
-      "Juuzou Suzuya",
-      "juuzou-suzuya"
-    ],
-    [
       "utsumi-tg",
       "Uta",
       "Uta",
       "uta"
     ],
     [
-      "shuu-tg",
-      "Shuu",
-      "Shuu Tsukiyama",
-      "shuu-tsukiyama"
-    ],
-    [
-      "noro-tg",
-      "Noro",
-      "Noro",
-      "noro"
-    ],
-    [
-      "naki-tg",
-      "Naki",
-      "Naki",
-      "naki"
-    ],
-    [
-      "takizawa-tg",
-      "Takizawa",
-      "Kuki Takizawa",
-      "kuki-takizawa"
-    ],
-    [
       "furuta-tg",
       "Furuta",
       "Nimura Furuta",
       "nimura-furuta"
-    ],
-    [
-      "roma-tg",
-      "Roma",
-      "Roma Hoito",
-      "roma-hoito"
-    ],
-    [
-      "kuzen-tg",
-      "Kuzen",
-      "Kuzen Yoshimura",
-      "kuzen-yoshimura"
-    ],
-    [
-      "yoshimura-tg",
-      "Yoshimura",
-      "Yoshimura",
-      "yoshimura"
     ],
     [
       "naki-re-tg",
@@ -3545,24 +1547,6 @@
   ],
   "Code Geass": [
     [
-      "suzaku-geass",
-      "Suzaku",
-      "Suzaku Kururugi",
-      "suzaku-kururugi"
-    ],
-    [
-      "kallen-geass",
-      "Kallen",
-      "Kallen Stadtfeld",
-      "kallen-stadtfeld"
-    ],
-    [
-      "jeremiah-geass",
-      "Jeremiah",
-      "Jeremiah Gottwald",
-      "jeremiah-gottwald"
-    ],
-    [
       "cornelia-geass",
       "Cornelia",
       "Cornelia li Britannia",
@@ -3575,52 +1559,16 @@
       "lelouch-lamperouge"
     ],
     [
-      "schneizel-geass",
-      "Schneizel",
-      "Schneizel el Britannia",
-      "schneizel-el-britannia"
-    ],
-    [
       "bismarck-geass",
       "Bismarck",
       "Bismarck Waldstein",
       "bismarck-waldstein"
     ],
     [
-      "monica-geass",
-      "Monica",
-      "Monica Krushevsky",
-      "monica-krushevsky"
-    ],
-    [
-      "luciano-geass",
-      "Luciano",
-      "Luciano Bradley",
-      "luciano-bradley"
-    ],
-    [
-      "vv-geass",
-      "V.V.",
-      "V.V.",
-      "vv"
-    ],
-    [
       "charles-geass",
       "Charles",
       "Charles zi Britannia",
       "charles-zi-britannia"
-    ],
-    [
-      "marianne-geass",
-      "Marianne",
-      "Marianne vi Britannia",
-      "marianne-vi-britannia"
-    ],
-    [
-      "nunnally-geass",
-      "Nunnally",
-      "Nunnally vi Britannia",
-      "nunnally-vi-britannia"
     ],
     [
       "lloyd-geass",
@@ -3649,24 +1597,6 @@
   ],
   "Mob Psycho 100": [
     [
-      "reigen-mob",
-      "Reigen",
-      "Arataka Reigen",
-      "arataka-reigen"
-    ],
-    [
-      "ritsu-mob",
-      "Ritsu",
-      "Ritsu Kageyama",
-      "ritsu-kageyama"
-    ],
-    [
-      "teru-mob",
-      "Teru",
-      "Teruki Hanazawa",
-      "teruki-hanazawa"
-    ],
-    [
       "dimple-mob",
       "Dimple",
       "Dimple",
@@ -3685,12 +1615,6 @@
       "keiji-mogami"
     ],
     [
-      "mogami-mob",
-      "Mogami",
-      "Keiji Mogami",
-      "keiji-mogami"
-    ],
-    [
       "mob-100-mob",
       "Mob",
       "Shigeo Kageyama",
@@ -3703,28 +1627,10 @@
       "toichiro-suzuki"
     ],
     [
-      "claw-boss-mob",
-      "Udo",
-      "Udo Daisuke",
-      "udo-daisuke"
-    ],
-    [
       "scar-mob",
       "Scar",
       "Scar",
       "scar"
-    ],
-    [
-      "izumi-mob",
-      "Izumi",
-      "Izumi",
-      "izumi"
-    ],
-    [
-      "minori-mob",
-      "Minori",
-      "Minori Asagiri",
-      "minori-asagiri"
     ],
     [
       "musashi-mob",
@@ -3741,103 +1647,25 @@
   ],
   "Death Note": [
     [
-      "misa-dn",
-      "Misa",
-      "Misa Amane",
-      "misa-amane"
+      "l-lawliet",
+      "L",
+      "L (Death Note)",
+      "l"
     ],
     [
-      "near-dn",
-      "Near",
-      "Near",
-      "near"
-    ],
-    [
-      "mello-dn",
-      "Mello",
-      "Mello",
-      "mello"
-    ],
-    [
-      "soichiro-dn",
-      "Soichiro",
-      "Soichiro Yagami",
-      "soichiro-yagami"
-    ],
-    [
-      "watari-dn",
-      "Watari",
-      "Watari",
-      "watari"
-    ],
-    [
-      "rem-dn",
-      "Rem",
-      "Rem",
-      "rem"
-    ],
-    [
-      "gelus-dn",
-      "Gelus",
-      "Gelus",
-      "gelus"
-    ],
-    [
-      "sidoh-dn",
-      "Sidoh",
-      "Sidoh",
-      "sidoh"
-    ],
-    [
-      "teru-mikami-dn",
-      "Mikami",
-      "Teru Mikami",
-      "teru-mikami"
-    ],
-    [
-      "higuchi-dn",
-      "Higuchi",
-      "Kyosuke Higuchi",
-      "kyosuke-higuchi"
-    ],
-    [
-      "shinigami-dn",
-      "Ryuk",
-      "Ryuk",
-      "ryuk"
-    ],
-    [
-      "light-dn",
+      "light-yagami",
       "Light",
       "Light Yagami",
       "light-yagami"
     ],
     [
-      "l-dn",
-      "L",
-      "L",
-      "l"
+      "ryuk-dn",
+      "Ryuk",
+      "Ryuk",
+      "ryuk"
     ]
   ],
   "Dr. Stone": [
-    [
-      "tsukasa-stone",
-      "Tsukasa",
-      "Tsukasa Shishio",
-      "tsukasa-shishio"
-    ],
-    [
-      "hyoga-stone",
-      "Hyoga",
-      "Hyoga",
-      "hyoga"
-    ],
-    [
-      "kohaku-stone",
-      "Kohaku",
-      "Kohaku",
-      "kohaku"
-    ],
     [
       "chrome-stone",
       "Chrome",
@@ -3851,58 +1679,10 @@
       "gen-asagiri"
     ],
     [
-      "taiju-stone",
-      "Taiju",
-      "Taiju Oki",
-      "taiju-oki"
-    ],
-    [
-      "yuzuriha-stone",
-      "Yuzuriha",
-      "Yuzuriha Ogawa",
-      "yuzuriha-ogawa"
-    ],
-    [
-      "magma-stone",
-      "Magma",
-      "Magma",
-      "magma"
-    ],
-    [
-      "kinro-stone",
-      "Kinro",
-      "Kinro",
-      "kinro"
-    ],
-    [
       "genshin-stone",
       "Ginro",
       "Ginro",
       "ginro"
-    ],
-    [
-      "ryusui-stone",
-      "Ryusui",
-      "Ryusui Nanami",
-      "ryusui-nanami"
-    ],
-    [
-      "whyman-stone",
-      "Whyman",
-      "Whyman",
-      "whyman"
-    ],
-    [
-      "stanley-stone",
-      "Stanley",
-      "Stanley Snyder",
-      "stanley-snyder"
-    ],
-    [
-      "xeno-stone",
-      "Xeno",
-      "Xeno Houston Wingfield",
-      "xeno-houston-wingfield"
     ],
     [
       "senku-stone",
@@ -3913,46 +1693,10 @@
   ],
   "That Time I Got Reincarnated as a Slime": [
     [
-      "benimaru-slime",
-      "Benimaru",
-      "Benimaru",
-      "benimaru"
-    ],
-    [
-      "shion-slime",
-      "Shion",
-      "Shion",
-      "shion"
-    ],
-    [
-      "shuna-slime",
-      "Shuna",
-      "Shuna",
-      "shuna"
-    ],
-    [
       "diablo-slime",
       "Diablo",
       "Diablo",
       "diablo"
-    ],
-    [
-      "ramiris-slime",
-      "Ramiris",
-      "Ramiris",
-      "ramiris"
-    ],
-    [
-      "veldora-slime",
-      "Veldora",
-      "Veldora Tempest",
-      "veldora-tempest"
-    ],
-    [
-      "milim-slime",
-      "Milim",
-      "Milim Nava",
-      "milim-nava"
     ],
     [
       "carrion-slime",
@@ -3967,52 +1711,10 @@
       "frey"
     ],
     [
-      "laplace-slime",
-      "Laplace",
-      "Laplace",
-      "laplace"
-    ],
-    [
-      "fool-slime",
-      "Fool",
-      "Fool",
-      "fool"
-    ],
-    [
       "clayman-slime",
       "Clayman",
       "Clayman",
       "clayman"
-    ],
-    [
-      "dino-slime",
-      "Dino",
-      "Dino",
-      "dino"
-    ],
-    [
-      "velgrynd-slime",
-      "Velgrynd",
-      "Velgrynd",
-      "velgrynd"
-    ],
-    [
-      "velzard-slime",
-      "Velzard",
-      "Velzard",
-      "velzard"
-    ],
-    [
-      "guy-crimson-slime",
-      "Guy",
-      "Guy Crimson",
-      "guy-crimson"
-    ],
-    [
-      "leon-slime",
-      "Leon",
-      "Luminous Valentine",
-      "luminous-valentine"
     ],
     [
       "dagruel-slime",
@@ -4033,58 +1735,16 @@
       "elmesia"
     ],
     [
-      "hakurou-slime",
-      "Hakurou",
-      "Hakurou (That Time I Got Reincarnated as a Slime)",
-      "hakurou"
-    ],
-    [
-      "souei-slime",
-      "Souei",
-      "Souei",
-      "souei"
-    ],
-    [
       "gobta-slime",
       "Gobta",
       "Gobta",
       "gobta"
     ],
     [
-      "ranga-slime",
-      "Ranga",
-      "Ranga (That Time I Got Reincarnated as a Slime)",
-      "ranga"
-    ],
-    [
       "geld-slime",
       "Geld",
       "Geld (That Time I Got Reincarnated as a Slime)",
       "geld"
-    ],
-    [
-      "kurobe-slime",
-      "Kurobe",
-      "Kurobe (That Time I Got Reincarnated as a Slime)",
-      "kurobe"
-    ],
-    [
-      "rigurd-slime",
-      "Rigurd",
-      "Rigurd",
-      "rigurd"
-    ],
-    [
-      "testarossa-slime",
-      "Testarossa",
-      "Testarossa (That Time I Got Reincarnated as a Slime)",
-      "testarossa"
-    ],
-    [
-      "ultima-slime",
-      "Ultima",
-      "Ultima (That Time I Got Reincarnated as a Slime)",
-      "ultima"
     ]
   ],
   "Fire Force": [
@@ -4095,64 +1755,10 @@
       "arrow"
     ],
     [
-      "haumea-fire-force",
-      "Haumea",
-      "Haumea",
-      "haumea"
-    ],
-    [
       "charon-fire-force",
       "Charon",
       "Charon",
       "charon"
-    ],
-    [
-      "joker-fire-force",
-      "Joker",
-      "Joker",
-      "joker"
-    ],
-    [
-      "licht-fire-force",
-      "Licht",
-      "Yuu",
-      "yuu"
-    ],
-    [
-      "toru-fire-force",
-      "Toru",
-      "Toru",
-      "toru"
-    ],
-    [
-      "ivan-fire-force",
-      "Iris",
-      "Iris",
-      "iris"
-    ],
-    [
-      "konro-fire-force",
-      "Konro",
-      "Konro Sagamihara",
-      "konro-sagamihara"
-    ],
-    [
-      "hikeshi-fire-force",
-      "Hibana",
-      "Hibana",
-      "hibana"
-    ],
-    [
-      "tamaki-fire-force",
-      "Tamaki",
-      "Tamaki Kotatsu",
-      "tamaki-kotatsu"
-    ],
-    [
-      "maki-fire-force",
-      "Maki",
-      "Maki Oze",
-      "maki-oze"
     ],
     [
       "obanai-fire-force",
@@ -4187,28 +1793,10 @@
       "canute"
     ],
     [
-      "thorkell-vinland",
-      "Thorkell",
-      "Thorkell",
-      "thorkell"
-    ],
-    [
       "bjorn-vinland",
       "Bjorn",
       "Bjorn",
       "bjorn"
-    ],
-    [
-      "gudrid-vinland",
-      "Gudrid",
-      "Gudrid",
-      "gudrid"
-    ],
-    [
-      "hild-vinland",
-      "Hild",
-      "Hild",
-      "hild"
     ],
     [
       "einar-vinland",
@@ -4217,34 +1805,10 @@
       "einar"
     ],
     [
-      "ketil-vinland",
-      "Ketil",
-      "Ketil",
-      "ketil"
-    ],
-    [
-      "snake-vinland",
-      "Snake",
-      "Snake",
-      "snake"
-    ],
-    [
-      "olaf-vinland",
-      "Olaf",
-      "Olaf",
-      "olaf"
-    ],
-    [
       "floki-vinland",
       "Floki",
       "Floki",
       "floki"
-    ],
-    [
-      "ragnar-vinland",
-      "Ragnar",
-      "Ragnar",
-      "ragnar"
     ],
     [
       "thors-vinland",
@@ -4261,34 +1825,10 @@
   ],
   "Kuroko's Basketball": [
     [
-      "kagami-kuroko",
-      "Kagami",
-      "Taiga Kagami",
-      "taiga-kagami"
-    ],
-    [
-      "kise-kuroko",
-      "Kise",
-      "Ryota Kise",
-      "ryota-kise"
-    ],
-    [
-      "midorima-kuroko",
-      "Midorima",
-      "Shintaro Midorima",
-      "shintaro-midorima"
-    ],
-    [
       "aomine-kuroko",
       "Aomine",
       "Daiki Aomine",
       "daiki-aomine"
-    ],
-    [
-      "murakami-kuroko",
-      "Murashiki",
-      "Murashiki Juso",
-      "murashiki-juso"
     ],
     [
       "akashi-kuroko",
@@ -4297,46 +1837,10 @@
       "seijuro-akashi"
     ],
     [
-      "murasakibara-kuroko",
-      "Murasakibara",
-      "Atsushi Murasakibara",
-      "atsushi-murasakibara"
-    ],
-    [
       "kuroko-kuroko",
       "Kuroko",
       "Tetsuya Kuroko",
       "tetsuya-kuroko"
-    ],
-    [
-      "himuro-kuroko",
-      "Himuro",
-      "Tatsuya Himuro",
-      "tatsuya-himuro"
-    ],
-    [
-      "mayuzumi-kuroko",
-      "Mayuzumi",
-      "Chihiro Mayuzumi",
-      "chihiro-mayuzumi"
-    ],
-    [
-      "haizaki-kuroko",
-      "Haizaki",
-      "Kotaro Haizaki",
-      "kotaro-haizaki"
-    ],
-    [
-      "nashida-kuroko",
-      "Nashida",
-      "Kazunari Takao",
-      "kazunari-takao"
-    ],
-    [
-      "mibuchi-kuroko",
-      "Mibuchi",
-      "Reo Mibuchi",
-      "reo-mibuchi"
     ],
     [
       "nebuya-kuroko",
@@ -4365,64 +1869,10 @@
   ],
   "Record of Ragnarok": [
     [
-      "loki-record",
-      "Loki",
-      "Loki (Record of Ragnarok)",
-      "loki"
-    ],
-    [
-      "hercules-record",
-      "Hercules",
-      "Hercules (Record of Ragnarok)",
-      "hercules"
-    ],
-    [
-      "jack-record",
-      "Jack",
-      "Jack the Ripper (Record of Ragnarok)",
-      "jack-the-ripper"
-    ],
-    [
-      "kami-record",
-      "Kojiro",
-      "Kojiro Sasaki",
-      "kojiro-sasaki"
-    ],
-    [
-      "qin-record",
-      "Qin",
-      "Qin Shi Huang",
-      "qin-shi-huang"
-    ],
-    [
-      "nikola-record",
-      "Tesla",
-      "Nikola Tesla",
-      "nikola-tesla"
-    ],
-    [
-      "sakata-record",
-      "Musashi",
-      "Miyamoto Musashi",
-      "miyamoto-musashi"
-    ],
-    [
-      "leonidas-record",
-      "Leonidas",
-      "Leonidas",
-      "leonidas"
-    ],
-    [
       "buddha-record-2",
       "Buddha",
       "Buddha (Record of Ragnarok)",
       "buddha"
-    ],
-    [
-      "poseidon-record",
-      "Poseidon",
-      "Poseidon (Record of Ragnarok)",
-      "poseidon"
     ],
     [
       "hades-record",
@@ -4457,18 +1907,6 @@
   ],
   "Solo Leveling": [
     [
-      "igris-sl",
-      "Igris",
-      "Igris",
-      "igris"
-    ],
-    [
-      "tank-sl",
-      "Tank",
-      "Tank",
-      "tank"
-    ],
-    [
       "shadow-monarch-sl",
       "Sung Jinwoo",
       "Sung Jinwoo (Monarch)",
@@ -4481,40 +1919,10 @@
       "go-gunhee"
     ],
     [
-      "thomas-sl",
-      "Thomas Andre",
-      "Thomas Andre",
-      "thomas-andre"
-    ],
-    [
-      "liu-sl",
-      "Liu Zhigang",
-      "Liu Zhigang",
-      "liu-zhigang"
-    ],
-    [
-      "siddharth-sl",
-      "Siddharth",
-      "Siddharth",
-      "siddharth"
-    ],
-    [
       "baran-sl",
       "Baran",
       "Baran",
       "baran"
-    ],
-    [
-      "rakan-sl",
-      "Rakan",
-      "Rakan",
-      "rakan"
-    ],
-    [
-      "tank-commander-sl",
-      "Kaisel",
-      "Kaisel",
-      "kaisel"
     ],
     [
       "igris-commander-sl",
@@ -4549,121 +1957,13 @@
   ],
   "Gintama": [
     [
-      "gintoki-gintama",
+      "sakata-gintoki",
       "Gintoki",
       "Gintoki Sakata",
       "gintoki-sakata"
-    ],
-    [
-      "shinpachi-gintama",
-      "Shinpachi",
-      "Shinpachi Shimura",
-      "shinpachi-shimura"
-    ],
-    [
-      "kagura-gintama",
-      "Kagura",
-      "Kagura",
-      "kagura"
-    ],
-    [
-      "sogo-gintama",
-      "Sougo",
-      "Sougo Okita",
-      "sougo-okita"
-    ],
-    [
-      "kondo-gintama",
-      "Kondo",
-      "Isao Kondo",
-      "isao-kondo"
-    ],
-    [
-      "hijikata-gintama",
-      "Hijikata",
-      "Toshiro Hijikata",
-      "toshiro-hijikata"
-    ],
-    [
-      "yamazaki-gintama",
-      "Yamazaki",
-      "Sagaru Yamazaki",
-      "sagaru-yamazaki"
-    ],
-    [
-      "matsudaira-gintama",
-      "Matsudaira",
-      "Heiji Matsudaira",
-      "heiji-matsudaira"
-    ],
-    [
-      "otae-gintama",
-      "Otae",
-      "Otae Shimura",
-      "otae-shimura"
-    ],
-    [
-      "tsukuyo-gintama",
-      "Tsukuyo",
-      "Tsukuyo",
-      "tsukuyo"
-    ],
-    [
-      "nobunobu-gintama",
-      "Nobunobu",
-      "Shigeshige Tokugawa",
-      "shigeshige-tokugawa"
-    ],
-    [
-      "takasugi-gintama",
-      "Takasugi",
-      "Shinsuke Takasugi",
-      "shinsuke-takasugi"
-    ],
-    [
-      "katsura-gintama",
-      "Katsura",
-      "Kotaro Katsura",
-      "kotaro-katsura"
-    ],
-    [
-      "kamui-gintama",
-      "Kamui",
-      "Kamui",
-      "kamui"
-    ],
-    [
-      "abuto-gintama",
-      "Abuto",
-      "Abuto",
-      "abuto"
-    ],
-    [
-      "housen-gintama",
-      "Hosen",
-      "Housen",
-      "housen"
-    ],
-    [
-      "oboro-gintama",
-      "Oboro",
-      "Oboro",
-      "oboro"
     ]
   ],
   "Akame ga Kill": [
-    [
-      "mine-aga",
-      "Mine",
-      "Mine",
-      "mine"
-    ],
-    [
-      "leone-aga",
-      "Leone",
-      "Leone",
-      "leone"
-    ],
     [
       "chelsea-aga",
       "Chelsea",
@@ -4671,28 +1971,10 @@
       "chelsea"
     ],
     [
-      "lubbock-aga",
-      "Lubbock",
-      "Lubbock",
-      "lubbock"
-    ],
-    [
-      "sheele-aga",
-      "Sheele",
-      "Sheele",
-      "sheele"
-    ],
-    [
       "bulat-aga",
       "Bulat",
       "Bulat",
       "bulat"
-    ],
-    [
-      "najenda-aga",
-      "Najenda",
-      "Najenda",
-      "najenda"
     ],
     [
       "budo-aga",
@@ -4721,58 +2003,10 @@
   ],
   "Assassination Classroom": [
     [
-      "nagisa-ac",
-      "Nagisa",
-      "Nagisa Shiota",
-      "nagisa-shiota"
-    ],
-    [
-      "karma-ac",
-      "Karma",
-      "Karma Akabane",
-      "karma-akabane"
-    ],
-    [
-      "irina-ac",
-      "Irina",
-      "Irina Jelavic",
-      "irina-jelavic"
-    ],
-    [
-      "karasuma-ac",
-      "Karasuma",
-      "Tadaomi Karasuma",
-      "tadaomi-karasuma"
-    ],
-    [
       "principal-ac",
       "Asano",
       "Gakuho Asano",
       "gakuho-asano"
-    ],
-    [
-      "itos-ac",
-      "Itona",
-      "Itona Horibe",
-      "itona-horibe"
-    ],
-    [
-      "shiro-ac",
-      "Shiro",
-      "Shiro",
-      "shiro"
-    ],
-    [
-      "red-guts-ac",
-      "Red Guts",
-      "Red Guts",
-      "red-guts"
-    ],
-    [
-      "rio-ac",
-      "Rio",
-      "Rio Nakamura",
-      "rio-nakamura"
     ],
     [
       "kaede-ac",
@@ -4782,36 +2016,6 @@
     ]
   ],
   "Haikyuu!!": [
-    [
-      "kageyama-haikyuu",
-      "Kageyama",
-      "Tobio Kageyama",
-      "tobio-kageyama"
-    ],
-    [
-      "tsukishima-haikyuu",
-      "Tsukishima",
-      "Kei Tsukishima",
-      "kei-tsukishima"
-    ],
-    [
-      "nishinoya-haikyuu",
-      "Nishinoya",
-      "Yu Nishinoya",
-      "yu-nishinoya"
-    ],
-    [
-      "tanaka-haikyuu",
-      "Tanaka",
-      "Ryunosuke Tanaka",
-      "ryunosuke-tanaka"
-    ],
-    [
-      "sugawara-haikyuu",
-      "Sugawara",
-      "Koshi Sugawara",
-      "koshi-sugawara"
-    ],
     [
       "daichi-haikyuu",
       "Daichi",
@@ -4863,22 +2067,10 @@
       "albedo"
     ],
     [
-      "shalltear-overlord",
-      "Shalltear",
-      "Shalltear Bloodfallen",
-      "shalltear-bloodfallen"
-    ],
-    [
       "demiurge-overlord",
       "Demiurge",
       "Demiurge",
       "demiurge"
-    ],
-    [
-      "mare-overlord",
-      "Mare",
-      "Mare Bello Fiore",
-      "mare-bello-fiore"
     ],
     [
       "aura-overlord",
@@ -4891,12 +2083,6 @@
       "Cocytus",
       "Cocytus",
       "cocytus"
-    ],
-    [
-      "sebas-overlord",
-      "Sebas",
-      "Sebas Tian",
-      "sebas-tian"
     ],
     [
       "jaldabaoth-overlord",
@@ -4925,52 +2111,10 @@
       "eris-boreas-greyrat"
     ],
     [
-      "roxy-mushoku",
-      "Roxy",
-      "Roxy Migurdia",
-      "roxy-migurdia"
-    ],
-    [
-      "sylphie-mushoku",
-      "Sylphie",
-      "Sylphiette",
-      "sylphiette"
-    ],
-    [
       "ghislaine-mushoku",
       "Ghislaine",
       "Ghislaine Dedoldia",
       "ghislaine-dedoldia"
-    ],
-    [
-      "orsted-mushoku",
-      "Orsted",
-      "Orsted",
-      "orsted"
-    ],
-    [
-      "hitrus-mushoku",
-      "Hitogami",
-      "Hitogami",
-      "hitogami"
-    ],
-    [
-      "lilia-mushoku",
-      "Lilia",
-      "Lilia Greyrat",
-      "lilia-greyrat"
-    ],
-    [
-      "paul-mushoku",
-      "Paul",
-      "Paul Greyrat",
-      "paul-greyrat"
-    ],
-    [
-      "zenith-mushoku",
-      "Zenith",
-      "Zenith Greyrat",
-      "zenith-greyrat"
     ],
     [
       "rudeus-mushoku",
@@ -4981,64 +2125,10 @@
   ],
   "The Disastrous Life of Saiki K": [
     [
-      "teruhashi-saiki",
-      "Teruhashi",
-      "Kokomi Teruhashi",
-      "kokomi-teruhashi"
-    ],
-    [
-      "kaido-saiki",
-      "Kaido",
-      "Shun Kaido",
-      "shun-kaido"
-    ],
-    [
-      "nendou-saiki",
-      "Nendou",
-      "Riki Nendou",
-      "riki-nendou"
-    ],
-    [
-      "hairo-saiki",
-      "Hairo",
-      "Reita Toriihara",
-      "reita-toriihara"
-    ],
-    [
-      "saiki-saiki",
+      "kusuo-saiki",
       "Saiki",
       "Kusuo Saiki",
       "kusuo-saiki"
-    ],
-    [
-      "kunihisa-saiki",
-      "Kunihisa",
-      "Kunihisa Baba",
-      "kunihisa-baba"
-    ],
-    [
-      "maki-saiki",
-      "Maki",
-      "Maki Komuro",
-      "maki-komuro"
-    ],
-    [
-      "toru-saiki",
-      "Toru",
-      "Toru",
-      "toru"
-    ],
-    [
-      "chiyo-saiki",
-      "Chiyo",
-      "Chiyo",
-      "chiyo"
-    ],
-    [
-      "aiura-saiki",
-      "Aiura",
-      "Mikoto Aiura",
-      "mikoto-aiura"
     ]
   ],
   "Mashle": [
@@ -5055,46 +2145,16 @@
       "finn-ames"
     ],
     [
-      "lance-mashle",
-      "Lance",
-      "Lance Crown",
-      "lance-crown"
-    ],
-    [
       "dot-mashle",
       "Dot",
       "Dot Barrett",
       "dot-barrett"
     ],
     [
-      "rayne-mashle",
-      "Rayne",
-      "Rayne Ames",
-      "rayne-ames"
-    ],
-    [
-      "innocent-zero-mashle",
-      "Innocent Zero",
-      "Innocent Zero",
-      "innocent-zero"
-    ],
-    [
-      "dom-mashle",
-      "Dom",
-      "Dom",
-      "dom"
-    ],
-    [
       "mash-demon-mashle",
       "Mash",
       "Mash Burnedead (Demon)",
       "mash-burnedead"
-    ],
-    [
-      "seraphy-mashle",
-      "Seraphy",
-      "Seraphy",
-      "seraphy"
     ],
     [
       "margaret-mashle",
@@ -5104,36 +2164,6 @@
     ]
   ],
   "Hajime no Ippo": [
-    [
-      "miyata-ippo",
-      "Miyata",
-      "Ichiro Miyata",
-      "ichiro-miyata"
-    ],
-    [
-      "takamura-ippo",
-      "Takamura",
-      "Mamoru Takamura",
-      "mamoru-takamura"
-    ],
-    [
-      "sendo-ippo",
-      "Sendo",
-      "Takeshi Sendo",
-      "takeshi-sendo"
-    ],
-    [
-      "sawamura-ippo",
-      "Sawamura",
-      "Ryuichi Sawamura",
-      "ryuichi-sawamura"
-    ],
-    [
-      "volg-ippo",
-      "Volg",
-      "Wally Volg",
-      "wally-volg"
-    ],
     [
       "bryan-ippo",
       "Bryan",
@@ -5145,12 +2175,6 @@
       "Date",
       "Eiji Date",
       "eiji-date"
-    ],
-    [
-      "kamogawa-ippo",
-      "Kamogawa",
-      "Genji Kamogawa",
-      "genji-kamogawa"
     ],
     [
       "aoki-ippo",
@@ -5167,58 +2191,16 @@
   ],
   "Baki": [
     [
-      "yujiro-baki",
-      "Yujiro",
-      "Yujiro Hanma",
-      "yujiro-hanma"
-    ],
-    [
-      "jack-baki",
-      "Jack",
-      "Jack Hanma",
-      "jack-hanma"
-    ],
-    [
       "doppo-baki",
       "Doppo",
       "Doppo Orochi",
       "doppo-orochi"
     ],
     [
-      "sukune-baki",
-      "Sukune",
-      "Nomi no Sukune",
-      "nomi-no-sukune"
-    ],
-    [
-      "pickle-baki",
-      "Pickle",
-      "Pickle",
-      "pickle"
-    ],
-    [
-      "musashi-baki",
-      "Musashi",
-      "Miyamoto Musashi (Baki)",
-      "miyamoto-musashi"
-    ],
-    [
-      "kaoru-baki",
-      "Kaoru",
-      "Kaoru Hanayama",
-      "kaoru-hanayama"
-    ],
-    [
       "rin-baki",
       "Rin",
       "Kaoru Hanayama",
       "kaoru-hanayama"
-    ],
-    [
-      "spec-baki",
-      "Spec",
-      "Spec",
-      "spec"
     ],
     [
       "doyle-baki",
@@ -5239,18 +2221,6 @@
       "Agito",
       "Kanoh Agito",
       "kanoh-agito"
-    ],
-    [
-      "himuro-kengan",
-      "Himuro",
-      "Goro Himuro",
-      "goro-himuro"
-    ],
-    [
-      "raian-kengan",
-      "Raian",
-      "Raian Kure",
-      "raian-kure"
     ],
     [
       "kuro-kengan",
@@ -5291,42 +2261,6 @@
   ],
   "Gurren Lagann": [
     [
-      "kamina-gurren",
-      "Kamina",
-      "Kamina",
-      "kamina"
-    ],
-    [
-      "yoko-gurren",
-      "Yoko",
-      "Yoko Littner",
-      "yoko-littner"
-    ],
-    [
-      "rossiu-gurren",
-      "Rossiu",
-      "Rossiu Adai",
-      "rossiu-adai"
-    ],
-    [
-      "viral-gurren",
-      "Viral",
-      "Viral",
-      "viral"
-    ],
-    [
-      "lordgenome-gurren",
-      "Lordgenome",
-      "Lordgenome",
-      "lordgenome"
-    ],
-    [
-      "nias-gurren",
-      "Nia",
-      "Nia Teppelin",
-      "nia-teppelin"
-    ],
-    [
       "ttgl-gurren",
       "TTGL",
       "Tengen Toppa Gurren Lagann",
@@ -5341,55 +2275,7 @@
   ],
   "Parasyte": [
     [
-      "migi-parasyte",
-      "Migi",
-      "Migi",
-      "migi"
-    ],
-    [
-      "gotou-parasyte",
-      "Gotou",
-      "Gotou",
-      "gotou"
-    ],
-    [
-      "uragami-parasyte",
-      "Uragami",
-      "Uragami",
-      "uragami"
-    ],
-    [
-      "reiko-parasyte",
-      "Reiko",
-      "Reiko Tamura",
-      "reiko-tamura"
-    ],
-    [
-      "kana-parasyte",
-      "Kana",
-      "Kana Kimishima",
-      "kana-kimishima"
-    ],
-    [
-      "nogami-parasyte",
-      "Nogami",
-      "Nogami",
-      "nogami"
-    ],
-    [
-      "satomi-parasyte",
-      "Satomi",
-      "Satomi Murano",
-      "satomi-murano"
-    ],
-    [
-      "kana-ryoko-parasyte",
-      "Ryoko",
-      "Ryoko Tamura",
-      "ryoko-tamura"
-    ],
-    [
-      "shinichi-parasyte",
+      "shinichi-izumi",
       "Shinichi",
       "Shinichi Izumi",
       "shinichi-izumi"
@@ -5409,18 +2295,6 @@
       "han-daewi"
     ],
     [
-      "mira-goh",
-      "Mira",
-      "Yoo Mira",
-      "yoo-mira"
-    ],
-    [
-      "ilan-goh",
-      "Il Pyo",
-      "Il Pyo Park",
-      "il-pyo-park"
-    ],
-    [
       "satan-goh",
       "Satan",
       "Satan",
@@ -5433,24 +2307,6 @@
       "uesugi"
     ],
     [
-      "taejin-goh",
-      "Taejin",
-      "Taejin",
-      "taejin"
-    ],
-    [
-      "qigong-goh",
-      "Q",
-      "Q",
-      "q"
-    ],
-    [
-      "odin-goh",
-      "Odin",
-      "Odin (God of High School)",
-      "odin"
-    ],
-    [
       "zeus-goh",
       "Zeus",
       "Zeus (God of High School)",
@@ -5459,120 +2315,18 @@
   ],
   "The Misfit of Demon King Academy": [
     [
-      "misha-misfit",
-      "Misha",
-      "Misha Necron",
-      "misha-necron"
-    ],
-    [
-      "sasha-misfit",
-      "Sasha",
-      "Sasha Necron",
-      "sasha-necron"
-    ],
-    [
-      "lay-glavielle-misfit",
-      "Lay",
-      "Lay Glavielle",
-      "lay-glavielle"
-    ],
-    [
-      "gavel-misfit",
-      "Gael",
-      "Gael",
-      "gael"
-    ],
-    [
-      "medemma-misfit",
-      "Medrio",
-      "Medrio",
-      "medrio"
-    ],
-    [
-      "shin-misfit",
-      "Shin",
-      "Shin",
-      "shin"
-    ],
-    [
       "anos-misfit",
       "Anos",
       "Anos Voldigoad",
       "anos-voldigoad"
-    ],
-    [
-      "zepes-misfit",
-      "Zepes",
-      "Zepes Indu",
-      "zepes-indu"
-    ],
-    [
-      "meli-misfit",
-      "Meli",
-      "Meli",
-      "meli"
-    ],
-    [
-      "gusta-misfit",
-      "Gusta",
-      "Gusta",
-      "gusta"
     ]
   ],
   "Hellsing": [
     [
-      "integra-hellsing",
-      "Integra",
-      "Integra Hellsing",
-      "integra-hellsing"
-    ],
-    [
-      "seras-hellsing",
-      "Seras",
-      "Seras Victoria",
-      "seras-victoria"
-    ],
-    [
-      "anderson-hellsing",
-      "Anderson",
-      "Alexander Anderson",
-      "alexander-anderson"
-    ],
-    [
-      "major-hellsing",
-      "Major",
-      "The Major",
-      "the-major"
-    ],
-    [
-      "schrodinger-hellsing",
-      "Schrödinger",
-      "Schrödinger",
-      "schrodinger"
-    ],
-    [
-      "walter-hellsing",
-      "Walter",
-      "Walter C. Dornez",
-      "walter-c-dornez"
-    ],
-    [
-      "tubalcain-hellsing",
-      "Tubalcain",
-      "Tubalcain Alhambra",
-      "tubalcain-alhambra"
-    ],
-    [
-      "alucard-hellsing",
+      "alucard",
       "Alucard",
-      "Alucard",
+      "Alucard (Hellsing)",
       "alucard"
-    ],
-    [
-      "rip-van-hellsing",
-      "Rip Van",
-      "Rip Van Winkle",
-      "rip-van-winkle"
     ]
   ],
   "Tokyo Revengers": [
@@ -5593,36 +2347,6 @@
       "Chifuyu",
       "Chifuyu Matsuno",
       "chifuyu-matsuno"
-    ],
-    [
-      "kazutora-revengers",
-      "Kazutora",
-      "Kazutora Hanemiya",
-      "kazutora-hanemiya"
-    ],
-    [
-      "kisaki-revengers",
-      "Kisaki",
-      "Tetta Kisaki",
-      "tetta-kisaki"
-    ],
-    [
-      "izana-revengers",
-      "Izana",
-      "Izana Kurokawa",
-      "izana-kurokawa"
-    ],
-    [
-      "south-revengers",
-      "South",
-      "Terano South",
-      "terano-south"
-    ],
-    [
-      "senju-revengers",
-      "Senju",
-      "Kawaragi Senju",
-      "kawaragi-senju"
     ],
     [
       "manjiro-revengers",
