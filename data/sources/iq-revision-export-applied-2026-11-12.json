@@ -3,141 +3,141 @@
   "exportedAt": "2026-11-12T22:20:16.124Z",
   "note": "finalIq is your value (local edits or proposal). Use manual-iq-overrides.json shape in overrides.",
   "overrides": {
-    "acnologia-anime": 50,
+    "acnologia-fairy-tail": 50,
     "adam-record": 66,
-    "ainz-ooal-gown": 82,
+    "ainz-overlord": 82,
     "akame-aga": 58,
     "akaza-demon-slayer": 50,
-    "alice-alicization": 55,
-    "alphonse-elric": 71,
-    "alucard": 85,
+    "alice-sao": 55,
+    "alphonse-fma": 71,
+    "alucard-hellsing": 85,
     "antares-sl": 66,
-    "anti-spiral": 96,
-    "arceus-anime": 90,
-    "arima-kishou": 74,
-    "armin-colossal-anime": 76,
-    "arthur-boyle": 30,
+    "anti-spiral-gurren-lagann": 96,
+    "arceus-pokemon": 90,
+    "arima-tg": 74,
+    "armin-aot": 76,
+    "arthur-fire-force": 30,
     "ashborn-sl": 72,
-    "asta-black": 36,
+    "asta-black-clover": 36,
     "asuna-alicization": 60,
-    "baki-hanma-anime": 71,
-    "ban-snatch": 59,
-    "benimaru-shinmon": 67,
+    "baki": 71,
+    "ban-sds": 59,
+    "benimaru-fire-force": 67,
     "beru-sl": 35,
     "buddha-record": 76,
-    "c-c-geass": 75,
-    "choso": 48,
-    "aomine-daiki": 66,
-    "denji-chainsaw": 30,
-    "dialga-anime": 58,
-    "dio-part-3": 81,
-    "edward-elric": 82,
+    "cc-geass": 75,
+    "choso-jjk": 48,
+    "aomine-kuroko": 66,
+    "denji-csm": 30,
+    "dialga-pokemon": 58,
+    "dio-jojo": 81,
+    "edward-fma": 82,
     "envy-fma": 55,
-    "eren-founding-anime": 58,
-    "erza-scarlet": 64,
-    "esdeath": 62,
-    "eternatus-anime": 55,
-    "eto-yoshimura": 65,
-    "eugeo-alicization": 67,
+    "eren-aot": 58,
+    "erza-fairy-tail": 64,
+    "esdeath-aga": 62,
+    "eternatus-pokemon": 55,
+    "eto-tg": 65,
+    "eugeo-sao": 67,
     "father-fma": 88,
-    "garou": 70,
-    "yamamoto": 68,
-    "gilgamesh-fsn": 68,
-    "giratina-anime": 58,
-    "goku-ssj2": 65,
-    "gon-adult-anime": 69,
+    "garou-opm": 70,
+    "yamamoto-bleach": 68,
+    "gilgamesh-fate": 68,
+    "giratina-pokemon": 58,
+    "goku-dragon-ball": 65,
+    "gon-hxh": 69,
     "greed-fma": 54,
-    "ash-greninja-anime": 54,
-    "primal-groudon-anime": 52,
+    "greninja-pokemon": 54,
+    "groudon-pokemon": 52,
     "hajun-record": 48,
     "hisoka-hxh": 82,
-    "ho-oh-anime": 55,
-    "ichigo-bankai": 70,
+    "ho-oh-pokemon": 55,
+    "ichigo-bleach": 70,
     "inosuke-demon-slayer": 22,
-    "ippo-makunouchi": 58,
+    "ippo": 58,
     "netero-hxh": 69,
-    "deku-100": 64,
-    "jin-mori-anime": 54,
-    "jotaro-part-3": 74,
+    "deku-mha": 64,
+    "mori-goh": 54,
+    "jotaro-jojo": 74,
     "julius-black-clover": 82,
-    "kaneki-ken-anime": 67,
-    "killua-godspeed": 74,
-    "kirito-stacia": 70,
-    "kokushibo-anime": 60,
-    "koro-sensei": 90,
-    "kurapika-emperor": 80,
+    "kaneki-tg": 67,
+    "killua-hxh": 74,
+    "kirito-sao": 70,
+    "kokushibo-demon-slayer": 60,
+    "korosensei-ac": 90,
+    "kurapika-hxh": 80,
     "kuroki-gensai": 77,
-    "kusuo-saiki": 90,
-    "primal-kyogre-anime": 52,
+    "saiki": 90,
+    "kyogre-pokemon": 52,
     "rengoku-demon-slayer": 60,
     "l-lawliet": 97,
-    "lelouch-vi-britannia": 100,
-    "levi-ackerman": 70,
-    "light-yagami": 96,
-    "lugia-anime": 55,
+    "lelouch-geass": 100,
+    "levi-aot": 70,
+    "light-dn": 96,
+    "lugia-pokemon": 55,
     "lust-fma": 55,
-    "madara": 83,
-    "makima": 87,
-    "mikey-sano": 50,
-    "meliodas-assault": 37,
+    "madara-naruto": 83,
+    "makima-csm": 87,
+    "mikey-tokyo-revengers": 50,
+    "meliodas-sds": 37,
     "meruem-hxh": 95,
     "mewtwo-anime": 78,
-    "mikasa-ackerman": 45,
-    "luffy-gear-4": 45,
+    "mikasa-aot": 45,
+    "luffy-one-piece": 45,
     "muzan-demon-slayer": 73,
-    "naruto-bsm": 59,
-    "natsu-dragon-force": 47,
-    "nezuko-demon": 28,
-    "noelle-valkyrie": 46,
-    "palkia-anime": 58,
+    "naruto": 59,
+    "natsu-fairy-tail": 47,
+    "nezuko-demon-slayer": 28,
+    "noelle-black-clover": 46,
+    "palkia-pokemon": 58,
     "pride-fma": 62,
-    "rayquaza-anime": 55,
-    "reiner-armored-anime": 52,
-    "rimuru-demon-lord": 75,
-    "zoro-ennies": 57,
+    "rayquaza-pokemon": 55,
+    "reiner-aot": 52,
+    "rimuru-slime": 75,
+    "zoro-one-piece": 57,
     "roy-mustang": 70,
-    "rudeus-anime": 80,
-    "sukuna": 73,
-    "ryuk-hxh": 44,
-    "aizen": 99,
-    "saber-fsn": 64,
-    "saitama": 15,
-    "sakata-gintoki": 70,
-    "sanji": 59,
-    "sasuke-rinnegan": 72,
-    "gojo-satoru": 70,
-    "senku-ishigami": 97,
-    "shinichi-izumi": 69,
+    "rudeus-mushoku": 80,
+    "sukuna-jjk": 73,
+    "ryuk-dn": 44,
+    "aizen-bleach": 99,
+    "saber-fate": 64,
+    "saitama-opm": 15,
+    "gintoki-gintama": 70,
+    "sanji-one-piece": 59,
+    "sasuke-naruto": 72,
+    "gojo-jjk": 70,
+    "senku-dr-stone": 97,
+    "shinichi-parasyte": 69,
     "shinra-fire-force": 40,
-    "sho-kusakabe": 48,
-    "hinata-shoyo": 34,
+    "sho-fire-force": 48,
+    "hinata-haikyuu": 34,
     "simon-gurren-lagann": 52,
     "sloth-fma": 5,
     "sung-jinwoo-monarch": 70,
-    "takemichi-hanagaki": 55,
-    "tanjiro-sun-breathing": 40,
-    "tatsumi-incursio": 65,
+    "takemichi-tokyo-revengers": 55,
+    "tanjiro-demon-slayer": 40,
+    "tatsumi-aga": 65,
     "truth-fma": 96,
     "thor-record": 48,
-    "thorfinn-anime": 60,
-    "thors-snake": 64,
-    "toichiro-suzuki": 65,
-    "ohma-tokita": 75,
-    "all-might": 46,
-    "vegeta-ssb": 64,
+    "thorfinn-vinland": 60,
+    "thors-vinland": 64,
+    "toichiro-mob": 65,
+    "ohma-kengan": 75,
+    "all-might-mha": 46,
+    "vegeta-dragon-ball": 64,
     "wrath-fma": 65,
-    "xerneas-anime": 55,
+    "xerneas-pokemon": 55,
     "yami-black-clover": 60,
-    "yuno-spirit-dive": 58,
-    "yveltal-anime": 55,
-    "zenitsu-godspeed": 32,
-    "zeref-anime": 80,
+    "yuno-black-clover": 58,
+    "yveltal-pokemon": 55,
+    "zenitsu-demon-slayer": 32,
+    "zeref-fairy-tail": 80,
     "zeus-record": 50,
-    "zygarde-complete-anime": 56
+    "zygarde-pokemon": 56
   },
   "characters": [
     {
-      "id": "acnologia-anime",
+      "id": "acnologia-fairy-tail",
       "displayName": "Acnologia",
       "series": "Fairy Tail",
       "baselineWas": 72,
@@ -159,7 +159,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "ainz-ooal-gown",
+      "id": "ainz-overlord",
       "displayName": "Ainz Ooal Gown",
       "series": "Overlord",
       "baselineWas": 78,
@@ -192,7 +192,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "alice-alicization",
+      "id": "alice-sao",
       "displayName": "Alice Zuberg",
       "series": "Sword Art Online",
       "baselineWas": 55,
@@ -203,7 +203,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "alphonse-elric",
+      "id": "alphonse-fma",
       "displayName": "Alphonse Elric",
       "series": "Fullmetal Alchemist",
       "baselineWas": 62,
@@ -214,7 +214,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "alucard",
+      "id": "alucard-hellsing",
       "displayName": "Alucard",
       "series": "Hellsing",
       "baselineWas": 85,
@@ -236,7 +236,7 @@
       "rationale": "Monarch ant tier"
     },
     {
-      "id": "anti-spiral",
+      "id": "anti-spiral-gurren-lagann",
       "displayName": "Anti-Spiral",
       "series": "Gurren Lagann",
       "baselineWas": 97,
@@ -247,7 +247,7 @@
       "rationale": "Long-horizon trap; not full four-pillar human versatility at 100"
     },
     {
-      "id": "arceus-anime",
+      "id": "arceus-pokemon",
       "displayName": "Arceus",
       "series": "PokÃ©mon",
       "baselineWas": 85,
@@ -258,7 +258,7 @@
       "rationale": "Divine being; not human IQ scale"
     },
     {
-      "id": "arima-kishou",
+      "id": "arima-tg",
       "displayName": "Arima Kishou",
       "series": "Tokyo Ghoul",
       "baselineWas": 76,
@@ -269,7 +269,7 @@
       "rationale": "CCG reaper; less “player” than Light"
     },
     {
-      "id": "armin-colossal-anime",
+      "id": "armin-aot",
       "displayName": "Armin Arlert",
       "series": "Attack on Titan",
       "baselineWas": 76,
@@ -280,7 +280,7 @@
       "rationale": "Colossal gambits; strategy voice"
     },
     {
-      "id": "arthur-boyle",
+      "id": "arthur-fire-force",
       "displayName": "Arthur Boyle",
       "series": "Fire Force",
       "baselineWas": 42,
@@ -302,7 +302,7 @@
       "rationale": "High but below Makima social"
     },
     {
-      "id": "asta-black",
+      "id": "asta-black-clover",
       "displayName": "Asta",
       "series": "Black Clover",
       "baselineWas": 36,
@@ -324,7 +324,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "baki-hanma-anime",
+      "id": "baki",
       "displayName": "Baki Hanma",
       "series": "Baki",
       "baselineWas": 50,
@@ -335,7 +335,7 @@
       "rationale": "Reads fighters; low book smarts"
     },
     {
-      "id": "ban-snatch",
+      "id": "ban-sds",
       "displayName": "Ban",
       "series": "Seven Deadly Sins",
       "baselineWas": 46,
@@ -346,7 +346,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "benimaru-shinmon",
+      "id": "benimaru-fire-force",
       "displayName": "Benimaru Shinmon",
       "series": "Fire Force",
       "baselineWas": 72,
@@ -379,7 +379,7 @@
       "rationale": "Record brawler savvy"
     },
     {
-      "id": "c-c-geass",
+      "id": "cc-geass",
       "displayName": "C.C.",
       "series": "Code Geass",
       "baselineWas": 82,
@@ -390,7 +390,7 @@
       "rationale": "Ancient observer + Geass lore; guides Lelouch, not the on-field rule player"
     },
     {
-      "id": "choso",
+      "id": "choso-jjk",
       "displayName": "Choso",
       "series": "Jujutsu Kaisen",
       "baselineWas": 48,
@@ -401,7 +401,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "aomine-daiki",
+      "id": "aomine-kuroko",
       "displayName": "Daiki Aomine",
       "series": "Kuroko's Basketball",
       "baselineWas": 26,
@@ -412,7 +412,7 @@
       "rationale": "Lazy genius on court"
     },
     {
-      "id": "denji-chainsaw",
+      "id": "denji-csm",
       "displayName": "Denji",
       "series": "Chainsaw Man",
       "baselineWas": 30,
@@ -423,7 +423,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "dialga-anime",
+      "id": "dialga-pokemon",
       "displayName": "Dialga",
       "series": "PokÃ©mon",
       "baselineWas": 85,
@@ -434,7 +434,7 @@
       "rationale": "Same"
     },
     {
-      "id": "dio-part-3",
+      "id": "dio-jojo",
       "displayName": "DIO",
       "series": "JoJo",
       "baselineWas": 70,
@@ -445,7 +445,7 @@
       "rationale": "The World setups; charisma schemes"
     },
     {
-      "id": "edward-elric",
+      "id": "edward-fma",
       "displayName": "Edward Elric",
       "series": "Fullmetal Alchemist",
       "baselineWas": 78,
@@ -467,7 +467,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "eren-founding-anime",
+      "id": "eren-aot",
       "displayName": "Eren Yeager",
       "series": "Attack on Titan",
       "baselineWas": 58,
@@ -478,7 +478,7 @@
       "rationale": "Rumbling long game; emotion-driven"
     },
     {
-      "id": "erza-scarlet",
+      "id": "erza-fairy-tail",
       "displayName": "Erza Scarlet",
       "series": "Fairy Tail",
       "baselineWas": 72,
@@ -489,7 +489,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "esdeath",
+      "id": "esdeath-aga",
       "displayName": "Esdeath",
       "series": "Akame ga Kill",
       "baselineWas": 62,
@@ -500,7 +500,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "eternatus-anime",
+      "id": "eternatus-pokemon",
       "displayName": "Eternatus",
       "series": "PokÃ©mon",
       "baselineWas": 72,
@@ -511,7 +511,7 @@
       "rationale": "Same"
     },
     {
-      "id": "eto-yoshimura",
+      "id": "eto-tg",
       "displayName": "Eto Yoshimura",
       "series": "Tokyo Ghoul",
       "baselineWas": 74,
@@ -522,7 +522,7 @@
       "rationale": "Owl games"
     },
     {
-      "id": "eugeo-alicization",
+      "id": "eugeo-sao",
       "displayName": "Eugeo",
       "series": "Sword Art Online",
       "baselineWas": 55,
@@ -544,7 +544,7 @@
       "rationale": "Ancient plot; not out-detective L"
     },
     {
-      "id": "garou",
+      "id": "garou-opm",
       "displayName": "Garou",
       "series": "One Punch Man",
       "baselineWas": 80,
@@ -555,7 +555,7 @@
       "rationale": "Copies and evolves styles (pillar showcase)"
     },
     {
-      "id": "yamamoto",
+      "id": "yamamoto-bleach",
       "displayName": "GenryÅ«sai Shigekuni Yamamoto",
       "series": "Bleach",
       "baselineWas": 70,
@@ -566,7 +566,7 @@
       "rationale": "Captain battlefield IQ"
     },
     {
-      "id": "gilgamesh-fsn",
+      "id": "gilgamesh-fate",
       "displayName": "Gilgamesh",
       "series": "Fate",
       "baselineWas": 74,
@@ -577,7 +577,7 @@
       "rationale": "Treasury as fight IQ; ego masks judgment"
     },
     {
-      "id": "giratina-anime",
+      "id": "giratina-pokemon",
       "displayName": "Giratina",
       "series": "PokÃ©mon",
       "baselineWas": 85,
@@ -588,7 +588,7 @@
       "rationale": "Same"
     },
     {
-      "id": "goku-ssj2",
+      "id": "goku-dragon-ball",
       "displayName": "Goku",
       "series": "Dragon Ball",
       "baselineWas": 85,
@@ -599,7 +599,7 @@
       "rationale": "Goku battle sense; wiki “genius” was wrong band"
     },
     {
-      "id": "gon-adult-anime",
+      "id": "gon-hxh",
       "displayName": "Gon Freecss",
       "series": "Hunter x Hunter",
       "baselineWas": 64,
@@ -621,7 +621,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "ash-greninja-anime",
+      "id": "greninja-pokemon",
       "displayName": "Greninja",
       "series": "PokÃ©mon",
       "baselineWas": 72,
@@ -632,7 +632,7 @@
       "rationale": "Bond form reads battle"
     },
     {
-      "id": "primal-groudon-anime",
+      "id": "groudon-pokemon",
       "displayName": "Groudon",
       "series": "PokÃ©mon",
       "baselineWas": 72,
@@ -665,7 +665,7 @@
       "rationale": "Predator instinct"
     },
     {
-      "id": "ho-oh-anime",
+      "id": "ho-oh-pokemon",
       "displayName": "Ho-Oh",
       "series": "PokÃ©mon",
       "baselineWas": 72,
@@ -676,7 +676,7 @@
       "rationale": "Same"
     },
     {
-      "id": "ichigo-bankai",
+      "id": "ichigo-bleach",
       "displayName": "Ichigo Kurosaki",
       "series": "Bleach",
       "baselineWas": 46,
@@ -698,7 +698,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "ippo-makunouchi",
+      "id": "ippo",
       "displayName": "Ippo Makunouchi",
       "series": "Hajime no Ippo",
       "baselineWas": 44,
@@ -720,7 +720,7 @@
       "rationale": "100-type Nen, not Light-level plotting"
     },
     {
-      "id": "deku-100",
+      "id": "deku-mha",
       "displayName": "Izuku Midoriya",
       "series": "My Hero Academia",
       "baselineWas": 68,
@@ -731,7 +731,7 @@
       "rationale": "Fight notebooks; not mastermind tier"
     },
     {
-      "id": "jin-mori-anime",
+      "id": "mori-goh",
       "displayName": "Jin Mori",
       "series": "The God of High School",
       "baselineWas": 54,
@@ -742,7 +742,7 @@
       "rationale": "Adaptation in GOH; not academic genius"
     },
     {
-      "id": "jotaro-part-3",
+      "id": "jotaro-jojo",
       "displayName": "Jotaro Kujo",
       "series": "JoJo",
       "baselineWas": 68,
@@ -764,7 +764,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "kaneki-ken-anime",
+      "id": "kaneki-tg",
       "displayName": "Ken Kaneki",
       "series": "Tokyo Ghoul",
       "baselineWas": 74,
@@ -775,7 +775,7 @@
       "rationale": "Analytical ghoul; below Lelouch composite"
     },
     {
-      "id": "killua-godspeed",
+      "id": "killua-hxh",
       "displayName": "Killua Zoldyck",
       "series": "Hunter x Hunter",
       "baselineWas": 68,
@@ -786,7 +786,7 @@
       "rationale": "Tactics + lightning timing"
     },
     {
-      "id": "kirito-stacia",
+      "id": "kirito-sao",
       "displayName": "Kirito",
       "series": "Sword Art Online",
       "baselineWas": 62,
@@ -797,7 +797,7 @@
       "rationale": "Boss punishes; not geopolitical tier"
     },
     {
-      "id": "kokushibo-anime",
+      "id": "kokushibo-demon-slayer",
       "displayName": "Kokushibo",
       "series": "Demon Slayer",
       "baselineWas": 60,
@@ -808,7 +808,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "koro-sensei",
+      "id": "korosensei-ac",
       "displayName": "Koro Sensei",
       "series": "Assassination Classroom",
       "baselineWas": 94,
@@ -819,7 +819,7 @@
       "rationale": "Slightly below pure scheme monsters"
     },
     {
-      "id": "kurapika-emperor",
+      "id": "kurapika-hxh",
       "displayName": "Kurapika",
       "series": "Hunter x Hunter",
       "baselineWas": 76,
@@ -841,7 +841,7 @@
       "rationale": "Boxing coach-pattern read"
     },
     {
-      "id": "kusuo-saiki",
+      "id": "saiki",
       "displayName": "Kusuo Saiki",
       "series": "The Disastrous Life of Saiki K",
       "baselineWas": 90,
@@ -852,7 +852,7 @@
       "rationale": "Broad read on people/situations; still under Aizen/Light composite tier"
     },
     {
-      "id": "primal-kyogre-anime",
+      "id": "kyogre-pokemon",
       "displayName": "Kyogre",
       "series": "PokÃ©mon",
       "baselineWas": 72,
@@ -885,7 +885,7 @@
       "rationale": "Peak investigative reasoning; slightly outpaced once Light’s endgame + DN ops complete"
     },
     {
-      "id": "lelouch-vi-britannia",
+      "id": "lelouch-geass",
       "displayName": "Lelouch vi Britannia",
       "series": "Code Geass",
       "baselineWas": 88,
@@ -896,7 +896,7 @@
       "rationale": "Zero’s geopolitical schemes + mask; **Geass battle IQ** (line-of-sight orders, one-shot fight wins, knightmare field command, sacrificial gambits) — peers Meruem, just under Light"
     },
     {
-      "id": "levi-ackerman",
+      "id": "levi-aot",
       "displayName": "Levi Ackerman",
       "series": "Attack on Titan",
       "baselineWas": 68,
@@ -907,7 +907,7 @@
       "rationale": "Rapid threat reading in titan fights"
     },
     {
-      "id": "light-yagami",
+      "id": "light-dn",
       "displayName": "Light Yagami",
       "series": "Death Note",
       "baselineWas": 80,
@@ -918,7 +918,7 @@
       "rationale": "Detective parity, flawless public social layer, and **Fighting IQ via Death Note**: rule mastery, kill conditions, timing, memory screens, counter-plays under pressure — wins the war, not a blowout vs L"
     },
     {
-      "id": "lugia-anime",
+      "id": "lugia-pokemon",
       "displayName": "Lugia",
       "series": "PokÃ©mon",
       "baselineWas": 72,
@@ -940,7 +940,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "madara",
+      "id": "madara-naruto",
       "displayName": "Madara Uchiha",
       "series": "Naruto",
       "baselineWas": 78,
@@ -951,7 +951,7 @@
       "rationale": "Sharingan field reads; war politics"
     },
     {
-      "id": "makima",
+      "id": "makima-csm",
       "displayName": "Makima",
       "series": "Chainsaw Man",
       "baselineWas": 93,
@@ -962,7 +962,7 @@
       "rationale": "Control devil as weapon; below Light/Lelouch composite"
     },
     {
-      "id": "mikey-sano",
+      "id": "mikey-tokyo-revengers",
       "displayName": "Manjiro Sano",
       "series": "Tokyo Revengers",
       "baselineWas": 32,
@@ -973,7 +973,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "meliodas-assault",
+      "id": "meliodas-sds",
       "displayName": "Meliodas",
       "series": "Seven Deadly Sins",
       "baselineWas": 50,
@@ -1006,7 +1006,7 @@
       "rationale": "Only legendary with “human” mind"
     },
     {
-      "id": "mikasa-ackerman",
+      "id": "mikasa-aot",
       "displayName": "Mikasa Ackerman",
       "series": "Attack on Titan",
       "baselineWas": 62,
@@ -1017,7 +1017,7 @@
       "rationale": "Not strategist voice"
     },
     {
-      "id": "luffy-gear-4",
+      "id": "luffy-one-piece",
       "displayName": "Monkey D. Luffy",
       "series": "One Piece",
       "baselineWas": 40,
@@ -1039,7 +1039,7 @@
       "rationale": "Manipulator; out-schemed in end"
     },
     {
-      "id": "naruto-bsm",
+      "id": "naruto",
       "displayName": "Naruto Uzumaki",
       "series": "Naruto",
       "baselineWas": 58,
@@ -1050,7 +1050,7 @@
       "rationale": "Instinct-led; not scheme tier"
     },
     {
-      "id": "natsu-dragon-force",
+      "id": "natsu-fairy-tail",
       "displayName": "Natsu Dragneel",
       "series": "Fairy Tail",
       "baselineWas": 72,
@@ -1061,7 +1061,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "nezuko-demon",
+      "id": "nezuko-demon-slayer",
       "displayName": "Nezuko Kamado",
       "series": "Demon Slayer",
       "baselineWas": 28,
@@ -1072,7 +1072,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "noelle-valkyrie",
+      "id": "noelle-black-clover",
       "displayName": "Noelle Silva",
       "series": "Black Clover",
       "baselineWas": 46,
@@ -1083,7 +1083,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "palkia-anime",
+      "id": "palkia-pokemon",
       "displayName": "Palkia",
       "series": "PokÃ©mon",
       "baselineWas": 85,
@@ -1105,7 +1105,7 @@
       "rationale": "Homunculus plotting"
     },
     {
-      "id": "rayquaza-anime",
+      "id": "rayquaza-pokemon",
       "displayName": "Rayquaza",
       "series": "PokÃ©mon",
       "baselineWas": 72,
@@ -1116,7 +1116,7 @@
       "rationale": "Same"
     },
     {
-      "id": "reiner-armored-anime",
+      "id": "reiner-aot",
       "displayName": "Reiner Braun",
       "series": "Attack on Titan",
       "baselineWas": 52,
@@ -1127,7 +1127,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "rimuru-demon-lord",
+      "id": "rimuru-slime",
       "displayName": "Rimuru Tempest",
       "series": "That Time I Got Reincarnated as a Slime",
       "baselineWas": 80,
@@ -1138,7 +1138,7 @@
       "rationale": "Raphael-style adapt; skill loadouts in fight"
     },
     {
-      "id": "zoro-ennies",
+      "id": "zoro-one-piece",
       "displayName": "Roronoa Zoro",
       "series": "One Piece",
       "baselineWas": 42,
@@ -1160,7 +1160,7 @@
       "rationale": "Colonel chess, not L"
     },
     {
-      "id": "rudeus-anime",
+      "id": "rudeus-mushoku",
       "displayName": "Rudeus Greyrat",
       "series": "Mushoku Tensei",
       "baselineWas": 72,
@@ -1171,7 +1171,7 @@
       "rationale": "Spell loadouts; uneven maturity caps social"
     },
     {
-      "id": "sukuna",
+      "id": "sukuna-jjk",
       "displayName": "Ryomen Sukuna",
       "series": "Jujutsu Kaisen",
       "baselineWas": 80,
@@ -1182,7 +1182,7 @@
       "rationale": "Millennial malice; limited “book” rebuild knowledge"
     },
     {
-      "id": "ryuk-hxh",
+      "id": "ryuk-dn",
       "displayName": "Ryuk",
       "series": "Death Note",
       "baselineWas": 50,
@@ -1193,7 +1193,7 @@
       "rationale": "Shinigami amusement; not in the human deductive ladder"
     },
     {
-      "id": "aizen",
+      "id": "aizen-bleach",
       "displayName": "SÅsuke Aizen",
       "series": "Bleach",
       "baselineWas": 92,
@@ -1204,7 +1204,7 @@
       "rationale": "Fooled Gotei 13 for decades; manipulates peers and victims; scientist-tier knowledge (Hogyoku, barriers, combat R&D) beside Urahara/Yamamoto tier; master investigator who sets and reads the board"
     },
     {
-      "id": "saber-fsn",
+      "id": "saber-fate",
       "displayName": "Saber",
       "series": "Fate",
       "baselineWas": 64,
@@ -1215,7 +1215,7 @@
       "rationale": "King’s battlefield judgment"
     },
     {
-      "id": "saitama",
+      "id": "saitama-opm",
       "displayName": "Saitama",
       "series": "One Punch Man",
       "baselineWas": 38,
@@ -1226,7 +1226,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "sakata-gintoki",
+      "id": "gintoki-gintama",
       "displayName": "Sakata Gintoki",
       "series": "Gintama",
       "baselineWas": 68,
@@ -1237,7 +1237,7 @@
       "rationale": "Dirty wins; low book/scheme ceiling"
     },
     {
-      "id": "sanji",
+      "id": "sanji-one-piece",
       "displayName": "Sanji",
       "series": "One Piece",
       "baselineWas": 60,
@@ -1248,7 +1248,7 @@
       "rationale": "Reads enemies and crews"
     },
     {
-      "id": "sasuke-rinnegan",
+      "id": "sasuke-naruto",
       "displayName": "Sasuke Uchiha",
       "series": "Naruto",
       "baselineWas": 72,
@@ -1259,7 +1259,7 @@
       "rationale": "Holds vs Kurapika on calc; less social scheme"
     },
     {
-      "id": "gojo-satoru",
+      "id": "gojo-jjk",
       "displayName": "Satoru Gojo",
       "series": "Jujutsu Kaisen",
       "baselineWas": 84,
@@ -1270,7 +1270,7 @@
       "rationale": "Six Eyes + Domain; less criminal long-game than Light"
     },
     {
-      "id": "senku-ishigami",
+      "id": "senku-dr-stone",
       "displayName": "Senku Ishigami",
       "series": "Dr. Stone",
       "baselineWas": 97,
@@ -1281,7 +1281,7 @@
       "rationale": "Rebuilds civilizations from stone (Knowledge ~98); blunt socially, not a detective duelist or fight-IQ monster — average of pillars, not peak pillar"
     },
     {
-      "id": "shinichi-izumi",
+      "id": "shinichi-parasyte",
       "displayName": "Shinichi Izumi",
       "series": "Parasyte",
       "baselineWas": 55,
@@ -1303,7 +1303,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "sho-kusakabe",
+      "id": "sho-fire-force",
       "displayName": "Sho Kusakabe",
       "series": "Fire Force",
       "baselineWas": 48,
@@ -1314,7 +1314,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "hinata-shoyo",
+      "id": "hinata-haikyuu",
       "displayName": "Shoyo Hinata",
       "series": "Haikyuu!!",
       "baselineWas": 24,
@@ -1358,7 +1358,7 @@
       "rationale": "Quest/log optimization, monarch tactics"
     },
     {
-      "id": "takemichi-hanagaki",
+      "id": "takemichi-tokyo-revengers",
       "displayName": "Takemichi Hanagaki",
       "series": "Tokyo Revengers",
       "baselineWas": 28,
@@ -1369,7 +1369,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "tanjiro-sun-breathing",
+      "id": "tanjiro-demon-slayer",
       "displayName": "Tanjiro Kamado",
       "series": "Demon Slayer",
       "baselineWas": 58,
@@ -1380,7 +1380,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "tatsumi-incursio",
+      "id": "tatsumi-aga",
       "displayName": "Tatsumi",
       "series": "Akame ga Kill",
       "baselineWas": 72,
@@ -1413,7 +1413,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "thorfinn-anime",
+      "id": "thorfinn-vinland",
       "displayName": "Thorfinn",
       "series": "Vinland Saga",
       "baselineWas": 50,
@@ -1424,7 +1424,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "thors-snake",
+      "id": "thors-vinland",
       "displayName": "Thors",
       "series": "Vinland Saga",
       "baselineWas": 55,
@@ -1435,7 +1435,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "toichiro-suzuki",
+      "id": "toichiro-mob",
       "displayName": "Toichiro Suzuki",
       "series": "Mob Psycho 100",
       "baselineWas": 55,
@@ -1446,7 +1446,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "ohma-tokita",
+      "id": "ohma-kengan",
       "displayName": "Tokita Ohma",
       "series": "Kengan Ashura",
       "baselineWas": 54,
@@ -1457,7 +1457,7 @@
       "rationale": "Kengan adapt + pre-initiative"
     },
     {
-      "id": "all-might",
+      "id": "all-might-mha",
       "displayName": "Toshinori Yagi",
       "series": "My Hero Academia",
       "baselineWas": 44,
@@ -1468,7 +1468,7 @@
       "rationale": "Symbol IQ; low “homework”"
     },
     {
-      "id": "vegeta-ssb",
+      "id": "vegeta-dragon-ball",
       "displayName": "Vegeta",
       "series": "Dragon Ball",
       "baselineWas": 62,
@@ -1490,7 +1490,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "xerneas-anime",
+      "id": "xerneas-pokemon",
       "displayName": "Xerneas",
       "series": "PokÃ©mon",
       "baselineWas": 72,
@@ -1512,7 +1512,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "yuno-spirit-dive",
+      "id": "yuno-black-clover",
       "displayName": "Yuno",
       "series": "Black Clover",
       "baselineWas": 58,
@@ -1523,7 +1523,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "yveltal-anime",
+      "id": "yveltal-pokemon",
       "displayName": "Yveltal",
       "series": "PokÃ©mon",
       "baselineWas": 72,
@@ -1534,7 +1534,7 @@
       "rationale": "Same"
     },
     {
-      "id": "zenitsu-godspeed",
+      "id": "zenitsu-demon-slayer",
       "displayName": "Zenitsu Agatsuma",
       "series": "Demon Slayer",
       "baselineWas": 32,
@@ -1545,7 +1545,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "zeref-anime",
+      "id": "zeref-fairy-tail",
       "displayName": "Zeref Dragneel",
       "series": "Fairy Tail",
       "baselineWas": 85,
@@ -1567,7 +1567,7 @@
       "rationale": "No change in revision proposal; keeping current curated / in-game IQ."
     },
     {
-      "id": "zygarde-complete-anime",
+      "id": "zygarde-pokemon",
       "displayName": "Zygarde",
       "series": "PokÃ©mon",
       "baselineWas": 72,

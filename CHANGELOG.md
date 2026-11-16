@@ -29,6 +29,23 @@ Tested:
 - Every PowerShell script parses.
 - The client builds and typechecks.
 
+### 12. Consistent character IDs
+
+Every ID is now `<character-slug>-<series-code>`, for example `goku-dragon-ball`, `levi-aot` and `ryuk-dn`.
+
+- The character slug comes from the display name. Each series has one fixed code, kept in `data/sources/series-codes.json`.
+- 151 of the 694 IDs changed.
+- Wrong IDs are fixed, for example `aokiji-fairy-tail`, which is actually Invel, and Ryuk's Hunter x Hunter code.
+- Every portrait file is renamed to `<id>.<ext>`.
+- The overrides, sources, generated reports and the local wiki cache are migrated with the IDs. Review records keep the old IDs.
+- The old → new map is in `docs/reviews/id-migration-2026-11-16.json`.
+- `data:validate` now enforces the format: lowercase hyphenated IDs that end with their series code, with the portrait file named after the ID.
+
+Tested:
+- `data:validate` passes.
+- The client builds.
+- In a local production build, a full bot match and a full 2-player room (two browsers, joined by code) both reached the results screen with no broken portraits. The only errors were the missing favicon.
+
 ## 2026-11-13: Lighter client and smoother roll reel
 
 ### 9. Performance

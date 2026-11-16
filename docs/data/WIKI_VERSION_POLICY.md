@@ -6,7 +6,7 @@
 
 Franchise breadth comes from **different characters**, not multiple versions of the same person.
 
-When adding someone new, pick the peak form you want in the game and map it with `wiki-profile-hints.json`. Use a stable `id` that still hints at the wiki slice (e.g. `naruto-bsm`).
+When adding someone new, pick the peak form you want in the game and map it with `wiki-profile-hints.json`. Use a stable `id` that still hints at the wiki slice (e.g. `naruto`).
 
 **CI:** `npm run data:validate` enforces one entry per character identity (`data/overrides/roster-form-policy.json`) and rejects parenthetical `displayName` values.
 

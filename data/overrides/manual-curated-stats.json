@@ -1,11 +1,11 @@
 {
-  "hinata-shoyo": {
+  "hinata-haikyuu": {
     "strength": 18,
     "speed": 22,
     "abilities": 14,
     "durability": 16
   },
-  "senku-ishigami": {
+  "senku-dr-stone": {
     "strength": 14,
     "speed": 16,
     "abilities": 28,
@@ -17,25 +17,25 @@
     "abilities": 18,
     "durability": 14
   },
-  "light-yagami": {
+  "light-dn": {
     "strength": 12,
     "speed": 14,
     "abilities": 56,
     "durability": 12
   },
-  "ryuk-hxh": {
+  "ryuk-dn": {
     "strength": 35,
     "speed": 42,
     "abilities": 62,
     "durability": 55
   },
-  "aomine-daiki": {
+  "aomine-kuroko": {
     "strength": 38,
     "speed": 42,
     "abilities": 28,
     "durability": 35
   },
-  "lelouch-vi-britannia": {
+  "lelouch-geass": {
     "strength": 40,
     "speed": 48,
     "abilities": 22,
@@ -44,21 +44,21 @@
   "roy-mustang": {
     "strength": 22
   },
-  "thorfinn-anime": {
+  "thorfinn-vinland": {
     "strength": 28
   },
   "truth-fma": {
     "speed": 88
   },
-  "ichigo-bankai": {
+  "ichigo-bleach": {
     "abilities": 76,
     "speed": 90
   },
-  "xerneas-anime": {
+  "xerneas-pokemon": {
     "abilities": 88,
     "durability": 86
   },
-  "yveltal-anime": {
+  "yveltal-pokemon": {
     "abilities": 88,
     "durability": 86
   },
@@ -71,23 +71,23 @@
     "abilities": 76,
     "speed": 70
   },
-  "c-c-geass": {
+  "cc-geass": {
     "strength": 22,
     "speed": 26
   },
-  "alucard": {
+  "alucard-hellsing": {
     "strength": 90,
     "speed": 88,
     "abilities": 94,
     "durability": 98
   },
-  "arima-kishou": {
+  "arima-tg": {
     "speed": 76
   },
   "thor-record": {
     "strength": 84
   },
-  "edward-elric": {
+  "edward-fma": {
     "strength": 58,
     "speed": 48,
     "abilities": 38,

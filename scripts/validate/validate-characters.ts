@@ -1,6 +1,6 @@
 import { readFileSync, existsSync } from "node:fs";
 import { createHash } from "node:crypto";
-import { resolve, dirname } from "node:path";
+import { resolve, dirname, basename, extname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { CATEGORIES, type Character } from "@build-character/shared";
 import {
@@ -11,6 +11,12 @@ import {
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = resolve(__dirname, "..", "..");
 const charactersPath = resolve(root, "data", "characters.json");
+const SERIES_CODES = (
+  JSON.parse(readFileSync(resolve(root, "data", "sources", "series-codes.json"), "utf-8")) as {
+    codes: Record<string, string>;
+  }
+).codes;
+const ID_PATTERN = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 
 const ALLOWED_SERIES = new Set([
   "Fate",
@@ -126,6 +132,25 @@ function main() {
     }
     if (!c.portrait.startsWith("/portraits/")) {
       console.error(`[portrait] ${c.id}: path should start with /portraits/`);
+      errors++;
+    }
+    // IDs: <character-slug>-<series-code> with the series code from data/sources/series-codes.json,
+    // and the portrait file named after the id.
+    if (!ID_PATTERN.test(c.id)) {
+      console.error(`[id] ${c.id}: use lowercase letters, digits and single hyphens`);
+      errors++;
+    }
+    const code = SERIES_CODES[c.series];
+    if (!code) {
+      console.error(`[id] ${c.id}: series "${c.series}" has no code in data/sources/series-codes.json`);
+      errors++;
+    } else if (c.id !== code && !c.id.endsWith(`-${code}`)) {
+      console.error(`[id] ${c.id}: should end with "-${code}" (${c.series})`);
+      errors++;
+    }
+    const portraitName = basename(c.portrait, extname(c.portrait));
+    if (portraitName !== c.id) {
+      console.error(`[portrait] ${c.id}: file should be named ${c.id}${extname(c.portrait)} (is ${basename(c.portrait)})`);
       errors++;
     }
   }

@@ -12,7 +12,7 @@ caesar-jojo
 lisa-lisa-jojo
 stroheim-jojo
 avdol-jojo
-iggie-jojo
+iggy-jojo
 vanilla-ice-jojo
 koichi-jojo
 yukako-jojo
@@ -25,6 +25,6 @@ fugo-jojo
 ermes-jojo
 emporio-jojo
 anasui-jojo
-diego-brando-jojo
+diego-jojo
 hot-pants-jojo
 lucy-jojo

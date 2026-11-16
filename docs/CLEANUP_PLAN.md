@@ -1,6 +1,6 @@
 # Cleanup plan (proposal, 2026-11-16)
 
-Nothing in this plan has been done yet. It covers four things:
+**Status: done on 2026-11-16** in two commits, "Reorganize project structure" and "Consistent character IDs". This document is kept as the record of what changed and why. The numbers below describe the plan at the time it was written. It covers four things:
 
 - where every file goes
 - what gets deleted

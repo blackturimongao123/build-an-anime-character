@@ -85,7 +85,7 @@ fn physical_delta_filtered(delta: &HashMap<String, i32>) -> HashMap<String, i32>
 fn wrong_wiki_notes(id: &str, wiki: &str, series: &str) -> Vec<String> {
     let w = wiki.to_lowercase();
     let mut notes = Vec::new();
-    if id == "edward-elric" && w.contains("cullen") {
+    if id == "edward-fma" && w.contains("cullen") {
         notes.push("Wrong page: Edward Cullen — add wiki-hints → Edward Elric".into());
     }
     if id == "zeus-record" && (w.contains("riordan") || !w.contains("ragnarok")) {
@@ -94,10 +94,10 @@ fn wrong_wiki_notes(id: &str, wiki: &str, series: &str) -> Vec<String> {
     if id == "roy-mustang" && w.contains("fire emblem") {
         notes.push("Wrong page: Fire Emblem Roy — hint Roy Mustang".into());
     }
-    if id == "hinata-shoyo" && (w.contains("hyūga") || w.contains("hyuga")) {
+    if id == "hinata-haikyuu" && (w.contains("hyūga") || w.contains("hyuga")) {
         notes.push("Wrong page: Naruto Hinata — use curated baseline (no Haikyuu VS page)".into());
     }
-    if id == "shinichi-izumi" && w.contains("conan") {
+    if id == "shinichi-parasyte" && w.contains("conan") {
         notes.push("Wrong page: Conan — hint Shinichi Izumi (Parasyte)".into());
     }
     if series == "Haikyuu!!" && w.contains("naruto") {

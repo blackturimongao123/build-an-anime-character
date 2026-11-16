@@ -1,5 +1,5 @@
 {
-  "baki-hanma-anime": {
+  "baki": {
     "fragment": "New_Grappler_Baki",
     "statColumnIndex": 1,
     "statKey": "New Grappler Baki (Shinshinkai / Maximum Tournament arc)"
@@ -8,62 +8,62 @@
     "statColumnIndex": 4,
     "statKey": "Judgement Day Arc"
   },
-  "ichigo-bankai": {
+  "ichigo-bleach": {
     "fragment": "Post-Timeskip",
     "statColumnIndex": 3,
     "statKey": "Merged Hollow Form",
     "statFormPhrase": "Massively FTL with Bankai"
   },
-  "goku-ssj2": {
+  "goku-dragon-ball": {
     "fragment": "Super_Saiyan_2",
     "wikiUrlBase": "https://vsbattles.fandom.com/wiki/Son_Goku_(DBS_Anime)",
     "statFormPhrase": "Super Saiyan 2"
   },
-  "vegeta-ssb": {
+  "vegeta-dragon-ball": {
     "fragment": "Super_Saiyan_Blue",
     "wikiUrlBase": "https://vsbattles.fandom.com/wiki/Vegeta_(DBS_Anime)",
     "statFormPhrase": "Super Saiyan Blue"
   },
-  "naruto-bsm": {
+  "naruto": {
     "fragment": "Baryon_Mode",
     "statColumnIndex": 1,
     "statKey": "New Era"
   },
-  "luffy-gear-4": {
+  "luffy-one-piece": {
     "fragment": "Gear_4th",
     "tabFragments": ["Rooftop", "Gear_2nd_-_Gear_4th:_Boundman"],
     "statKey": "Gear 4th: Boundman"
   },
-  "kirito-stacia": {
+  "kirito-sao": {
     "fragment": "End_of_Alicization/Star_King_Kirito",
     "statColumnIndex": 6,
     "statKey": "End of Alicization/Star King"
   },
-  "meliodas-assault": {
+  "meliodas-sds": {
     "statColumnIndex": 0,
     "statKey": "Holy War",
     "statFormPhrase": "Assault Mode"
   },
-  "zoro-ennies": {
+  "zoro-one-piece": {
     "statColumnIndex": 2,
     "statKey": "Enies Lobby Saga"
   },
-  "tanjiro-sun-breathing": {
+  "tanjiro-demon-slayer": {
     "fragment": "Sun_Breathing_Mastery",
     "statColumnIndex": 4,
     "statKey": "Sunrise Countdown",
     "statFormPhrase": "Hinokami"
   },
-  "zenitsu-godspeed": {
+  "zenitsu-demon-slayer": {
     "statColumnIndex": 2,
     "statKey": "Post-Hashira Training"
   },
-  "killua-godspeed": {
+  "killua-hxh": {
     "statColumnIndex": 4,
     "statKey": "Chimera Ant Arc and Election Arc",
     "tabFragments": ["Godspeed_-_Kanmuru_Form"]
   },
-  "kurapika-emperor": {
+  "kurapika-hxh": {
     "statColumnIndex": 1,
     "statKey": "Yorknew City Arc and onward"
   },
@@ -71,18 +71,18 @@
     "statColumnIndex": 4,
     "statKey": "Star Queen Asuna (End of Alicization)"
   },
-  "eugeo-alicization": {
+  "eugeo-sao": {
     "statColumnIndex": 2,
     "statKey": "Sword Form"
   },
-  "dio-part-3": {
+  "dio-jojo": {
     "fragment": "Stardust_Crusaders",
     "statKey": "Stardust Crusaders"
   },
-  "jin-mori-anime": {
+  "mori-goh": {
     "tabFragments": ["World_Competition_Arc"]
   },
-  "rimuru-demon-lord": {
+  "rimuru-slime": {
     "fragment": "Demon-Lord_outfit",
     "tabFragments": ["Post-Demon_Lord"]
   }
