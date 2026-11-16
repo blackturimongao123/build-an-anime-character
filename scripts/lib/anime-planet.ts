@@ -144,9 +144,9 @@ function pickCharacterPath(
 
   const minScore = firstNameOnly ? 70 : 40;
   if (best && best.score >= minScore) return best.path;
-  if (firstNameOnly) return null;
-  const fallback = html.match(/href="(\/characters\/[a-z0-9-]+)"/);
-  return fallback?.[1] ?? null;
+  // No confident name match: return nothing. Falling back to the first
+  // character link on the results page is how unrelated portraits got in.
+  return null;
 }
 
 async function fetchHtml(
@@ -198,6 +198,8 @@ async function portraitFromCharacterPath(
   }
   const page = await fetchHtml(`${ORIGIN}${path}`);
   if (!page) return null;
+  // Unknown slugs redirect to a search page; its first portrait is someone else.
+  if (!new URL(page.url).pathname.startsWith("/characters/")) return null;
   const url = extractPortraitUrl(page.html);
   if (!url || /kakashi-hatake/i.test(url)) return null;
   return url;
@@ -255,23 +257,24 @@ async function animePlanetPortraitUrlForQuery(
 
 /**
  * Resolve portrait CDN URL via Anime-Planet.
- * Order: anime cast pages → direct character slug → global search (full name first).
+ * Order: direct character slug hint → anime cast pages → global search (full name first).
+ * The hint goes first: cast-page matching is by short display name and can pick the wrong character.
  */
 export async function animePlanetPortraitUrl(
   displayName: string,
   options?: AnimePlanetLookupOptions,
 ): Promise<string | null> {
+  if (options?.characterSlug) {
+    const fromSlug = await portraitFromCharacterSlug(options.characterSlug);
+    if (fromSlug) return fromSlug;
+  }
+
   if (options?.animeSlugs?.length) {
     const fromCast = await portraitFromAnimeCast(
       displayName,
       options.animeSlugs,
     );
     if (fromCast) return fromCast;
-  }
-
-  if (options?.characterSlug) {
-    const fromSlug = await portraitFromCharacterSlug(options.characterSlug);
-    if (fromSlug) return fromSlug;
   }
 
   const matchName = simplifyName(displayName) || displayName.trim();

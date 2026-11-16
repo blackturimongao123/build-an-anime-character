@@ -26,6 +26,11 @@ const animeCastSlugsPath = resolve(root, "data", "sources", "anime-planet-anime-
 const animeCastSlugs: Record<string, string[]> = existsSync(animeCastSlugsPath)
   ? JSON.parse(readFileSync(animeCastSlugsPath, "utf-8"))
   : {};
+const pinsPath = resolve(root, "data", "sources", "portrait-pins.json");
+/** id -> hand-verified image URL. Used first, so a re-fetch never replaces a verified portrait. */
+const portraitPins: Record<string, string> = existsSync(pinsPath)
+  ? JSON.parse(readFileSync(pinsPath, "utf-8"))
+  : {};
 const charactersPath = resolve(root, "data", "characters.json");
 const outDir = resolve(root, "public-shared", "portraits");
 const clientPortraits = resolve(root, "client", "public", "portraits");
@@ -250,8 +255,8 @@ async function main() {
   const rejectPlaceholder = (url: string) =>
     /kakashi-hatake/i.test(url) || url.includes("characters/primary/default");
 
-    let imageUrl: string | null = null;
-    if (!anilistOnly) {
+    let imageUrl: string | null = portraitPins[id] ?? null;
+    if (!imageUrl && !anilistOnly) {
       imageUrl = await animePlanetPortraitUrl(c.displayName, {
         series: seriesLabel,
         extraQueries: SEARCH_OVERRIDES[id],

@@ -343,7 +343,7 @@
   {
     "displayName": "Beast",
     "id": "beast-aot",
-    "portrait": "/portraits/beast-aot.jpg",
+    "portrait": "/portraits/beast-aot.png",
     "series": "Attack on Titan",
     "stats": {
       "strength": 44,
@@ -447,7 +447,7 @@
   {
     "displayName": "Founding",
     "id": "founding-aot",
-    "portrait": "/portraits/founding-aot.jpg",
+    "portrait": "/portraits/founding-aot.png",
     "series": "Attack on Titan",
     "stats": {
       "strength": 44,
@@ -464,7 +464,7 @@
   {
     "displayName": "Gabi",
     "id": "gabi-aot",
-    "portrait": "/portraits/gabi-aot.jpg",
+    "portrait": "/portraits/gabi-aot.png",
     "series": "Attack on Titan",
     "stats": {
       "strength": 12,
@@ -676,7 +676,7 @@
   {
     "displayName": "Musashi",
     "id": "musashi-baki",
-    "portrait": "/portraits/musashi-baki.jpg",
+    "portrait": "/portraits/musashi-baki.png",
     "series": "Baki",
     "stats": {
       "strength": 42,
@@ -1531,7 +1531,7 @@
   {
     "displayName": "Ichibe",
     "id": "ichibe-bleach",
-    "portrait": "/portraits/ichibe-bleach.png",
+    "portrait": "/portraits/ichibe-bleach.jpg",
     "series": "Bleach",
     "stats": {
       "strength": 86,
@@ -1944,7 +1944,7 @@
   {
     "displayName": "Oetsu",
     "id": "oetsu-bleach",
-    "portrait": "/portraits/oetsu-bleach.jpg",
+    "portrait": "/portraits/oetsu-bleach.png",
     "series": "Bleach",
     "stats": {
       "strength": 86,
@@ -1997,7 +1997,7 @@
   {
     "displayName": "Pepe",
     "id": "pepe-bleach",
-    "portrait": "/portraits/pepe-bleach.jpg",
+    "portrait": "/portraits/pepe-bleach.png",
     "series": "Bleach",
     "stats": {
       "strength": 26,
@@ -2104,7 +2104,7 @@
   {
     "displayName": "Rose",
     "id": "rose-bleach",
-    "portrait": "/portraits/rose-bleach.webp",
+    "portrait": "/portraits/rose-bleach.png",
     "series": "Bleach",
     "stats": {
       "strength": 40,
@@ -2280,7 +2280,7 @@
   {
     "displayName": "Tosen",
     "id": "tosen-bleach",
-    "portrait": "/portraits/tosen-bleach.png",
+    "portrait": "/portraits/tosen-bleach.jpg",
     "series": "Bleach",
     "stats": {
       "strength": 67,
@@ -2968,7 +2968,7 @@
   {
     "displayName": "Doma",
     "id": "doma-demon-slayer",
-    "portrait": "/portraits/doma-demon-slayer.jpg",
+    "portrait": "/portraits/doma-demon-slayer.png",
     "series": "Demon Slayer",
     "stats": {
       "strength": 42,
@@ -3363,7 +3363,7 @@
   {
     "displayName": "Yoriichi",
     "id": "yoriichi-demon-slayer",
-    "portrait": "/portraits/yoriichi-demon-slayer.webp",
+    "portrait": "/portraits/yoriichi-demon-slayer.jpg",
     "series": "Demon Slayer",
     "stats": {
       "strength": 42,
@@ -3911,7 +3911,7 @@
   {
     "displayName": "Tien",
     "id": "tien-dragon-ball",
-    "portrait": "/portraits/tien-dragon-ball.jpg",
+    "portrait": "/portraits/tien-dragon-ball.png",
     "series": "Dragon Ball",
     "stats": {
       "strength": 84,
@@ -4916,7 +4916,7 @@
   {
     "displayName": "Pride",
     "id": "pride-fma",
-    "portrait": "/portraits/pride-fma.png",
+    "portrait": "/portraits/pride-fma.jpg",
     "series": "Fullmetal Alchemist",
     "stats": {
       "abilities": 31,
@@ -5267,7 +5267,7 @@
   {
     "displayName": "Bryan",
     "id": "bryan-ippo",
-    "portrait": "/portraits/bryan-ippo.jpg",
+    "portrait": "/portraits/bryan-ippo.png",
     "series": "Hajime no Ippo",
     "stats": {
       "strength": 22,
@@ -8369,7 +8369,7 @@
   {
     "displayName": "Kaguya",
     "id": "kaguya-naruto",
-    "portrait": "/portraits/kaguya-naruto.webp",
+    "portrait": "/portraits/kaguya-naruto.png",
     "series": "Naruto",
     "stats": {
       "strength": 96,
@@ -8386,7 +8386,7 @@
   {
     "displayName": "Kakashi",
     "id": "kakashi-naruto",
-    "portrait": "/portraits/kakashi-naruto.jpg",
+    "portrait": "/portraits/kakashi-naruto.png",
     "series": "Naruto",
     "stats": {
       "strength": 71,
@@ -8458,7 +8458,7 @@
   {
     "displayName": "Konan",
     "id": "konan-naruto",
-    "portrait": "/portraits/konan-naruto.webp",
+    "portrait": "/portraits/konan-naruto.jpg",
     "series": "Naruto",
     "stats": {
       "strength": 44,
@@ -8494,7 +8494,7 @@
   {
     "displayName": "Minato",
     "id": "minato-naruto",
-    "portrait": "/portraits/minato-naruto.webp",
+    "portrait": "/portraits/minato-naruto.png",
     "series": "Naruto",
     "stats": {
       "strength": 61,
@@ -8530,7 +8530,7 @@
   {
     "displayName": "Obito",
     "id": "obito-naruto",
-    "portrait": "/portraits/obito-naruto.webp",
+    "portrait": "/portraits/obito-naruto.png",
     "series": "Naruto",
     "stats": {
       "strength": 62,
@@ -9369,7 +9369,7 @@
   {
     "displayName": "Fubuki",
     "id": "fubuki-opm",
-    "portrait": "/portraits/fubuki-opm.jpg",
+    "portrait": "/portraits/fubuki-opm.png",
     "series": "One Punch Man",
     "stats": {
       "strength": 50,
@@ -9493,7 +9493,7 @@
   {
     "displayName": "Tatsumaki",
     "id": "tatsumaki-opm",
-    "portrait": "/portraits/tatsumaki-opm.jpg",
+    "portrait": "/portraits/tatsumaki-opm.png",
     "series": "One Punch Man",
     "stats": {
       "strength": 74,
@@ -9511,7 +9511,7 @@
   {
     "displayName": "Ainz",
     "id": "ainz-overlord",
-    "portrait": "/portraits/ainz-overlord.webp",
+    "portrait": "/portraits/ainz-overlord.png",
     "series": "Overlord",
     "sources": {
       "wikiPage": "Ainz Ooal Gown",
@@ -9886,7 +9886,7 @@
   {
     "displayName": "Ho-Oh",
     "id": "ho-oh-pokemon",
-    "portrait": "/portraits/ho-oh-pokemon.webp",
+    "portrait": "/portraits/ho-oh-pokemon.png",
     "series": "Pokémon",
     "stats": {
       "abilities": 67,
@@ -10741,7 +10741,7 @@
   {
     "displayName": "Rakan",
     "id": "rakan-sl",
-    "portrait": "/portraits/rakan-sl.webp",
+    "portrait": "/portraits/rakan-sl.png",
     "series": "Solo Leveling",
     "stats": {
       "strength": 54,
@@ -10759,7 +10759,7 @@
   {
     "displayName": "Tank",
     "id": "tank-sl",
-    "portrait": "/portraits/tank-sl.jpg",
+    "portrait": "/portraits/tank-sl.png",
     "series": "Solo Leveling",
     "stats": {
       "strength": 52,
