@@ -83,6 +83,21 @@ export function splitTop(s: string, sep = "|"): string[] {
 /** Words right before a match that make it a "maybe" rather than a firm value. */
 const SOFT = /(possibly|likely|probably|potentially|perhaps|maybe|unknown,?|at most)\s+(?:[\w'-]+\s+){0,2}$/i;
 
+/** Capitalised words that can follow a stat class and still be part of the stat ("Infinite Speed", "Class M Lifting"). */
+const STAT_WORDS = /^(speed|reactions?|combat|travel|attack|flight|movement|level|class|lifting|striking|strength|durability|potency|environmental|with|via|in|and|or|when|while|at|by|for|to|but|base)$/i;
+/** Stat keywords that are also ordinary words and turn up in technique names ("Infinite Tsukuyomi"). */
+const WORD_KEYWORDS = /^(infinite|immeasurable|irrelevant)$/i;
+/**
+ * True when a stat keyword is really the start of a technique name, e.g. "higher with Infinite Tsukuyomi":
+ * an ordinary-word keyword, capitalised in the source, followed by another capitalised word that is not a stat word.
+ */
+function isTechniqueName(text: string, at: number, len: number): boolean {
+  if (!WORD_KEYWORDS.test(text.slice(at, at + len))) return false;
+  if (!/^[A-Z]/.test(text.slice(at, at + 1))) return false;
+  const next = /^\s+([A-Z][\w'-]*)/.exec(text.slice(at + len));
+  return !!next && !STAT_WORDS.test(next[1]);
+}
+
 function bestOf(text: string, table: [string, string][] | string[], rankOf: (v: string) => number) {
   const lower = text.toLowerCase();
   let firm = -1, firmVal = "", soft = -1, softVal = "";
@@ -98,6 +113,7 @@ function bestOf(text: string, table: [string, string][] | string[], rankOf: (v: 
       const before = lower[i - 1], after = lower[i + name.length];
       if ((before && /[a-z0-9]/.test(before)) || (after && /[a-z0-9]/.test(after) && !name.endsWith("+"))) continue;
       if (taken.some(([a, b]) => i < b && i + name.length > a)) continue; // inside a longer match
+      if (isTechniqueName(text, i, name.length)) continue;
       taken.push([i, i + name.length]);
       const r = rankOf(value);
       const isSoft = SOFT.test(lower.slice(Math.max(0, i - 40), i));

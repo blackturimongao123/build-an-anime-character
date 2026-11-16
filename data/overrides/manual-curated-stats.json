@@ -1335,10 +1335,10 @@
     "durability": 12
   },
   "frieza-dragon-ball": {
-    "strength": 95,
-    "speed": 97,
+    "strength": 91,
+    "speed": 95,
     "abilities": 97,
-    "durability": 97
+    "durability": 92
   },
   "gohan-dragon-ball": {
     "strength": 38,
@@ -1480,7 +1480,7 @@
   },
   "gray-fairy-tail": {
     "strength": 67,
-    "speed": 71,
+    "speed": 77,
     "abilities": 67,
     "durability": 67
   },
@@ -1563,15 +1563,15 @@
     "durability": 96
   },
   "gilgamesh-fate": {
-    "strength": 95,
-    "speed": 97,
+    "strength": 59,
+    "speed": 74,
     "abilities": 97,
-    "durability": 97
+    "durability": 66
   },
   "saber-fate": {
-    "strength": 98,
+    "strength": 57,
     "speed": 97,
-    "abilities": 97,
+    "abilities": 70,
     "durability": 96
   },
   "iskandar-fate": {
@@ -2121,10 +2121,10 @@
     "durability": 28
   },
   "dio-jojo": {
-    "strength": 61,
+    "strength": 38,
     "speed": 82,
     "abilities": 80,
-    "durability": 67
+    "durability": 42
   },
   "emporio-jojo": {
     "strength": 28,
@@ -2211,10 +2211,10 @@
     "durability": 24
   },
   "kars-jojo": {
-    "strength": 28,
-    "speed": 93,
-    "abilities": 90,
-    "durability": 30
+    "strength": 38,
+    "speed": 82,
+    "abilities": 44,
+    "durability": 46
   },
   "kira-jojo": {
     "strength": 38,
@@ -2865,8 +2865,8 @@
     "durability": 61
   },
   "kaguya-naruto": {
-    "strength": 96,
-    "speed": 97,
+    "strength": 74,
+    "speed": 86,
     "abilities": 91,
     "durability": 74
   },
@@ -3681,10 +3681,10 @@
     "durability": 39
   },
   "kirito-sao": {
-    "strength": 55,
-    "speed": 33,
-    "abilities": 55,
-    "durability": 57
+    "strength": 48,
+    "speed": 40,
+    "abilities": 48,
+    "durability": 50
   },
   "klein-sao": {
     "strength": 28,
@@ -3705,10 +3705,10 @@
     "durability": 30
   },
   "benimaru-slime": {
-    "strength": 95,
+    "strength": 90,
     "speed": 69,
-    "abilities": 97,
-    "durability": 99
+    "abilities": 96,
+    "durability": 92
   },
   "carrion-slime": {
     "strength": 90,
@@ -3735,10 +3735,10 @@
     "durability": 92
   },
   "diablo-slime": {
-    "strength": 95,
+    "strength": 90,
     "speed": 71,
     "abilities": 97,
-    "durability": 99
+    "durability": 97
   },
   "elmesia-slime": {
     "strength": 40,
@@ -3753,16 +3753,16 @@
     "durability": 86
   },
   "geld-slime": {
-    "strength": 95,
+    "strength": 90,
     "speed": 55,
-    "abilities": 97,
-    "durability": 96
+    "abilities": 96,
+    "durability": 92
   },
   "gobta-slime": {
-    "strength": 95,
+    "strength": 90,
     "speed": 69,
-    "abilities": 97,
-    "durability": 96
+    "abilities": 96,
+    "durability": 91
   },
   "guy-slime": {
     "strength": 95,
@@ -3801,9 +3801,9 @@
     "durability": 98
   },
   "ranga-slime": {
-    "strength": 95,
+    "strength": 90,
     "speed": 69,
-    "abilities": 97,
+    "abilities": 96,
     "durability": 92
   },
   "rigurd-slime": {
@@ -3819,10 +3819,10 @@
     "durability": 97
   },
   "shion-slime": {
-    "strength": 95,
+    "strength": 90,
     "speed": 69,
-    "abilities": 97,
-    "durability": 99
+    "abilities": 96,
+    "durability": 94
   },
   "shuna-slime": {
     "strength": 61,
@@ -3831,10 +3831,10 @@
     "durability": 66
   },
   "souei-slime": {
-    "strength": 95,
+    "strength": 90,
     "speed": 55,
-    "abilities": 97,
-    "durability": 97
+    "abilities": 96,
+    "durability": 92
   },
   "testarossa-slime": {
     "strength": 90,
@@ -3873,10 +3873,10 @@
     "durability": 80
   },
   "daewi-goh": {
-    "strength": 88,
-    "speed": 87,
-    "abilities": 87,
-    "durability": 87
+    "strength": 44,
+    "speed": 44,
+    "abilities": 43,
+    "durability": 40
   },
   "il-pyo-goh": {
     "strength": 30,
@@ -3887,7 +3887,7 @@
   "mori-goh": {
     "strength": 33,
     "speed": 44,
-    "abilities": 91,
+    "abilities": 81,
     "durability": 28
   },
   "q-goh": {

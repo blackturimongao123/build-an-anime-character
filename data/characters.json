@@ -3717,11 +3717,11 @@
     "portrait": "/portraits/frieza-dragon-ball.jpg",
     "series": "Dragon Ball",
     "stats": {
-      "strength": 95,
-      "speed": 97,
+      "strength": 91,
+      "speed": 95,
       "abilities": 97,
       "iq": 72,
-      "durability": 97
+      "durability": 92
     },
     "sources": {
       "wikiPage": "Frieza",
@@ -4148,7 +4148,7 @@
     "series": "Fairy Tail",
     "stats": {
       "strength": 67,
-      "speed": 71,
+      "speed": 77,
       "abilities": 67,
       "iq": 63,
       "durability": 67
@@ -4405,10 +4405,10 @@
     },
     "stats": {
       "abilities": 97,
-      "durability": 97,
+      "durability": 66,
       "iq": 68,
-      "speed": 97,
-      "strength": 95
+      "speed": 74,
+      "strength": 59
     }
   },
   {
@@ -4422,11 +4422,11 @@
       "wikiStatKey": "peak (non-manga)"
     },
     "stats": {
-      "abilities": 97,
+      "abilities": 70,
       "durability": 96,
       "iq": 64,
       "speed": 97,
-      "strength": 98
+      "strength": 57
     }
   },
   {
@@ -6130,10 +6130,10 @@
     },
     "stats": {
       "abilities": 80,
-      "durability": 67,
+      "durability": 42,
       "iq": 81,
       "speed": 82,
-      "strength": 61
+      "strength": 38
     }
   },
   {
@@ -6393,11 +6393,11 @@
     "portrait": "/portraits/kars-jojo.jpg",
     "series": "JoJo",
     "stats": {
-      "strength": 28,
-      "speed": 93,
-      "abilities": 90,
+      "strength": 38,
+      "speed": 82,
+      "abilities": 44,
       "iq": 86,
-      "durability": 30
+      "durability": 46
     },
     "sources": {
       "wikiPage": "Kars",
@@ -8354,8 +8354,8 @@
     "portrait": "/portraits/kaguya-naruto.png",
     "series": "Naruto",
     "stats": {
-      "strength": 96,
-      "speed": 97,
+      "strength": 74,
+      "speed": 86,
       "abilities": 91,
       "iq": 49,
       "durability": 74
@@ -10873,11 +10873,11 @@
       "wikiStatKey": "peak (non-manga)"
     },
     "stats": {
-      "abilities": 55,
-      "durability": 57,
+      "abilities": 48,
+      "durability": 50,
       "iq": 70,
-      "speed": 33,
-      "strength": 55
+      "speed": 40,
+      "strength": 48
     }
   },
   {
@@ -10939,11 +10939,11 @@
     "portrait": "/portraits/benimaru-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
+      "strength": 90,
       "speed": 69,
-      "abilities": 97,
+      "abilities": 96,
       "iq": 51,
-      "durability": 99
+      "durability": 92
     },
     "sources": {
       "wikiPage": "Benimaru (Light Novel)",
@@ -11027,11 +11027,11 @@
     "portrait": "/portraits/diablo-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
+      "strength": 90,
       "speed": 71,
       "abilities": 97,
       "iq": 87,
-      "durability": 99
+      "durability": 97
     },
     "sources": {
       "wikiPage": "Diablo (Light Novel)",
@@ -11079,11 +11079,11 @@
     "portrait": "/portraits/geld-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
+      "strength": 90,
       "speed": 55,
-      "abilities": 97,
+      "abilities": 96,
       "iq": 67,
-      "durability": 96
+      "durability": 92
     },
     "sources": {
       "wikiPage": "Geld (Light Novel)",
@@ -11097,11 +11097,11 @@
     "portrait": "/portraits/gobta-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
+      "strength": 90,
       "speed": 69,
-      "abilities": 97,
+      "abilities": 96,
       "iq": 54,
-      "durability": 96
+      "durability": 91
     },
     "sources": {
       "wikiPage": "Gobta (Light Novel)",
@@ -11222,9 +11222,9 @@
     "portrait": "/portraits/ranga-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
+      "strength": 90,
       "speed": 69,
-      "abilities": 97,
+      "abilities": 96,
       "iq": 54,
       "durability": 92
     },
@@ -11276,11 +11276,11 @@
     "portrait": "/portraits/shion-slime.webp",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
+      "strength": 90,
       "speed": 69,
-      "abilities": 97,
+      "abilities": 96,
       "iq": 36,
-      "durability": 99
+      "durability": 94
     },
     "sources": {
       "wikiPage": "Shion (Light Novel)",
@@ -11312,11 +11312,11 @@
     "portrait": "/portraits/souei-slime.jpg",
     "series": "That Time I Got Reincarnated as a Slime",
     "stats": {
-      "strength": 95,
+      "strength": 90,
       "speed": 55,
-      "abilities": 97,
+      "abilities": 96,
       "iq": 83,
-      "durability": 97
+      "durability": 92
     },
     "sources": {
       "wikiPage": "Souei (Light Novel)",
@@ -11437,11 +11437,11 @@
     "portrait": "/portraits/daewi-goh.jpg",
     "series": "The God of High School",
     "stats": {
-      "strength": 88,
-      "speed": 87,
-      "abilities": 87,
+      "strength": 44,
+      "speed": 44,
+      "abilities": 43,
       "iq": 77,
-      "durability": 87
+      "durability": 40
     },
     "sources": {
       "wikiPage": "Han Daewi",
@@ -11477,7 +11477,7 @@
       "wikiFragment": "World_Competition_Arc"
     },
     "stats": {
-      "abilities": 91,
+      "abilities": 81,
       "durability": 28,
       "iq": 54,
       "speed": 44,

@@ -1,33 +1,286 @@
 {
   "_about": "Anime-canon filter for the VS Battles database (npm run wiki:db-build). Forms, stat lines and abilities are tagged anime | manga | both | unclear. Exempt series keep manga/novel content. For the rest, anything matching mangaOnly is excluded from the filtered views and game-stat derivation (raw rows stay in the DB). Anything matching unclear is listed for review in docs/reviews/WIKI_DB_COVERAGE.md. Patterns are case-insensitive regexes matched against the key/form name, the stat text and the ability detail. Coverage notes are as of 2026 and should be updated as new seasons air.",
   "stillAiringPolicy": "Only what has aired (owner decision 2026-11-16): forms and feats already shown in the anime count as anime canon; anything not yet animated is excluded from filtered views and stat derivation, the same as manga-only content. Entries in a series' unclear list are treated as not yet animated until confirmed aired.",
-  "exempt": ["Solo Leveling", "Fire Force", "Hellsing", "Kengan Ashura"],
-  "lightNovelSeries": ["Mushoku Tensei", "That Time I Got Reincarnated as a Slime", "Overlord", "Sword Art Online", "The Misfit of Demon King Academy"],
+  "exempt": [
+    "Solo Leveling",
+    "Fire Force",
+    "Hellsing",
+    "Kengan Ashura"
+  ],
+  "lightNovelSeries": [
+    "Mushoku Tensei",
+    "That Time I Got Reincarnated as a Slime",
+    "Overlord",
+    "Sword Art Online",
+    "The Misfit of Demon King Academy"
+  ],
   "_aboutLightNovelSeries": "These anime adapt light novels, so '(Light Novel)' pages count as the anime's version (content past the anime's coverage is still caught by the series' unclear/mangaOnly patterns). '(Web Novel)' versions differ from the anime and stay excluded.",
   "generic": {
-    "mangaOnly": ["\\bmanga[- ]only\\b", "\\bmanga[- ]exclusive\\b", "\\(manga\\)", "\\bonly in the manga\\b", "\\bin the manga\\b", "\\bweb ?novel\\b", "\\blight novel\\b", "\\bcfyow\\b", "can'?t fear your own world", "\\beyes of heaven\\b", "\\bover heaven\\b"],
-    "anime": ["\\banime[- ]only\\b", "\\(anime\\)", "\\banime[- ]original\\b", "\\bfiller\\b"]
+    "mangaOnly": [
+      "\\bmanga[- ]only\\b",
+      "\\bmanga[- ]exclusive\\b",
+      "\\(manga\\)",
+      "\\bonly in the manga\\b",
+      "\\bin the manga\\b",
+      "\\bweb ?novel\\b",
+      "\\blight novel\\b",
+      "\\bcfyow\\b",
+      "can'?t fear your own world",
+      "\\beyes of heaven\\b",
+      "\\bover heaven\\b"
+    ],
+    "anime": [
+      "\\banime[- ]only\\b",
+      "\\(anime\\)",
+      "\\banime[- ]original\\b",
+      "\\bfiller\\b"
+    ],
+    "game": [
+      "\\bxenoverse\\b",
+      "\\bextella\\b",
+      "\\bsmash bros",
+      "\\bpok[eé]park\\b",
+      "\\bgameverse\\b",
+      "\\bjorge joestar\\b",
+      "\\bdokkan\\b",
+      "\\bfighterz\\b",
+      "\\bgrand order\\b",
+      "\\bvideo game\\b"
+    ]
   },
   "series": {
-    "Dragon Ball": { "note": "Toei anime pages are used. Dragon Ball Super anime ends at the Tournament of Power, plus the Broly and Super Hero films and Daima.", "mangaOnly": ["\\bmoro\\b", "\\bgranolah\\b", "galactic patrol", "ultra ego", "true ultra instinct", "\\bheeters\\b", "\\bgas\\b \\(", "\\bblack frieza\\b"], "unclear": [] },
-    "Naruto": { "note": "Boruto anime covers up to the Kawaki arc; Two Blue Vortex is manga-only.", "mangaOnly": ["two blue vortex", "\\btbv\\b", "blue vortex"], "unclear": ["\\bboruto\\b.*\\bpart 2\\b"] },
-    "Bleach": { "note": "Thousand-Year Blood War anime parts 1-3 aired 2022-2024; the final part may not cover everything yet.", "mangaOnly": [], "unclear": ["\\bcalamity\\b", "almighty.*final", "\\bfinal battle\\b"] },
-    "Jujutsu Kaisen": { "note": "Anime season 3 adapts the Culling Game; the Shinjuku Showdown and later are manga-only.", "mangaOnly": ["shinjuku", "\\bheian\\b", "post-?culling", "fully restored", "\\bmahoraga adapted\\b"], "unclear": ["\\bthe culling game arc\\b"], "airedNote": "Season 3 aired the first part of the Culling Game: Yuji vs Higuruma, the Sendai colony (Yuta) and Hakari vs Kashimo. Those Culling Game forms count. Choso's 'The Culling Game Arc' key can't be placed confidently in aired episodes, so it stays unclear (excluded)." },
-    "One Piece": { "note": "Anime covers through Egghead.", "mangaOnly": [], "unclear": ["\\belbaph\\b", "\\belbaf\\b", "\\bgod valley\\b"] },
-    "Black Clover": { "note": "Anime ended at the start of the Spade Kingdom arc; later arcs are manga-only.", "mangaOnly": ["\\bparadise\\b", "\\bpaladin", "\\blucius\\b", "final arc", "\\bpost-?spade\\b", "spade kingdom raid", "\\bdevil union\\b"], "unclear": ["\\bspade\\b"] },
-    "Chainsaw Man": { "note": "Anime covers Part 1 through the Reze film; Part 2 is manga-only.", "mangaOnly": ["\\bpart 2\\b", "academy saga", "war devil", "death devil", "\\bfami\\b", "\\bfamine\\b"], "unclear": [] },
-    "Hunter x Hunter": { "note": "Anime ends with the Election arc; Succession War is manga-only.", "mangaOnly": ["succession", "dark continent", "black whale"], "unclear": [] },
-    "Demon Slayer": { "note": "Infinity Castle is being released as films; the final battle may not be fully adapted.", "mangaOnly": [], "unclear": ["infinity castle", "final battle", "sunrise countdown", "\\bmuzan.*final\\b"] },
-    "Tokyo Revengers": { "note": "Anime covers through the Tenjiku arc; the Bonten / Kanto Manji / Three Deities / final arcs are manga-only.", "mangaOnly": ["\\bbonten\\b", "kanto manji", "three deities", "final arc"], "unclear": [] },
-    "Vinland Saga": { "note": "Anime seasons 1-2 cover through Farmland; later arcs are manga-only.", "mangaOnly": ["eastern expedition", "baltic war", "vinland arc"], "unclear": [] },
-    "Fairy Tail": { "note": "100 Years Quest anime started in 2024 and covers only part of the manga.", "mangaOnly": [], "unclear": ["100 years", "hundred years"] },
-    "Record of Ragnarok": { "note": "Anime covers the early rounds; later rounds may be manga-only.", "mangaOnly": [], "unclear": ["round 1[0-9]", "round [89]\\b"] },
-    "Sword Art Online": { "note": "Unital Ring is light-novel only.", "mangaOnly": ["unital ring"], "unclear": [] },
-    "The God of High School": { "note": "Anime covers the first part of the webtoon.", "mangaOnly": [], "unclear": ["post-?anime", "part 3", "truth arc"] },
-    "Akame ga Kill": { "note": "The anime has its own ending; manga forms differ.", "mangaOnly": [], "unclear": [] },
-    "That Time I Got Reincarnated as a Slime": { "note": "Anime covers about the first part of the light novels.", "mangaOnly": [], "unclear": ["\\bfinal\\b", "\\bgod\\b form"] },
-    "Mashle": { "note": "Anime season 2 covers through the Divine Visionary selection.", "mangaOnly": [], "unclear": ["\\binnocent zero\\b.*final", "(?<!pre-)\\bfinal arc"] },
-    "Overlord": { "note": "Anime covers the light novels up to volume 14.", "mangaOnly": [], "unclear": [] },
-    "Hajime no Ippo": { "note": "Anime ends at Rising.", "mangaOnly": [], "unclear": ["\\bretire", "post-rising"] }
-  }
+    "Dragon Ball": {
+      "note": "Toei anime pages are used. Dragon Ball Super anime ends at the Tournament of Power, plus the Broly and Super Hero films and Daima.",
+      "mangaOnly": [
+        "\\bmoro\\b",
+        "\\bgranolah\\b",
+        "galactic patrol",
+        "ultra ego",
+        "true ultra instinct",
+        "\\bheeters\\b",
+        "\\bgas\\b \\(",
+        "\\bblack frieza\\b"
+      ],
+      "unclear": []
+    },
+    "Naruto": {
+      "note": "Boruto anime covers up to the Kawaki arc; Two Blue Vortex is manga-only.",
+      "mangaOnly": [
+        "two blue vortex",
+        "\\btbv\\b",
+        "blue vortex"
+      ],
+      "unclear": [
+        "\\bboruto\\b.*\\bpart 2\\b"
+      ]
+    },
+    "Bleach": {
+      "note": "Thousand-Year Blood War anime parts 1-3 aired 2022-2024; the final part may not cover everything yet.",
+      "mangaOnly": [],
+      "unclear": [
+        "\\bcalamity\\b",
+        "almighty.*final",
+        "\\bfinal battle\\b"
+      ]
+    },
+    "Jujutsu Kaisen": {
+      "note": "Anime season 3 adapts the Culling Game; the Shinjuku Showdown and later are manga-only.",
+      "mangaOnly": [
+        "shinjuku",
+        "\\bheian\\b",
+        "post-?culling",
+        "fully restored",
+        "\\bmahoraga adapted\\b"
+      ],
+      "unclear": [
+        "\\bthe culling game arc\\b"
+      ],
+      "airedNote": "Season 3 aired the first part of the Culling Game: Yuji vs Higuruma, the Sendai colony (Yuta) and Hakari vs Kashimo. Those Culling Game forms count. Choso's 'The Culling Game Arc' key can't be placed confidently in aired episodes, so it stays unclear (excluded)."
+    },
+    "One Piece": {
+      "note": "Anime covers through Egghead.",
+      "mangaOnly": [],
+      "unclear": [
+        "\\belbaph\\b",
+        "\\belbaf\\b",
+        "\\bgod valley\\b"
+      ]
+    },
+    "Black Clover": {
+      "note": "Anime ended at the start of the Spade Kingdom arc; later arcs are manga-only.",
+      "mangaOnly": [
+        "\\bparadise\\b",
+        "\\bpaladin",
+        "\\blucius\\b",
+        "final arc",
+        "\\bpost-?spade\\b",
+        "spade kingdom raid",
+        "\\bdevil union\\b"
+      ],
+      "unclear": [
+        "\\bspade\\b"
+      ]
+    },
+    "Chainsaw Man": {
+      "note": "Anime covers Part 1 through the Reze film; Part 2 is manga-only.",
+      "mangaOnly": [
+        "\\bpart 2\\b",
+        "academy saga",
+        "war devil",
+        "death devil",
+        "\\bfami\\b",
+        "\\bfamine\\b"
+      ],
+      "unclear": []
+    },
+    "Hunter x Hunter": {
+      "note": "Anime ends with the Election arc; Succession War is manga-only.",
+      "mangaOnly": [
+        "succession",
+        "dark continent",
+        "black whale"
+      ],
+      "unclear": []
+    },
+    "Demon Slayer": {
+      "note": "Infinity Castle is being released as films; the final battle may not be fully adapted.",
+      "mangaOnly": [],
+      "unclear": [
+        "infinity castle",
+        "final battle",
+        "sunrise countdown",
+        "\\bmuzan.*final\\b"
+      ]
+    },
+    "Tokyo Revengers": {
+      "note": "Anime covers through the Tenjiku arc; the Bonten / Kanto Manji / Three Deities / final arcs are manga-only.",
+      "mangaOnly": [
+        "\\bbonten\\b",
+        "kanto manji",
+        "three deities",
+        "final arc"
+      ],
+      "unclear": []
+    },
+    "Vinland Saga": {
+      "note": "Anime seasons 1-2 cover through Farmland; later arcs are manga-only.",
+      "mangaOnly": [
+        "eastern expedition",
+        "baltic war",
+        "vinland arc"
+      ],
+      "unclear": []
+    },
+    "Fairy Tail": {
+      "note": "100 Years Quest anime started in 2024 and covers only part of the manga. Not confirmed as aired, so excluded: Elentear onward (Post-Elentear, Limit Break), the Dogramag labyrinth and Aldoron (Wood God Dragon) forms.",
+      "mangaOnly": [],
+      "unclear": [
+        "100 years",
+        "hundred years"
+      ],
+      "unairedForms": [
+        "post-elentear",
+        "post-dogramag",
+        "limit break",
+        "god seed",
+        "dragon form aldoron"
+      ]
+    },
+    "Record of Ragnarok": {
+      "note": "Anime covers the early rounds; later rounds may be manga-only.",
+      "mangaOnly": [],
+      "unclear": [
+        "round 1[0-9]",
+        "round [89]\\b"
+      ]
+    },
+    "Sword Art Online": {
+      "note": "Unital Ring is light-novel only.",
+      "mangaOnly": [
+        "unital ring"
+      ],
+      "unclear": []
+    },
+    "The God of High School": {
+      "note": "The 2020 anime covers the opening and National Competition arcs only.",
+      "mangaOnly": [],
+      "unclear": [
+        "post-?anime",
+        "part 3",
+        "truth arc"
+      ],
+      "unairedForms": [
+        "^adventure arc$",
+        "world competition arc",
+        "\\bragnarok\\b",
+        "supreme god",
+        "post-timeskip",
+        "post-divine realm",
+        "post-black book",
+        "jade emperor",
+        "re: a battle with the gods"
+      ],
+      "unairedPages": [
+        "\\(Post-Timeskip\\)$"
+      ]
+    },
+    "Akame ga Kill": {
+      "note": "The anime has its own ending; manga forms differ.",
+      "mangaOnly": [],
+      "unclear": []
+    },
+    "That Time I Got Reincarnated as a Slime": {
+      "note": "Anime (seasons 1-3 and the movie) covers the light novels up to about the founding festival. Later evolutions (God-Ogre, Devil Lord, Boar God, Divine Wolf, Battle Spirit Oni, Ultimate Slime, Ultimate Skill forms, Empire Invasion and Eastern Empire arcs) have not aired.",
+      "mangaOnly": [],
+      "unclear": [
+        "\\bfinal\\b",
+        "\\bgod\\b form"
+      ],
+      "unairedForms": [
+        "\\bgod-ogre\\b",
+        "empire invasion arc",
+        "\\bdevil lord\\b",
+        "\\bboar god\\b",
+        "post-eastern empire",
+        "\\bdivine wolf\\b",
+        "battle spirit oni",
+        "with ultimate skill",
+        "\\bultimate slime\\b"
+      ]
+    },
+    "Mashle": {
+      "note": "Anime season 2 covers through the Divine Visionary selection.",
+      "mangaOnly": [],
+      "unclear": [
+        "\\binnocent zero\\b.*final",
+        "(?<!pre-)\\bfinal arc"
+      ]
+    },
+    "Overlord": {
+      "note": "Anime covers the light novels up to volume 14.",
+      "mangaOnly": [],
+      "unclear": []
+    },
+    "Hajime no Ippo": {
+      "note": "Anime ends at Rising.",
+      "mangaOnly": [],
+      "unclear": [
+        "\\bretire",
+        "post-rising"
+      ]
+    },
+    "Fate": {
+      "note": "Anime only. The Lily/Lancer/Archer/Ruler versions of Artoria are game-only; Gilgamesh's Fate/strange Fake 'Original Power' form is not confirmed as aired.",
+      "mangaOnly": [],
+      "unclear": [],
+      "unairedPages": [
+        "^Artoria Pendragon \\((Lily|Lancer|Archer|Ruler)\\)$"
+      ],
+      "unairedForms": [
+        "genesis mythology",
+        "original power"
+      ]
+    }
+  },
+  "_aboutGame": "generic.game: page titles and form names from games or non-canon spin-offs. Always excluded, even for exempt series. Pages whose own note says they are NOT canon are excluded the same way. unairedForms / unairedPages (per series): form names and page titles not yet animated, matched on the name only."
 }

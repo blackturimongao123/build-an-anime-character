@@ -37,6 +37,22 @@ function canonOf(series: string, text: string, inherited = "both"): { source: st
   return { source: inherited, reason: inherited === "both" ? "" : "inherited from form/page" };
 }
 
+const GAME = rx(coverage.generic.game);
+const NOT_CANON = /\bNOT canon\b/;
+
+/**
+ * Canon tag for a form (key) name. Game forms and a series' known not-yet-animated forms (unairedForms)
+ * are matched on the key name only, so a stat line that merely mentions them is not dropped.
+ */
+function formCanonOf(series: string, key: string, pageCanon: string): { source: string; reason: string } {
+  if (pageCanon === "game") return { source: "game", reason: "game or non-canon spin-off page" };
+  const g = GAME.find((r) => r.test(key));
+  if (g) return { source: "game", reason: `game form "${key.match(g)![0]}"` };
+  const u = rx(coverage.series[series]?.unairedForms).find((r) => r.test(key));
+  if (u) return { source: "manga", reason: `not yet animated (${series} unairedForms "${u.source}")` };
+  return canonOf(series, key, pageCanon);
+}
+
 function rankFor(cat: string, raw: string) {
   switch (cat) {
     case "tier": return rankTier(raw);
@@ -83,11 +99,14 @@ async function main() {
         }
       }
       const lnOk = LN_SERIES.has(c.series) && /\(Light Novel\)$/i.test(p.title);
-      const pageCanon = lnOk ? "both" : /\((Manga|Web Novel|Light Novel|Novel)\)$/i.test(p.title) ? "manga" : /\((Anime|Toei)\)$/i.test(p.title) ? "anime" : "both";
+      let pageCanon = lnOk ? "both" : /\((Manga|Web Novel|Light Novel|Novel)\)$/i.test(p.title) ? "manga" : /\((Anime|Toei)\)$/i.test(p.title) ? "anime" : "both";
+      // Game and spin-off versions never count, not even for exempt series (e.g. Xenoverse 2, Extella, JORGE JOESTAR).
+      if (GAME.some((r) => r.test(p.title)) || NOT_CANON.test(parsed.note ?? "")) pageCanon = "game";
+      else if (rx(coverage.series[c.series]?.unairedPages).some((r) => r.test(p.title))) pageCanon = "manga";
       insPage.run(p.title, pageUrl(p.title), p.revid, new Date().toISOString(), parsed.origin, JSON.stringify(p.categories), pageCanon, parsed.note);
       for (const issue of parsed.issues) insIssue.run(p.title, issue);
       parsed.keys.forEach((key, i) => {
-        const fc = canonOf(c.series, key, pageCanon);
+        const fc = formCanonOf(c.series, key, pageCanon);
         const formId = Number(insForm.run(p.title, i, key, fc.source, fc.reason).lastInsertRowid);
         for (const cat of STAT_CATEGORIES) {
           const raw = parsed.stats[cat]?.[i];
@@ -123,7 +142,7 @@ function exportTables(db: any) {
   const byCat = new Map<string, any[]>();
   for (const r of rows) {
     // "Only what has aired": manga-only and not-yet-animated ("unclear") content are both excluded.
-    r.excluded_by_filter = !exempt.has(r.series) && (r.canon_source === "manga" || r.canon_source === "unclear") ? 1 : 0;
+    r.excluded_by_filter = r.canon_source === "game" || (!exempt.has(r.series) && (r.canon_source === "manga" || r.canon_source === "unclear")) ? 1 : 0;
     byCat.set(r.category, [...(byCat.get(r.category) ?? []), r]);
   }
   for (const [cat, list] of byCat) {
@@ -152,15 +171,15 @@ function writeCoverage(db: any) {
   const unresolved = q("SELECT display_name, series, status, reason FROM characters WHERE page_title IS NULL ORDER BY series, display_name");
   const low = q("SELECT display_name, series, page_title, reason FROM characters WHERE confidence='low' ORDER BY series, display_name");
   const canon = q("SELECT canon_source, COUNT(*) n FROM forms GROUP BY canon_source");
-  const excludedForms = q(`SELECT c.display_name, c.series, f.page_title, f.key_name, f.canon_reason FROM forms f JOIN characters c ON c.page_title = f.page_title
-    WHERE f.canon_source IN ('manga','unclear') ORDER BY c.series, c.display_name`).filter((r) => !exempt.has(r.series));
+  const excludedForms = q(`SELECT c.display_name, c.series, f.page_title, f.key_name, f.canon_source, f.canon_reason FROM forms f JOIN characters c ON c.page_title = f.page_title
+    WHERE f.canon_source = 'game' OR (f.canon_source IN ('manga','unclear')) ORDER BY c.series, c.display_name`).filter((r) => r.canon_source === 'game' || !exempt.has(r.series));
   const unclear = q(`SELECT c.display_name, c.series, f.key_name, f.canon_reason FROM forms f JOIN characters c ON c.page_title = f.page_title
     WHERE f.canon_source = 'unclear' ORDER BY c.series, c.display_name`);
 
   // Strongest tier per character, all forms vs anime-canon filtered.
   const strongest = q(`SELECT c.game_id, c.display_name, c.series,
       MAX(s.rank_value) all_rank,
-      MAX(CASE WHEN f.canon_source NOT IN ('manga','unclear') AND s.canon_source NOT IN ('manga','unclear') THEN s.rank_value END) filtered_rank
+      MAX(CASE WHEN f.canon_source NOT IN ('manga','unclear','game') AND s.canon_source NOT IN ('manga','unclear','game') THEN s.rank_value END) filtered_rank
     FROM characters c JOIN forms f ON f.page_title = c.page_title JOIN stats s ON s.form_id = f.id AND s.category = 'tier'
     GROUP BY c.game_id`).filter((r) => !exempt.has(r.series) && r.all_rank !== r.filtered_rank);
 

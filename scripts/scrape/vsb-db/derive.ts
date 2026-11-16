@@ -128,7 +128,8 @@ for (const c of roster) {
   const info = charOf.get(c.id) as any;
   const adj = adjustments[c.id] ?? {};
   const isExempt = exempt.has(c.series);
-  const allowed = (src: string) => isExempt || (src !== "manga" && src !== "unclear");
+  // Game and non-canon spin-off content never counts; manga-only and not-yet-aired content only for exempt series.
+  const allowed = (src: string) => src !== "game" && (isExempt || (src !== "manga" && src !== "unclear"));
 
   let neu: any = null, form = "", page = "", source = "", reason = "";
   if (info?.page_title) {
